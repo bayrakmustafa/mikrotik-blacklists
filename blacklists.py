@@ -166,13 +166,8 @@ for file_name, domains in file_domains.items():
                         total_skipped += 1
                         continue  # Skip numeric-only domains
 
-                    # Always skip www domains
-                    if domain.startswith("www."):
-                        total_skipped += 1
-                        continue
-
                     owner_file = domain_to_file.get(normalized)
-                    if owner_file == file_name:
+                    if owner_file == file_name and not domain.startswith("www."):
                         block.append(line)
                         keep_block = True
                         total_kept += 1
