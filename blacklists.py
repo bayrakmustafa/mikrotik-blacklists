@@ -14,7 +14,11 @@ os.makedirs(temp_dir, exist_ok=True)
 
 print("[+] Reading URL list...")
 
-# Read URLs and file names in order
+# Normalize function: remove www prefix
+def normalize_domain(m_domain):
+    return m_domain[4:] if m_domain.startswith("www.") else m_domain
+
+# === Read URLs and file names in order ===
 urls_info = []
 with open(url_list_file, "r") as f:
     for line in f:
@@ -22,7 +26,7 @@ with open(url_list_file, "r") as f:
         if not line or line.startswith("#"):
             continue  # Skip empty and comment lines
         if ':' in line:
-            url_part, file_part = line.rsplit(":", 1)  # Use rsplit to handle colons in URL
+            url_part, file_part = line.rsplit(":", 1)
             url = url_part.strip()
             file_name = file_part.strip().lower().replace("_", "-")
             if not file_name.endswith(".txt"):
@@ -36,16 +40,14 @@ with open(url_list_file, "r") as f:
                 user_part = parts[0] if len(parts) > 0 else "github"
             else:
                 user_part = parsed.netloc.split('.')[-2]
-
             file_part = os.path.basename(parsed.path).replace("?", "_").replace("&", "_").replace("=", "_")
             base_name = f"{user_part}-{file_part}".lower().replace("_", "-")
             if not base_name.endswith(".txt"):
                 base_name += ".txt"
             urls_info.append((url, base_name))
 
-# Store domains per file
+# === Store normalized domains per file ===
 file_domains = {}
-# Map each domain to the first file where it appears
 domain_to_file = {}
 
 # === 1️⃣ Download files and extract domains ===
@@ -64,21 +66,23 @@ for url, base_name in urls_info:
     with open(temp_path, "r", encoding="utf-8", errors="ignore") as f:
         for line in f:
             if line.strip().startswith("#"):
-                continue  # Ignore comment lines when counting domains
+                continue  # Ignore comment lines when extracting domains
             m = re.search(r"([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})", line)
             if m:
-                domains.add(m.group(1))
+                d = m.group(1)
+                normalized = normalize_domain(d)
+                domains.add(normalized)
 
     file_domains[base_name] = domains
 
-    # Mark first file for each domain
+    # Mark the first file for each normalized domain
     for d in domains:
         if d not in domain_to_file:
             domain_to_file[d] = base_name
 
 print("[+] Domain ownership mapping completed.")
 
-# === 2️⃣ Filter each file to keep only domains that belong to this file, and clean comments ===
+# === 2️⃣ Filter each file ===
 for file_name, domains in file_domains.items():
     print(f"[+] Processing: {file_name}")
 
@@ -92,7 +96,7 @@ for file_name, domains in file_domains.items():
     data_lines = []
     header_done = False
 
-    # Separate header first
+    # Separate header first (before first domain line)
     for line in lines:
         line_strip = line.strip()
         if not header_done:
@@ -118,20 +122,33 @@ for file_name, domains in file_domains.items():
             line_strip = line.strip()
 
             if line_strip.startswith("#"):
-                block.append(line)  # Always keep comment lines inside block, no regex
+                block.append(line)  # Always keep comment lines
             elif line_strip == "":
                 block.append(line)  # Keep empty lines
             else:
-                # Only run regex and domain check on non-comment, non-empty lines
-                m = re.search(r"([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})", line)
-                if m:
-                    domain = m.group(1)
-                    owner_file = domain_to_file.get(domain)
-                    if owner_file == file_name:
+                # Check only non-comment, non-empty lines
+                domain_match = re.search(r"([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})", line)
+                if domain_match:
+                    domain = domain_match.group(1)
+                    normalized = normalize_domain(domain)
+
+                    # Check numeric-only domain
+                    first_part = normalized.split(".")[0]
+                    if first_part.isdigit() and len(normalized.split(".")) == 1:
+                        # print(f"[+] Skipping numeric-only domain: {normalized}")
+                        continue  # Skip numeric-only domains
+
+                    # Check if domain is in the mapping
+                    has_www_part = domain.split(".")[0] == "www"
+
+                    owner_file = domain_to_file.get(normalized)
+                    if owner_file == file_name and not has_www_part:
                         block.append(line)
                         keep_block = True
                 else:
-                    block.append(line)
+                    # IP-only line → skip
+                    # print(f"[+] Skipping {normalized}: {line_strip}")
+                    pass
 
             # Check if block should be flushed
             next_is_comment = False
