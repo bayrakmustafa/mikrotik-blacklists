@@ -685,7 +685,6 @@
 0.0.0.0 dienmayxanh.fun
 0.0.0.0 dienmayxanhhcm24h.com
 0.0.0.0 dienmayxanhhcm.com
-0.0.0.0 dien-may-xanh.net
 0.0.0.0 dienmayxanhsuachua.life
 0.0.0.0 dienmayxanhtantam.com
 0.0.0.0 dienmayxanhtrungtam.com
@@ -3087,7 +3086,6 @@
 0.0.0.0 tracking.pornhd.com
 0.0.0.0 tracking.realtor.com
 0.0.0.0 tracking.shoptogether.buy.com
-0.0.0.0 tracking.trackchecker.net
 0.0.0.0 tracking.tving.com
 0.0.0.0 tracking.ustream.tv
 0.0.0.0 tracking.vtc.vn

@@ -691,7 +691,6 @@
 0.0.0.0 pool-pay.com
 0.0.0.0 pool.pink
 0.0.0.0 poolsar.io
-0.0.0.0 pool.support
 0.0.0.0 pool-x.io
 0.0.0.0 pooly.ca
 0.0.0.0 pow-coin.com

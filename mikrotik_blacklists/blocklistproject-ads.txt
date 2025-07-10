@@ -22687,7 +22687,6 @@
 0.0.0.0 adpos.ru
 0.0.0.0 adppv.com
 0.0.0.0 adpremo.com
-0.0.0.0 adpressi.com
 0.0.0.0 adpreview.mopub.com
 0.0.0.0 adprime.ir
 0.0.0.0 adprofessmedia.go2cloud.org
@@ -25005,7 +25004,6 @@
 0.0.0.0 adverigo.com
 0.0.0.0 adverkeyz.com
 0.0.0.0 adverline.fr
-0.0.0.0 adverpub.com
 0.0.0.0 adversal.mgr.consensu.org
 0.0.0.0 adversmedia.adk2x.com
 0.0.0.0 adversolutions.com
@@ -27389,7 +27387,6 @@
 0.0.0.0 api.sandbox-val.env.sandbox53.localytics.com
 0.0.0.0 api.sandbox.env.sandbox53.localytics.com
 0.0.0.0 api.sandbox53.localytics.com
-0.0.0.0 api.sdk.fmobi.cn
 0.0.0.0 api.sdk.wiman.io
 0.0.0.0 api.searchiq.co
 0.0.0.0 api.selfserve.rubiconproject.com
@@ -57982,7 +57979,6 @@
 0.0.0.0 kinopromobase.ru
 0.0.0.0 kinopushka.xyz
 0.0.0.0 kinorun.com
-0.0.0.0 kinorun.online
 0.0.0.0 kinostok.tv
 0.0.0.0 kinott.ru
 0.0.0.0 kintohis.com
@@ -63021,7 +63017,6 @@
 0.0.0.0 mmassa.com
 0.0.0.0 mmauckxrzh.com
 0.0.0.0 mmbfmlrd.com
-0.0.0.0 mmc.center
 0.0.0.0 mmcltttqfkbh.com
 0.0.0.0 mmdcibihoimt.com
 0.0.0.0 mmdifgneivng.com
@@ -76990,7 +76985,6 @@
 0.0.0.0 sdk.vl1.mobi
 0.0.0.0 sdk.vstyle4u.com
 0.0.0.0 sdk.w.inmobi.com
-0.0.0.0 sdk.wappier.com
 0.0.0.0 sdk.wjinfu.com
 0.0.0.0 sdk01.adecosystems.tech
 0.0.0.0 sdk02.adecosystems.tech
@@ -81541,7 +81535,6 @@
 0.0.0.0 sts.atlassolutions.com
 0.0.0.0 sts.touchcommerce.com
 0.0.0.0 sts2.qadynamics.marketo.com
-0.0.0.0 stserver.immomo.com
 0.0.0.0 stsodds.sts.pl
 0.0.0.0 sttc.affiliate.hu
 0.0.0.0 stthomasir.qualtrics.com

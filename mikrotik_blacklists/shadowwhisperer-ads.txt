@@ -373,7 +373,6 @@
 0.0.0.0 ad.aguaysig.com
 0.0.0.0 ad.ahlife.com
 0.0.0.0 ad.ajbrc.com
-0.0.0.0 ad.akom.org
 0.0.0.0 ad.alamanoman.com
 0.0.0.0 ad-alchemy.com
 0.0.0.0 adalladv.com
@@ -525,7 +524,6 @@
 0.0.0.0 ad.finetech.cz
 0.0.0.0 adfino.in
 0.0.0.0 adflexaffiliate.com
-0.0.0.0 ad.foodlion.com
 0.0.0.0 adforecaster.com
 0.0.0.0 ad.fos.cc
 0.0.0.0 ad.fotoma.sk
@@ -4330,7 +4328,6 @@
 0.0.0.0 hihgin.com
 0.0.0.0 hindsight-music-library.s3.ap-south-1.amazonaws.com
 0.0.0.0 hiqcb.com
-0.0.0.0 hit4hit.org
 0.0.0.0 hitfuck.icu
 0.0.0.0 hitpublish.digital
 0.0.0.0 hit.stat.pl
@@ -4877,7 +4874,6 @@
 0.0.0.0 mediaedge.ae
 0.0.0.0 media.eso.tv
 0.0.0.0 mediaeverywhere.com
-0.0.0.0 mediainventor.com
 0.0.0.0 mediajunction.com.au
 0.0.0.0 medialiveindia.com
 0.0.0.0 media-mobadserver.fbiz.com.br
@@ -6053,7 +6049,6 @@
 0.0.0.0 semaads.com
 0.0.0.0 semeshycy.pro
 0.0.0.0 sem-express.com
-0.0.0.0 sendpul.se
 0.0.0.0 sendthepush.com
 0.0.0.0 sentimentalconflict.pro
 0.0.0.0 seoingage.com
@@ -6082,7 +6077,6 @@
 0.0.0.0 sfiedgreatorganisationbrightfruits.site
 0.0.0.0 sfmc-content.com
 0.0.0.0 sghmho.com
-0.0.0.0 sgimage.netmarble.com
 0.0.0.0 sgirqr.com
 0.0.0.0 shafttraffic.com
 0.0.0.0 shakunadvertising.com
@@ -6474,7 +6468,6 @@
 0.0.0.0 trader.garant.ru
 0.0.0.0 traffhouse.com
 0.0.0.0 trafficadzy.com
-0.0.0.0 trafficcompany.com
 0.0.0.0 traffic-exchange-scripts.com
 0.0.0.0 trafficleaders.nl
 0.0.0.0 trafficmarket.store
@@ -6490,7 +6483,6 @@
 0.0.0.0 trekkww.fun
 0.0.0.0 trellian.fr
 0.0.0.0 trenads.com
-0.0.0.0 trending.bid
 0.0.0.0 trendqube.com
 0.0.0.0 triadtrax.com
 0.0.0.0 tribalddb.co.nz

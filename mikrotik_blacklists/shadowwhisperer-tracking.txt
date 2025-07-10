@@ -7809,7 +7809,6 @@
 0.0.0.0 analytics.reidmcy.com
 0.0.0.0 analytics.reiftube.com
 0.0.0.0 analytics.reikem.net
-0.0.0.0 analytics.reil.co
 0.0.0.0 analytics.reindl.at
 0.0.0.0 analytics.reisebuero-webseite.de
 0.0.0.0 analytics.reisenauer.net
@@ -13426,7 +13425,6 @@
 0.0.0.0 crashlogs.mobilegame.woniu.com
 0.0.0.0 crashreport.dolphin-browser.com
 0.0.0.0 crashreport.netmarble.com
-0.0.0.0 crash-report-service.svc.ui.com
 0.0.0.0 crashreport.wolcengame.com
 0.0.0.0 crate.io
 0.0.0.0 crawdad.creepy.codes
@@ -15388,7 +15386,6 @@
 0.0.0.0 events.jeld-wen.ca
 0.0.0.0 events.jobsohio.com
 0.0.0.0 events.marleypd.co.uk
-0.0.0.0 events.mcfadyen.com
 0.0.0.0 events.mkpartners.com
 0.0.0.0 events.motrac.be
 0.0.0.0 events.newtail-media.newtail.com.br
@@ -52847,7 +52844,6 @@
 0.0.0.0 www2.erisolutions.com
 0.0.0.0 www2.erlang-solutions.com
 0.0.0.0 www2.erpagroup.com
-0.0.0.0 www2.erskineattachments.com
 0.0.0.0 www2.eruditus.com
 0.0.0.0 www2.esco-duct.com
 0.0.0.0 www2.escoffieronline.com
@@ -54056,7 +54052,6 @@
 0.0.0.0 www2.purplephish.com
 0.0.0.0 www2.pyroguard.eu
 0.0.0.0 www2.pzena.com
-0.0.0.0 www2.q1productions.com
 0.0.0.0 www2.qcs.co.uk
 0.0.0.0 www2.qdoscommercialservices.com
 0.0.0.0 www2.qdoscontractor.com
