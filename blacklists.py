@@ -23,13 +23,13 @@ def normalize_domain(m_domain):
 # Function to detect plain domain list files (no IP at start)
 def is_plain_domain_list(m_lines):
     domain_only_count = 0
-    for m_line in m_lines[:10]:
+    for m_line in m_lines[:100]:
         m_line_strip = m_line.strip()
         if not m_line_strip or m_line_strip.startswith("#"):
             continue
-        if not re.match(r"^(0\.0\.0\.0|127\.0\.0\.1|\d+\.\d+\.\d+\.\d+)\s+", m_line_strip):
+        if not m_line_strip.startswith("0.0.0.0") and not m_line_strip.startswith("127.0.0.1"):
             domain_only_count += 1
-    return domain_only_count >= 5
+    return domain_only_count >= 50  # If more than 50% of the first 100 lines are domain-only, treat as plain domain list
 
 
 # === Read URLs and file names in order ===
