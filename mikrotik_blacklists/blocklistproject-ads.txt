@@ -95338,6 +95338,16 @@
 0.0.0.0 www-test.outbrain.com
 0.0.0.0 www-uat.addthis.com
 0.0.0.0 www-uv100-com-tw.b.appier.net
+# 0.0.0.0 www.a-msedge.net Issue 473
+# 0.0.0.0 www.dipli.unipa.it Issue 126
+# 0.0.0.0 www.interia.pl Issue 158
+# 0.0.0.0 www.ip-api.com
+# 0.0.0.0 www.iubenda.com Issue 210
+# 0.0.0.0 www.kiwifarms.net Issue 250
+# 0.0.0.0 www.markmonitor.com
+# 0.0.0.0 www.rafflecopter.com Issue 280
+# 0.0.0.0 www.ravenjs.com Issue 206
+# 0.0.0.0 www.sitetracker.com Issue 137
 # 0.0.0.0 www.zombo.com Issue 463
 0.0.0.0 www0.xyz
 0.0.0.0 www02.clicktale.net

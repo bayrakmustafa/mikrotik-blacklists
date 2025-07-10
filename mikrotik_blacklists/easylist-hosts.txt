@@ -7,6 +7,6 @@
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://github.com/easylist/easylist#list-issues
 
-api.mumuglobal.com
-n.gemini.yahoo.com
-store-api.mumuglobal.com
+0.0.0.0 api.mumuglobal.com
+0.0.0.0 n.gemini.yahoo.com
+0.0.0.0 store-api.mumuglobal.com
