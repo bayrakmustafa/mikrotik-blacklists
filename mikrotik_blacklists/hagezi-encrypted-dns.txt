@@ -767,7 +767,14 @@
 0.0.0.0 droidvpn.com
 0.0.0.0 maths.ds6.pw
 0.0.0.0 bitly-galatikx.duckdns.org
+0.0.0.0 home27.duckdns.org
 0.0.0.0 huawaakiskokoa.duckdns.org
+0.0.0.0 jurre-home.duckdns.org
+0.0.0.0 krtekvpn.duckdns.org
+0.0.0.0 osefcorp.duckdns.org
+0.0.0.0 punono.duckdns.org
+0.0.0.0 tuandns.duckdns.org
+0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 blahaj.duia.us
 0.0.0.0 butidontwanttacos.duia.us
 0.0.0.0 dualpower.duia.eu
@@ -1026,6 +1033,7 @@
 0.0.0.0 foxes.fuzzylookups.com
 0.0.0.0 g-a-y.pro
 0.0.0.0 gabstorm.com
+0.0.0.0 adguard.gambini.org
 0.0.0.0 proxy.gamecove.net
 0.0.0.0 gamers-nor.com
 0.0.0.0 gamingssh.com

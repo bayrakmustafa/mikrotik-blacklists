@@ -25,6 +25,7 @@
 0.0.0.0 107kzz.xyz
 0.0.0.0 10eth.org
 0.0.0.0 10pointprogram.org
+0.0.0.0 118ex.cn
 0.0.0.0 123anime.mobi
 0.0.0.0 123win-vn.cfd
 0.0.0.0 123win-vn.click
@@ -2004,6 +2005,7 @@
 0.0.0.0 cloudapi.online
 0.0.0.0 demo2.clouddnp.com
 0.0.0.0 cloudfirmbanking.com
+0.0.0.0 advertising.walmart.com.cdn.cloudflare.net
 0.0.0.0 cloudflare-domain.cfd
 0.0.0.0 cloudflare-tunnel.com
 0.0.0.0 d1qrypy5hib3wm.cloudfront.net
@@ -2608,6 +2610,7 @@
 0.0.0.0 daintyporcupine.pro
 0.0.0.0 daisyslip.com
 0.0.0.0 daiyan-hk.com
+0.0.0.0 dajkqqpz.top
 0.0.0.0 load.dl.dakslopers.nl
 0.0.0.0 daladatv.com
 0.0.0.0 dam-pol.net
@@ -2963,6 +2966,7 @@
 0.0.0.0 jakjhkty.duckdns.org
 0.0.0.0 jawerykl.duckdns.org
 0.0.0.0 jewrerr.duckdns.org
+0.0.0.0 trkr.duckdns.org
 0.0.0.0 duckraincoatwitch.com
 0.0.0.0 duendpuntu.pro
 0.0.0.0 duiscover.com
@@ -3372,6 +3376,7 @@
 0.0.0.0 family110.org
 0.0.0.0 lnvmxk.familyset.jp
 0.0.0.0 fanatmujskixjop.shop
+0.0.0.0 fancylow.pro
 0.0.0.0 fanfearpear.com
 0.0.0.0 fanno.top
 0.0.0.0 fanp.me
@@ -3747,6 +3752,7 @@
 0.0.0.0 roses.genry.online
 0.0.0.0 kamuci.gents.se
 0.0.0.0 genuscliyt.top
+0.0.0.0 geoip-js.com
 0.0.0.0 wnacug.georgiaboot.com
 0.0.0.0 geotsuyoshicontentdelivery.xyz
 0.0.0.0 gerermoncompte-aide.com
@@ -4768,6 +4774,7 @@
 0.0.0.0 jcpenney.top
 0.0.0.0 detaianta.jdevcloud.com
 0.0.0.0 jdzpfw.com
+0.0.0.0 jecubat.com
 0.0.0.0 jehblue.com
 0.0.0.0 jeje-coin.com
 0.0.0.0 joeq.jekzyyyljvbby.top
@@ -4890,6 +4897,7 @@
 0.0.0.0 jwdecoration.com
 0.0.0.0 jxgqjr.com
 0.0.0.0 jxym6.xyz
+0.0.0.0 jrzy.jzbvwqeowwvqj.top
 0.0.0.0 jyzl.jzleekzaovoeb.top
 0.0.0.0 jyaz.jzokkejvjbebl.top
 0.0.0.0 k-sool.com
@@ -5400,6 +5408,7 @@
 0.0.0.0 llmo-kashiwazaki-tsuyoshi-contentdelivery.xyz
 0.0.0.0 llmo-kashiwazakitsuyoshi-contentdelivery.xyz
 0.0.0.0 llmotsuyoshicontentdelivery.xyz
+0.0.0.0 aoaavz.lloveonlline.com
 0.0.0.0 lloyd-group.com
 0.0.0.0 bgvaaz.lluckytime.com
 0.0.0.0 laqbeo.lluckytime.com
@@ -5549,6 +5558,7 @@
 0.0.0.0 llzv.lzazqroyklokj.top
 0.0.0.0 lzbyby.com
 0.0.0.0 lzoqokmewrlmk.top
+0.0.0.0 ljzq.lzqmjakwllqlq.top
 0.0.0.0 llkj.lzvwybvvyrwyy.top
 0.0.0.0 m-ticket.shop
 0.0.0.0 m-web3.xyz
@@ -5610,6 +5620,7 @@
 0.0.0.0 management-officebox.com
 0.0.0.0 mancaspunz.pro
 0.0.0.0 mandate-purpose.com
+0.0.0.0 gu.mandsspartan.com
 0.0.0.0 manga139.org
 0.0.0.0 manga140.org
 0.0.0.0 manoarrov.pro
@@ -5982,6 +5993,7 @@
 0.0.0.0 movetomotive.com
 0.0.0.0 movetransform.com
 0.0.0.0 movil-notificacion.com
+0.0.0.0 movufa.com
 0.0.0.0 mpznaja.live
 0.0.0.0 mqttntrk.com
 0.0.0.0 mr-link-office.com
@@ -6186,7 +6198,6 @@
 0.0.0.0 nersate.shop
 0.0.0.0 nertaviligo.com
 0.0.0.0 nervs.org
-0.0.0.0 nesgy.top
 0.0.0.0 nestnetgroup.com
 0.0.0.0 nestormolintaim.top
 0.0.0.0 net-celestia.org
@@ -7622,6 +7633,7 @@
 0.0.0.0 rewardv.com
 0.0.0.0 rewarzia.com
 0.0.0.0 rewolucji.com
+0.0.0.0 rexagi.com
 0.0.0.0 rexasflnance.live
 0.0.0.0 rezerwujbilet.click
 0.0.0.0 cdn.rfitc.com
@@ -8138,6 +8150,7 @@
 0.0.0.0 smiple-regrev-compl.com
 0.0.0.0 smithandcaugheys-nz.com
 0.0.0.0 smoclick.com
+0.0.0.0 dv.smokestallyho.com
 0.0.0.0 smokybaboon.pro
 0.0.0.0 smoothairplanesun.com
 0.0.0.0 smoothcatfish.pro
@@ -9684,7 +9697,6 @@
 0.0.0.0 whimsicaltermite.pro
 0.0.0.0 whitebitexchange.live
 0.0.0.0 whitelist-davido.com
-0.0.0.0 whiteproducts.ru
 0.0.0.0 whitestoun.com
 0.0.0.0 whitetrinity.com
 0.0.0.0 whurtagorgy.com
