@@ -1,0 +1,28 @@
+name: Update Mikrotik BlackList
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 16 * * 0"
+permissions:
+  contents: write
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Install dependencies
+        run: |
+          sudo apt-get install python3 -y
+          
+      - name: Run Python script
+        run: |
+            python3 -m pip install --upgrade pip
+            python3 -m pip install -r requirements.txt
+            python3 blacklists.py
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: Update Mikrotik BlackList
