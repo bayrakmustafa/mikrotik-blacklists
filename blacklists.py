@@ -14,9 +14,23 @@ os.makedirs(temp_dir, exist_ok=True)
 
 print("[+] Reading URL list...")
 
+
 # Normalize function: remove www prefix
 def normalize_domain(m_domain):
     return m_domain[4:] if m_domain.startswith("www.") else m_domain
+
+
+# Function to detect plain domain list files (no IP at start)
+def is_plain_domain_list(m_lines):
+    domain_only_count = 0
+    for m_line in m_lines[:10]:
+        m_line_strip = m_line.strip()
+        if not m_line_strip or m_line_strip.startswith("#"):
+            continue
+        if not re.match(r"^(0\.0\.0\.0|127\.0\.0\.1|\d+\.\d+\.\d+\.\d+)\s+", m_line_strip):
+            domain_only_count += 1
+    return domain_only_count >= 5
+
 
 # === Read URLs and file names in order ===
 urls_info = []
@@ -112,11 +126,25 @@ for file_name, domains in file_domains.items():
         else:
             data_lines.append(line)
 
+    # Check and convert plain domain list format
+    if is_plain_domain_list(data_lines):
+        print(f"[+] Detected plain domain list format in {file_name}. Converting to hosts format.")
+        new_lines = []
+        for line in data_lines:
+            line_strip = line.strip()
+            if line_strip and not line_strip.startswith("#"):
+                new_lines.append(f"0.0.0.0 {line_strip}\n")
+            else:
+                new_lines.append(line)
+        data_lines = new_lines
+
     with open(cleaned_path, "w", encoding="utf-8") as outfile:
         outfile.writelines(header)
 
         block = []
         keep_block = False
+        total_kept = 0
+        total_skipped = 0
 
         for idx, line in enumerate(data_lines):
             line_strip = line.strip()
@@ -135,20 +163,23 @@ for file_name, domains in file_domains.items():
                     # Check numeric-only domain
                     first_part = normalized.split(".")[0]
                     if first_part.isdigit() and len(normalized.split(".")) == 1:
-                        # print(f"[+] Skipping numeric-only domain: {normalized}")
+                        total_skipped += 1
                         continue  # Skip numeric-only domains
 
-                    # Check if domain is in the mapping
-                    has_www_part = domain.split(".")[0] == "www"
+                    # Always skip www domains
+                    if domain.startswith("www."):
+                        total_skipped += 1
+                        continue
 
                     owner_file = domain_to_file.get(normalized)
-                    if owner_file == file_name and not has_www_part:
+                    if owner_file == file_name:
                         block.append(line)
                         keep_block = True
+                        total_kept += 1
+                    else:
+                        total_skipped += 1
                 else:
-                    # IP-only line → skip
-                    # print(f"[+] Skipping {normalized}: {line_strip}")
-                    pass
+                    total_skipped += 1
 
             # Check if block should be flushed
             next_is_comment = False
@@ -164,6 +195,7 @@ for file_name, domains in file_domains.items():
                 block = []
                 keep_block = False
 
+        print(f"[SUMMARY] {file_name}: Kept {total_kept} lines, Skipped {total_skipped} lines")
     print(f"    ➜ Cleaned: {cleaned_path}")
 
 print("[✓] Done! Results are in the 'mikrotik_blacklists' folder.")
