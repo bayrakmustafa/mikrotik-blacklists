@@ -1,0 +1,74 @@
+#
+#    File: Tunnels
+#    Info: VPNs & Proxies
+# Domains: 961
+# Updated: 5/30/2025  00:57 (12:57 AM CST)
+#
+0.0.0.0 0000a-fast-proxy.de
+0.0.0.0 1437165997.rsc.cdn77.org
+0.0.0.0 adguard-vpn.com
+0.0.0.0 adguard-vpn.online
+0.0.0.0 aioproxy.net
+0.0.0.0 anchorfree.us
+0.0.0.0 checkpoint.com
+0.0.0.0 d4.re
+0.0.0.0 fastfoxvpn.com
+0.0.0.0 files-slickvpn.netdna-ssl.com
+0.0.0.0 fortinet.com
+0.0.0.0 fortinet.net
+0.0.0.0 fortiwebcloud.net
+0.0.0.0 free4proxy.tv
+0.0.0.0 freecloudvpn.com
+0.0.0.0 headproxy.com
+0.0.0.0 incloak.es
+0.0.0.0 ipchangeproxy.com
+0.0.0.0 ipdisguiser.com
+0.0.0.0 japanwebproxy.com
+0.0.0.0 keyvpn.io
+0.0.0.0 lashlightproxy.com
+0.0.0.0 luminati-holanetworksltd.netdna-ssl.com
+0.0.0.0 mdpa.org.tw
+0.0.0.0 nightowlvpn.com
+0.0.0.0 no-block.net
+0.0.0.0 nvpn.so
+0.0.0.0 oclearningteam.com
+0.0.0.0 okofreevpn.com
+0.0.0.0 onion.pet
+0.0.0.0 panfanh.xyz
+0.0.0.0 panyyhh.xyz
+0.0.0.0 polandgrows.com
+0.0.0.0 pplsearcher.com
+0.0.0.0 prontoproxy.info
+0.0.0.0 proxy8.asia
+0.0.0.0 proxybeud.info
+0.0.0.0 proxyer.net
+0.0.0.0 proxyflows.com
+0.0.0.0 proxyportals.info
+0.0.0.0 proxysit.es
+0.0.0.0 proxysurfers.info
+0.0.0.0 quicksilvervpn.com
+0.0.0.0 realanonproxy.com
+0.0.0.0 rosendaproxy.info
+0.0.0.0 roxy2link.com
+0.0.0.0 schoolproxy.co
+0.0.0.0 stormyproxy.info
+0.0.0.0 t-application.website
+0.0.0.0 testpilot.r53-2.services.mozilla.com
+0.0.0.0 tor2web.in
+0.0.0.0 tuntapproxy.info
+0.0.0.0 turbotrackvpn.com
+0.0.0.0 uktvproxy.com
+0.0.0.0 unblockblog.info
+0.0.0.0 unblocked.buzz
+0.0.0.0 unblocked.vip
+0.0.0.0 unblockit.link
+0.0.0.0 unblocksite.biz
+0.0.0.0 unblocksite.ch
+0.0.0.0 unblocksite.pro
+0.0.0.0 unblocksite.website
+0.0.0.0 vpn-discovery.trafficmanager.net
+0.0.0.0 vpn-quick.com
+0.0.0.0 vpnuse.com
+0.0.0.0 xxlproxy1.com
+0.0.0.0 xxlproxy3.com
+0.0.0.0 xxlproxy4.com

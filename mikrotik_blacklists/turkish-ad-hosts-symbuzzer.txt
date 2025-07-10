@@ -1,0 +1,40 @@
+# Title: Turkish Ad Hosts
+# Author: Ali Beyaz
+# Author web page: https://avalibeyaz.com
+# Author e-mail: alipolatbeyaz@gmail.com
+# Description: Necessary hosts file to block tracking (and possibly advertising) networks in commonly used mobile applications (and possibly WEB pages) in Turkey...
+# Homepage: https://github.com/symbuzzer/Turkish-Ad-Hosts
+# Format: Hosts
+# License: GPLv3
+# Version: 25060619
+# (Version also shows update date as YYMMDDHH)
+# Project start date: 17/11/2022
+# Problematic apps: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues?q=is%3Aissue+label%3A%22Sorunlu+uygulamalar+%2F+Problematic+apps%22+is%3Aopen 
+# Wiki: https://github.com/symbuzzer/Turkish-Ad-Hosts/wiki
+# Discussions: https://github.com/symbuzzer/Turkish-Ad-Hosts/discussions
+# Releases: https://github.com/symbuzzer/Turkish-Ad-Hosts/releases
+# Issues: https://github.com/symbuzzer/Turkish-Ad-Hosts/issues
+
+127.0.0.1 localhost
+
+# --- [ START ] --- #
+127.0.0.1 e2c18.gcp.gvt2.com
+127.0.0.1 e2cs1.gcp.gvt2.com
+127.0.0.1 e2cs2.gcp.gvt2.com
+127.0.0.1 e2cs3.gcp.gvt2.com
+127.0.0.1 e2cs4.gcp.gvt2.com
+127.0.0.1 e2cs5.gcp.gvt2.com
+127.0.0.1 e2cs6.gcp.gvt2.com
+127.0.0.1 e2cs7.gcp.gvt2.com
+127.0.0.1 e2cs8.gcp.gvt2.com
+127.0.0.1 e2cs9.gcp.gvt2.com
+127.0.0.1 e2cs18.gcp.gvt2.com
+127.0.0.1 e2cs56.gcp.gvt2.com
+127.0.0.1 e2cs57.gcp.gvt2.com
+127.0.0.1 e2cs58.gcp.gvt2.com
+127.0.0.1 e2cs59.gcp.gvt2.com
+127.0.0.1 e2cs60.gcp.gvt2.com
+127.0.0.1 e2cs61.gcp.gvt2.com
+127.0.0.1 evdekal-iadecimergovonlinetr.reklamhesab.tk
+127.0.0.1 evdekalturkiyemtr-cimergovnlinetr.reklamhesab.tk
+127.0.0.1 www5.cbox.ws
