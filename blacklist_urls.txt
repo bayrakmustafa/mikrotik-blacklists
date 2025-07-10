@@ -34,9 +34,15 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/H
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Hosts/UrlShortener:shadowwhisperer-urlshortener.txt
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Hosts/Tracking:shadowwhisperer-tracking.txt
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Hosts/Gambling:shadowwhisperer-gambling.txt
+https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Hosts/Typo:shadowwhisperer-typo.txt
 
 https://raw.githubusercontent.com/IgorKha/mikrotik-adlist/refs/heads/main/hosts/TUR_turk_adlist.txt:tur-adlist.txt
 https://raw.githubusercontent.com/IgorKha/mikrotik-adlist/refs/heads/main/hosts/TUR_turkish_ad_hosts.txt:turkish-ad-hosts.txt
 
 https://raw.githubusercontent.com/symbuzzer/Turkish-Ad-Hosts/refs/heads/main/hosts:turkish-ad-hosts-symbuzzer.txt
-https://raw.githubusercontent.com/bkrucarci/turk-adlist/refs/heads/master/hosts:bkrucarci-tur-adlist.txt
+
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/hosts/tif.txt:hagezi-tif.txt
+
+https://raw.githubusercontent.com/IgorKha/mikrotik-adlist/refs/heads/main/hosts/urlhaus_filter_online.txt:mikrotik-urlhaus.txt
+https://raw.githubusercontent.com/IgorKha/mikrotik-adlist/refs/heads/main/hosts/the_big_list_of_hacked_malware_web_sites.txt:mikrotik-hacked-malware-web-sites.txt
+https://raw.githubusercontent.com/IgorKha/mikrotik-adlist/refs/heads/main/hosts/ublock_badware_risks.txt:mikrotik-ublock-badware-risks.txt
