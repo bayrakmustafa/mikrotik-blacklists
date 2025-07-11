@@ -1,5 +1,11 @@
 https://adaway.org/hosts.txt:adaway-hosts.txt
-https://block.energized.pro/blu/hosts.txt:energized-hosts.txt
+https://energized.pro/blu/hosts.txt:energized-blue.txt
+https://energized.pro/ultimate/hosts.txt:energized-ultimate.txt
+https://energized.pro/nsfw/hosts.txt:energized-nsfw.txt
+https://energized.pro/antipopads-re/hosts.txt:energized-antipopads-re.txt
+https://energized.pro/extreme/hosts.txt:energized-extreme.txt
+https://energized.pro/social/hosts.txt:energized-social.txt
+https://energized.pro/regional/hosts.txt:energized-regional.txt
 
 https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/hosts/ultimate.txt:hagezi-ultimate.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/hosts/doh.txt:hagezi-doh.txt
