@@ -265,7 +265,6 @@
 0.0.0.0 analytics.30m.com
 0.0.0.0 analytics-3.aasaam.com
 0.0.0.0 analytics.aasaam.com
-0.0.0.0 analytics.audionow.de
 0.0.0.0 analytics.code.illusion.jp
 0.0.0.0 analytics.dashboard.fingerprint.com
 0.0.0.0 analytics.dunro.com
@@ -1447,7 +1446,6 @@
 0.0.0.0 log.deutschegrammophon.com
 0.0.0.0 logdev.openload.co
 0.0.0.0 logger.dailymotion.com
-0.0.0.0 logger.tv.telstra.com.au
 0.0.0.0 logger.viki.io
 0.0.0.0 loggingapi.spingo.com
 0.0.0.0 logging.prefixbox.com
@@ -3090,13 +3088,11 @@
 0.0.0.0 tracking.ustream.tv
 0.0.0.0 tracking.vtc.vn
 0.0.0.0 tracking.yourfilehost.com
-0.0.0.0 track.nzz.ch
 0.0.0.0 track.parentmood.com
 0.0.0.0 trackpm.shop2market.com
 0.0.0.0 track.swaptrap.live
 0.0.0.0 track.td3x.com
 0.0.0.0 track.ttsave.app
-0.0.0.0 track.winigroup.vn
 0.0.0.0 track.yfret.com
 0.0.0.0 tracuugiaodichvi.com
 0.0.0.0 tracuuthenap247.com

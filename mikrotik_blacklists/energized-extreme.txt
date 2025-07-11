@@ -1,0 +1,110 @@
+# ----------------------------------------------------------------------------
+#         _____  _________  _____________  _______          
+#        / __/ |/ / __/ _ \/ ___/  _/_  / / __/ _ \         
+#       / _//    / _// , _/ (_ // /  / /_/ _// // /         
+#      /___/_/|_/___/_/|_|\___/___/_/___/___/____/__  _  __ 
+#     / _ \/ _ \/ __ \/_  __/ __/ ___/_  __/  _/ __ \/ |/ / 
+#    / ___/ , _/ /_/ / / / / _// /__  / / _/ // /_/ /    /  
+#   /_/  /_/|_|\____/ /_/ /___/\___/ /_/ /___/\____/_/|_/   
+# 
+#   Let's make an annoyance-free better open internet. Altogether.
+# ----------------------------------------------------------------------------
+#   energized.pro | github.com/EnergizedProtection/block
+# ----------------------------------------------------------------------------
+# 
+# ----------------------------------------------------------------------------
+#   [⚡︎] P A C K  D E T A I L S
+# ----------------------------------------------------------------------------
+# Title:         Extreme (Ext.)
+# Description:   Enhanced privacy with aggressive filtering.
+# URL:           https://energized.pro/extreme/hosts.txt
+# Author:        Ador <mail@ador.com.bd>
+# License:       MIT
+# Format:        hosts
+# Entries:       72
+# Version:       0.100.a.25.192.08
+# Expires:       1 day (update frequency)
+# Releasae:      25.192.08
+# Last modified: 2025-07-11T08:05:42.440900 UTC
+# Source:        https://github/EnergizedProtection/block
+# Issue:         https://github/EnergizedProtection/block/issues
+# ----------------------------------------------------------------------------
+#   [⚡︎] F E A T U R E S
+# ----------------------------------------------------------------------------
+# _domain_based  : based on domains.
+# _any_device    : seamlessly compatible with all your devices.
+# _blockings     : strictly banishes all web annoyances.
+# _formats       : supports the most popular, user-friendly formats.
+# _speed         : reduces web content loading time.
+# _privacy       : increases privacy.
+# _saves_data    : decreases data consumption.
+# _clean         : no clutter. just a pure, streamlined experience.
+# ----------------------------------------------------------------------------
+#   [⚡︎] E N E R G I Z E D  P R O T E C T I O N  B E G I N S
+# ----------------------------------------------------------------------------
+# L O C A L H O S T  E N T R I E S
+127.0.0.1 localhost
+# L O C A L H O S T  E N T R I E S
+0.0.0.0 api-device.mocaplatform.com
+0.0.0.0 api.giphy.com
+0.0.0.0 api.mocaplatform.com
+0.0.0.0 api.proximi.fi
+0.0.0.0 api.sec.intl.miui.com
+0.0.0.0 apps.facebook.com
+0.0.0.0 auditrecording-pa.googleapis.com
+0.0.0.0 b-graph.facebook.com
+0.0.0.0 cdn.gigya.com
+0.0.0.0 cdn.mocaplatform.com
+0.0.0.0 cdn.privacy-mgmt.com
+0.0.0.0 cdn1.gigya.com
+0.0.0.0 cdn2.gigya.com
+0.0.0.0 cdn2.mocaplatform.com
+0.0.0.0 cdn3.gigya.com
+0.0.0.0 cdns.us1.gigya.com
+0.0.0.0 click.discord.com
+0.0.0.0 cmp.qcc.qualcomm.com
+0.0.0.0 colocator.net
+0.0.0.0 connect.facebook.net
+0.0.0.0 david.gigya-cs.com
+0.0.0.0 digitalassetlinks.googleapis.com
+0.0.0.0 events.data.msn.com
+0.0.0.0 events.uber.com
+0.0.0.0 evt.tamoco.com
+0.0.0.0 feedback-pa.googleapis.com
+0.0.0.0 firebaseinstallations.googleapis.com
+0.0.0.0 firebaseremoteconfig.googleapis.com
+0.0.0.0 firebaseremoteconfigrealtime.googleapis.com
+0.0.0.0 fonts.googleapis.com
+0.0.0.0 geo.privacymanager.io
+0.0.0.0 gmscompliance-pa.googleapis.com
+0.0.0.0 graph-fallback.facebook.com
+0.0.0.0 graph.facebook.com
+0.0.0.0 graph.fb.gg
+0.0.0.0 graph.fbpigeon.com
+0.0.0.0 infinitedata-pa.googleapis.com
+0.0.0.0 jnn-pa.googleapis.com
+0.0.0.0 js.sentry-cdn.com
+0.0.0.0 loc.map.baidu.com
+0.0.0.0 mocaplatform.com
+0.0.0.0 nearbypresence-pa.googleapis.com
+0.0.0.0 nearbysharing-pa.googleapis.com
+0.0.0.0 newrelic.com
+0.0.0.0 notifications-pa.googleapis.com
+0.0.0.0 onelink.me
+0.0.0.0 optimizationguide-pa.googleapis.com
+0.0.0.0 playatoms-pa.googleapis.com
+0.0.0.0 pubsub.googleapis.com
+0.0.0.0 qcc.qualcomm.com
+0.0.0.0 safebrowsing.googleapis.com
+0.0.0.0 sdk.shopkick.com
+0.0.0.0 singlespot.com
+0.0.0.0 spot.im
+0.0.0.0 st.chatango.com
+0.0.0.0 tamoco.com
+0.0.0.0 tasks-pa.googleapis.com
+0.0.0.0 trk.klclick.com
+0.0.0.0 trk.klclick2.com
+0.0.0.0 trk.klclick3.com
+0.0.0.0 userlocation.googleapis.com
+0.0.0.0 va.tawk.to
+0.0.0.0 zapr.in

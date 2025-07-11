@@ -14,7 +14,6 @@
 0.0.0.0 1thash.com
 0.0.0.0 21.co
 0.0.0.0 2mars.biz
-0.0.0.0 2miners.com
 0.0.0.0 2realminers.com
 0.0.0.0 3qpool.com
 0.0.0.0 4miner.me
@@ -463,7 +462,6 @@
 0.0.0.0 helius-rpc.com
 0.0.0.0 helpico.tech
 0.0.0.0 herbsters.com
-0.0.0.0 herominers.com
 0.0.0.0 hiveon.net
 0.0.0.0 hiveos.farm
 0.0.0.0 hns.lolopool.com
@@ -483,7 +481,6 @@
 0.0.0.0 ihashrate.com
 0.0.0.0 ikpool.com
 0.0.0.0 inetrader.com
-0.0.0.0 infura-ipfs.io
 0.0.0.0 insanecoin.com
 0.0.0.0 insidebitcoins.com
 0.0.0.0 iqmining.com
@@ -505,7 +502,6 @@
 0.0.0.0 kievpool.com
 0.0.0.0 kiirocoin.org
 0.0.0.0 kipcoin.org
-0.0.0.0 kisshentai.net
 0.0.0.0 kiwifar.ms
 0.0.0.0 k-miners.com
 0.0.0.0 kouvr.com
@@ -536,7 +532,6 @@
 0.0.0.0 livebitcoinnews.com
 0.0.0.0 llama.horse
 0.0.0.0 localbetcoins.net
-0.0.0.0 lolopool.com
 0.0.0.0 lookup365.com
 0.0.0.0 loudmining.com
 0.0.0.0 luckydogpool.com
@@ -783,7 +778,6 @@
 0.0.0.0 tbdice.org
 0.0.0.0 tecracoin.io
 0.0.0.0 teepool.com
-0.0.0.0 terorie.com
 0.0.0.0 terracoin.org
 0.0.0.0 thearkcryptopodcast.com
 0.0.0.0 thebeepool.com

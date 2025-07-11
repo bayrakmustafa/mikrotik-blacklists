@@ -738,7 +738,6 @@
 0.0.0.0 metrics.modcloth.com
 0.0.0.0 metrics.monclick.it
 0.0.0.0 metrics.mum.edu
-0.0.0.0 metrics.nab.com.au
 0.0.0.0 metrics.outsourcing-pharma.com
 0.0.0.0 metrics.pgi.com
 0.0.0.0 metrics.portal.roche.de
@@ -965,17 +964,13 @@
 0.0.0.0 smetrics.experian.co.uk
 0.0.0.0 smetrics.guess.eu
 0.0.0.0 smetrics.hibiyakadan.com
-0.0.0.0 smetrics.keysight.com.cn
 0.0.0.0 smetrics.kone.com.kh
 0.0.0.0 smetrics.markantalo.fi
 0.0.0.0 smetrics.mum.edu
 0.0.0.0 smetrics.mybenefits.com.au
 0.0.0.0 smetrics.nbi-sems.com
-0.0.0.0 smetrics.nordiclaan.se
 0.0.0.0 smetrics.northernterritory.com
 0.0.0.0 smetrics.npubank.com.au
-0.0.0.0 smetrics.obirin.ac.jp
-0.0.0.0 smetrics.obirin.jp
 0.0.0.0 smetrics.oreilly.com
 0.0.0.0 smetrics.partnerbrands.com
 0.0.0.0 smetrics.payback.mx
@@ -1123,7 +1118,6 @@
 0.0.0.0 tracer.autoscout24.ch
 0.0.0.0 tracking.finanzen.net
 0.0.0.0 tracking.flukecal.com
-0.0.0.0 tracking.max.co.il
 0.0.0.0 tracking.max-stg.co.il
 0.0.0.0 tracking.pgi.com
 0.0.0.0 tracking.tdk.com.cn

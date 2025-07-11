@@ -38,7 +38,6 @@
 0.0.0.0 83912.ru
 0.0.0.0 8hacks.com
 0.0.0.0 8millimeters.com
-0.0.0.0 a2zapk.com
 0.0.0.0 a2zcrack.com
 0.0.0.0 abandon5000.com
 0.0.0.0 abv-media.ru
@@ -86,7 +85,6 @@
 0.0.0.0 aviraland.ru
 0.0.0.0 avistaz.me
 0.0.0.0 axxomovies.org
-0.0.0.0 baberepublic.com
 0.0.0.0 basixmovie.com
 0.0.0.0 bayfiles.com
 0.0.0.0 beatz.bz
@@ -284,7 +282,6 @@
 0.0.0.0 eztv.ch
 0.0.0.0 eztv.it
 0.0.0.0 eztv.re
-0.0.0.0 f4freesoftware.com
 0.0.0.0 fashion-factory.ru
 0.0.0.0 feuerbringer.com
 0.0.0.0 filecatch.com
@@ -571,7 +568,6 @@
 0.0.0.0 niktu.com
 0.0.0.0 nmuca.org
 0.0.0.0 nnm-club.ru
-0.0.0.0 nnm.ru
 0.0.0.0 nod32key.eu
 0.0.0.0 nod32sky.com
 0.0.0.0 nokia-6120c.ru
@@ -674,7 +670,6 @@
 0.0.0.0 ns2.wilsongriak.com
 0.0.0.0 ns2.zipcodeshop.com
 0.0.0.0 nsanedown.com
-0.0.0.0 nsw2u.com
 0.0.0.0 nulledhome.com
 0.0.0.0 nxbrew.com
 0.0.0.0 oakvilleorthotics.com
@@ -698,7 +693,6 @@
 0.0.0.0 patchsoftwares.com
 0.0.0.0 pavv.ru
 0.0.0.0 pbcrew.info
-0.0.0.0 pc-software.ru
 0.0.0.0 pckeysoft.com
 0.0.0.0 pcsoftncrack.com
 0.0.0.0 pcsoftpro.com
@@ -938,7 +932,6 @@
 0.0.0.0 thepiratebay.am
 0.0.0.0 thepiratebay.ee
 0.0.0.0 thepiratebay.fm
-0.0.0.0 thepiratebay.gd
 0.0.0.0 thepiratebay.ms
 0.0.0.0 thepiratebay.org
 0.0.0.0 thepiratebay.se
@@ -961,7 +954,6 @@
 0.0.0.0 torengine.com
 0.0.0.0 torfinder.net
 0.0.0.0 tormov.com
-0.0.0.0 torrentgalaxy.to
 0.0.0.0 torrents-game.net
 0.0.0.0 torrpeda.org
 0.0.0.0 tracker.0day.kiev.ua

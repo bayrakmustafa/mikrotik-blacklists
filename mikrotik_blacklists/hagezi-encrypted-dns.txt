@@ -767,14 +767,7 @@
 0.0.0.0 droidvpn.com
 0.0.0.0 maths.ds6.pw
 0.0.0.0 bitly-galatikx.duckdns.org
-0.0.0.0 home27.duckdns.org
 0.0.0.0 huawaakiskokoa.duckdns.org
-0.0.0.0 jurre-home.duckdns.org
-0.0.0.0 krtekvpn.duckdns.org
-0.0.0.0 osefcorp.duckdns.org
-0.0.0.0 punono.duckdns.org
-0.0.0.0 tuandns.duckdns.org
-0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 blahaj.duia.us
 0.0.0.0 butidontwanttacos.duia.us
 0.0.0.0 dualpower.duia.eu
@@ -922,6 +915,7 @@
 0.0.0.0 fitnessdepotprices.com
 0.0.0.0 chart.books.fivepals.com
 0.0.0.0 fixproxy.com
+0.0.0.0 dns.fizz.studio
 0.0.0.0 gothgirlsareawesome.flamex.hm
 0.0.0.0 flarquix.xyz
 0.0.0.0 flashpull.com
@@ -1033,7 +1027,6 @@
 0.0.0.0 foxes.fuzzylookups.com
 0.0.0.0 g-a-y.pro
 0.0.0.0 gabstorm.com
-0.0.0.0 adguard.gambini.org
 0.0.0.0 proxy.gamecove.net
 0.0.0.0 gamers-nor.com
 0.0.0.0 gamingssh.com
@@ -1686,6 +1679,7 @@
 0.0.0.0 mywebproxy.net
 0.0.0.0 mywebtunnel.com
 0.0.0.0 mzhlhrfr8z.info
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 study.sci.nabim.com
 0.0.0.0 nanoproxy.com
 0.0.0.0 napps-1.com
@@ -1873,7 +1867,6 @@
 0.0.0.0 unblockit.pages.dev
 0.0.0.0 dingdong.pakasak.com
 0.0.0.0 vpn-ru-msk.pakharenko.ru
-0.0.0.0 paladinvpn.com
 0.0.0.0 pandapow.co
 0.0.0.0 pandapow.io
 0.0.0.0 pandasecurity.com
@@ -2031,7 +2024,6 @@
 0.0.0.0 proxtube.com
 0.0.0.0 proxy.am
 0.0.0.0 proxy.cc
-0.0.0.0 proxy.gd
 0.0.0.0 proxy.lol
 0.0.0.0 proxy.org
 0.0.0.0 proxy.red
@@ -2058,7 +2050,6 @@
 0.0.0.0 proxy4free.me
 0.0.0.0 proxy62.com
 0.0.0.0 proxy7.club
-0.0.0.0 proxyarab.com
 0.0.0.0 proxybits.com
 0.0.0.0 proxyboost.net
 0.0.0.0 proxybox.ru
@@ -2776,7 +2767,6 @@
 0.0.0.0 tradeadspace.info
 0.0.0.0 linewize.tradekinginternational.com
 0.0.0.0 trafflink.xyz
-0.0.0.0 traffmonetizer.com
 0.0.0.0 bio.goal.trans.am
 0.0.0.0 travelvpn.info
 0.0.0.0 travelvpn.net
@@ -2936,7 +2926,6 @@
 0.0.0.0 unblockfreeproxy.com
 0.0.0.0 unblockit.app
 0.0.0.0 unblockit.club
-0.0.0.0 unblockit.foo
 0.0.0.0 unblockit.ltd
 0.0.0.0 unblockit.meme
 0.0.0.0 unblockit.one

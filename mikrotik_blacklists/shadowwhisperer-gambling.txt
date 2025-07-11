@@ -2000,7 +2000,6 @@
 0.0.0.0 bcasinoapp.online
 0.0.0.0 bcasino.click
 0.0.0.0 bcasino.com
-0.0.0.0 bcasino.co.uk
 0.0.0.0 bcasino.top
 0.0.0.0 bcgambling.ca
 0.0.0.0 bcgamecasino.se
@@ -12752,7 +12751,6 @@
 0.0.0.0 hell-spin-casino-au.com
 0.0.0.0 hell-spincasino.top
 0.0.0.0 herabetcasino.com
-0.0.0.0 herbiceps.com
 0.0.0.0 herehotelswithcasino.com
 0.0.0.0 herrycasinopoker.site
 0.0.0.0 heycasinoapp.online
@@ -24332,7 +24330,6 @@
 0.0.0.0 tryggenorskecasino.org
 0.0.0.0 tsepass.co.in
 0.0.0.0 ttr-casino-online.com
-0.0.0.0 tucasinojoker.com
 0.0.0.0 tudigongcasino.com
 0.0.0.0 turbo-casino65gg.ru
 0.0.0.0 turbo-casino67gg.ru

@@ -193,14 +193,12 @@
 0.0.0.0 kevit.io
 0.0.0.0 keyreply.com
 0.0.0.0 kodabots.com
-0.0.0.0 kommunicate.io
 0.0.0.0 laiye.com
 0.0.0.0 lena-llm-test.s3.us-east-1.amazonaws.com
 0.0.0.0 letslinc.com
 0.0.0.0 lg-chatbot.com
 0.0.0.0 libraria.dev
 0.0.0.0 lindy.ai
-0.0.0.0 lithium.facebook.com
 0.0.0.0 liveagent.se
 0.0.0.0 livechat.aoscdn.com
 0.0.0.0 livechat.com
@@ -217,9 +215,7 @@
 0.0.0.0 livehelp.it
 0.0.0.0 liveperson-liveengage.s3.amazonaws.com
 0.0.0.0 livesupport.com
-0.0.0.0 livesupporti.com
 0.0.0.0 livex.ai
-0.0.0.0 livezhat.com
 0.0.0.0 loyjoy.com
 0.0.0.0 lucy.ai
 0.0.0.0 medchatapp.com
@@ -309,8 +305,6 @@
 0.0.0.0 textrequest.com
 0.0.0.0 thelivechatsoftware.com
 0.0.0.0 thulium.com
-0.0.0.0 tidiochat.com
-0.0.0.0 tidio.com
 0.0.0.0 tidio-mail.com
 0.0.0.0 tiledesk.com
 0.0.0.0 uschat4.contivio.com
