@@ -288,6 +288,7 @@
 0.0.0.0 a8cname.humming-water.com
 0.0.0.0 a8cv.app.beteam-diet.com
 0.0.0.0 a8cv.belion.jp
+0.0.0.0 a8cv.bh-collect.jp
 0.0.0.0 a8cv.buysell-hunt.jp
 0.0.0.0 a8cv.elabo-shop.jp
 0.0.0.0 a8cv.fullsupo.com
@@ -315,12 +316,14 @@
 0.0.0.0 a8cv.workany.jp
 0.0.0.0 a8cv.www.crassone.jp
 0.0.0.0 a8e1589eab8755f9a.awsglobalaccelerator.com
+0.0.0.0 a8.ecwa.jp
 0.0.0.0 a8.lulukushel.jp
 0.0.0.0 a8.midori-zc.co.jp
 0.0.0.0 a8.mochu.nengajyo.co.jp
 0.0.0.0 a8net.mirastore.jp
 0.0.0.0 a8.one-choise.com
 0.0.0.0 a8.one-drop.me
+0.0.0.0 a8.stealth.jp
 0.0.0.0 a8.tomo.life
 0.0.0.0 a9bed26630edf75b8d36.uncommongoods.com
 0.0.0.0 a.aaamidatlantic.com
@@ -6401,7 +6404,6 @@
 0.0.0.0 analytics.mirathra.de
 0.0.0.0 analytics.mirial.es
 0.0.0.0 analytics.mirokolesar.com
-0.0.0.0 analytics.mirrar.io
 0.0.0.0 analytics.mirrorship.cn
 0.0.0.0 analytics.mirserver.de
 0.0.0.0 analytics.mir.systems
@@ -7805,6 +7807,7 @@
 0.0.0.0 analytics.reidmcy.com
 0.0.0.0 analytics.reiftube.com
 0.0.0.0 analytics.reikem.net
+0.0.0.0 analytics.reil.co
 0.0.0.0 analytics.reindl.at
 0.0.0.0 analytics.reisebuero-webseite.de
 0.0.0.0 analytics.reisenauer.net
@@ -11690,6 +11693,7 @@
 0.0.0.0 cerebroanalytics.com
 0.0.0.0 cerebro-analytics.concealedcarry.com
 0.0.0.0 cerebro-analytics.numerologist.com
+0.0.0.0 cerec.cereconline.com
 0.0.0.0 cerex.io
 0.0.0.0 cert-gib.ru
 0.0.0.0 certifiedaudit.com
@@ -12068,6 +12072,7 @@
 0.0.0.0 cmp.landevei.no
 0.0.0.0 cmp.livefortheoutdoors.com
 0.0.0.0 cmp.maclife.de
+0.0.0.0 cmp.microlino.fr
 0.0.0.0 cmp.minmote.no
 0.0.0.0 cmp.mixed-news.com
 0.0.0.0 cmp.mojo4music.com
@@ -13411,6 +13416,7 @@
 0.0.0.0 crashlogs.mobilegame.woniu.com
 0.0.0.0 crashreport.dolphin-browser.com
 0.0.0.0 crashreport.netmarble.com
+0.0.0.0 crash-report-service.svc.ui.com
 0.0.0.0 crashreport.wolcengame.com
 0.0.0.0 crate.io
 0.0.0.0 crawdad.creepy.codes
@@ -14854,6 +14860,7 @@
 0.0.0.0 efphysio-thirdelement.com
 0.0.0.0 eftrk.legalclaimassistant.com
 0.0.0.0 egainonetag.com
+0.0.0.0 e.galeton.com
 0.0.0.0 e.getjibjab.com
 0.0.0.0 eghtysx.com
 0.0.0.0 eglsundftd.com
@@ -15135,6 +15142,7 @@
 0.0.0.0 enquiries.freshpg.com
 0.0.0.0 enquiry.lkproperty.com.au
 0.0.0.0 ensighten.staticcache.org
+0.0.0.0 ens.themarket.ch
 0.0.0.0 ens.v3x.report
 0.0.0.0 ent.amazoneducation.com
 0.0.0.0 enterprai.com
@@ -15365,6 +15373,7 @@
 0.0.0.0 events.jeld-wen.ca
 0.0.0.0 events.jobsohio.com
 0.0.0.0 events.marleypd.co.uk
+0.0.0.0 events.mcfadyen.com
 0.0.0.0 events.mkpartners.com
 0.0.0.0 events.motrac.be
 0.0.0.0 events.newtail-media.newtail.com.br
@@ -15673,6 +15682,7 @@
 0.0.0.0 feedback.weareag.co.uk
 0.0.0.0 feedback.weareindy.com
 0.0.0.0 feedback.ziggeo.com
+0.0.0.0 feedme.littlefieldagency.com
 0.0.0.0 f.ehnerd.com
 0.0.0.0 fem.femara.com
 0.0.0.0 feng-gui.com
@@ -20243,6 +20253,7 @@
 0.0.0.0 insights.karlstorz.com
 0.0.0.0 insights.lipovcan.cz
 0.0.0.0 insights.lomu.ch
+0.0.0.0 insights.membershipcorp.com
 0.0.0.0 insights.msfjarvis.dev
 0.0.0.0 insights.mvno.systems
 0.0.0.0 insights.najs.one
@@ -20898,6 +20909,7 @@
 0.0.0.0 ldfbem4trk.com
 0.0.0.0 ldg-exh.mitsubishielectric.co.jp
 0.0.0.0 ldrtrack.com
+0.0.0.0 leader.executiveforum.com
 0.0.0.0 leadersgroup.com
 0.0.0.0 leaders.iedp.com
 0.0.0.0 lead-forensics.co.uk
@@ -21200,10 +21212,13 @@
 0.0.0.0 load.gtm.livelymedtx.com
 0.0.0.0 load.gtm.lwr.org
 0.0.0.0 load.gtm.mobilabonnementpriser.dk
+0.0.0.0 load.gtm.plantagen-kaffee.at
 0.0.0.0 load.gtm.proxiware.com
 0.0.0.0 load.gtm.radschlaeger.com
 0.0.0.0 load.gtm.redeverbita.com.br
+0.0.0.0 load.gtm.residenzamurialdo.it
 0.0.0.0 load.gtm.risify.pl
+0.0.0.0 load.gtm.romutrechtregion.nl
 0.0.0.0 load.gtm.safelyhq.com
 0.0.0.0 load.gtm.sleepsense.net
 0.0.0.0 load.gtm.spalvusala.lt
@@ -21242,6 +21257,7 @@
 0.0.0.0 load.potixulert.c-stickers.fr
 0.0.0.0 load.road.hpwinvip.net
 0.0.0.0 load.s2.anivetdirect.hu
+0.0.0.0 load.s.becker-antriebe.com
 0.0.0.0 load.schouder.somt.nl
 0.0.0.0 load.sd.havetime.ch
 0.0.0.0 load.sersi.einfachiso.de
@@ -21264,6 +21280,7 @@
 0.0.0.0 load.sgtm.wonderfast.at
 0.0.0.0 load.sgtm.wonderfast.de
 0.0.0.0 load.side.hotelpineta.net
+0.0.0.0 load.side.hoteltoscoromagnolo.it
 0.0.0.0 load.side.pizzeriadaneocesena.it
 0.0.0.0 load.side.spinaci.marketing
 0.0.0.0 load.side.testadimonaconaturalbeach.it
@@ -21296,6 +21313,7 @@
 0.0.0.0 load.ss.grenaastrandcamping.dk
 0.0.0.0 load.ssgtm.meine-gewerbe-anmeldung.de
 0.0.0.0 load.ss.gymplay.de
+0.0.0.0 load.ss.gymplay.se
 0.0.0.0 load.ss.hmg-benelux-shop.com
 0.0.0.0 load.ssicapi.shoesensation.com
 0.0.0.0 load.ss.lacledeschamps-palezieux.ch
@@ -21365,6 +21383,7 @@
 0.0.0.0 load.stats.fragment-studio.com
 0.0.0.0 load.stats.prettypegs.com
 0.0.0.0 load.stracking.weltpixel.com
+0.0.0.0 load.st.strafwerk.org
 0.0.0.0 load.stsv.offerte-occhiali24.it
 0.0.0.0 load.sussgo.schoolofphilosophy.org
 0.0.0.0 load.tagging.streifenvorhaenge.de
@@ -22299,6 +22318,7 @@
 0.0.0.0 marketing.teammax.cc
 0.0.0.0 marketing.techquidation.com
 0.0.0.0 marketing.tecoit.com
+0.0.0.0 marketing.tecstonegranite.com
 0.0.0.0 marketing.tectrade.com
 0.0.0.0 marketing.tehtris.news
 0.0.0.0 marketing.tekonelectronics.com
@@ -26295,6 +26315,7 @@
 0.0.0.0 metrics.swyftx.com
 0.0.0.0 metrics.sybase.com
 0.0.0.0 metrics.synexit.com
+0.0.0.0 metrics.tabacco.it
 0.0.0.0 metrics.tarrantcounty.com
 0.0.0.0 metrics.tdc.dk
 0.0.0.0 metrics.teachkidslanguages.com
@@ -33774,6 +33795,7 @@
 0.0.0.0 pixmon.lowermybills.com
 0.0.0.0 pix.rta247.com
 0.0.0.0 pixtrek.com
+0.0.0.0 pizza.als-pizza.de
 0.0.0.0 pizza-flatrate.de
 0.0.0.0 pizzaflatrate.de
 0.0.0.0 pjrvs.com
@@ -34600,6 +34622,7 @@
 0.0.0.0 prm.necplatforms.co.jp
 0.0.0.0 prm.vitanova.dk
 0.0.0.0 prm.xserver.ne.jp
+0.0.0.0 pro.6arry.com
 0.0.0.0 pro.aiheadshotgenerator.com
 0.0.0.0 probe.icloud.com
 0.0.0.0 probe.xacademy.cc
@@ -34908,6 +34931,7 @@
 0.0.0.0 quilt.ai
 0.0.0.0 quiltersworld-news.com
 0.0.0.0 quixdtrk.com
+0.0.0.0 quokka.howrightnow.org
 0.0.0.0 quote.allstateforyou.com
 0.0.0.0 quotespeed.morningstar.com
 0.0.0.0 qvcservices.qvcemail.com
@@ -37600,7 +37624,9 @@
 0.0.0.0 smetrics.bioxcellence.com
 0.0.0.0 smetrics.bitbang.com
 0.0.0.0 smetrics.bivet.nu
+0.0.0.0 smetrics.bloombergenvironment.com
 0.0.0.0 smetrics.bloomberggovernment.com
+0.0.0.0 smetrics.bloombergnext.com
 0.0.0.0 smetrics.bms-optimal.co.uk
 0.0.0.0 smetrics.bms-plus.at
 0.0.0.0 smetrics.bmssafetytools.com
@@ -37794,6 +37820,7 @@
 0.0.0.0 smetrics.us.fatface.com
 0.0.0.0 smetrics.ussailgpteam.com
 0.0.0.0 smetrics.viega.co.uk
+0.0.0.0 smetrics.viralcats.dk
 0.0.0.0 smetrics.vivirconfibrosispulmonar.com
 0.0.0.0 smetrics.vonageencasa.com
 0.0.0.0 smetrics.vonagepourlamaison.ca
@@ -38223,6 +38250,7 @@
 0.0.0.0 srbr.shop
 0.0.0.0 src0.mydoterra.com
 0.0.0.0 src0.myvoffice.com
+0.0.0.0 src.apotheke365.de
 0.0.0.0 s.rebelpixel.com
 0.0.0.0 srepdata.airforcetimes.com
 0.0.0.0 srepdata.alamogordonews.com
@@ -38981,7 +39009,6 @@
 0.0.0.0 static.mdcds.com
 0.0.0.0 static.nytimes.com
 0.0.0.0 static.p-g.one
-0.0.0.0 static.sahibinden.com
 0.0.0.0 statics.sanchoelsabio.eus
 0.0.0.0 static-star.jjshouse.com
 0.0.0.0 stat.ict-as.dk
@@ -47947,6 +47974,7 @@
 0.0.0.0 target.pwc.ec
 0.0.0.0 target.pwchk.com
 0.0.0.0 target.pwc.hr
+0.0.0.0 target.pwclegal.be
 0.0.0.0 target.pwc.pe
 0.0.0.0 target.remserv.com.au
 0.0.0.0 target.seatfinancialservices.nl
@@ -51537,6 +51565,7 @@
 0.0.0.0 www2.erisolutions.com
 0.0.0.0 www2.erlang-solutions.com
 0.0.0.0 www2.erpagroup.com
+0.0.0.0 www2.erskineattachments.com
 0.0.0.0 www2.eruditus.com
 0.0.0.0 www2.esco-duct.com
 0.0.0.0 www2.escoffieronline.com
@@ -52745,6 +52774,7 @@
 0.0.0.0 www2.purplephish.com
 0.0.0.0 www2.pyroguard.eu
 0.0.0.0 www2.pzena.com
+0.0.0.0 www2.q1productions.com
 0.0.0.0 www2.qcs.co.uk
 0.0.0.0 www2.qdoscommercialservices.com
 0.0.0.0 www2.qdoscontractor.com

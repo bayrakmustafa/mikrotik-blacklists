@@ -21,11 +21,11 @@
 # Author:        Ador <mail@ador.com.bd>
 # License:       MIT
 # Format:        hosts
-# Entries:       32,846
-# Version:       0.100.a.25.194.14
+# Entries:       32,849
+# Version:       0.100.a.25.194.20
 # Expires:       1 day (update frequency)
-# Releasae:      25.194.14
-# Last modified: 2025-07-13T14:06:50.772362 UTC
+# Releasae:      25.194.20
+# Last modified: 2025-07-13T20:04:59.792365 UTC
 # Source:        https://github/EnergizedProtection/block
 # Issue:         https://github/EnergizedProtection/block/issues
 # ----------------------------------------------------------------------------
@@ -244,6 +244,7 @@
 0.0.0.0 activation-carte.fr
 0.0.0.0 activation-compte.fr
 0.0.0.0 activation-livraisonprime.fr
+0.0.0.0 activation-online.fr
 0.0.0.0 active-prime.fr
 0.0.0.0 activer-prime.fr
 0.0.0.0 actu-lyonnaise.ovh
@@ -1059,6 +1060,7 @@
 0.0.0.0 billabongs.fr
 0.0.0.0 billet-inoui.fr
 0.0.0.0 billeterie-fortnite-arena.fr
+0.0.0.0 billetevent.fr
 0.0.0.0 billetexpress.fr
 0.0.0.0 billetjul.fr
 0.0.0.0 billetrapide.fr
@@ -1570,6 +1572,7 @@
 0.0.0.0 cheburchik.ru
 0.0.0.0 checke.biz
 0.0.0.0 checkmymedia.biz
+0.0.0.0 checkout-leboncoin.fr
 0.0.0.0 checkout3dsecure.fr
 0.0.0.0 checkpage.org
 0.0.0.0 chediteriven.com
@@ -2197,6 +2200,7 @@
 0.0.0.0 dosterrium.com
 0.0.0.0 dotbrataev.ru
 0.0.0.0 dotcomconsultancy.advertserve.com
+0.0.0.0 douane-conseil.fr
 0.0.0.0 douane-finances.fr
 0.0.0.0 double6affiliation.com
 0.0.0.0 doudounerab.fr
@@ -3434,6 +3438,7 @@
 0.0.0.0 interpolgroup.fr
 0.0.0.0 interverification.fr
 0.0.0.0 interview.interworksmedia.co.kr
+0.0.0.0 intimcity.com
 0.0.0.0 intimissimifrance-fr.fr
 0.0.0.0 intimissimilyon.fr
 0.0.0.0 intimissimis.fr
@@ -4436,6 +4441,7 @@
 0.0.0.0 monespace-cultura.fr
 0.0.0.0 monespace-info.fr
 0.0.0.0 monespace-paypal.fr
+0.0.0.0 monespace-personnel-nickel.fr
 0.0.0.0 monespaceclient-cnp.fr
 0.0.0.0 monespaceclients.fr
 0.0.0.0 monespacecolissimo.fr
@@ -4900,6 +4906,7 @@
 0.0.0.0 oppositionoperation.fr
 0.0.0.0 optawa.ru
 0.0.0.0 optimhub.com
+0.0.0.0 optionsdereglementations.fr
 0.0.0.0 opuxppwnnf.com
 0.0.0.0 oraclecloud.fr
 0.0.0.0 oragne.fr
@@ -6043,6 +6050,7 @@
 0.0.0.0 secure-lemonde.fr
 0.0.0.0 secure2-primevideo.fr
 0.0.0.0 securelogln.fr
+0.0.0.0 securipay.fr
 0.0.0.0 securisation-snapchat.fr
 0.0.0.0 securite-leboncoinpaiement.fr
 0.0.0.0 securiteboursorama.fr
@@ -6576,6 +6584,7 @@
 0.0.0.0 surtul.life
 0.0.0.0 survey.gemius.com.ua
 0.0.0.0 suspension-colis.fr
+0.0.0.0 suucplylp.fr
 0.0.0.0 sv-prime.fr
 0.0.0.0 svedkan.com
 0.0.0.0 svonm.com
@@ -7572,6 +7581,7 @@
 0.0.0.0 znews.su
 0.0.0.0 znewswork.com
 0.0.0.0 zomap.de
+0.0.0.0 zonerecharge.fr
 0.0.0.0 zonsingise.com
 0.0.0.0 zoupsaushoor.com
 0.0.0.0 zozocash.biz

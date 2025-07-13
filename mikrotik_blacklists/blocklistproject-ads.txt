@@ -1689,6 +1689,7 @@
 0.0.0.0 191925.measurementapi.com
 0.0.0.0 191945.engine.mobileapptracking.com
 0.0.0.0 191997.engine.mobileapptracking.com
+0.0.0.0 191gm.com
 0.0.0.0 192-mzv-331.mktoresp.com
 0.0.0.0 192-wys-831.mktoresp.com
 0.0.0.0 192.168.ads.trafficjunky.net
@@ -24923,6 +24924,7 @@
 0.0.0.0 adverigo.com
 0.0.0.0 adverkeyz.com
 0.0.0.0 adverline.fr
+0.0.0.0 adverpub.com
 0.0.0.0 adversal.mgr.consensu.org
 0.0.0.0 adversmedia.adk2x.com
 0.0.0.0 adversolutions.com
@@ -33371,6 +33373,7 @@
 0.0.0.0 builder.smartlook.com
 0.0.0.0 builder.ws.adacts.com
 0.0.0.0 buildtrafficx.com
+0.0.0.0 buildviet.info
 0.0.0.0 buitxcrnucyi.com
 0.0.0.0 bujntrmh.com
 0.0.0.0 bujrc.voluumtrk.com
@@ -34335,6 +34338,7 @@
 0.0.0.0 cars-autocom.t.domdex.com
 0.0.0.0 cars.fyidriving.com
 0.0.0.0 carsablanca.de.intellitxt.com
+0.0.0.0 carscannon.com
 0.0.0.0 carsxardivaf.com
 0.0.0.0 cart.adx1.com
 0.0.0.0 cart.am-display.hb.adx1.com
@@ -37846,6 +37850,7 @@
 0.0.0.0 coopalleanza.co1.qualtrics.com
 0.0.0.0 coopermedia.affise.com
 0.0.0.0 coopermedia.go2affise.com
+0.0.0.0 coordinatedbedroom.com
 0.0.0.0 coordinatedcub.com
 0.0.0.0 cooster.ru
 0.0.0.0 coostuni.com
@@ -38997,6 +39002,7 @@
 0.0.0.0 counter.bigli.ru
 0.0.0.0 counter.bravenet.com
 0.0.0.0 counter.fatcow.com
+0.0.0.0 counter.fc2.com
 0.0.0.0 counter.gemius.pl
 0.0.0.0 counter.gorodmsk.ru
 0.0.0.0 counter.htmlvalidator.com
@@ -41051,6 +41057,7 @@
 0.0.0.0 ddaac98f67e384d8a9.com
 0.0.0.0 ddbnikwub.com
 0.0.0.0 ddczayne.bid
+0.0.0.0 ddd.gouwuke.cn
 0.0.0.0 dddgndcqajr.com
 0.0.0.0 ddefvibhjwoolfat.review
 0.0.0.0 ddf0-6eaa-f70b-beb5.reporo.net
@@ -41837,6 +41844,7 @@
 0.0.0.0 diaryofagameaddict.com
 0.0.0.0 dibmarketing.go2cloud.org
 0.0.0.0 dibpvaoi.bid
+0.0.0.0 dichvuvesinhhanoi.com
 0.0.0.0 dichvuvesinhquocte.com
 0.0.0.0 dicke.live
 0.0.0.0 dicks-sporting-goods.evyy.net
@@ -57761,6 +57769,7 @@
 0.0.0.0 kinopromobase.ru
 0.0.0.0 kinopushka.xyz
 0.0.0.0 kinorun.com
+0.0.0.0 kinorun.online
 0.0.0.0 kinostok.tv
 0.0.0.0 kinott.ru
 0.0.0.0 kintohis.com
@@ -62774,6 +62783,7 @@
 0.0.0.0 mmassa.com
 0.0.0.0 mmauckxrzh.com
 0.0.0.0 mmbfmlrd.com
+0.0.0.0 mmc.center
 0.0.0.0 mmcltttqfkbh.com
 0.0.0.0 mmdcibihoimt.com
 0.0.0.0 mmdifgneivng.com
@@ -70566,6 +70576,7 @@
 0.0.0.0 plgdhrvzsvxp.com
 0.0.0.0 plgundr.com
 0.0.0.0 plhvzqkkirw.com
+0.0.0.0 plinx.net
 0.0.0.0 pll28.voluumtrk.com
 0.0.0.0 pllblrapagrvn.com
 0.0.0.0 pllddc.com
@@ -76583,6 +76594,7 @@
 0.0.0.0 sdk.vl1.mobi
 0.0.0.0 sdk.vstyle4u.com
 0.0.0.0 sdk.w.inmobi.com
+0.0.0.0 sdk.wappier.com
 0.0.0.0 sdk.wjinfu.com
 0.0.0.0 sdk01.adecosystems.tech
 0.0.0.0 sdk02.adecosystems.tech
@@ -81110,6 +81122,7 @@
 0.0.0.0 sts.atlassolutions.com
 0.0.0.0 sts.touchcommerce.com
 0.0.0.0 sts2.qadynamics.marketo.com
+0.0.0.0 stserver.immomo.com
 0.0.0.0 stsodds.sts.pl
 0.0.0.0 sttc.affiliate.hu
 0.0.0.0 stthomasir.qualtrics.com
@@ -85329,6 +85342,7 @@
 0.0.0.0 ttkx.qyctj.com
 0.0.0.0 ttl.mopub.com
 0.0.0.0 ttlbd.net
+0.0.0.0 ttlmodels.com
 0.0.0.0 ttmnngecelky.bid
 0.0.0.0 ttomktasfnqlg.com
 0.0.0.0 ttqdlwzgpml.bid

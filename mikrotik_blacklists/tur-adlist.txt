@@ -119,6 +119,7 @@
 0.0.0.0 os.yefeneri2.com
 0.0.0.0 os2.yefeneri2.com
 0.0.0.0 owlcarousel2.github.io
+0.0.0.0 oxcdn.com
 0.0.0.0 p.milliyet.com.tr
 0.0.0.0 partnersapi.bilio.com
 0.0.0.0 portalciyiz.biz

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Jul 2025 08:02 UTC
-# Version: 2025.0713.0802.38
+# Last modified: 13 Jul 2025 20:02 UTC
+# Version: 2025.0713.2002.22
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1601
+# Number of entries: 1602
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -78,6 +78,7 @@
 0.0.0.0 unfiltered.adguard-dns.com
 0.0.0.0 dns.adrianlam.com
 0.0.0.0 aerodrorne.vip
+0.0.0.0 affcdn.net
 0.0.0.0 affsoft.cc
 0.0.0.0 shield.afixer.app
 0.0.0.0 ahadns.net

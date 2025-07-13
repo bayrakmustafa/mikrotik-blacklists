@@ -47,6 +47,7 @@
 0.0.0.0 0pandora.com
 0.0.0.0 0parisaeroport.fr
 0.0.0.0 0pastebin.com
+0.0.0.0 0paypal.com
 0.0.0.0 0pcworld.com
 0.0.0.0 0penoff1ce.org
 0.0.0.0 0penoffice.org
@@ -9299,6 +9300,7 @@
 0.0.0.0 avir4a.de
 0.0.0.0 avir5a.com
 0.0.0.0 avir5a.de
+0.0.0.0 aviraa.com
 0.0.0.0 aviraa.de
 0.0.0.0 avira.cm
 0.0.0.0 avira.co
@@ -12846,6 +12848,7 @@
 0.0.0.0 c10udpr0.c0.uk
 0.0.0.0 c10udpro.co.uk
 0.0.0.0 c1oudf1are.com
+0.0.0.0 c1oudflare.com
 0.0.0.0 c1oudpro.co.uk
 0.0.0.0 c1sc0.com
 0.0.0.0 c1sco.com
@@ -13976,6 +13979,7 @@
 0.0.0.0 cbnsnews.com
 0.0.0.0 cbox.com
 0.0.0.0 cbqnews.com
+0.0.0.0 cbsanews.com
 0.0.0.0 cbsbews.com
 0.0.0.0 cbsbnews.com
 0.0.0.0 cbsdnews.com
@@ -15859,6 +15863,7 @@
 0.0.0.0 cnd-apple.com
 0.0.0.0 cnengdu-airport.net
 0.0.0.0 cnetrair.jp
+0.0.0.0 cnevy.com
 0.0.0.0 cnhangiairport.com
 0.0.0.0 cnhase.com
 0.0.0.0 cnhengdu-airport.net
@@ -18848,6 +18853,7 @@
 0.0.0.0 disciord.com
 0.0.0.0 disciord.media
 0.0.0.0 disciovercard.com
+0.0.0.0 disciover.com
 0.0.0.0 disciovery.com
 0.0.0.0 discirdapp.com
 0.0.0.0 discird.com
@@ -18880,6 +18886,7 @@
 0.0.0.0 disclrd.com
 0.0.0.0 disclrd.media
 0.0.0.0 disclvercard.com
+0.0.0.0 disclver.com
 0.0.0.0 disclvery.com
 0.0.0.0 disco0gs.com
 0.0.0.0 disco0rdapp.com
@@ -18910,6 +18917,7 @@
 0.0.0.0 discobgs.com
 0.0.0.0 discobs.com
 0.0.0.0 discobvercard.com
+0.0.0.0 discobver.com
 0.0.0.0 discobvery.com
 0.0.0.0 discocercard.com
 0.0.0.0 discocer.com
@@ -19386,6 +19394,7 @@
 0.0.0.0 discovrecard.com
 0.0.0.0 discovre.com
 0.0.0.0 discovrercard.com
+0.0.0.0 discovrer.com
 0.0.0.0 discovrery.com
 0.0.0.0 discovrey.com
 0.0.0.0 discovrrcard.com
@@ -19446,6 +19455,7 @@
 0.0.0.0 discxord.com
 0.0.0.0 discxord.media
 0.0.0.0 discxovercard.com
+0.0.0.0 discxover.com
 0.0.0.0 discxovery.com
 0.0.0.0 disdcogs.com
 0.0.0.0 disdcordapp.com
@@ -20282,6 +20292,7 @@
 0.0.0.0 diuscord.com
 0.0.0.0 diuscord.media
 0.0.0.0 diuscovercard.com
+0.0.0.0 diuscover.com
 0.0.0.0 diuscovery.com
 0.0.0.0 diusney.com
 0.0.0.0 diusneyland.com
@@ -20294,6 +20305,7 @@
 0.0.0.0 diwcordapp.com
 0.0.0.0 diwcord.media
 0.0.0.0 diwcovercard.com
+0.0.0.0 diwcover.com
 0.0.0.0 diwcovery.com
 0.0.0.0 diwney.com
 0.0.0.0 diwneyland.com
@@ -20831,6 +20843,7 @@
 0.0.0.0 driscord.com
 0.0.0.0 driscord.media
 0.0.0.0 driscovercard.com
+0.0.0.0 driscover.com
 0.0.0.0 driscovery.com
 0.0.0.0 drisney.com
 0.0.0.0 drisneyland.com
@@ -21444,6 +21457,7 @@
 0.0.0.0 duiscordapp.com
 0.0.0.0 duiscord.media
 0.0.0.0 duiscovercard.com
+0.0.0.0 duiscover.com
 0.0.0.0 duiscovery.com
 0.0.0.0 duisney.com
 0.0.0.0 duisneyland.com
@@ -22818,6 +22832,7 @@
 0.0.0.0 espncriinfo.com
 0.0.0.0 espncrijcinfo.com
 0.0.0.0 espncrikcinfo.com
+0.0.0.0 espncrikinfo.com
 0.0.0.0 espncrilcinfo.com
 0.0.0.0 espncriocinfo.com
 0.0.0.0 espncriucinfo.com
@@ -27684,6 +27699,7 @@
 0.0.0.0 gkunbroker.com
 0.0.0.0 gldaddy.com
 0.0.0.0 gldmansachs.com
+0.0.0.0 glftcardmall.com
 0.0.0.0 glfundme.com
 0.0.0.0 gliftcardmall.com
 0.0.0.0 glithub.com
@@ -32012,6 +32028,7 @@
 0.0.0.0 googpe.com.au
 0.0.0.0 googpe.com.bh
 0.0.0.0 googpe.com.bo
+0.0.0.0 googpe.com.br
 0.0.0.0 googpe.com.co
 0.0.0.0 googpe.com.ec
 0.0.0.0 googpe.com.eg
@@ -40391,6 +40408,7 @@
 0.0.0.0 jcpenne7y.com
 0.0.0.0 jcpenne.com
 0.0.0.0 jcpennedy.com
+0.0.0.0 jcpenneey.com
 0.0.0.0 jcpennefy.com
 0.0.0.0 jcpenneg.com
 0.0.0.0 jcpennegy.com
@@ -50490,6 +50508,7 @@
 0.0.0.0 officve365.com
 0.0.0.0 officve.com
 0.0.0.0 officve.net
+0.0.0.0 officw365.com
 0.0.0.0 officw.com
 0.0.0.0 officwe365.com
 0.0.0.0 officwe.com
@@ -51949,6 +51968,7 @@
 0.0.0.0 origbin.com
 0.0.0.0 origfin.com
 0.0.0.0 origgin.com
+0.0.0.0 orighin.com
 0.0.0.0 origi8n.com
 0.0.0.0 origi9n.com
 0.0.0.0 origib.com
@@ -54813,6 +54833,7 @@
 0.0.0.0 quickedn.com
 0.0.0.0 quickeen.com
 0.0.0.0 quickefn.com
+0.0.0.0 quickeh.com
 0.0.0.0 quickehn.com
 0.0.0.0 quickej.com
 0.0.0.0 quickejn.com
@@ -56200,6 +56221,7 @@
 0.0.0.0 royalhbank.com
 0.0.0.0 royalkbank.com
 0.0.0.0 royallbank.com
+0.0.0.0 royalnank.com
 0.0.0.0 royalnbank.com
 0.0.0.0 royalobank.com
 0.0.0.0 royalpbank.com
@@ -57883,6 +57905,7 @@
 0.0.0.0 shopkocom.com
 0.0.0.0 shopkoi.com
 0.0.0.0 shopkok.com
+0.0.0.0 shopkol.com
 0.0.0.0 shopkoo.com
 0.0.0.0 shopko.om
 0.0.0.0 shopkop.com
@@ -59569,6 +59592,7 @@
 0.0.0.0 spoitfy.com
 0.0.0.0 spoitify.com
 0.0.0.0 spoktify.com
+0.0.0.0 spolify.com
 0.0.0.0 spoltify.com
 0.0.0.0 sponos.com
 0.0.0.0 spony.com
@@ -60155,6 +60179,7 @@
 0.0.0.0 stacokexchange.com
 0.0.0.0 stacokoverflow.com
 0.0.0.0 stacokverflow.com
+0.0.0.0 stacooverflow.com
 0.0.0.0 stacoverflow.com
 0.0.0.0 stacuexchange.com
 0.0.0.0 stacuoverflow.com
@@ -61739,6 +61764,7 @@
 0.0.0.0 symxntec.com
 0.0.0.0 symzantec.com
 0.0.0.0 symzntec.com
+0.0.0.0 synantec.com
 0.0.0.0 synmantec.com
 0.0.0.0 syopdisney.com
 0.0.0.0 syopko.com
@@ -62794,6 +62820,7 @@
 0.0.0.0 tgiftcardmall.com
 0.0.0.0 tgime.com
 0.0.0.0 tgipadvisor.com
+0.0.0.0 tgithub.com
 0.0.0.0 tgkyo-haneda.com
 0.0.0.0 tgmail.com
 0.0.0.0 tgmtom.com
@@ -65610,6 +65637,7 @@
 0.0.0.0 ubngt.com
 0.0.0.0 ubnh.com
 0.0.0.0 ubnht.com
+0.0.0.0 ubnisoft.com
 0.0.0.0 ubnitedhealthgroup.com
 0.0.0.0 ubnjt.com
 0.0.0.0 ubnl.com
@@ -68917,6 +68945,7 @@
 0.0.0.0 wiiipedia.org
 0.0.0.0 wiikipedia.com
 0.0.0.0 wiikipedia.org
+0.0.0.0 wiikpedia.com
 0.0.0.0 wiikpedia.org
 0.0.0.0 wiindows.com
 0.0.0.0 wiipedia.com
@@ -69080,6 +69109,7 @@
 0.0.0.0 wikipediza.com
 0.0.0.0 wikipediza.org
 0.0.0.0 wikipediz.com
+0.0.0.0 wikipediz.org
 0.0.0.0 wikipedja.com
 0.0.0.0 wikipedja.org
 0.0.0.0 wikipedjia.com
@@ -69248,6 +69278,7 @@
 0.0.0.0 window3s.com
 0.0.0.0 window5.com
 0.0.0.0 windowa.com
+0.0.0.0 windowas.com
 0.0.0.0 window.com
 0.0.0.0 windowd.com
 0.0.0.0 windowds.com
@@ -69304,6 +69335,7 @@
 0.0.0.0 wiored.com
 0.0.0.0 wiored.co.uk
 0.0.0.0 wir3d.com
+0.0.0.0 wir3d.co.uk
 0.0.0.0 wir3ed.com
 0.0.0.0 wir3ed.co.uk
 0.0.0.0 wir4d.com
