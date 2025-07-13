@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 11 Jul 2025 04:05 UTC
-# Version: 2025.0711.0405.31
+# Last modified: 13 Jul 2025 08:02 UTC
+# Version: 2025.0713.0802.38
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1596
+# Number of entries: 1601
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -66,6 +66,7 @@
 0.0.0.0 adl.adfilter.net
 0.0.0.0 per.adfilter.net
 0.0.0.0 syd.adfilter.net
+0.0.0.0 adfiltro.fun
 0.0.0.0 adfreedns.top
 0.0.0.0 dns.adguard.com
 0.0.0.0 dns-family.adguard.com
@@ -145,7 +146,6 @@
 0.0.0.0 dns.asysec.com
 0.0.0.0 adguardhome.atakorah.com
 0.0.0.0 dohtrial.att.net
-0.0.0.0 dns.auapi.fun
 0.0.0.0 africa.avastdns.com
 0.0.0.0 secure.avastdns.com
 0.0.0.0 adguard.avdkishore.dev
@@ -297,6 +297,7 @@
 0.0.0.0 ca.doh.cloudveil.org
 0.0.0.0 us.doh.cloudveil.org
 0.0.0.0 dns.cmrg.net
+0.0.0.0 doh.cnetwork.cloud
 0.0.0.0 adguard.aa4.co.uk
 0.0.0.0 pihole.datamatter.co.za
 0.0.0.0 dns.gayanalysing.co.uk
@@ -618,6 +619,7 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
+0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -661,6 +663,7 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
+0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
@@ -868,6 +871,7 @@
 0.0.0.0 dns.kxy.ink
 0.0.0.0 agh.kyusang.win
 0.0.0.0 dns.l337.site
+0.0.0.0 dns.labnekotest.site
 0.0.0.0 doh.lacontrevoie.fr
 0.0.0.0 dns.lars-lehmann.net
 0.0.0.0 dns.lashes-brow.ru
@@ -893,6 +897,7 @@
 0.0.0.0 doh.libredns.gr
 0.0.0.0 dot.libredns.gr
 0.0.0.0 lifeisa.live
+0.0.0.0 dns.lightmaster.pw
 0.0.0.0 dns.lihj.me
 0.0.0.0 dns.linkr.ninja
 0.0.0.0 africadns1.liquidtelecom.net
@@ -1008,6 +1013,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
@@ -1053,7 +1059,6 @@
 0.0.0.0 us-saj-w-p-1.nashkan.net
 0.0.0.0 dns.neeb.it
 0.0.0.0 adguard.neon0404.space
-0.0.0.0 dns.neowutran.ovh
 0.0.0.0 dns.aa.net.uk
 0.0.0.0 doh.max.net.id
 0.0.0.0 ns.net.kg

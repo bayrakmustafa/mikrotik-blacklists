@@ -1,5 +1,5 @@
 # AdguardDNS, parsed and mirrored by https://firebog.net
-# Updated 09JUL25 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+# Updated 11JUL25 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -114,6 +114,7 @@
 0.0.0.0 abds.pingpingw.com
 0.0.0.0 abfishop.org
 0.0.0.0 ab.hwigroup.com
+0.0.0.0 ablenctionalle.info
 0.0.0.0 absalomcsa.com
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abutparker.com
@@ -3602,7 +3603,6 @@
 0.0.0.0 vincomonevip.net
 0.0.0.0 vingroup.fit
 0.0.0.0 vingroupinvest.com
-0.0.0.0 vingroup.shop
 0.0.0.0 vingroupventures.shop
 0.0.0.0 vinideal-sale.pro
 0.0.0.0 vinpearl1.vingroupsny.com

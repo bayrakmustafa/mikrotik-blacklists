@@ -761,7 +761,6 @@
 0.0.0.0 soireesdannie.com
 0.0.0.0 soirsexy.com
 0.0.0.0 soulfulencounters.com
-0.0.0.0 spark.com
 0.0.0.0 spark.net
 0.0.0.0 specialbridge.com
 0.0.0.0 speeddate.com
@@ -859,4 +858,3 @@
 0.0.0.0 yourfirstdating.com
 0.0.0.0 yourjewishdate.com
 0.0.0.0 zhenai91.com
-0.0.0.0 znamost.cz

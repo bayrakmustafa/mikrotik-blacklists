@@ -7713,7 +7713,6 @@
 0.0.0.0 abjusouft.com
 0.0.0.0 ablaze-class.space
 0.0.0.0 ablehed.pro
-0.0.0.0 ablenctionalle.info
 0.0.0.0 abletomeet.com
 0.0.0.0 abm-certification.demandbase.com
 0.0.0.0 abm-speakingtree.native.andbeyond.media
@@ -22417,6 +22416,7 @@
 0.0.0.0 admin.di.adswizz.com
 0.0.0.0 admin.dm.media.net
 0.0.0.0 admin.download-sponsor.de
+0.0.0.0 admin.fam-ad.com
 0.0.0.0 admin.fastclick.net
 0.0.0.0 admin.fhserve.com
 0.0.0.0 admin.firstimpression.io
@@ -25949,7 +25949,6 @@
 0.0.0.0 alertlogic.co1.qualtrics.com
 0.0.0.0 alerts.api.kochava.com
 0.0.0.0 alerts.flurry.com
-0.0.0.0 alerts.newrelic.com
 0.0.0.0 alexa.links.cn
 0.0.0.0 alexa.propellerads.com
 0.0.0.0 alexa.qualaroo.com
@@ -30677,7 +30676,6 @@
 0.0.0.0 betigo.work
 0.0.0.0 betimogolef.com
 0.0.0.0 betseyjohnson.btttag.com
-0.0.0.0 bettermetrics.co
 0.0.0.0 betterworldbooks.btttag.com
 0.0.0.0 betticket.org
 0.0.0.0 bettingexpertdev2.112.2o7.net
@@ -49406,7 +49404,6 @@
 0.0.0.0 get-click.net
 0.0.0.0 get-information.com
 0.0.0.0 get.addthis.com
-0.0.0.0 get.amplitude.com
 0.0.0.0 get.appsee.com
 0.0.0.0 get.appsflyer.com
 0.0.0.0 get.apptimize.com

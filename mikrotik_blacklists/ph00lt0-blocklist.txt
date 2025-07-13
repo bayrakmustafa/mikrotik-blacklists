@@ -24,6 +24,7 @@
 0.0.0.0 0ptimus.com
 0.0.0.0 0x0.st
 0.0.0.0 0x01e7.website
+0.0.0.0 0x5e.eu
 0.0.0.0 0xxd.com
 0.0.0.0 1.a79ab95c1589a13f8a4cab612bc71f9f7.com
 0.0.0.0 1.b406929acabac9b095f124c81bdfcf57f.com
@@ -632,7 +633,6 @@
 0.0.0.0 9111s.ru
 0.0.0.0 9165619.com
 0.0.0.0 91ad.bestvogue.com
-0.0.0.0 91bjav.com
 0.0.0.0 91mobiles.com
 0.0.0.0 91xry.com
 0.0.0.0 91zgm.com
@@ -1201,6 +1201,7 @@
 0.0.0.0 aidaform.com
 0.0.0.0 aiden.cx
 0.0.0.0 aidfive.org
+0.0.0.0 aidtclass.com
 0.0.0.0 aikan6.com
 0.0.0.0 aim-kk.net
 0.0.0.0 aimage.it
@@ -5497,6 +5498,7 @@
 0.0.0.0 hao123rt.com
 0.0.0.0 haohaowan8.com
 0.0.0.0 haolew.com
+0.0.0.0 hap.io
 0.0.0.0 happierleads.com
 0.0.0.0 happinessmeter.gov.ae
 0.0.0.0 happy-entertainment-llc.com
@@ -6737,6 +6739,7 @@
 0.0.0.0 lnk8z.com
 0.0.0.0 lnr2.com
 0.0.0.0 lo.la.welt.de
+0.0.0.0 lo4d.com
 0.0.0.0 loadbee.com
 0.0.0.0 loandatec.com
 0.0.0.0 loasisduweb.fr
@@ -6981,6 +6984,7 @@
 0.0.0.0 mandrillapp.com
 0.0.0.0 manifest.production-public.tubi.io
 0.0.0.0 mantracloud.com
+0.0.0.0 manychat.com
 0.0.0.0 manydnsnow.com
 0.0.0.0 map.baidu.com
 0.0.0.0 map.qq.com
@@ -7527,6 +7531,7 @@
 0.0.0.0 newsletteradvice.com
 0.0.0.0 newsletterails.com
 0.0.0.0 newslicensing.co.uk
+0.0.0.0 newsystems.digital
 0.0.0.0 newwhatsapp.com
 0.0.0.0 newyearawards.cloud
 0.0.0.0 newyork-company.com
@@ -8293,7 +8298,6 @@
 0.0.0.0 polldaddy.com
 0.0.0.0 pollfish.com
 0.0.0.0 pollforall.com
-0.0.0.0 polling.bbc.co.uk
 0.0.0.0 polling.hotjar.com
 0.0.0.0 polosofa.com
 0.0.0.0 pomhz.com
@@ -9192,13 +9196,13 @@
 0.0.0.0 shaft.jebe.renren.com
 0.0.0.0 shakegroup.nl
 0.0.0.0 shakemedia.nl
+0.0.0.0 shakuntalinterior.com
 0.0.0.0 shallwead.com
 0.0.0.0 shama5.com
 0.0.0.0 shamirit.com
 0.0.0.0 shanghaironghua.com
 0.0.0.0 shanglinli.com
 0.0.0.0 shangz99991.com
-0.0.0.0 share-eu1.hsforms.com
 0.0.0.0 share.america.gov
 0.0.0.0 shared.piwik.prisma-it.com
 0.0.0.0 sharemyinsights.com
@@ -9544,6 +9548,7 @@
 0.0.0.0 srv.my.ebayrtm.com
 0.0.0.0 srv.ph.ebayrtm.com
 0.0.0.0 srv.pl.ebayrtm.com
+0.0.0.0 srv.sg.ebayrtm.com
 0.0.0.0 srv.thespacereporter.com
 0.0.0.0 srva9awf.syncingprocess.com
 0.0.0.0 srvbbb.eu
@@ -10532,6 +10537,7 @@
 0.0.0.0 videosorveglianzagv-vision.it
 0.0.0.0 view.ceros.com
 0.0.0.0 view.trustgram.co
+0.0.0.0 viewdns.net
 0.0.0.0 viewpay.tv
 0.0.0.0 viewstalk.com
 0.0.0.0 viewstripo.email

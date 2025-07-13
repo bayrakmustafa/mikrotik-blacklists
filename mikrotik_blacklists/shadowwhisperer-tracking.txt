@@ -3012,7 +3012,6 @@
 0.0.0.0 analytics.daucy.de
 0.0.0.0 analytics.dauerer.com
 0.0.0.0 analytics.dauid.us
-0.0.0.0 analytics.davidaugustat.com
 0.0.0.0 analytics.davidbrocard.org
 0.0.0.0 analytics.davidefortugno.com
 0.0.0.0 analytics.davidjablonski.at
@@ -11423,7 +11422,6 @@
 0.0.0.0 campaign-archive.com
 0.0.0.0 campaigns.allhandsandhearts.org
 0.0.0.0 campaigns.cxloyalty-mcc.com
-0.0.0.0 campaigntracker.io
 0.0.0.0 campus.english-innovations.com
 0.0.0.0 canada.deloitte-digital-engage.adobesandbox.com
 0.0.0.0 canada.schoolspecialtynews.com
@@ -21662,7 +21660,6 @@
 0.0.0.0 m1aeftrk.com
 0.0.0.0 m1tm.rideapart.com
 0.0.0.0 m288.silive.com
-0.0.0.0 m2appmonitor.com
 0.0.0.0 m2ibepdawk.com
 0.0.0.0 m2-insights.com
 0.0.0.0 m2insights.com
@@ -44600,7 +44597,6 @@
 0.0.0.0 stats.nko.systems
 0.0.0.0 stats.nmbhgc.org
 0.0.0.0 stats.nmd.so
-0.0.0.0 stats.nmedia.be
 0.0.0.0 stats.no1.com.au
 0.0.0.0 stats.no1.net.au
 0.0.0.0 stats.nodeserv.org
@@ -54052,7 +54048,6 @@
 0.0.0.0 zebra.helpspot.com
 0.0.0.0 zebra.rightly.co.uk
 0.0.0.0 zegnaemail.com
-0.0.0.0 zembles.com
 0.0.0.0 zenanalytics.net
 0.0.0.0 zendroptrk.com
 0.0.0.0 zen.itrsgroup.com

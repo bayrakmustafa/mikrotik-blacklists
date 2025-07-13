@@ -22,10 +22,10 @@
 # License:       MIT
 # Format:        hosts
 # Entries:       72
-# Version:       0.100.a.25.192.08
+# Version:       0.100.a.25.194.14
 # Expires:       1 day (update frequency)
-# Releasae:      25.192.08
-# Last modified: 2025-07-11T08:05:42.440900 UTC
+# Releasae:      25.194.14
+# Last modified: 2025-07-13T14:06:50.709862 UTC
 # Source:        https://github/EnergizedProtection/block
 # Issue:         https://github/EnergizedProtection/block/issues
 # ----------------------------------------------------------------------------
@@ -104,7 +104,6 @@
 0.0.0.0 tasks-pa.googleapis.com
 0.0.0.0 trk.klclick.com
 0.0.0.0 trk.klclick2.com
-0.0.0.0 trk.klclick3.com
 0.0.0.0 userlocation.googleapis.com
 0.0.0.0 va.tawk.to
 0.0.0.0 zapr.in

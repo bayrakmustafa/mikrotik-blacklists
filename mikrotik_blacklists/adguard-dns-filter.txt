@@ -324,6 +324,7 @@
 0.0.0.0 log-*.epicdn.me
 0.0.0.0 log-*.zadn.vn
 0.0.0.0 quangcao-*.epicdn.me
+0.0.0.0 vingroup.shop
 0.0.0.0 ad*.gyaloglo.hu
 0.0.0.0 ad*.mellesleg.hu
 0.0.0.0 advert*.ultraweb.hu

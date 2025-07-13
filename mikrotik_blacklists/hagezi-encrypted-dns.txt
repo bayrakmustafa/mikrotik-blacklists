@@ -224,6 +224,7 @@
 0.0.0.0 astrovpn.co
 0.0.0.0 atlasvpn.com
 0.0.0.0 atozproxy.com
+0.0.0.0 dns.auapi.fun
 0.0.0.0 stevenisafemboy.auraria.org
 0.0.0.0 auto-aufladen.de
 0.0.0.0 use.autoglass.my
@@ -808,7 +809,6 @@
 0.0.0.0 education-lesson-pre-algebra-lesson68.eduarmor.com
 0.0.0.0 educationdean.us
 0.0.0.0 tor.eff.org
-0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 scifi0.eigenlicht.us
 0.0.0.0 elearning.electronicajck.com
 0.0.0.0 registry.electronicajck.com
@@ -915,7 +915,6 @@
 0.0.0.0 fitnessdepotprices.com
 0.0.0.0 chart.books.fivepals.com
 0.0.0.0 fixproxy.com
-0.0.0.0 dns.fizz.studio
 0.0.0.0 gothgirlsareawesome.flamex.hm
 0.0.0.0 flarquix.xyz
 0.0.0.0 flashpull.com
@@ -1679,7 +1678,6 @@
 0.0.0.0 mywebproxy.net
 0.0.0.0 mywebtunnel.com
 0.0.0.0 mzhlhrfr8z.info
-0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 study.sci.nabim.com
 0.0.0.0 nanoproxy.com
 0.0.0.0 napps-1.com
@@ -1698,6 +1696,7 @@
 0.0.0.0 nekoray.org
 0.0.0.0 smart.quiz.nelsonshack.com
 0.0.0.0 neonos.me
+0.0.0.0 dns.neowutran.ovh
 0.0.0.0 dog.vpn.net.br
 0.0.0.0 netaltr.com
 0.0.0.0 unblocker.netlify.app
