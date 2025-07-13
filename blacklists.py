@@ -31,6 +31,13 @@ def is_plain_domain_list(m_lines):
             domain_only_count += 1
     return domain_only_count >= 50  # If more than 50% of the first 100 lines are domain-only, treat as plain domain list
 
+# Load ignore domains
+ignore_domains_file = "ignore_domains.txt"
+if os.path.exists(ignore_domains_file):
+    with open(ignore_domains_file, "r") as f:
+        ignore_domains = set(normalize_domain(line.strip()) for line in f if line.strip() and not line.startswith("#"))
+else:
+    ignore_domains = set()
 
 # === Read URLs and file names in order ===
 urls_info = []
@@ -159,6 +166,11 @@ for file_name, domains in file_domains.items():
                 if domain_match:
                     domain = domain_match.group(1)
                     normalized = normalize_domain(domain)
+
+                    # Skip if domain is in ignore list
+                    if normalized in ignore_domains:
+                        total_skipped += 1
+                        continue
 
                     # Check numeric-only domain
                     first_part = normalized.split(".")[0]
