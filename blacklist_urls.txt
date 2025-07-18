@@ -7,20 +7,11 @@ https://energized.pro/extreme/hosts.txt:energized-extreme.txt
 https://energized.pro/social/hosts.txt:energized-social.txt
 https://energized.pro/regional/hosts.txt:energized-regional.txt
 
-https://raw.githubusercontent.com/IgorKha/mikrotik-adlist/refs/heads/main/hosts/hagezi_ultimate.txt:hagezi-ultimate-mikrotik.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/hosts/ultimate.txt:hagezi-ultimate.txt
-https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/hosts/doh.txt:hagezi-doh.txt
-
+https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts:stevenblack-hosts.txt
+https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Pro/hosts.txt:1hosts-pro.txt
 https://v.firebog.net/hosts/AdguardDNS.txt:adguard-dns-hosts.txt
 https://v.firebog.net/hosts/Easylist.txt:easylist-hosts.txt
 https://v.firebog.net/hosts/Easyprivacy.txt:easyprivacy-hosts.txt
-
-https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts:stevenblack-hosts.txt
-https://raw.githubusercontent.com/badmojr/1Hosts/refs/heads/master/Pro/hosts.txt:1hosts-pro.txt
-
-https://raw.githubusercontent.com/IgorKha/mikrotik-adlist/refs/heads/main/hosts/oisd_full.txt:oisd-full.txt
-https://raw.githubusercontent.com/IgorKha/mikrotik-adlist/refs/heads/main/hosts/adguard_dns_filter.txt:adguard-dns-filter.txt
-https://raw.githubusercontent.com/IgorKha/mikrotik-adlist/refs/heads/main/hosts/hagezi_encrypted_dns_vpn_tor_proxy_bypass.txt:hagezi-encrypted-dns.txt
 
 https://raw.githubusercontent.com/ph00lt0/blocklist/refs/heads/master/hosts-blocklist.txt:ph00lt0-blocklist.txt
 
@@ -41,6 +32,14 @@ https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/H
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Hosts/Tracking:shadowwhisperer-tracking.txt
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Hosts/Gambling:shadowwhisperer-gambling.txt
 https://raw.githubusercontent.com/ShadowWhisperer/BlockLists/refs/heads/master/Hosts/Typo:shadowwhisperer-typo.txt
+
+https://raw.githubusercontent.com/IgorKha/mikrotik-adlist/refs/heads/main/hosts/hagezi_ultimate.txt:hagezi-ultimate-mikrotik.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/hosts/ultimate.txt:hagezi-ultimate.txt
+https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/hosts/doh.txt:hagezi-doh.txt
+
+https://raw.githubusercontent.com/IgorKha/mikrotik-adlist/refs/heads/main/hosts/oisd_full.txt:oisd-full.txt
+https://raw.githubusercontent.com/IgorKha/mikrotik-adlist/refs/heads/main/hosts/adguard_dns_filter.txt:adguard-dns-filter.txt
+https://raw.githubusercontent.com/IgorKha/mikrotik-adlist/refs/heads/main/hosts/hagezi_encrypted_dns_vpn_tor_proxy_bypass.txt:hagezi-encrypted-dns.txt
 
 https://raw.githubusercontent.com/IgorKha/mikrotik-adlist/refs/heads/main/hosts/TUR_turk_adlist.txt:tur-adlist.txt
 https://raw.githubusercontent.com/IgorKha/mikrotik-adlist/refs/heads/main/hosts/TUR_turkish_ad_hosts.txt:turkish-ad-hosts.txt
