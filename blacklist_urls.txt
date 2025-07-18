@@ -7,9 +7,9 @@ https://energized.pro/extreme/hosts.txt:energized-extreme.txt
 https://energized.pro/social/hosts.txt:energized-social.txt
 https://energized.pro/regional/hosts.txt:energized-regional.txt
 
+https://raw.githubusercontent.com/IgorKha/mikrotik-adlist/refs/heads/main/hosts/hagezi_ultimate.txt:hagezi-ultimate-mikrotik.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/hosts/ultimate.txt:hagezi-ultimate.txt
 https://raw.githubusercontent.com/hagezi/dns-blocklists/refs/heads/main/hosts/doh.txt:hagezi-doh.txt
-https://raw.githubusercontent.com/IgorKha/mikrotik-adlist/refs/heads/main/hosts/hagezi_ultimate.txt:hagezi-ultimate-mikrotik.txt
 
 https://v.firebog.net/hosts/AdguardDNS.txt:adguard-dns-hosts.txt
 https://v.firebog.net/hosts/Easylist.txt:easylist-hosts.txt
