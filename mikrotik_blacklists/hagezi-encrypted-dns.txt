@@ -600,6 +600,7 @@
 0.0.0.0 fast-proxy.com.de
 0.0.0.0 fastest-proxy.com.de
 0.0.0.0 free-proxy.com.de
+0.0.0.0 adguard.frutuozo.com.br
 0.0.0.0 german-proxy.com.de
 0.0.0.0 germany-proxy.com.de
 0.0.0.0 btg.go4it.com.mx
@@ -813,11 +814,13 @@
 0.0.0.0 ecoweb-network.com
 0.0.0.0 ecxs.asia
 0.0.0.0 steves-lava-chicken.edah.us
+0.0.0.0 dns.edgeburnmedia.com
 0.0.0.0 edgedcircles.com
 0.0.0.0 edpuzzle.space
 0.0.0.0 education-lesson-pre-algebra-lesson68.eduarmor.com
 0.0.0.0 educationdean.us
 0.0.0.0 tor.eff.org
+0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 scifi0.eigenlicht.us
 0.0.0.0 elearning.electronicajck.com
 0.0.0.0 registry.electronicajck.com
@@ -1711,6 +1714,7 @@
 0.0.0.0 z-brokethescaler.neighborhoodcloud.com
 0.0.0.0 nekoray.org
 0.0.0.0 smart.quiz.nelsonshack.com
+0.0.0.0 adguard.neon0404.space
 0.0.0.0 neonos.me
 0.0.0.0 dog.vpn.net.br
 0.0.0.0 netaltr.com

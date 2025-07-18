@@ -411,7 +411,6 @@
 0.0.0.0 iktoos.com
 0.0.0.0 ilove.ch
 0.0.0.0 ilove.com
-0.0.0.0 ilove.de
 0.0.0.0 ilovemessenger.fr
 0.0.0.0 ima-dating.com
 0.0.0.0 images.prod.boo.dating
@@ -756,7 +755,6 @@
 0.0.0.0 sladur.com
 0.0.0.0 slowdating.com
 0.0.0.0 smooch.com
-0.0.0.0 smoothsingles.co.uk
 0.0.0.0 snap.tn
 0.0.0.0 soireesdannie.com
 0.0.0.0 soirsexy.com
@@ -801,7 +799,6 @@
 0.0.0.0 tinderphotos-d1-ue1.s3.amazonaws.com
 0.0.0.0 toietmoi.fr
 0.0.0.0 tonga-soa.com
-0.0.0.0 top10datingreviews.org
 0.0.0.0 top10maturedatingsites.com
 0.0.0.0 top5dating.co.uk
 0.0.0.0 topchristiandatingsites.com

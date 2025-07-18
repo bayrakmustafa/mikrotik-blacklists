@@ -70,14 +70,10 @@
 0.0.0.0 bobab.press
 0.0.0.0 bobuq.press
 0.0.0.0 bojut.press
-0.0.0.0 bokneeg.com
-0.0.0.0 bokneg.com
 0.0.0.0 book-available.com
-0.0.0.0 bookneg.com
 0.0.0.0 bookstream.click
 0.0.0.0 booktopia.click
 0.0.0.0 booktrail.click
-0.0.0.0 bookvrfsrv.com
 0.0.0.0 borubon-online.com
 0.0.0.0 bot.argus-services.xyz
 0.0.0.0 bot.ccpower.net
@@ -406,7 +402,6 @@
 0.0.0.0 kittyuwubotnet.online
 0.0.0.0 klck.site
 0.0.0.0 kniznetwork.duckdns.org
-0.0.0.0 knmvrf.com
 0.0.0.0 kqwrv.press
 0.0.0.0 kujim.run
 0.0.0.0 kycaj.run
@@ -514,7 +509,6 @@
 0.0.0.0 nk.zujer.ru
 0.0.0.0 nkbada.online
 0.0.0.0 nl1.meonix.site
-0.0.0.0 nmsl.cnmnm.top
 0.0.0.0 nmsl.i20.icu
 0.0.0.0 nodedock.shop
 0.0.0.0 nodestack.sbs
@@ -583,7 +577,6 @@
 0.0.0.0 qqcxq.dyheg.fun
 0.0.0.0 qrczb.press
 0.0.0.0 qstfs.run
-0.0.0.0 qtrexa.com
 0.0.0.0 quxap.run
 0.0.0.0 quzem.press
 0.0.0.0 qv.gahq.ru
@@ -591,7 +584,6 @@
 0.0.0.0 qyzoz.press
 0.0.0.0 r2nemesida.online
 0.0.0.0 rag382.top
-0.0.0.0 raw.awaken-network.net
 0.0.0.0 raw.foxthreatnointel.vip
 0.0.0.0 raw.intenseproxy.zip
 0.0.0.0 redic.horizon-life.net
@@ -698,7 +690,6 @@
 0.0.0.0 timov.icu
 0.0.0.0 tipaq.run
 0.0.0.0 tm-supp.innocreed.com
-0.0.0.0 tokneeg.com
 0.0.0.0 topax.run
 0.0.0.0 totalenergiesvendors.site
 0.0.0.0 totyc.run
@@ -735,10 +726,8 @@
 0.0.0.0 u1.wyja.ru
 0.0.0.0 undo.sg
 0.0.0.0 unnameddownloadddd.xyz
-0.0.0.0 unproxy.st
 0.0.0.0 upload.vina-host.com
 0.0.0.0 urabenet.ddns.net
-0.0.0.0 uranet.duckdns.org
 0.0.0.0 us02web-zoom-us.mulsue23.com
 0.0.0.0 usatelecalls.online
 0.0.0.0 usdofiles.us
@@ -753,14 +742,11 @@
 0.0.0.0 vekat.press
 0.0.0.0 vekeq.icu
 0.0.0.0 vezof.press
-0.0.0.0 vfutok.com
 0.0.0.0 vici2.macrowebcall.com
 0.0.0.0 vogos.press
 0.0.0.0 voidinsoul.com
 0.0.0.0 voidtheboxs.com
 0.0.0.0 vovoh.run
-0.0.0.0 vrfbkns.com
-0.0.0.0 vrfuptok.com
 0.0.0.0 vsmml.press
 0.0.0.0 vtsec.innocreed.com
 0.0.0.0 vuram.press
@@ -850,4 +836,3 @@
 0.0.0.0 zya.tf
 0.0.0.0 zynof.press
 0.0.0.0 zyrento.za.com
-0.0.0.0 zyzzyva.pipesnmetals.com

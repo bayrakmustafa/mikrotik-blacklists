@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 13 Jul 2025 20:02 UTC
-# Version: 2025.0713.2002.22
+# Last modified: 18 Jul 2025 16:08 UTC
+# Version: 2025.0718.1608.58
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1602
+# Number of entries: 1607
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -114,6 +114,7 @@
 0.0.0.0 public2.alidns.com
 0.0.0.0 public254.alidns.com
 0.0.0.0 public99.alidns.com
+0.0.0.0 alleesph.online
 0.0.0.0 dns.alloxr.info
 0.0.0.0 dns.almir1904.eu
 0.0.0.0 adguard.alu.dog
@@ -217,6 +218,7 @@
 0.0.0.0 free.bravedns.com
 0.0.0.0 dns.brembeck.cloud
 0.0.0.0 ag.brianlee.fun
+0.0.0.0 dns.brono.cloud
 0.0.0.0 doh.bt.com
 0.0.0.0 goose.buckyfan.net
 0.0.0.0 stratus.bugz.fr
@@ -317,7 +319,6 @@
 0.0.0.0 dns.7sec.com.br
 0.0.0.0 dns.ceai.com.tw
 0.0.0.0 dns.cloud88.com.au
-0.0.0.0 adguard.frutuozo.com.br
 0.0.0.0 adguard.gbrossi.com.br
 0.0.0.0 dns.joaofidelix.com.br
 0.0.0.0 dns.netraptor.com.au
@@ -594,6 +595,7 @@
 0.0.0.0 takhtakh.domyah.net
 0.0.0.0 dns.dooks.uk
 0.0.0.0 dot.pub
+0.0.0.0 ns1.dotls.org
 0.0.0.0 dns.dotnet.win
 0.0.0.0 dns.dremaxx.de
 0.0.0.0 droyd.top
@@ -609,18 +611,18 @@
 0.0.0.0 dukun.de
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
+0.0.0.0 resolver1.dyndnsinternetguide.com
+0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
 0.0.0.0 easyhandshake.com
 0.0.0.0 dns.eddi.net
 0.0.0.0 doh.eddi.net
-0.0.0.0 dns.edgeburnmedia.com
 0.0.0.0 dns.edgy.network
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
-0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -664,7 +666,6 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
-0.0.0.0 dns.fizz.studio
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
@@ -685,6 +686,7 @@
 0.0.0.0 dns.furrydns.de
 0.0.0.0 doh.futa.app
 0.0.0.0 doh.futa.gg
+0.0.0.0 dns.futuredns.me
 0.0.0.0 cluster-0.gac.edu
 0.0.0.0 cluster-1.gac.edu
 0.0.0.0 dns.gamban.com
@@ -752,6 +754,7 @@
 0.0.0.0 dns.hotta.page
 0.0.0.0 doh.hottis.de
 0.0.0.0 hshh.org
+0.0.0.0 dns.huas.me
 0.0.0.0 dns.hujiayucc.cn
 0.0.0.0 ads.hunga1k47.com
 0.0.0.0 doth.huque.com
@@ -1014,7 +1017,6 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
-0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
@@ -1059,7 +1061,6 @@
 0.0.0.0 us-saj-w-f-1.nashkan.net
 0.0.0.0 us-saj-w-p-1.nashkan.net
 0.0.0.0 dns.neeb.it
-0.0.0.0 adguard.neon0404.space
 0.0.0.0 dns.aa.net.uk
 0.0.0.0 doh.max.net.id
 0.0.0.0 ns.net.kg
@@ -1236,6 +1237,7 @@
 0.0.0.0 polisitogel.limo
 0.0.0.0 polisitogel.living
 0.0.0.0 polisitogel.luxe
+0.0.0.0 polisitogel.show
 0.0.0.0 polisitogel.webcam
 0.0.0.0 doh.port53.dk
 0.0.0.0 dns.porteii.com
@@ -1338,9 +1340,11 @@
 0.0.0.0 dns.rubyfish.cn
 0.0.0.0 ea-dns.rubyfish.cn
 0.0.0.0 uw-dns.rubyfish.cn
+0.0.0.0 adg.rueiliu.space
 0.0.0.0 rumpelsepp.org
 0.0.0.0 doh.runsel.id
 0.0.0.0 agh-yz.russel053.com
+0.0.0.0 drs.rustsword.com
 0.0.0.0 dns1.ryan-palmer.com
 0.0.0.0 dns1.saferbfc.org
 0.0.0.0 dns2.saferbfc.org
@@ -1596,4 +1600,5 @@
 0.0.0.0 adguard-kartoffel.zernico.de
 0.0.0.0 doh.zknt.org
 0.0.0.0 zougloub.eu
+0.0.0.0 dns.zui.lol
 0.0.0.0 dns.zzuhacker.cn

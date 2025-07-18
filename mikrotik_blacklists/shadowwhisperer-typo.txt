@@ -712,7 +712,6 @@
 0.0.0.0 abrnesandnoble.com
 0.0.0.0 abttle.net
 0.0.0.0 abvg.com
-0.0.0.0 abvira.com
 0.0.0.0 abvira.de
 0.0.0.0 acbelas.com
 0.0.0.0 accountsmicrosoft.com
@@ -1705,41 +1704,32 @@
 0.0.0.0 alibaba-com.com
 0.0.0.0 alibabacom.com
 0.0.0.0 alibaba.om
-0.0.0.0 alibabaq.com
 0.0.0.0 alibabas.com
-0.0.0.0 alibabaw.com
 0.0.0.0 alibabax.com
 0.0.0.0 alibabaz.com
 0.0.0.0 alibabba.com
 0.0.0.0 alibab.com
 0.0.0.0 alibabga.com
-0.0.0.0 alibabha.com
 0.0.0.0 alibabna.com
 0.0.0.0 alibabo.com
-0.0.0.0 alibabqa.com
 0.0.0.0 alibabq.com
 0.0.0.0 alibabsa.com
 0.0.0.0 alibabs.com
 0.0.0.0 alibabva.com
 0.0.0.0 alibabwa.com
-0.0.0.0 alibabw.com
 0.0.0.0 alibabxa.com
 0.0.0.0 alibabx.com
 0.0.0.0 alibabza.com
 0.0.0.0 alibabz.com
 0.0.0.0 alibaga.com
-0.0.0.0 alibagba.com
 0.0.0.0 alibaha.com
-0.0.0.0 alibahba.com
 0.0.0.0 alibana.com
 0.0.0.0 alibanba.com
-0.0.0.0 alibaqba.com
 0.0.0.0 alibasba.com
 0.0.0.0 alibava.com
 0.0.0.0 alibavba.com
 0.0.0.0 alibawba.com
 0.0.0.0 alibaxba.com
-0.0.0.0 alibazba.com
 0.0.0.0 alibbaa.com
 0.0.0.0 alibbaba.com
 0.0.0.0 alibba.com
@@ -1747,16 +1737,11 @@
 0.0.0.0 alibhaba.com
 0.0.0.0 alibnaba.com
 0.0.0.0 aliboba.com
-0.0.0.0 alibqaba.com
-0.0.0.0 alibqba.com
 0.0.0.0 alibsaba.com
 0.0.0.0 alibsba.com
 0.0.0.0 alibvaba.com
-0.0.0.0 alibwaba.com
-0.0.0.0 alibwba.com
 0.0.0.0 alibxaba.com
 0.0.0.0 alibxba.com
-0.0.0.0 alibzaba.com
 0.0.0.0 alibzba.com
 0.0.0.0 alidexpress.com
 0.0.0.0 alidxpress.com
@@ -1825,7 +1810,6 @@
 0.0.0.0 aliexpresd.com
 0.0.0.0 aliexpresds.com
 0.0.0.0 aliexprese.com
-0.0.0.0 aliexpreses.com
 0.0.0.0 aliexpresq.com
 0.0.0.0 aliexpressa.com
 0.0.0.0 aliexpress.cm
@@ -1850,9 +1834,7 @@
 0.0.0.0 aliexpreszs.com
 0.0.0.0 aliexprews.com
 0.0.0.0 aliexprewss.com
-0.0.0.0 aliexprexs.com
 0.0.0.0 aliexprexss.com
-0.0.0.0 aliexprezs.com
 0.0.0.0 aliexprezss.com
 0.0.0.0 aliexprfess.com
 0.0.0.0 aliexprfss.com
@@ -1879,7 +1861,6 @@
 0.0.0.0 alifexpress.com
 0.0.0.0 alifxpress.com
 0.0.0.0 aligbaba.com
-0.0.0.0 alihaba.com
 0.0.0.0 aliibaba.com
 0.0.0.0 aliiexpress.com
 0.0.0.0 alijbaba.com
@@ -1912,7 +1893,6 @@
 0.0.0.0 aljstate.com
 0.0.0.0 alkbaba.com
 0.0.0.0 alkexpress.com
-0.0.0.0 alkibaba.com
 0.0.0.0 alkiexpress.com
 0.0.0.0 alklstate.com
 0.0.0.0 alkstate.com
@@ -7932,7 +7912,6 @@
 0.0.0.0 amtfam.com
 0.0.0.0 amuca.com
 0.0.0.0 amuica.com
-0.0.0.0 amvam.com
 0.0.0.0 amvfam.com
 0.0.0.0 amwazon.com
 0.0.0.0 amwazon.com.au
@@ -8069,7 +8048,6 @@
 0.0.0.0 andro9d.com
 0.0.0.0 andro9id.com
 0.0.0.0 androd.com
-0.0.0.0 androdi.com
 0.0.0.0 androi8d.com
 0.0.0.0 androi9d.com
 0.0.0.0 androic.com
@@ -8088,7 +8066,6 @@
 0.0.0.0 androidx.com
 0.0.0.0 androie.com
 0.0.0.0 androied.com
-0.0.0.0 androif.com
 0.0.0.0 androifd.com
 0.0.0.0 androiid.com
 0.0.0.0 androijd.com
@@ -8114,7 +8091,6 @@
 0.0.0.0 andropid.com
 0.0.0.0 androud.com
 0.0.0.0 androuid.com
-0.0.0.0 andrpid.com
 0.0.0.0 andrpoid.com
 0.0.0.0 andrroid.com
 0.0.0.0 andrtoid.com
@@ -8372,7 +8348,6 @@
 0.0.0.0 anrroid.com
 0.0.0.0 ansai-airport.or.jp
 0.0.0.0 ansdroid.com
-0.0.0.0 ansroid.com
 0.0.0.0 antgieslist.com
 0.0.0.0 antieslist.com
 0.0.0.0 antionalgeographic.com
@@ -8420,7 +8395,6 @@
 0.0.0.0 a-ple-dns.net
 0.0.0.0 ap-le-dns.net
 0.0.0.0 aple-dns.net
-0.0.0.0 aplibaba.com
 0.0.0.0 apliexpress.com
 0.0.0.0 aplle-dns.net
 0.0.0.0 apllstate.com
@@ -8455,7 +8429,6 @@
 0.0.0.0 appl3-dns.net
 0.0.0.0 appl3e.com
 0.0.0.0 appl3e-dns.net
-0.0.0.0 appl4.com
 0.0.0.0 appl4-dns.net
 0.0.0.0 appl4e.com
 0.0.0.0 appl4e-dns.net
@@ -8606,7 +8579,6 @@
 0.0.0.0 aqdobe.com
 0.0.0.0 aqeropuertomadrid-barajas.com
 0.0.0.0 aqircanada.com
-0.0.0.0 aqlibaba.com
 0.0.0.0 aqliexpress.com
 0.0.0.0 aqllstate.com
 0.0.0.0 aqmazon.com
@@ -8658,7 +8630,6 @@
 0.0.0.0 arcchive.org
 0.0.0.0 arcdhive.org
 0.0.0.0 arcfhive.org
-0.0.0.0 arcghive.org
 0.0.0.0 arcgive.org
 0.0.0.0 arch1ve.org
 0.0.0.0 arch8ive.org
@@ -8985,7 +8956,6 @@
 0.0.0.0 atrget.com
 0.0.0.0 atrt.com
 0.0.0.0 atspace.c0.uk
-0.0.0.0 att5.com
 0.0.0.0 att6.com
 0.0.0.0 att.cm
 0.0.0.0 att.co
@@ -9229,10 +9199,8 @@
 0.0.0.0 av9ra.de
 0.0.0.0 avb.com
 0.0.0.0 avbg.com
-0.0.0.0 avbira.com
 0.0.0.0 avbira.de
 0.0.0.0 avcg.com
-0.0.0.0 avcira.com
 0.0.0.0 avcira.de
 0.0.0.0 av.com
 0.0.0.0 avf.com
@@ -9387,7 +9355,6 @@
 0.0.0.0 avt.com
 0.0.0.0 avtg.com
 0.0.0.0 avto-owners.com
-0.0.0.0 avuira.com
 0.0.0.0 avuira.de
 0.0.0.0 avura.com
 0.0.0.0 avura.de
@@ -12930,7 +12897,6 @@
 0.0.0.0 cabeias.com
 0.0.0.0 cabejas.com
 0.0.0.0 cabekas.com
-0.0.0.0 cabeklas.com
 0.0.0.0 cabela5.com
 0.0.0.0 cabelaa.com
 0.0.0.0 cabelaas.com
@@ -13960,7 +13926,6 @@
 0.0.0.0 cbase.com
 0.0.0.0 cbasnews.com
 0.0.0.0 cbbs.com
-0.0.0.0 cbbsnews.com
 0.0.0.0 cbdnews.com
 0.0.0.0 cbdsnews.com
 0.0.0.0 cbelas.com
@@ -15136,7 +15101,6 @@
 0.0.0.0 chqse.com
 0.0.0.0 chragslist.com
 0.0.0.0 chrengdu-airport.net
-0.0.0.0 chrevy.com
 0.0.0.0 chrngdu-airport.net
 0.0.0.0 chrvy.com
 0.0.0.0 chsae.com
@@ -16869,7 +16833,6 @@
 0.0.0.0 crzaigslist.com
 0.0.0.0 crzigslist.com
 0.0.0.0 cs8sheldon.com
-0.0.0.0 csabelas.com
 0.0.0.0 csabsheldon.com
 0.0.0.0 csallofduty.com
 0.0.0.0 csam.ac.uk
@@ -17101,7 +17064,6 @@
 0.0.0.0 cutibank.com
 0.0.0.0 cuti.com
 0.0.0.0 cutigroup.com
-0.0.0.0 cvabelas.com
 0.0.0.0 cvallofduty.com
 0.0.0.0 cvam.ac.uk
 0.0.0.0 cvambridge.org
@@ -17148,7 +17110,6 @@
 0.0.0.0 cwpitalone.com
 0.0.0.0 cwrtoonnetwork.com
 0.0.0.0 cwsbsheldon.com
-0.0.0.0 cxabelas.com
 0.0.0.0 cxallofduty.com
 0.0.0.0 cxam.ac.uk
 0.0.0.0 cxambridge.org
@@ -17254,7 +17215,6 @@
 0.0.0.0 d1scord.media
 0.0.0.0 d1scovercard.com
 0.0.0.0 d1scover.com
-0.0.0.0 d1scovery.com
 0.0.0.0 d1sney1and.com
 0.0.0.0 d1sney.com
 0.0.0.0 d1sneyland.com
@@ -17745,7 +17705,6 @@
 0.0.0.0 de1lspareparts.co.uk
 0.0.0.0 de1ta.com
 0.0.0.0 de3bian.org
-0.0.0.0 de3ll.com
 0.0.0.0 de3troitnews.com
 0.0.0.0 de4bian.org
 0.0.0.0 de4ll.com
@@ -18760,7 +18719,6 @@
 0.0.0.0 diqneyworld.com
 0.0.0.0 diqtrowatch.com
 0.0.0.0 dired.com
-0.0.0.0 dired.co.uk
 0.0.0.0 direfox.com
 0.0.0.0 dis5rowatch.com
 0.0.0.0 dis5trowatch.com
@@ -18989,7 +18947,6 @@
 0.0.0.0 discogsd.com
 0.0.0.0 discogse.com
 0.0.0.0 discogs.om
-0.0.0.0 discogss.com
 0.0.0.0 discogsw.com
 0.0.0.0 discogsx.com
 0.0.0.0 discogsz.com
@@ -19114,7 +19071,6 @@
 0.0.0.0 discordzapp.com
 0.0.0.0 discordzpp.com
 0.0.0.0 discoreapp.com
-0.0.0.0 discore.com
 0.0.0.0 discoredapp.com
 0.0.0.0 discored.com
 0.0.0.0 discored.media
@@ -20455,7 +20411,6 @@
 0.0.0.0 dlscord.media
 0.0.0.0 dlscovercard.com
 0.0.0.0 dlscover.com
-0.0.0.0 dlscovery.com
 0.0.0.0 dlsney.com
 0.0.0.0 dlsneyland.com
 0.0.0.0 dlsneyplus.com
@@ -20755,7 +20710,6 @@
 0.0.0.0 doiscord.com
 0.0.0.0 doiscord.media
 0.0.0.0 doiscovercard.com
-0.0.0.0 doiscover.com
 0.0.0.0 doiscovery.com
 0.0.0.0 doisney.com
 0.0.0.0 doisneyland.com
@@ -21379,7 +21333,6 @@
 0.0.0.0 duckducktgo.com
 0.0.0.0 duckduckto.com
 0.0.0.0 duckduckvgo.com
-0.0.0.0 duckduckvo.com
 0.0.0.0 duckduckygo.com
 0.0.0.0 duckduckyo.com
 0.0.0.0 duckduclgo.com
@@ -21415,7 +21368,6 @@
 0.0.0.0 duckeduckgo.com
 0.0.0.0 duckeuckgo.com
 0.0.0.0 duckfduckgo.com
-0.0.0.0 duckfuckgo.com
 0.0.0.0 duckiduckgo.com
 0.0.0.0 duckjduckgo.com
 0.0.0.0 duckkduckgo.com
@@ -21489,7 +21441,6 @@
 0.0.0.0 duvaiairports.ae
 0.0.0.0 duvbaiairports.ae
 0.0.0.0 duvckduckgo.com
-0.0.0.0 duvkduckgo.com
 0.0.0.0 duxckduckgo.com
 0.0.0.0 duxkduckgo.com
 0.0.0.0 duybaiairports.ae
@@ -22012,7 +21963,6 @@
 0.0.0.0 edwardjpones.com
 0.0.0.0 edwardjuones.com
 0.0.0.0 edwardkjones.com
-0.0.0.0 edwardkones.com
 0.0.0.0 edwardlones.com
 0.0.0.0 edwardmjones.com
 0.0.0.0 edwardmones.com
@@ -22788,7 +22738,6 @@
 0.0.0.0 espncricinfoo.com
 0.0.0.0 espncricinfo.om
 0.0.0.0 espncricinfop.com
-0.0.0.0 espncricinfp.com
 0.0.0.0 espncricinfpo.com
 0.0.0.0 espncricinfro.com
 0.0.0.0 espncricinfto.com
@@ -23191,7 +23140,6 @@
 0.0.0.0 face8ook.com
 0.0.0.0 faceb0ook.com
 0.0.0.0 faceb9ok.com
-0.0.0.0 faceb9ook.com
 0.0.0.0 facebaok.com
 0.0.0.0 facebbook.com
 0.0.0.0 facebgok.com
@@ -23547,7 +23495,6 @@
 0.0.0.0 farrmers.com
 0.0.0.0 farrners.com
 0.0.0.0 fartmers.com
-0.0.0.0 fartoonnetwork.com
 0.0.0.0 fascebook.com
 0.0.0.0 fasebook.com
 0.0.0.0 fashlane.com
@@ -23653,7 +23600,6 @@
 0.0.0.0 fdn-apple.com
 0.0.0.0 fdohahamadairport.com
 0.0.0.0 fdontier.com
-0.0.0.0 fdord.com
 0.0.0.0 fdoxnews.com
 0.0.0.0 fdrankfurt-airport.com
 0.0.0.0 fdrontier.com
@@ -23727,7 +23673,6 @@
 0.0.0.0 fefdex.com
 0.0.0.0 fefex.com
 0.0.0.0 feico.com
-0.0.0.0 felegram.me
 0.0.0.0 felegram.org
 0.0.0.0 fell.com
 0.0.0.0 fengadget.com
@@ -23812,7 +23757,6 @@
 0.0.0.0 fgoogle.sk
 0.0.0.0 fgoogle.sm
 0.0.0.0 fgoogleusercontent.com
-0.0.0.0 fgord.com
 0.0.0.0 fgoxnews.com
 0.0.0.0 fgrankfurt-airport.com
 0.0.0.0 fgrd.com
@@ -24927,7 +24871,6 @@
 0.0.0.0 fosxnews.com
 0.0.0.0 fotbit.com
 0.0.0.0 fotd.com
-0.0.0.0 fotrd.com
 0.0.0.0 fottentomatoes.com
 0.0.0.0 founter-strike.net
 0.0.0.0 foxbews.com
@@ -25037,7 +24980,6 @@
 0.0.0.0 fplychicago.com
 0.0.0.0 fplydenver.com
 0.0.0.0 fplysfo.com
-0.0.0.0 fpord.com
 0.0.0.0 fpoxnews.com
 0.0.0.0 fprd.com
 0.0.0.0 fpson.com
@@ -25489,8 +25431,6 @@
 0.0.0.0 frontiert.com
 0.0.0.0 frontiesr.com
 0.0.0.0 frontiet.com
-0.0.0.0 frontietr.com
-0.0.0.0 frontiewr.com
 0.0.0.0 frontifer.com
 0.0.0.0 frontifr.com
 0.0.0.0 frontiier.com
@@ -25504,8 +25444,6 @@
 0.0.0.0 frontirr.com
 0.0.0.0 frontiser.com
 0.0.0.0 frontisr.com
-0.0.0.0 frontiuer.com
-0.0.0.0 frontiwer.com
 0.0.0.0 frontiwr.com
 0.0.0.0 frontjer.com
 0.0.0.0 frontjier.com
@@ -27077,7 +27015,6 @@
 0.0.0.0 ggrinnellmutual.com
 0.0.0.0 ggsmarena.com
 0.0.0.0 gguangzhouairportonline.com
-0.0.0.0 ggunbroker.com
 0.0.0.0 ghamestop.com
 0.0.0.0 ghangzhouairportonline.com
 0.0.0.0 gharvard.edu
@@ -27094,7 +27031,6 @@
 0.0.0.0 ghmail.com
 0.0.0.0 ghnbroker.com
 0.0.0.0 ghodaddy.com
-0.0.0.0 ghofundme.com
 0.0.0.0 gholdmansachs.com
 0.0.0.0 ghomedepot.com
 0.0.0.0 ghongkongairport.com
@@ -29781,7 +29717,6 @@
 0.0.0.0 googfle.it
 0.0.0.0 googfle.nl
 0.0.0.0 googfle.no
-0.0.0.0 googfle.pl
 0.0.0.0 googfle.pt
 0.0.0.0 googfle.ro
 0.0.0.0 googfle.rs
@@ -29928,7 +29863,6 @@
 0.0.0.0 googie.co.in
 0.0.0.0 googie.co.jp
 0.0.0.0 googie.co.ke
-0.0.0.0 googie.co.kr
 0.0.0.0 googie.com
 0.0.0.0 googie.co.ma
 0.0.0.0 googie.com.ar
@@ -34891,7 +34825,6 @@
 0.0.0.0 hdfc8ank.com
 0.0.0.0 hdfcabnk.com
 0.0.0.0 hdfcank.com
-0.0.0.0 hdfcbaank.com
 0.0.0.0 hdfcbabk.com
 0.0.0.0 hdfcbahk.com
 0.0.0.0 hdfcbahnk.com
@@ -34914,9 +34847,7 @@
 0.0.0.0 hdfcbank-com.com
 0.0.0.0 hdfcbankcom.com
 0.0.0.0 hdfcbanki.com
-0.0.0.0 hdfcbankj.com
 0.0.0.0 hdfcbankk.com
-0.0.0.0 hdfcbankl.com
 0.0.0.0 hdfcbankm.com
 0.0.0.0 hdfcbanko.com
 0.0.0.0 hdfcbank.om
@@ -34929,7 +34860,6 @@
 0.0.0.0 hdfcbanok.com
 0.0.0.0 hdfcbanu.com
 0.0.0.0 hdfcbaqnk.com
-0.0.0.0 hdfcbasnk.com
 0.0.0.0 hdfcbawnk.com
 0.0.0.0 hdfcbaxnk.com
 0.0.0.0 hdfcbaznk.com
@@ -34951,7 +34881,6 @@
 0.0.0.0 hdfcbxnk.com
 0.0.0.0 hdfcbzank.com
 0.0.0.0 hdfcbznk.com
-0.0.0.0 hdfccbank.com
 0.0.0.0 hdfcdbank.com
 0.0.0.0 hdfcfbank.com
 0.0.0.0 hdfcgank.com
@@ -35208,7 +35137,6 @@
 0.0.0.0 hguntingtonbank.com
 0.0.0.0 hguse.gov
 0.0.0.0 hharvard.edu
-0.0.0.0 hhdfcbank.com
 0.0.0.0 hheathrow.com
 0.0.0.0 hheatlantic.com
 0.0.0.0 hheguardian.com
@@ -35857,7 +35785,6 @@
 0.0.0.0 honhkongairport.com
 0.0.0.0 honjgkongairport.com
 0.0.0.0 honkgongairport.com
-0.0.0.0 honkongairport.com
 0.0.0.0 honmedepot.com
 0.0.0.0 honmgkongairport.com
 0.0.0.0 honngkongairport.com
@@ -36048,7 +35975,6 @@
 0.0.0.0 hotmasil.com
 0.0.0.0 hotmauil.com
 0.0.0.0 hotmaul.com
-0.0.0.0 hotmawil.com
 0.0.0.0 hotmaxil.com
 0.0.0.0 hotmazil.com
 0.0.0.0 hotmial.com
@@ -36991,7 +36917,6 @@
 0.0.0.0 httpsthesaurus.com
 0.0.0.0 httpsthunderbird.net
 0.0.0.0 httpsticketmaster.com
-0.0.0.0 httpstime.com
 0.0.0.0 httpstokyo-haneda.com
 0.0.0.0 httpstomtom.com
 0.0.0.0 httpstoshiba.com
@@ -37429,7 +37354,6 @@
 0.0.0.0 humana-com.com
 0.0.0.0 humanacom.com
 0.0.0.0 humana.om
-0.0.0.0 humanaq.com
 0.0.0.0 humanas.com
 0.0.0.0 humanaw.com
 0.0.0.0 humanax.com
@@ -37445,7 +37369,6 @@
 0.0.0.0 humanq.com
 0.0.0.0 humansa.com
 0.0.0.0 humans.com
-0.0.0.0 humanwa.com
 0.0.0.0 humanw.com
 0.0.0.0 humanxa.com
 0.0.0.0 humanx.com
@@ -37493,7 +37416,6 @@
 0.0.0.0 humblebjundle.com
 0.0.0.0 humblebkndle.com
 0.0.0.0 humblebkundle.com
-0.0.0.0 humblebndle.com
 0.0.0.0 humblebnudle.com
 0.0.0.0 humblebnundle.com
 0.0.0.0 humblebu7ndle.com
@@ -37551,11 +37473,9 @@
 0.0.0.0 humblebundlle.com
 0.0.0.0 humblebundloe.com
 0.0.0.0 humblebundlpe.com
-0.0.0.0 humblebundlr.com
 0.0.0.0 humblebundlre.com
 0.0.0.0 humblebundls.com
 0.0.0.0 humblebundlse.com
-0.0.0.0 humblebundlw.com
 0.0.0.0 humblebundlwe.com
 0.0.0.0 humblebundoe.com
 0.0.0.0 humblebundole.com
@@ -37578,7 +37498,6 @@
 0.0.0.0 humblebunrdle.com
 0.0.0.0 humblebunrle.com
 0.0.0.0 humblebunsdle.com
-0.0.0.0 humblebunsle.com
 0.0.0.0 humblebunwle.com
 0.0.0.0 humblebunxdle.com
 0.0.0.0 humblebunxle.com
@@ -38020,7 +37939,6 @@
 0.0.0.0 ibnstagram.com
 0.0.0.0 ibnt.com
 0.0.0.0 ibntel.com
-0.0.0.0 ibntuit.com
 0.0.0.0 ibstagram.com
 0.0.0.0 ibtel.com
 0.0.0.0 ibtuit.com
@@ -38067,8 +37985,6 @@
 0.0.0.0 icicibak.com
 0.0.0.0 icicibakn.com
 0.0.0.0 icicibamk.com
-0.0.0.0 icicibamnk.com
-0.0.0.0 icicibanbk.com
 0.0.0.0 icicibanc.com
 0.0.0.0 iciciban.com
 0.0.0.0 icicibanhk.com
@@ -38089,7 +38005,6 @@
 0.0.0.0 icicibanko.com
 0.0.0.0 icicibank.om
 0.0.0.0 icicibanl.com
-0.0.0.0 icicibanlk.com
 0.0.0.0 icicibanm.com
 0.0.0.0 icicibanmk.com
 0.0.0.0 icicibannk.com
@@ -38097,7 +38012,6 @@
 0.0.0.0 icicibanok.com
 0.0.0.0 icicibanu.com
 0.0.0.0 icicibaqnk.com
-0.0.0.0 icicibasnk.com
 0.0.0.0 icicibawnk.com
 0.0.0.0 icicibaxnk.com
 0.0.0.0 icicibaznk.com
@@ -38223,7 +38137,6 @@
 0.0.0.0 iclouf.com
 0.0.0.0 icloufd.com
 0.0.0.0 iclouhd.com
-0.0.0.0 iclouid.com
 0.0.0.0 icloujd.com
 0.0.0.0 icloukd.com
 0.0.0.0 iclour.com
@@ -39065,7 +38978,6 @@
 0.0.0.0 ingrfammicro.com
 0.0.0.0 ingrgammicro.com
 0.0.0.0 ingrmamicro.com
-0.0.0.0 ingrmmicro.com
 0.0.0.0 ingrommicro.com
 0.0.0.0 ingrqammicro.com
 0.0.0.0 ingrqmmicro.com
@@ -39182,7 +39094,6 @@
 0.0.0.0 instagr5am.com
 0.0.0.0 instagraam.com
 0.0.0.0 instagra.com
-0.0.0.0 instagraj.com
 0.0.0.0 instagrajm.com
 0.0.0.0 instagrak.com
 0.0.0.0 instagrakm.com
@@ -39299,7 +39210,6 @@
 0.0.0.0 intell.com
 0.0.0.0 intelo.com
 0.0.0.0 intel.om
-0.0.0.0 intelp.com
 0.0.0.0 inteo.com
 0.0.0.0 inteol.com
 0.0.0.0 intep.com
@@ -39322,7 +39232,6 @@
 0.0.0.0 intit.com
 0.0.0.0 intiuit.com
 0.0.0.0 intiut.com
-0.0.0.0 intjit.com
 0.0.0.0 intjuit.com
 0.0.0.0 intkit.com
 0.0.0.0 intkuit.com
@@ -39364,7 +39273,6 @@
 0.0.0.0 intuilt.com
 0.0.0.0 intuiot.com
 0.0.0.0 intuir.com
-0.0.0.0 intuirt.com
 0.0.0.0 intuit5.com
 0.0.0.0 intuit6.com
 0.0.0.0 intuit.cm
@@ -40055,7 +39963,6 @@
 0.0.0.0 irishtimers.com
 0.0.0.0 irishtimesa.com
 0.0.0.0 irishtimes.cm
-0.0.0.0 irishtimes.co
 0.0.0.0 irishtimes-com.com
 0.0.0.0 irishtimescom.com
 0.0.0.0 irishtimesd.com
@@ -40330,7 +40237,6 @@
 0.0.0.0 jaiserpermanente.org
 0.0.0.0 jajorgeeks.com
 0.0.0.0 jale.edu
-0.0.0.0 jalwarebytes.com
 0.0.0.0 jansai-airport.or.jp
 0.0.0.0 japquest.com
 0.0.0.0 jarita-airport.jp
@@ -40373,7 +40279,6 @@
 0.0.0.0 jcpdnney.com
 0.0.0.0 jcpe3nney.com
 0.0.0.0 jcpe4nney.com
-0.0.0.0 jcpebney.com
 0.0.0.0 jcpebnney.com
 0.0.0.0 jcpednney.com
 0.0.0.0 jcpeenney.com
@@ -41005,8 +40910,6 @@
 0.0.0.0 ka9serpermanente.org
 0.0.0.0 kaaiserpermanente.org
 0.0.0.0 kaansai-airport.or.jp
-0.0.0.0 kaapersky.com
-0.0.0.0 kaaspersky.com
 0.0.0.0 kabelas.com
 0.0.0.0 kabnsai-airport.or.jp
 0.0.0.0 kabsai-airport.or.jp
@@ -41288,7 +41191,6 @@
 0.0.0.0 kaliserpermanente.org
 0.0.0.0 kallofduty.com
 0.0.0.0 kalserpermanente.org
-0.0.0.0 kalwarebytes.com
 0.0.0.0 kam.ac.uk
 0.0.0.0 kambridge.org
 0.0.0.0 kamnsai-airport.or.jp
@@ -41642,7 +41544,6 @@
 0.0.0.0 kasperseky.com
 0.0.0.0 kaspersiky.com
 0.0.0.0 kaspersiy.com
-0.0.0.0 kaspersjky.com
 0.0.0.0 kaspersjy.com
 0.0.0.0 kaspersk6.com
 0.0.0.0 kaspersk6y.com
@@ -41663,9 +41564,7 @@
 0.0.0.0 kasperskoy.com
 0.0.0.0 kasperskq.com
 0.0.0.0 kasperskt.com
-0.0.0.0 kasperskty.com
 0.0.0.0 kaspersku.com
-0.0.0.0 kasperskuy.com
 0.0.0.0 kaspersky6.com
 0.0.0.0 kaspersky7.com
 0.0.0.0 kaspersky.cm
@@ -41689,7 +41588,6 @@
 0.0.0.0 kaspersmy.com
 0.0.0.0 kaspersoky.com
 0.0.0.0 kaspersoy.com
-0.0.0.0 kasperssky.com
 0.0.0.0 kaspersuy.com
 0.0.0.0 kasperswky.com
 0.0.0.0 kaspersxky.com
@@ -42344,7 +42242,6 @@
 0.0.0.0 klaiserpermanente.org
 0.0.0.0 klansai-airport.or.jp
 0.0.0.0 klaspersky.com
-0.0.0.0 klastpass.com
 0.0.0.0 klatimes.com
 0.0.0.0 klckstarter.com
 0.0.0.0 kleloland.com
@@ -42423,7 +42320,6 @@
 0.0.0.0 kmart.co
 0.0.0.0 kmartc.om
 0.0.0.0 kmart-com.com
-0.0.0.0 kmartcom.com
 0.0.0.0 kmartf.com
 0.0.0.0 kmartg.com
 0.0.0.0 kmarth.com
@@ -42521,7 +42417,6 @@
 0.0.0.0 kohl.com
 0.0.0.0 kohld.com
 0.0.0.0 kohlds.com
-0.0.0.0 kohle.com
 0.0.0.0 kohles.com
 0.0.0.0 kohlks.com
 0.0.0.0 kohlls.com
@@ -42751,8 +42646,6 @@
 0.0.0.0 la6times.com
 0.0.0.0 laastpass.com
 0.0.0.0 laatimes.com
-0.0.0.0 laatpass.com
-0.0.0.0 ladstpass.com
 0.0.0.0 ladtpass.com
 0.0.0.0 laestpass.com
 0.0.0.0 laetpass.com
@@ -42779,7 +42672,6 @@
 0.0.0.0 landora.com
 0.0.0.0 lansai-airport.or.jp
 0.0.0.0 laobao.com
-0.0.0.0 laqstpass.com
 0.0.0.0 laqtimes.com
 0.0.0.0 laqtpass.com
 0.0.0.0 larget.com
@@ -42790,12 +42682,9 @@
 0.0.0.0 las5tpass.com
 0.0.0.0 las6pass.com
 0.0.0.0 las6tpass.com
-0.0.0.0 lasatpass.com
-0.0.0.0 lasdtpass.com
 0.0.0.0 lasetpass.com
 0.0.0.0 lasfpass.com
 0.0.0.0 lasftpass.com
-0.0.0.0 lasgpass.com
 0.0.0.0 lasgtpass.com
 0.0.0.0 lashpass.com
 0.0.0.0 lashtpass.com
@@ -42804,14 +42693,12 @@
 0.0.0.0 laspersky.com
 0.0.0.0 lasptass.com
 0.0.0.0 lasrpass.com
-0.0.0.0 lasrtpass.com
 0.0.0.0 lasstpass.com
 0.0.0.0 last0ass.com
 0.0.0.0 last0pass.com
 0.0.0.0 last5pass.com
 0.0.0.0 last6pass.com
 0.0.0.0 lastapss.com
-0.0.0.0 last-ass.com
 0.0.0.0 lastass.com
 0.0.0.0 lastebin.com
 0.0.0.0 lastfpass.com
@@ -42821,27 +42708,20 @@
 0.0.0.0 lastlass.com
 0.0.0.0 lastlpass.com
 0.0.0.0 lastoass.com
-0.0.0.0 lastopass.com
 0.0.0.0 lastp0ass.com
 0.0.0.0 lastpa5s.com
 0.0.0.0 lastpaas.com
 0.0.0.0 lastpaass.com
-0.0.0.0 lastpads.com
-0.0.0.0 lastpadss.com
 0.0.0.0 lastpaes.com
 0.0.0.0 lastpaess.com
 0.0.0.0 lastpaqs.com
-0.0.0.0 lastpaqss.com
 0.0.0.0 lastpas5.com
 0.0.0.0 lastpasa.com
-0.0.0.0 lastpasas.com
 0.0.0.0 lastpas.com
 0.0.0.0 lastpasd.com
-0.0.0.0 lastpasds.com
 0.0.0.0 lastpase.com
 0.0.0.0 lastpases.com
 0.0.0.0 lastpasq.com
-0.0.0.0 lastpassa.com
 0.0.0.0 lastpass.cm
 0.0.0.0 lastpass.co
 0.0.0.0 last-pass.com
@@ -42849,48 +42729,34 @@
 0.0.0.0 lastpassc.om
 0.0.0.0 lastpass-com.com
 0.0.0.0 lastpasscom.com
-0.0.0.0 lastpassd.com
 0.0.0.0 lastpasse.com
 0.0.0.0 lastpass.om
 0.0.0.0 lastpasss.com
 0.0.0.0 lastpassw.com
 0.0.0.0 lastpassx.com
 0.0.0.0 lastpassz.com
-0.0.0.0 lastpasw.com
 0.0.0.0 lastpasws.com
-0.0.0.0 lastpasx.com
 0.0.0.0 lastpasxs.com
-0.0.0.0 lastpasz.com
 0.0.0.0 lastpaszs.com
 0.0.0.0 lastpaws.com
 0.0.0.0 lastpawss.com
-0.0.0.0 lastpaxs.com
 0.0.0.0 lastpaxss.com
-0.0.0.0 lastpazs.com
 0.0.0.0 lastpazss.com
 0.0.0.0 lastplass.com
-0.0.0.0 lastpoass.com
 0.0.0.0 lastposs.com
 0.0.0.0 lastppass.com
-0.0.0.0 lastpqass.com
 0.0.0.0 lastpqss.com
 0.0.0.0 lastpsas.com
-0.0.0.0 lastpsass.com
 0.0.0.0 lastpss.com
-0.0.0.0 lastpsss.com
 0.0.0.0 lastpwass.com
-0.0.0.0 lastpwss.com
 0.0.0.0 lastpxass.com
 0.0.0.0 lastpxss.com
 0.0.0.0 lastpzass.com
-0.0.0.0 lastpzss.com
 0.0.0.0 lastrpass.com
 0.0.0.0 lasttpass.com
-0.0.0.0 lastypass.com
 0.0.0.0 laswtpass.com
 0.0.0.0 lasxtpass.com
 0.0.0.0 lasypass.com
-0.0.0.0 lasytpass.com
 0.0.0.0 lasztpass.com
 0.0.0.0 lat1mes.com
 0.0.0.0 lat5imes.com
@@ -42982,22 +42848,18 @@
 0.0.0.0 latspass.com
 0.0.0.0 lattimes.com
 0.0.0.0 latuimes.com
-0.0.0.0 latumes.com
 0.0.0.0 latyimes.com
 0.0.0.0 lawes.com
 0.0.0.0 lawstpass.com
 0.0.0.0 lawtimes.com
-0.0.0.0 lawtpass.com
 0.0.0.0 laxstpass.com
 0.0.0.0 laxtimes.com
-0.0.0.0 laxtpass.com
 0.0.0.0 layimes.com
 0.0.0.0 laypal.com
 0.0.0.0 laystation.com
 0.0.0.0 laytimes.com
 0.0.0.0 lazstpass.com
 0.0.0.0 laztimes.com
-0.0.0.0 laztpass.com
 0.0.0.0 lbertymutual.com
 0.0.0.0 lbiertymutual.com
 0.0.0.0 lbizzard.com
@@ -43181,13 +43043,11 @@
 0.0.0.0 libertymutuai.com
 0.0.0.0 libertymutuaj.com
 0.0.0.0 libertymutuak.com
-0.0.0.0 libertymutuakl.com
 0.0.0.0 libertymutual.cm
 0.0.0.0 libertymutual.co
 0.0.0.0 libertymutualc.om
 0.0.0.0 libertymutual-com.com
 0.0.0.0 libertymutualcom.com
-0.0.0.0 libertymutualk.com
 0.0.0.0 libertymutuall.com
 0.0.0.0 libertymutualo.com
 0.0.0.0 libertymutual.om
@@ -43197,7 +43057,6 @@
 0.0.0.0 libertymutuap.com
 0.0.0.0 libertymutuapl.com
 0.0.0.0 libertymutuaql.com
-0.0.0.0 libertymutuasl.com
 0.0.0.0 libertymutuat.com
 0.0.0.0 libertymutuawl.com
 0.0.0.0 libertymutuaxl.com
@@ -43211,7 +43070,6 @@
 0.0.0.0 libertymutuol.com
 0.0.0.0 libertymutuqal.com
 0.0.0.0 libertymutuql.com
-0.0.0.0 libertymutusal.com
 0.0.0.0 libertymutusl.com
 0.0.0.0 libertymutuual.com
 0.0.0.0 libertymutuwal.com
@@ -43555,7 +43413,6 @@
 0.0.0.0 linkrdin.com
 0.0.0.0 linkredin.com
 0.0.0.0 linksdin.com
-0.0.0.0 linksedin.com
 0.0.0.0 linkwdin.com
 0.0.0.0 linkwedin.com
 0.0.0.0 linkxmint.com
@@ -43687,7 +43544,6 @@
 0.0.0.0 livertymutual.com
 0.0.0.0 lives.com
 0.0.0.0 livew.com
-0.0.0.0 livew.net
 0.0.0.0 livf.com
 0.0.0.0 livfe.com
 0.0.0.0 livfelock.com
@@ -43733,7 +43589,6 @@
 0.0.0.0 lkaiserpermanente.org
 0.0.0.0 lkansai-airport.or.jp
 0.0.0.0 lkaspersky.com
-0.0.0.0 lkastpass.com
 0.0.0.0 lkatimes.com
 0.0.0.0 lkbertymutual.com
 0.0.0.0 lkea.com
@@ -43847,7 +43702,6 @@
 0.0.0.0 logilech.com
 0.0.0.0 logiltech.com
 0.0.0.0 logiotech.com
-0.0.0.0 logirech.com
 0.0.0.0 logirtech.com
 0.0.0.0 logit0ch.com
 0.0.0.0 logit3ch.com
@@ -43903,7 +43757,6 @@
 0.0.0.0 logitekh.com
 0.0.0.0 logitesch.com
 0.0.0.0 logitevch.com
-0.0.0.0 logitevh.com
 0.0.0.0 logitewch.com
 0.0.0.0 logitexch.com
 0.0.0.0 logitexh.com
@@ -43916,7 +43769,6 @@
 0.0.0.0 logitsch.com
 0.0.0.0 logitsech.com
 0.0.0.0 logittech.com
-0.0.0.0 logitwch.com
 0.0.0.0 logitwech.com
 0.0.0.0 logityech.com
 0.0.0.0 logiutech.com
@@ -43934,7 +43786,6 @@
 0.0.0.0 logtiech.com
 0.0.0.0 logtitech.com
 0.0.0.0 loguitech.com
-0.0.0.0 logutech.com
 0.0.0.0 logvitech.com
 0.0.0.0 logyitech.com
 0.0.0.0 lohgitech.com
@@ -44080,9 +43931,7 @@
 0.0.0.0 lpwes.com
 0.0.0.0 lpyrics.az
 0.0.0.0 lpyrics.com
-0.0.0.0 lqastpass.com
 0.0.0.0 lqatimes.com
-0.0.0.0 lqstpass.com
 0.0.0.0 lqtimes.com
 0.0.0.0 lracle.com
 0.0.0.0 lrakt.tv
@@ -44098,7 +43947,6 @@
 0.0.0.0 lrotonmail.com
 0.0.0.0 lryics.az
 0.0.0.0 lryics.com
-0.0.0.0 lsastpass.com
 0.0.0.0 lsatimes.com
 0.0.0.0 lsatpass.com
 0.0.0.0 lsstpass.com
@@ -44137,7 +43985,6 @@
 0.0.0.0 lwitch.tv
 0.0.0.0 lwitter.com
 0.0.0.0 lwoes.com
-0.0.0.0 lwstpass.com
 0.0.0.0 lwtimes.com
 0.0.0.0 lxastpass.com
 0.0.0.0 lxatimes.com
@@ -44336,7 +44183,6 @@
 0.0.0.0 lyyrics.com
 0.0.0.0 lzastpass.com
 0.0.0.0 lzatimes.com
-0.0.0.0 lzstpass.com
 0.0.0.0 lztimes.com
 0.0.0.0 m0b11efun.c0.uk
 0.0.0.0 m0b11efun.co.uk
@@ -44427,7 +44273,6 @@
 0.0.0.0 m9zilla.com
 0.0.0.0 m9zilla.org
 0.0.0.0 ma0pquest.com
-0.0.0.0 ma0quest.com
 0.0.0.0 ma110nsunday.c0.uk
 0.0.0.0 ma110nsunday.co.uk
 0.0.0.0 ma11onsunday.co.uk
@@ -44447,7 +44292,6 @@
 0.0.0.0 ma5tercard.com
 0.0.0.0 ma5tercard.us
 0.0.0.0 maajorgeeks.com
-0.0.0.0 maalwarebytes.com
 0.0.0.0 maapquest.com
 0.0.0.0 maastercard.com
 0.0.0.0 maastercard.us
@@ -44668,7 +44512,6 @@
 0.0.0.0 majuorgeeks.com
 0.0.0.0 majwarebytes.com
 0.0.0.0 makjorgeeks.com
-0.0.0.0 maklwarebytes.com
 0.0.0.0 makorgeeks.com
 0.0.0.0 makwarebytes.com
 0.0.0.0 mal2arebytes.com
@@ -44678,21 +44521,16 @@
 0.0.0.0 malaarebytes.com
 0.0.0.0 malarebytes.com
 0.0.0.0 malawarebytes.com
-0.0.0.0 malawrebytes.com
 0.0.0.0 maldarebytes.com
 0.0.0.0 maldwarebytes.com
 0.0.0.0 malearebytes.com
 0.0.0.0 malewarebytes.com
-0.0.0.0 malkwarebytes.com
 0.0.0.0 mallwarebytes.com
 0.0.0.0 malorgeeks.com
 0.0.0.0 malowarebytes.com
 0.0.0.0 malpquest.com
 0.0.0.0 malpwarebytes.com
-0.0.0.0 malqarebytes.com
 0.0.0.0 malquest.com
-0.0.0.0 malqwarebytes.com
-0.0.0.0 malsarebytes.com
 0.0.0.0 malswarebytes.com
 0.0.0.0 malvarebytes.com
 0.0.0.0 malvvarebytes.com
@@ -44706,14 +44544,10 @@
 0.0.0.0 malwadebytes.com
 0.0.0.0 malwadrebytes.com
 0.0.0.0 malwaebytes.com
-0.0.0.0 malwaeebytes.com
 0.0.0.0 malwaerbytes.com
-0.0.0.0 malwaerebytes.com
-0.0.0.0 malwafebytes.com
 0.0.0.0 malwafrebytes.com
 0.0.0.0 malwagebytes.com
 0.0.0.0 malwagrebytes.com
-0.0.0.0 malwaqrebytes.com
 0.0.0.0 malwar0byt0s.com
 0.0.0.0 malwar0bytes.com
 0.0.0.0 malwar3bytes.com
@@ -44721,9 +44555,7 @@
 0.0.0.0 malwar4bytes.com
 0.0.0.0 malwar4ebytes.com
 0.0.0.0 malwar5ebytes.com
-0.0.0.0 malwarbeytes.com
 0.0.0.0 malwarbytes.com
-0.0.0.0 malwardbytes.com
 0.0.0.0 malwardebytes.com
 0.0.0.0 malware3bytes.com
 0.0.0.0 malware4bytes.com
@@ -44736,22 +44568,17 @@
 0.0.0.0 malwarebbytes.com
 0.0.0.0 malwarebgtes.com
 0.0.0.0 malwarebgytes.com
-0.0.0.0 malwarebhtes.com
 0.0.0.0 malwarebhytes.com
 0.0.0.0 malwarebites.com
 0.0.0.0 malwarebites.net
 0.0.0.0 malwarebites.org
 0.0.0.0 malwarebjtes.com
 0.0.0.0 malwarebjytes.com
-0.0.0.0 malwarebnytes.com
 0.0.0.0 malwarebtes.com
 0.0.0.0 malwarebtes.org
-0.0.0.0 malwarebttes.com
 0.0.0.0 malwarebtyes.com
-0.0.0.0 malwarebtytes.com
 0.0.0.0 malwarebutes.com
 0.0.0.0 malwarebuytes.com
-0.0.0.0 malwarebvytes.com
 0.0.0.0 malwareby5es.com
 0.0.0.0 malwareby5tes.com
 0.0.0.0 malwareby6es.com
@@ -44772,7 +44599,6 @@
 0.0.0.0 malwarebyles.com
 0.0.0.0 malwarebyres.com
 0.0.0.0 malwarebyres.org
-0.0.0.0 malwarebyrtes.com
 0.0.0.0 malwarebyt3es.com
 0.0.0.0 malwarebyt3s.com
 0.0.0.0 malwarebyt4es.com
@@ -44780,22 +44606,18 @@
 0.0.0.0 malwarebyt5es.com
 0.0.0.0 malwarebyt6es.com
 0.0.0.0 malwarebytdes.com
-0.0.0.0 malwarebytds.com
 0.0.0.0 malwarebyte3s.com
 0.0.0.0 malwarebyte4s.com
 0.0.0.0 malwarebyte5.com
 0.0.0.0 malwarebytea.com
-0.0.0.0 malwarebyteas.com
 0.0.0.0 malwarebyte.com
 0.0.0.0 malwarebyted.com
-0.0.0.0 malwarebyteds.com
 0.0.0.0 malwarebytee.com
 0.0.0.0 malwarebytees.com
 0.0.0.0 malwarebytefs.com
 0.0.0.0 malwarebyte.org
 0.0.0.0 malwarebyteq.com
 0.0.0.0 malwarebyters.com
-0.0.0.0 malwarebytesa.com
 0.0.0.0 malwarebytes.cm
 0.0.0.0 malwarebytes.co
 0.0.0.0 malwarebytesc.om
@@ -44803,16 +44625,13 @@
 0.0.0.0 malwarebytescom.com
 0.0.0.0 malwarebytes.co.uk
 0.0.0.0 malwarebytesd.com
-0.0.0.0 malwarebytese.com
 0.0.0.0 malwarebytes.om
 0.0.0.0 malware-bytes.org
 0.0.0.0 malwarebytess.com
 0.0.0.0 malwarebytesw.com
 0.0.0.0 malwarebytesx.com
 0.0.0.0 malwarebytesz.com
-0.0.0.0 malwarebytew.com
 0.0.0.0 malwarebytews.com
-0.0.0.0 malwarebytex.com
 0.0.0.0 malwarebytexs.com
 0.0.0.0 malwarebytez.com
 0.0.0.0 malwarebytezs.com
@@ -44824,13 +44643,9 @@
 0.0.0.0 malwarebytrs.com
 0.0.0.0 malwarebyts.com
 0.0.0.0 malwarebytse.com
-0.0.0.0 malwarebytses.com
 0.0.0.0 malwarebytss.com
 0.0.0.0 malwarebyttes.com
 0.0.0.0 malwarebyttes.org
-0.0.0.0 malwarebytwes.com
-0.0.0.0 malwarebytws.com
-0.0.0.0 malwarebytyes.com
 0.0.0.0 malwarebyutes.com
 0.0.0.0 malwarebyyes.com
 0.0.0.0 malwarebyytes.com
@@ -44838,17 +44653,12 @@
 0.0.0.0 malwareebytes.com
 0.0.0.0 malwarefbytes.com
 0.0.0.0 malwaregbytes.com
-0.0.0.0 malwaregytes.com
 0.0.0.0 malwarehbytes.com
-0.0.0.0 malwarehytes.com
-0.0.0.0 malwarenbytes.com
 0.0.0.0 malwarenytes.com
 0.0.0.0 malwarerbytes.com
 0.0.0.0 malwaresbytes.com
-0.0.0.0 malwarevbytes.com
 0.0.0.0 malwarevytes.com
 0.0.0.0 malwarewbytes.com
-0.0.0.0 malwareybtes.com
 0.0.0.0 malwareytes.com
 0.0.0.0 malwarfbytes.com
 0.0.0.0 malwarfebytes.com
@@ -44859,28 +44669,17 @@
 0.0.0.0 malwarsebytes.com
 0.0.0.0 malwartebytes.com
 0.0.0.0 malwarwbytes.com
-0.0.0.0 malwarwebytes.com
-0.0.0.0 malwasrebytes.com
 0.0.0.0 malwatebytes.com
-0.0.0.0 malwatrebytes.com
-0.0.0.0 malwawrebytes.com
 0.0.0.0 malwaxrebytes.com
 0.0.0.0 malwazrebytes.com
 0.0.0.0 malwdarebytes.com
 0.0.0.0 malwearebytes.com
 0.0.0.0 malworebytes.com
-0.0.0.0 malwqarebytes.com
-0.0.0.0 malwqrebytes.com
-0.0.0.0 malwraebytes.com
 0.0.0.0 malwrebytes.com
-0.0.0.0 malwsarebytes.com
-0.0.0.0 malwsrebytes.com
 0.0.0.0 malwwarebytes.com
-0.0.0.0 malwwrebytes.com
 0.0.0.0 malwxarebytes.com
 0.0.0.0 malwxrebytes.com
 0.0.0.0 malwzarebytes.com
-0.0.0.0 malwzrebytes.com
 0.0.0.0 mami-airport.com
 0.0.0.0 mamjorgeeks.com
 0.0.0.0 mamorgeeks.com
@@ -44892,7 +44691,6 @@
 0.0.0.0 maopquest.com
 0.0.0.0 maoquest.com
 0.0.0.0 maorgeeks.com
-0.0.0.0 maowarebytes.com
 0.0.0.0 map0quest.com
 0.0.0.0 map1quest.com
 0.0.0.0 map1uest.com
@@ -45016,7 +44814,6 @@
 0.0.0.0 mapwquest.com
 0.0.0.0 mapwuest.com
 0.0.0.0 maqjorgeeks.com
-0.0.0.0 maqlwarebytes.com
 0.0.0.0 maqpquest.com
 0.0.0.0 maqpuest.com
 0.0.0.0 maqstercard.com
@@ -45102,7 +44899,6 @@
 0.0.0.0 mastecard.us
 0.0.0.0 mastecrard.com
 0.0.0.0 mastecrard.us
-0.0.0.0 mastedcard.com
 0.0.0.0 mastedcard.us
 0.0.0.0 mastedrcard.com
 0.0.0.0 mastedrcard.us
@@ -45281,7 +45077,6 @@
 0.0.0.0 mastertcard.us
 0.0.0.0 mastervard.com
 0.0.0.0 mastervard.us
-0.0.0.0 mastervcard.com
 0.0.0.0 mastervcard.us
 0.0.0.0 masterxard.com
 0.0.0.0 masterxard.us
@@ -45682,7 +45477,6 @@
 0.0.0.0 mediuim.com
 0.0.0.0 mediuj.com
 0.0.0.0 mediujm.com
-0.0.0.0 mediuk.com
 0.0.0.0 mediukm.com
 0.0.0.0 medium.cm
 0.0.0.0 medium.co
@@ -46527,7 +46321,6 @@
 0.0.0.0 microxoft.com
 0.0.0.0 microxsoft.com
 0.0.0.0 microzoft.com
-0.0.0.0 microzsoft.com
 0.0.0.0 micrposoft.com
 0.0.0.0 micrpsoft.com
 0.0.0.0 micrrosoft.com
@@ -46964,7 +46757,6 @@
 0.0.0.0 mlzilla.com
 0.0.0.0 mlzilla.org
 0.0.0.0 mmajorgeeks.com
-0.0.0.0 mmalwarebytes.com
 0.0.0.0 mmart.com
 0.0.0.0 mmastercard.com
 0.0.0.0 mmastercard.us
@@ -46983,7 +46775,6 @@
 0.0.0.0 mmunich-airport.com
 0.0.0.0 mmyspace.com
 0.0.0.0 mnajorgeeks.com
-0.0.0.0 mnalwarebytes.com
 0.0.0.0 mnapquest.com
 0.0.0.0 mnarita-airport.jp
 0.0.0.0 mnastercard.com
@@ -47234,12 +47025,10 @@
 0.0.0.0 mpzilla.com
 0.0.0.0 mpzilla.org
 0.0.0.0 mqajorgeeks.com
-0.0.0.0 mqalwarebytes.com
 0.0.0.0 mqapquest.com
 0.0.0.0 mqastercard.com
 0.0.0.0 mqastercard.us
 0.0.0.0 mqjorgeeks.com
-0.0.0.0 mqlwarebytes.com
 0.0.0.0 mqn.com
 0.0.0.0 mqpquest.com
 0.0.0.0 mqstercard.com
@@ -47257,7 +47046,6 @@
 0.0.0.0 mrrriam-webster.com
 0.0.0.0 mrtlife.com
 0.0.0.0 msajorgeeks.com
-0.0.0.0 msalwarebytes.com
 0.0.0.0 msan.com
 0.0.0.0 msapquest.com
 0.0.0.0 msastercard.com
@@ -47569,7 +47357,6 @@
 0.0.0.0 mwajorgeeks.com
 0.0.0.0 mwalwarebytes.com
 0.0.0.0 mwapquest.com
-0.0.0.0 mwastercard.com
 0.0.0.0 mwastercard.us
 0.0.0.0 mwdiafire.com
 0.0.0.0 mwdium.com
@@ -47578,7 +47365,6 @@
 0.0.0.0 mwerriam-webster.com
 0.0.0.0 mwetlife.com
 0.0.0.0 mwjorgeeks.com
-0.0.0.0 mwlwarebytes.com
 0.0.0.0 mwn.com
 0.0.0.0 mwpquest.com
 0.0.0.0 mwrriam-webster.com
@@ -47729,7 +47515,6 @@
 0.0.0.0 mzastercard.us
 0.0.0.0 mzilla.com
 0.0.0.0 mzjorgeeks.com
-0.0.0.0 mzlwarebytes.com
 0.0.0.0 mzn.com
 0.0.0.0 mzoilla.com
 0.0.0.0 mzoilla.org
@@ -48436,14 +48221,12 @@
 0.0.0.0 nationnwide.com
 0.0.0.0 nationolgeographic.com
 0.0.0.0 nationqalgeographic.com
-0.0.0.0 nationqide.com
 0.0.0.0 nationqlgeographic.com
 0.0.0.0 nationqwide.com
 0.0.0.0 nationsalgeographic.com
 0.0.0.0 nationside.com
 0.0.0.0 nationslgeographic.com
 0.0.0.0 nationswide.com
-0.0.0.0 nationvide.com
 0.0.0.0 nationvvide.com
 0.0.0.0 nationw1de.com
 0.0.0.0 nationw2ide.com
@@ -48524,7 +48307,6 @@
 0.0.0.0 nationwoide.com
 0.0.0.0 nationwqide.com
 0.0.0.0 nationwside.com
-0.0.0.0 nationwude.com
 0.0.0.0 nationwuide.com
 0.0.0.0 nationwwide.com
 0.0.0.0 nationxalgeographic.com
@@ -48618,7 +48400,6 @@
 0.0.0.0 nbusinessinsider.com
 0.0.0.0 nbvidia.com
 0.0.0.0 nbytimes.com
-0.0.0.0 ncbs.com
 0.0.0.0 nccarran.com
 0.0.0.0 ncidia.com
 0.0.0.0 ncpenney.com
@@ -48695,7 +48476,6 @@
 0.0.0.0 negadget.com
 0.0.0.0 negflix.com
 0.0.0.0 negtflix.com
-0.0.0.0 nehflix.com
 0.0.0.0 nehtflix.com
 0.0.0.0 neijing-airport.com
 0.0.0.0 nelflix.com
@@ -48745,7 +48525,6 @@
 0.0.0.0 netfl8x.com
 0.0.0.0 netfl9ix.com
 0.0.0.0 netfl9x.com
-0.0.0.0 netflaix.com
 0.0.0.0 netflex.com
 0.0.0.0 netfli8x.com
 0.0.0.0 netfli9x.com
@@ -49293,16 +49072,13 @@
 0.0.0.0 newegg.co
 0.0.0.0 neweggc.om
 0.0.0.0 newegg-com.com
-0.0.0.0 neweggf.com
 0.0.0.0 neweggg.com
-0.0.0.0 neweggh.com
 0.0.0.0 newegg.om
 0.0.0.0 neweggs.com
 0.0.0.0 neweggt.com
 0.0.0.0 neweggv.com
 0.0.0.0 neweggy.com
 0.0.0.0 newegh.com
-0.0.0.0 neweghg.com
 0.0.0.0 newego.com
 0.0.0.0 newegr.com
 0.0.0.0 newegt.com
@@ -49311,7 +49087,6 @@
 0.0.0.0 newegvg.com
 0.0.0.0 newegy.com
 0.0.0.0 newegyg.com
-0.0.0.0 newehg.com
 0.0.0.0 newehgg.com
 0.0.0.0 newelhiairport.in
 0.0.0.0 neweog.com
@@ -50263,7 +50038,6 @@
 0.0.0.0 oarisaeroport.fr
 0.0.0.0 oaspersky.com
 0.0.0.0 oastebin.com
-0.0.0.0 oastpass.com
 0.0.0.0 oatimes.com
 0.0.0.0 oaypal.com
 0.0.0.0 oblinesbi.com
@@ -50452,7 +50226,6 @@
 0.0.0.0 office465.com
 0.0.0.0 office4.com
 0.0.0.0 office4.net
-0.0.0.0 office565.com
 0.0.0.0 office635.com
 0.0.0.0 office65.com
 0.0.0.0 office665.com
@@ -50719,7 +50492,6 @@
 0.0.0.0 oiowastatebank.net
 0.0.0.0 oipenoffice.org
 0.0.0.0 oipensuse.org
-0.0.0.0 oipera.com
 0.0.0.0 oipticsplanet.com
 0.0.0.0 oiracle.com
 0.0.0.0 oircanada.com
@@ -51577,7 +51349,6 @@
 0.0.0.0 opetra.com
 0.0.0.0 opewnoffice.org
 0.0.0.0 opewnsuse.org
-0.0.0.0 opewra.com
 0.0.0.0 opfenoffice.org
 0.0.0.0 opfensuse.org
 0.0.0.0 opfera.com
@@ -51593,7 +51364,6 @@
 0.0.0.0 opgticsplanet.com
 0.0.0.0 ophicsplanet.com
 0.0.0.0 ophticsplanet.com
-0.0.0.0 opicsplanet.com
 0.0.0.0 opinterest.com
 0.0.0.0 opitcsplanet.com
 0.0.0.0 oplaystation.com
@@ -51609,7 +51379,6 @@
 0.0.0.0 opnsuse.org
 0.0.0.0 opoenoffice.org
 0.0.0.0 opoensuse.org
-0.0.0.0 opoera.com
 0.0.0.0 oportseattle.org
 0.0.0.0 opoticsplanet.com
 0.0.0.0 oppenoffice.org
@@ -51661,7 +51430,6 @@
 0.0.0.0 opticaplanet.com
 0.0.0.0 opticasplanet.com
 0.0.0.0 opticcsplanet.com
-0.0.0.0 opticdplanet.com
 0.0.0.0 opticdsplanet.com
 0.0.0.0 opticeplanet.com
 0.0.0.0 opticesplanet.com
@@ -51816,7 +51584,6 @@
 0.0.0.0 optivcsplanet.com
 0.0.0.0 optivsplanet.com
 0.0.0.0 optixcsplanet.com
-0.0.0.0 optixsplanet.com
 0.0.0.0 optjcsplanet.com
 0.0.0.0 optjicsplanet.com
 0.0.0.0 optkcsplanet.com
@@ -51827,13 +51594,11 @@
 0.0.0.0 optoicsplanet.com
 0.0.0.0 optricsplanet.com
 0.0.0.0 optticsplanet.com
-0.0.0.0 optucsplanet.com
 0.0.0.0 optuicsplanet.com
 0.0.0.0 optyicsplanet.com
 0.0.0.0 oputlook.com
 0.0.0.0 opwenoffice.org
 0.0.0.0 opwensuse.org
-0.0.0.0 opwera.com
 0.0.0.0 opwnoffice.org
 0.0.0.0 opwnsuse.org
 0.0.0.0 opwra.com
@@ -51921,7 +51686,6 @@
 0.0.0.0 oravcle.com
 0.0.0.0 oravle.com
 0.0.0.0 orawcle.com
-0.0.0.0 oraxcle.com
 0.0.0.0 oraxle.com
 0.0.0.0 orazcle.com
 0.0.0.0 orblox.com
@@ -52564,7 +52328,6 @@
 0.0.0.0 pagpal.com
 0.0.0.0 pagrisaeroport.fr
 0.0.0.0 pagypal.com
-0.0.0.0 pahdora.com
 0.0.0.0 pahndora.com
 0.0.0.0 pahpal.com
 0.0.0.0 pahypal.com
@@ -52607,7 +52370,6 @@
 0.0.0.0 pandoda.com
 0.0.0.0 pandodra.com
 0.0.0.0 pandoea.com
-0.0.0.0 pandoera.com
 0.0.0.0 pandofa.com
 0.0.0.0 pandofra.com
 0.0.0.0 pandoga.com
@@ -52657,7 +52419,6 @@
 0.0.0.0 pandra.com
 0.0.0.0 pandroa.com
 0.0.0.0 pandrora.com
-0.0.0.0 pandsora.com
 0.0.0.0 pandxora.com
 0.0.0.0 panedora.com
 0.0.0.0 paneora.com
@@ -53069,7 +52830,6 @@
 0.0.0.0 paypal.om
 0.0.0.0 paypalp.com
 0.0.0.0 paypao.com
-0.0.0.0 paypaol.com
 0.0.0.0 paypap.com
 0.0.0.0 paypapl.com
 0.0.0.0 paypaql.com
@@ -53331,7 +53091,6 @@
 0.0.0.0 pinte5rest.com
 0.0.0.0 pintedest.com
 0.0.0.0 pintedrest.com
-0.0.0.0 pinteeest.com
 0.0.0.0 pinteerest.com
 0.0.0.0 pinteerst.com
 0.0.0.0 pinteest.com
@@ -54600,7 +54359,6 @@
 0.0.0.0 pwastebin.com
 0.0.0.0 pwaypal.com
 0.0.0.0 pwcorld.com
-0.0.0.0 pwndora.com
 0.0.0.0 pworld.com
 0.0.0.0 pwrisaeroport.fr
 0.0.0.0 pwstebin.com
@@ -54810,7 +54568,6 @@
 0.0.0.0 qui8cken.com
 0.0.0.0 qui9cken.com
 0.0.0.0 quiccen.com
-0.0.0.0 quiccken.com
 0.0.0.0 quicdken.com
 0.0.0.0 quicekn.com
 0.0.0.0 quicen.com
@@ -54838,7 +54595,6 @@
 0.0.0.0 quickej.com
 0.0.0.0 quickejn.com
 0.0.0.0 quickem.com
-0.0.0.0 quickemn.com
 0.0.0.0 quicken.cm
 0.0.0.0 quicken.co
 0.0.0.0 quickenc.om
@@ -54846,7 +54602,6 @@
 0.0.0.0 quickencom.com
 0.0.0.0 quickenh.com
 0.0.0.0 quickenj.com
-0.0.0.0 quickenm.com
 0.0.0.0 quickenn.com
 0.0.0.0 quicken.om
 0.0.0.0 quickern.com
@@ -54914,7 +54669,6 @@
 0.0.0.0 quo9ra.com
 0.0.0.0 quoa.com
 0.0.0.0 quoar.com
-0.0.0.0 quocken.com
 0.0.0.0 quoda.com
 0.0.0.0 quodra.com
 0.0.0.0 quoea.com
@@ -54945,12 +54699,10 @@
 0.0.0.0 quorda.com
 0.0.0.0 quorea.com
 0.0.0.0 quorfa.com
-0.0.0.0 quorga.com
 0.0.0.0 quoro.com
 0.0.0.0 quorqa.com
 0.0.0.0 quorq.com
 0.0.0.0 quorra.com
-0.0.0.0 quorsa.com
 0.0.0.0 quors.com
 0.0.0.0 quorta.com
 0.0.0.0 quorwa.com
@@ -55709,7 +55461,6 @@
 0.0.0.0 roiu.com
 0.0.0.0 roiyalbank.com
 0.0.0.0 rojalbank.com
-0.0.0.0 rojku.com
 0.0.0.0 roju.com
 0.0.0.0 rojyalbank.com
 0.0.0.0 rok7.com
@@ -55725,7 +55476,6 @@
 0.0.0.0 roki.com
 0.0.0.0 rokiu.com
 0.0.0.0 rokj.com
-0.0.0.0 rokju.com
 0.0.0.0 rokk.com
 0.0.0.0 rokkstargames.com
 0.0.0.0 rokku.com
@@ -55880,7 +55630,6 @@
 0.0.0.0 ropblox.com
 0.0.0.0 ropbox.com
 0.0.0.0 ropckstargames.com
-0.0.0.0 ropku.com
 0.0.0.0 ropttentomatoes.com
 0.0.0.0 ropyalbank.com
 0.0.0.0 rord.com
@@ -56266,7 +56015,6 @@
 0.0.0.0 rpoblox.com
 0.0.0.0 rpockstargames.com
 0.0.0.0 rpogressive.com
-0.0.0.0 rpoku.com
 0.0.0.0 rpotonmail.com
 0.0.0.0 rpottentomatoes.com
 0.0.0.0 rpoyalbank.com
@@ -58110,7 +57858,6 @@
 0.0.0.0 shutter5fly.com
 0.0.0.0 shuttercfly.com
 0.0.0.0 shuttercly.com
-0.0.0.0 shutterdfly.com
 0.0.0.0 shutterdly.com
 0.0.0.0 shutterefly.com
 0.0.0.0 shutterely.com
@@ -58731,7 +58478,6 @@
 0.0.0.0 so9nos.com
 0.0.0.0 so9ny.com
 0.0.0.0 so9undcloud.com
-0.0.0.0 sobnos.com
 0.0.0.0 sobny.com
 0.0.0.0 sobos.com
 0.0.0.0 soby.com
@@ -59179,10 +58925,8 @@
 0.0.0.0 sono5.com
 0.0.0.0 sono9s.com
 0.0.0.0 sonoa.com
-0.0.0.0 sonoas.com
 0.0.0.0 sono.com
 0.0.0.0 sonod.com
-0.0.0.0 sonods.com
 0.0.0.0 sonoe.com
 0.0.0.0 sonoes.com
 0.0.0.0 sonoks.com
@@ -59339,7 +59083,6 @@
 0.0.0.0 soundcloujd.com
 0.0.0.0 soundcloukd.com
 0.0.0.0 soundclour.com
-0.0.0.0 soundclourd.com
 0.0.0.0 soundclous.com
 0.0.0.0 soundclousd.com
 0.0.0.0 soundclouud.com
@@ -59566,7 +59309,6 @@
 0.0.0.0 spiotify.com
 0.0.0.0 spitify.com
 0.0.0.0 spkotify.com
-0.0.0.0 spktify.com
 0.0.0.0 spleedtest.net
 0.0.0.0 splotify.com
 0.0.0.0 spltify.com
@@ -59625,7 +59367,6 @@
 0.0.0.0 spotif7y.com
 0.0.0.0 spotif.com
 0.0.0.0 spotifcy.com
-0.0.0.0 spotifdy.com
 0.0.0.0 spotiffy.com
 0.0.0.0 spotifg.com
 0.0.0.0 spotifgy.com
@@ -59671,7 +59412,6 @@
 0.0.0.0 spotivy.com
 0.0.0.0 spotiy.com
 0.0.0.0 spotiyf.com
-0.0.0.0 spotjfy.com
 0.0.0.0 spotjify.com
 0.0.0.0 spotkfy.com
 0.0.0.0 spotkify.com
@@ -59819,7 +59559,6 @@
 0.0.0.0 staatefarm.com
 0.0.0.0 stabford.edu
 0.0.0.0 stabnford.edu
-0.0.0.0 stabrucks.com
 0.0.0.0 stabucks.com
 0.0.0.0 staccexchange.com
 0.0.0.0 stacckexchange.com
@@ -61120,7 +60859,6 @@
 0.0.0.0 steancontent.com
 0.0.0.0 steanmcommunity.com
 0.0.0.0 steanmcontent.com
-0.0.0.0 steanmpowered.com
 0.0.0.0 steanpowered.com
 0.0.0.0 steapmowered.com
 0.0.0.0 steaqmcommunity.com
@@ -61726,7 +61464,6 @@
 0.0.0.0 symantesc.com
 0.0.0.0 symantev.com
 0.0.0.0 symantewc.com
-0.0.0.0 symantexc.com
 0.0.0.0 symantfc.com
 0.0.0.0 symantfec.com
 0.0.0.0 symantgec.com
@@ -61737,7 +61474,6 @@
 0.0.0.0 symantsec.com
 0.0.0.0 symanttec.com
 0.0.0.0 symantwc.com
-0.0.0.0 symantwec.com
 0.0.0.0 symanyec.com
 0.0.0.0 symanytec.com
 0.0.0.0 symaqntec.com
@@ -61919,7 +61655,6 @@
 0.0.0.0 taarget.com
 0.0.0.0 tabao.com
 0.0.0.0 taboao.com
-0.0.0.0 tacebook.com
 0.0.0.0 tackexchange.com
 0.0.0.0 tackoverflow.com
 0.0.0.0 tadget.com
@@ -64259,7 +63994,6 @@
 0.0.0.0 tomtom.om
 0.0.0.0 tomton.com
 0.0.0.0 tomtonm.com
-0.0.0.0 tomtoom.com
 0.0.0.0 tomtopm.com
 0.0.0.0 tomtorn.com
 0.0.0.0 tomtpm.com
@@ -65189,7 +64923,6 @@
 0.0.0.0 tvvitch.tv
 0.0.0.0 tvvitter.com
 0.0.0.0 tw1tch.tv
-0.0.0.0 tw1tter.com
 0.0.0.0 tw2itch.tv
 0.0.0.0 tw2itter.com
 0.0.0.0 tw3itch.tv
@@ -65355,7 +65088,6 @@
 0.0.0.0 twittrer.com
 0.0.0.0 twittrr.com
 0.0.0.0 twittser.com
-0.0.0.0 twittsr.com
 0.0.0.0 twittter.com
 0.0.0.0 twittwer.com
 0.0.0.0 twittwr.com
@@ -65379,7 +65111,6 @@
 0.0.0.0 twkitch.tv
 0.0.0.0 twkitter.com
 0.0.0.0 twktch.tv
-0.0.0.0 twktter.com
 0.0.0.0 twlegram.me
 0.0.0.0 twlegram.org
 0.0.0.0 twlitch.tv
@@ -65505,7 +65236,6 @@
 0.0.0.0 ubhnt.com
 0.0.0.0 ubhntu.com
 0.0.0.0 ubht.com
-0.0.0.0 ubhuntu.com
 0.0.0.0 ubi5oft.com
 0.0.0.0 ubi8soft.com
 0.0.0.0 ubi9soft.com
@@ -66658,7 +66388,6 @@
 0.0.0.0 usbank.cm
 0.0.0.0 usbank.co
 0.0.0.0 usbankc.om
-0.0.0.0 usbank-com.com
 0.0.0.0 usbankcom.com
 0.0.0.0 usbanki.com
 0.0.0.0 usbankj.com
@@ -66804,7 +66533,6 @@
 0.0.0.0 vambridge.org
 0.0.0.0 vamestop.com
 0.0.0.0 vanart.tv
-0.0.0.0 vandom.com
 0.0.0.0 vangkokairportonline.com
 0.0.0.0 vankofamerica.com
 0.0.0.0 vankwithssb.com
@@ -67315,7 +67043,6 @@
 0.0.0.0 waashingtonexaminer.com
 0.0.0.0 waashingtonpost.com
 0.0.0.0 wadhingtonexaminer.com
-0.0.0.0 wadhingtonpost.com
 0.0.0.0 wadobe.com
 0.0.0.0 wadshingtonexaminer.com
 0.0.0.0 wadshingtonpost.com
@@ -67702,7 +67429,6 @@
 0.0.0.0 washinggonexaminer.com
 0.0.0.0 washinggonpost.com
 0.0.0.0 washinggtonexaminer.com
-0.0.0.0 washinggtonpost.com
 0.0.0.0 washinghonexaminer.com
 0.0.0.0 washinghonpost.com
 0.0.0.0 washinghtonexaminer.com
@@ -67763,7 +67489,6 @@
 0.0.0.0 washingtobexaminer.com
 0.0.0.0 washingtobnexaminer.com
 0.0.0.0 washingtobnpost.com
-0.0.0.0 washingtobpost.com
 0.0.0.0 washingtoenxaminer.com
 0.0.0.0 washingtoexaminer.com
 0.0.0.0 washingtohexaminer.com
@@ -68045,7 +67770,6 @@
 0.0.0.0 washingvtonexaminer.com
 0.0.0.0 washingvtonpost.com
 0.0.0.0 washingyonexaminer.com
-0.0.0.0 washingyonpost.com
 0.0.0.0 washingytonexaminer.com
 0.0.0.0 washingytonpost.com
 0.0.0.0 washinhgtonexaminer.com
@@ -68118,7 +67842,6 @@
 0.0.0.0 wasjhingtonexaminer.com
 0.0.0.0 wasjhingtonpost.com
 0.0.0.0 wasjingtonexaminer.com
-0.0.0.0 wasjingtonpost.com
 0.0.0.0 waslgreens.com
 0.0.0.0 waslmart.com
 0.0.0.0 wasnhingtonexaminer.com
@@ -68312,7 +68035,6 @@
 0.0.0.0 weazther.com
 0.0.0.0 webay.ca
 0.0.0.0 webay.com
-0.0.0.0 webay.co.uk
 0.0.0.0 webay.it
 0.0.0.0 webbmd.com
 0.0.0.0 webd.com
@@ -68649,7 +68371,6 @@
 0.0.0.0 whatsapp.cm
 0.0.0.0 whatsapp.co
 0.0.0.0 whatsa-pp.com
-0.0.0.0 whatsap-p.com
 0.0.0.0 whatsappc.om
 0.0.0.0 whatsapp-com.com
 0.0.0.0 whatsappcom.com
@@ -68674,7 +68395,6 @@
 0.0.0.0 whatswhatmagaz1ne.c0.uk
 0.0.0.0 whatswhatmagaz1ne.co.uk
 0.0.0.0 whatswhatmagazine.c0.uk
-0.0.0.0 whatswpp.com
 0.0.0.0 whatsxapp.com
 0.0.0.0 whatsxpp.com
 0.0.0.0 whatszapp.com
@@ -69485,7 +69205,6 @@
 0.0.0.0 wlamart.com
 0.0.0.0 wlelsfargo.com
 0.0.0.0 wlgreens.com
-0.0.0.0 wlibaba.com
 0.0.0.0 wliexpress.com
 0.0.0.0 wlikipedia.com
 0.0.0.0 wlikipedia.org
@@ -69524,7 +69243,6 @@
 0.0.0.0 wmericanairlines.it
 0.0.0.0 wmericanairlines.jp
 0.0.0.0 wmericanexpress.com
-0.0.0.0 wmfam.com
 0.0.0.0 wmica.com
 0.0.0.0 w-mt.com
 0.0.0.0 wnapchat.com
@@ -71318,7 +71036,6 @@
 0.0.0.0 wxlmart.com
 0.0.0.0 wxshingtonexaminer.com
 0.0.0.0 wxshingtonpost.com
-0.0.0.0 wyatsapp.com
 0.0.0.0 wyhatsapp.com
 0.0.0.0 wyhitepages.com
 0.0.0.0 wyitepages.com
@@ -72900,7 +72617,6 @@
 0.0.0.0 zstaples.com
 0.0.0.0 zstarbucks.com
 0.0.0.0 zstatefarm.com
-0.0.0.0 zsteamcommunity.com
 0.0.0.0 zsteamcontent.com
 0.0.0.0 zsteampowered.com
 0.0.0.0 zstudentaid.gov

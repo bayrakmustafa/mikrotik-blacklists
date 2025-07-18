@@ -1,5 +1,5 @@
 # AdguardDNS, parsed and mirrored by https://firebog.net
-# Updated 11JUL25 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+# Updated 18JUL25 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -56,7 +56,6 @@
 0.0.0.0 31v1scl527hm.shop
 0.0.0.0 333lotte.com
 0.0.0.0 33lotte.com
-0.0.0.0 38fbsbhhg0702m.shop
 0.0.0.0 42eed1a0d9c129.com
 0.0.0.0 456vdghgj30.dyndns.org
 0.0.0.0 46186911.vtt
@@ -89,7 +88,6 @@
 0.0.0.0 999lotte.com
 0.0.0.0 99lotte.com
 0.0.0.0 9g5lm9.cyou
-0.0.0.0 9hitdp8uf154mz.shop
 0.0.0.0 9smomo.com
 0.0.0.0 a.10tianqi.com
 0.0.0.0 a1.bestopview.com
@@ -111,15 +109,12 @@
 0.0.0.0 abc8-vay.com
 0.0.0.0 abcd.yiq.com
 0.0.0.0 abcounter.de
-0.0.0.0 abds.pingpingw.com
 0.0.0.0 abfishop.org
 0.0.0.0 ab.hwigroup.com
-0.0.0.0 ablenctionalle.info
 0.0.0.0 absalomcsa.com
 0.0.0.0 abtest.mistat.xiaomi.com
 0.0.0.0 abutparker.com
 0.0.0.0 a.bxwblog.cn
-0.0.0.0 ac1.pingpingw.com
 0.0.0.0 ac.86huoche.com
 0.0.0.0 acbbank.xyz
 0.0.0.0 acb.vn-c.xyz
@@ -182,7 +177,6 @@
 0.0.0.0 ads.oyungemisi.com
 0.0.0.0 adsparking.inzhener-info.ru
 0.0.0.0 ads.samsung.com
-0.0.0.0 ads.sondakika.com
 0.0.0.0 ads.tapzin.com
 0.0.0.0 adstax-cdn.adrtx.net
 0.0.0.0 ads.thanhnien.vn
@@ -228,7 +222,6 @@
 0.0.0.0 ah.pricegrabber.com
 0.0.0.0 ahthegha.cfd
 0.0.0.0 a.huocheba.com
-0.0.0.0 a.icdol.com
 0.0.0.0 aistekso.nett
 0.0.0.0 a.jurnalu.ru
 0.0.0.0 a.kakoysegodnyaprazdnik.ru
@@ -242,7 +235,6 @@
 0.0.0.0 a.llysc.cn
 0.0.0.0 almofmultiple.cfd
 0.0.0.0 alovay24h.com
-0.0.0.0 alty.fun
 0.0.0.0 amadbfk.shop
 0.0.0.0 amajwzon456.top
 0.0.0.0 ama-zmart.top
@@ -254,7 +246,6 @@
 0.0.0.0 amg187098.com
 0.0.0.0 amg187208.com
 0.0.0.0 a.miyudaquan.top
-0.0.0.0 amnsreiuojy.ru
 0.0.0.0 amqa11.com
 0.0.0.0 ams.fx678.com
 0.0.0.0 anal.doubledouble.top
@@ -314,7 +305,6 @@
 0.0.0.0 applecare-icloud.com
 0.0.0.0 apple-vn.shop
 0.0.0.0 app.mybigc.net
-0.0.0.0 app.senaobz.cc
 0.0.0.0 aptersandt.cfd
 0.0.0.0 aquagoat.xyz
 0.0.0.0 aquank.com
@@ -334,7 +324,6 @@
 0.0.0.0 a.viethu.com
 0.0.0.0 awae-shop.com
 0.0.0.0 ax.babe.today
-0.0.0.0 a.xzzsjz.com
 0.0.0.0 a.yuzhainan.com
 0.0.0.0 ayyaar.ir
 0.0.0.0 a.zuowenku.net
@@ -705,7 +694,6 @@
 0.0.0.0 doctromtinnhan.com
 0.0.0.0 doithecaothanhtienmat.com
 0.0.0.0 domainxnewma.com
-0.0.0.0 d.omsnative.de
 0.0.0.0 donghothongminh-mienphiship.online
 0.0.0.0 donhangkiemtra.com
 0.0.0.0 doppler-beacons.cbsivideo.com
@@ -714,7 +702,6 @@
 0.0.0.0 dragoncapitalvay.com
 0.0.0.0 drake4.xyz
 0.0.0.0 drakeesh.com
-0.0.0.0 drjs123.com
 0.0.0.0 drmcmm.baidu.com
 0.0.0.0 dtcltx.com
 0.0.0.0 dtdvmuadong-lienquan.com
@@ -752,7 +739,6 @@
 0.0.0.0 egiontheh.cfd
 0.0.0.0 egt091102205euc.click
 0.0.0.0 egt091102207euc.click
-0.0.0.0 ejectswaxbush.com
 0.0.0.0 elogs.vnexpress.net
 0.0.0.0 email-apple.support
 0.0.0.0 e.metarouter.io
@@ -800,7 +786,6 @@
 0.0.0.0 facebook62747.blogspot.com
 0.0.0.0 facebook92288.blogspot.com
 0.0.0.0 facebook.c0m.ltd
-0.0.0.0 face-book.co
 0.0.0.0 facebookk.life
 0.0.0.0 facebookvideo87.blogspot.com
 0.0.0.0 facebookvni.com
@@ -845,7 +830,6 @@
 0.0.0.0 ff-menbershipgarena.com
 0.0.0.0 ffmenbershipgarena.com
 0.0.0.0 ffmenberzship-garena.com
-0.0.0.0 ff.qichetansuo.com
 0.0.0.0 ffz-garena-membership.com
 0.0.0.0 fhdd8431.com
 0.0.0.0 fhef11.com
@@ -985,7 +969,6 @@
 0.0.0.0 giftcode-17thang8-lienquan-garena.ga
 0.0.0.0 giftcode-garenavn-sukienlqmb.com
 0.0.0.0 giftcode-lienquanmobile-vn.com
-0.0.0.0 giftcode-lienquan-vn.com
 0.0.0.0 giftcode-mobilelienquan.com
 0.0.0.0 giftcode-sukienaov.com
 0.0.0.0 giiao.hangtietkiem.com
@@ -1103,7 +1086,6 @@
 0.0.0.0 hotdealshopee.com
 0.0.0.0 hotline-dienmayxanh.com
 0.0.0.0 hot-membership.com
-0.0.0.0 hotro.asia
 0.0.0.0 hotro.autos
 0.0.0.0 hotrochatluongchuyennghieptoanquoc.click
 0.0.0.0 hotro-garenavn.com
@@ -1138,7 +1120,6 @@
 0.0.0.0 huaxinapp3.com
 0.0.0.0 huaxinapp4.com
 0.0.0.0 huaxinapp5.com
-0.0.0.0 hubtraffic.com
 0.0.0.0 huiyuangang.cc
 0.0.0.0 hummingbird.mavencoalition.io
 0.0.0.0 husbandsonly.co.uk
@@ -1229,7 +1210,6 @@
 0.0.0.0 jaccscom.com
 0.0.0.0 jaccsn.com
 0.0.0.0 jaemoney.ltd
-0.0.0.0 jaifeeveely.com
 0.0.0.0 japan-shopac.asia
 0.0.0.0 jekzyyyljvyww.top
 0.0.0.0 jetbux.ir
@@ -1245,7 +1225,6 @@
 0.0.0.0 js.ruiwen.com
 0.0.0.0 js.ubaike.cn
 0.0.0.0 jsx.luyouwang.com
-0.0.0.0 junoshop.online
 0.0.0.0 jvs.price.ru
 0.0.0.0 jxad.jx163.com
 0.0.0.0 k1.dancihu.com
@@ -1388,7 +1367,6 @@
 0.0.0.0 letysheeps.ru
 0.0.0.0 l-fb.co
 0.0.0.0 lg777.club
-0.0.0.0 lgad.cjpowercast.com.edgesuite.net
 0.0.0.0 lienkettaikhoan.com
 0.0.0.0 lienkettaikhoannhanqua.online
 0.0.0.0 lienketvidientu.com
@@ -1428,7 +1406,6 @@
 0.0.0.0 link.theworkguyoo.com
 0.0.0.0 linshopee.com
 0.0.0.0 livestats.kaltura.com
-0.0.0.0 live.vnpgroup.net
 0.0.0.0 liximomo.club
 0.0.0.0 liximomo.fun
 0.0.0.0 liximomo.net
@@ -1584,7 +1561,6 @@
 0.0.0.0 mfacebok.com
 0.0.0.0 m-fecabook.com
 0.0.0.0 mhdnspro.com
-0.0.0.0 m.hi1222.com
 0.0.0.0 mhshopee.com
 0.0.0.0 miaoniter.com
 0.0.0.0 micronsofte-online.com
@@ -1614,7 +1590,6 @@
 0.0.0.0 mobaviet.shop
 0.0.0.0 mobilebanking-shopee.vn
 0.0.0.0 mobilebankingvn.com
-0.0.0.0 mobilegamerstats.com
 0.0.0.0 mobile-ibankingshopee.vn
 0.0.0.0 mohopnhanpham-garena.com
 0.0.0.0 momo10s.com
@@ -1639,7 +1614,6 @@
 0.0.0.0 momo7979.me
 0.0.0.0 momo79.net
 0.0.0.0 momo88.club
-0.0.0.0 momo88.top
 0.0.0.0 momo91.net
 0.0.0.0 momo9s.com
 0.0.0.0 momoauto.me
@@ -1652,7 +1626,6 @@
 0.0.0.0 momocltx.xyz
 0.0.0.0 momofhd.com
 0.0.0.0 momofld.com
-0.0.0.0 momogift.asia
 0.0.0.0 momogod.com
 0.0.0.0 momohen.fun
 0.0.0.0 momojqk.com
@@ -1676,7 +1649,6 @@
 0.0.0.0 momoxxx.net
 0.0.0.0 money88.me
 0.0.0.0 money88.mobi
-0.0.0.0 money-ai.io
 0.0.0.0 money-credit88.com
 0.0.0.0 moneydong123.com
 0.0.0.0 moneydong.us
@@ -1849,7 +1821,6 @@
 0.0.0.0 napthetogether.ga
 0.0.0.0 napthetrian.com
 0.0.0.0 nap-the.vn
-0.0.0.0 napthex10.net
 0.0.0.0 napthex50.com
 0.0.0.0 napthex5.com
 0.0.0.0 napthex98.ga
@@ -1925,10 +1896,8 @@
 0.0.0.0 nhanqua-garena.com
 0.0.0.0 nhanqua-garenaff.com
 0.0.0.0 nhanquagiangsinh.com
-0.0.0.0 nhanquagunny.com
 0.0.0.0 nhanquamienphi.org
 0.0.0.0 nhanquanro.com
-0.0.0.0 nhanqua.online
 0.0.0.0 nhanqua-tocchien.com
 0.0.0.0 nhanquatrianff.com
 0.0.0.0 nhanquatrianfreefire.com
@@ -2012,7 +1981,6 @@
 0.0.0.0 pgbank.info
 0.0.0.0 phanmemcrackaz.com
 0.0.0.0 phanmemgiare.club
-0.0.0.0 phanmemhotro.com
 0.0.0.0 phanqua01vn.com
 0.0.0.0 phanqua365vn.com
 0.0.0.0 phanqua7979.com
@@ -2324,7 +2292,6 @@
 0.0.0.0 shopacclm247.online
 0.0.0.0 shopacclmht69.com
 0.0.0.0 shopacctop.com
-0.0.0.0 shopaccvip.vn
 0.0.0.0 shopadcoriff2023.tk
 0.0.0.0 shop-ama-zon.net
 0.0.0.0 shopasmobile.mobi
@@ -2787,7 +2754,6 @@
 0.0.0.0 tadcqc.com
 0.0.0.0 tadcqv.com
 0.0.0.0 tadmak.com
-0.0.0.0 tadv.didestan.net
 0.0.0.0 tafcaz.com
 0.0.0.0 tafccc.com
 0.0.0.0 tagtree.co.kr
@@ -3178,7 +3144,6 @@
 0.0.0.0 ttb9.shop
 0.0.0.0 tt.biquge.la
 0.0.0.0 ttmomo.win
-0.0.0.0 ttrace.ru
 0.0.0.0 tuanbansub.ml
 0.0.0.0 tuanlevang.vn
 0.0.0.0 tuanlocvang123.com
@@ -3197,7 +3162,6 @@
 0.0.0.0 two.fsylr.com
 0.0.0.0 twshopeee.top
 0.0.0.0 tw-shopee.store
-0.0.0.0 tw-shopee.xyz
 0.0.0.0 tx55.vip
 0.0.0.0 tx99y.net
 0.0.0.0 txclmomo.club
@@ -3216,9 +3180,7 @@
 0.0.0.0 umyugu88.ru
 0.0.0.0 undertheguid.cfd
 0.0.0.0 undimangen.cfd
-0.0.0.0 undm.qibulo.com
 0.0.0.0 union.yihaodian.com
-0.0.0.0 unixfilesystem2.xyz
 0.0.0.0 unixpop.xyz
 0.0.0.0 unsavedbaruch.top
 0.0.0.0 un.ubaike.cn
@@ -3238,7 +3200,6 @@
 0.0.0.0 uudainganhangso.site
 0.0.0.0 uudauthekhachhanh-tructuyen-thang10.com.vn
 0.0.0.0 uyban.club
-0.0.0.0 v1.19purify.com
 0.0.0.0 v1.kwpewga.cn
 0.0.0.0 v1.phb123.com
 0.0.0.0 v2s4ku8b.com
@@ -3761,7 +3722,6 @@
 0.0.0.0 vongquay-2021lolgarena.ml
 0.0.0.0 vongquay2021.work
 0.0.0.0 vongquay365.com
-0.0.0.0 vongquay79.com
 0.0.0.0 vongquay88.site
 0.0.0.0 vongquaybooyah.com
 0.0.0.0 vongquaycongnghe.ga
@@ -3925,7 +3885,6 @@
 0.0.0.0 wlzzwzeevbwez.top
 0.0.0.0 wmail-blog.xyz
 0.0.0.0 wmail-chat.xyz
-0.0.0.0 wmail-service.com
 0.0.0.0 wmeqoborqboyv.top
 0.0.0.0 wmlollmkvybzm.top
 0.0.0.0 wmzlbovlwrrok.top
@@ -3989,7 +3948,6 @@
 0.0.0.0 xtb111.com
 0.0.0.0 xtramannchinhhang.com
 0.0.0.0 xuanlienquan.com
-0.0.0.0 xuexi.hydcd.com
 0.0.0.0 x.yaohuo.me
 0.0.0.0 ybcnvqf.cn
 0.0.0.0 yeumomo.me
@@ -4001,7 +3959,6 @@
 0.0.0.0 ymx33.com
 0.0.0.0 yoqqiev.top
 0.0.0.0 youtube.local
-0.0.0.0 y.photoint.net
 0.0.0.0 yucanesiote.top
 0.0.0.0 yunduofei.xyz
 0.0.0.0 yungluteal.top
@@ -4028,7 +3985,6 @@
 0.0.0.0 zqvvzrlevbkbz.top
 0.0.0.0 zSmhlV.zgbv.tech
 0.0.0.0 zt2088.com
-0.0.0.0 zuowen.hydcd.com
 0.0.0.0 zupee.cim
 0.0.0.0 zvay.online
 0.0.0.0 zvietcombank.com

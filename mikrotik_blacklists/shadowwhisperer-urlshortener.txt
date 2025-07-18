@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,580
-# Updated: 7/10/2025  16:47 (4:47 PM CST)
+# Domains: 4,584
+# Updated: 7/14/2025  16:06 (4:06 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -1611,6 +1611,7 @@
 0.0.0.0 hyp.ae
 0.0.0.0 hyperly.co
 0.0.0.0 i7i.co
+0.0.0.0 i8.ae
 0.0.0.0 i-am-here.live
 0.0.0.0 iamsrikrung.com
 0.0.0.0 iapdw.com
@@ -1679,6 +1680,7 @@
 0.0.0.0 insdr.life
 0.0.0.0 inshort.ly
 0.0.0.0 insprl.com
+0.0.0.0 instagramaf.life
 0.0.0.0 instarouting.com
 0.0.0.0 instaurl.me
 0.0.0.0 interpride.net
@@ -1867,7 +1869,6 @@
 0.0.0.0 kinnto.me
 0.0.0.0 kirr.co
 0.0.0.0 kisaca.site
-0.0.0.0 kisa.link
 0.0.0.0 kisa.pro
 0.0.0.0 kisaurl.org
 0.0.0.0 kjd.us
@@ -3664,6 +3665,7 @@
 0.0.0.0 tim.com.vc
 0.0.0.0 tinderurl.com
 0.0.0.0 tinesy.com
+0.0.0.0 tiniworkfennies.live
 0.0.0.0 tinky.cc
 0.0.0.0 tinybit.cc
 0.0.0.0 tiny.cc
@@ -3901,6 +3903,7 @@
 0.0.0.0 uokko.sbs
 0.0.0.0 uom.link
 0.0.0.0 uos.cc
+0.0.0.0 update-info-saudi-a.live
 0.0.0.0 upercut.co
 0.0.0.0 upfull.fr
 0.0.0.0 upriserz.link
@@ -4091,6 +4094,7 @@
 0.0.0.0 vip.superpopdrop.com
 0.0.0.0 viptango77.net
 0.0.0.0 virgil-97.life
+0.0.0.0 vi-tiktok.com
 0.0.0.0 viyva.top
 0.0.0.0 vjhxy.com
 0.0.0.0 vklst.sbs

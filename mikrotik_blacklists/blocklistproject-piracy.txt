@@ -361,7 +361,6 @@
 0.0.0.0 get-host.net
 0.0.0.0 getintopc.com
 0.0.0.0 getlink.vn
-0.0.0.0 gigabitwarez.com
 0.0.0.0 gigapurbalingga.net
 0.0.0.0 go2load.com
 0.0.0.0 gold-films.ru
@@ -802,7 +801,6 @@
 0.0.0.0 sdownloadz038.usa.cc
 0.0.0.0 sdownloadz100.usa.cc
 0.0.0.0 search-soft.net
-0.0.0.0 seasonvar.ru
 0.0.0.0 securedgen.com
 0.0.0.0 securityweb.ueuo.com
 0.0.0.0 seedpeer.eu

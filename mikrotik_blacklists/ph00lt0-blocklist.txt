@@ -63,7 +63,6 @@
 0.0.0.0 10ff5b14e8.com
 0.0.0.0 10upmanaged.com
 0.0.0.0 10vq186eg43rhyow9vue7yve-wpengine.netdna-ssl.com
-0.0.0.0 11.hydcd.com
 0.0.0.0 111111qb.com
 0.0.0.0 1111210941.rsc.cdn77.org
 0.0.0.0 1118660075.rsc.cdn77.org
@@ -216,7 +215,6 @@
 0.0.0.0 1i9wu42vzknf1h4zwf2to5aq-wpengine.netdna-ssl.com
 0.0.0.0 1igc0ojossa412h1e3ek8d1w-wpengine.netdna-ssl.com
 0.0.0.0 1ja0pa1tvpl63v04fj2l0oby-wpengine.netdna-ssl.com
-0.0.0.0 1kmb.cn
 0.0.0.0 1l14d.fr
 0.0.0.0 1lib.education
 0.0.0.0 1lib.fr
@@ -438,7 +436,6 @@
 0.0.0.0 3um88b32jzg41py2lr3fg1uh-wpengine.netdna-ssl.com
 0.0.0.0 3way.pl
 0.0.0.0 3wyeqy4dxigg2xrxyo4c110h-wpengine.netdna-ssl.com
-0.0.0.0 3xplanetimg.com
 0.0.0.0 3ydis91ybrhu45zbfw3lag48-wpengine.netdna-ssl.com
 0.0.0.0 3ygww.com
 0.0.0.0 3zoku.com
@@ -719,6 +716,7 @@
 0.0.0.0 a248.e.akamai.net
 0.0.0.0 a2d.tv
 0.0.0.0 a2hosted.com
+0.0.0.0 a2z.com
 0.0.0.0 a3-assets.s3-eu-west-1.amazonaws.com
 0.0.0.0 a3.ag
 0.0.0.0 a3.odistatic.net
@@ -1238,7 +1236,6 @@
 0.0.0.0 ak-s.tripcdn.com
 0.0.0.0 ak21727.com
 0.0.0.0 akacdn.co
-0.0.0.0 akipam.com
 0.0.0.0 akitaapp.com
 0.0.0.0 ako.ai
 0.0.0.0 aktion-mensch.de
@@ -2029,7 +2026,6 @@
 0.0.0.0 bdjs.ylq.com
 0.0.0.0 bdlm1.hc360.com
 0.0.0.0 bdlncs1.familydoctor.com.cn
-0.0.0.0 bdplus.baidu.com
 0.0.0.0 bdpuaw.com
 0.0.0.0 bds.hainan.net
 0.0.0.0 bdt9.net
@@ -3128,7 +3124,6 @@
 0.0.0.0 clubcollect.com
 0.0.0.0 clubcommander.com
 0.0.0.0 clubic.com
-0.0.0.0 clubjimmy.com
 0.0.0.0 clubvandeweek.nl
 0.0.0.0 cluebird.digital
 0.0.0.0 clustaar.io
@@ -3225,7 +3220,6 @@
 0.0.0.0 coingecko.com
 0.0.0.0 coinhive-manager.com
 0.0.0.0 coinmarketcap.com
-0.0.0.0 coinmedia.tk
 0.0.0.0 coinside.ru
 0.0.0.0 coinwidget.com
 0.0.0.0 col.hztags.net
@@ -3791,7 +3785,6 @@
 0.0.0.0 d2b9n6s2750yh3.cloudfront.net
 0.0.0.0 d2badvwg0mti9p.cloudfront.net
 0.0.0.0 d2bm1705m7xtl3.cloudfront.net
-0.0.0.0 d2bnxibecyz4h5.cloudfront.net
 0.0.0.0 d2brahfheou67n.cloudfront.net
 0.0.0.0 d2c5ozj3snr92p.cloudfront.net
 0.0.0.0 d2cfjncbaa70hr.cloudfront.net
@@ -5136,7 +5129,6 @@
 0.0.0.0 g2.ousns.net
 0.0.0.0 g940.vangoghmuseum.nl
 0.0.0.0 ga-dev-tools.google
-0.0.0.0 gaana.com
 0.0.0.0 gad.kugou.com
 0.0.0.0 gadgets.buienradar.nl
 0.0.0.0 gagdonkey.net
@@ -5457,7 +5449,6 @@
 0.0.0.0 gtm.aeg.ie
 0.0.0.0 gtm.aeg.nl
 0.0.0.0 gtm.netvlies.nl
-0.0.0.0 gtm.oasisfeng.com
 0.0.0.0 gtm.wearetriple.com
 0.0.0.0 gtmniddocks.herokuapp.com
 0.0.0.0 gtmsdd.alicdn.com
@@ -5543,7 +5534,6 @@
 0.0.0.0 headwayapp.co
 0.0.0.0 health.halodoc.com
 0.0.0.0 healthyguess.com
-0.0.0.0 heap.io
 0.0.0.0 heartbeat-us.gamesbean.net
 0.0.0.0 heartbeat.belkin.com
 0.0.0.0 heatmaps.me
@@ -6373,7 +6363,6 @@
 0.0.0.0 klantenvertellen.nl
 0.0.0.0 klantnr804920.ddns.net
 0.0.0.0 klassiekehomeopathieharen.nl
-0.0.0.0 kld666.com
 0.0.0.0 kldmm.com
 0.0.0.0 klear.com
 0.0.0.0 kleecks-stats.com
@@ -7907,7 +7896,6 @@
 0.0.0.0 optimismeauquotidien.fr
 0.0.0.0 optimize.net
 0.0.0.0 optimizeywebs.com
-0.0.0.0 optimove.com
 0.0.0.0 optinadserving.com
 0.0.0.0 optingun.com
 0.0.0.0 optmyzr.com
@@ -8117,7 +8105,6 @@
 0.0.0.0 pdl.gionee.com
 0.0.0.0 pdok.nl
 0.0.0.0 pedailyu.com
-0.0.0.0 peerclick.com
 0.0.0.0 pegasus-lotto.de
 0.0.0.0 pegasusintelligence.com
 0.0.0.0 peil.nl
@@ -8366,7 +8353,6 @@
 0.0.0.0 prettylinks.com
 0.0.0.0 preview-gtm.wearetriple.com
 0.0.0.0 preview.smartadserver.com
-0.0.0.0 prhzxq.com
 0.0.0.0 priceinfo.comuv.com
 0.0.0.0 pricelist.skype.com
 0.0.0.0 primariaciorogarla.ro
@@ -9210,6 +9196,7 @@
 0.0.0.0 shanghaironghua.com
 0.0.0.0 shanglinli.com
 0.0.0.0 shangz99991.com
+0.0.0.0 share-eu1.hsforms.com
 0.0.0.0 share.america.gov
 0.0.0.0 shared.piwik.prisma-it.com
 0.0.0.0 sharemyinsights.com
@@ -9282,7 +9269,6 @@
 0.0.0.0 sijoitusrahastot.org
 0.0.0.0 simbagames.de
 0.0.0.0 similartech.com
-0.0.0.0 similarweb.com
 0.0.0.0 similarweb.io
 0.0.0.0 simorqunix.ml
 0.0.0.0 simplesharingbuttons.com
@@ -9517,7 +9503,6 @@
 0.0.0.0 spotlerengage.com
 0.0.0.0 spotlergroup.com
 0.0.0.0 spotlerscript.com
-0.0.0.0 spotlersearchanalytics.com
 0.0.0.0 spotlight.ngtv.io
 0.0.0.0 spott.ai
 0.0.0.0 sprankelendsucces.nl
@@ -9688,7 +9673,6 @@
 0.0.0.0 stats.bof.nl
 0.0.0.0 stats.computop.com
 0.0.0.0 stats.decorrespondent.nl
-0.0.0.0 stats.foodwatch.org
 0.0.0.0 stats.freedom.nl
 0.0.0.0 stats.gc-apple.com.akadns.net
 0.0.0.0 stats.gc.fe.apple-dns.net
@@ -9993,6 +9977,7 @@
 0.0.0.0 ternairsoftware.com
 0.0.0.0 terobra.pt
 0.0.0.0 tesla-ltt.com
+0.0.0.0 tesla-online.net
 0.0.0.0 tesla2ai.net
 0.0.0.0 test-ads.tiktok.com
 0.0.0.0 test-log.tiktok.com
@@ -10168,7 +10153,6 @@
 0.0.0.0 towebsite.net
 0.0.0.0 townmail.nl
 0.0.0.0 townmanagementsgc.com
-0.0.0.0 tpsc-frc.doubleverify.com
 0.0.0.0 tr.ifeeder.com
 0.0.0.0 tr.jumpcloud.com
 0.0.0.0 track.bcvcmedia.com

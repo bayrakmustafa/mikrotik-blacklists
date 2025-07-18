@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 11JUL25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 18JUL25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -108,7 +108,6 @@
 0.0.0.0 app.aksent.ai
 0.0.0.0 app.ammanmart.com
 0.0.0.0 app.bekfood.de
-0.0.0.0 app.bettle.co
 0.0.0.0 app.budweisergardens.com
 0.0.0.0 app.business.westernunion.com
 0.0.0.0 app.cb.pnc.com
@@ -148,7 +147,6 @@
 0.0.0.0 app-test.get360fit.com
 0.0.0.0 apptest.gotvive.com
 0.0.0.0 app.toastme.com
-0.0.0.0 app.ugo.srl
 0.0.0.0 apress.efscle.com
 0.0.0.0 aqorez.yamo.bio
 0.0.0.0 a.sbnw.in
@@ -190,7 +188,6 @@
 0.0.0.0 branchlink.tripcody.com
 0.0.0.0 branch.mypixie.co
 0.0.0.0 branch.oraleye.com
-0.0.0.0 branch.release.winfooz.com
 0.0.0.0 branch.reserveout.com
 0.0.0.0 branch.servingchefs.com
 0.0.0.0 branch.tripcody.com
@@ -318,7 +315,6 @@
 0.0.0.0 deep.mlmtool.in
 0.0.0.0 detnmz.cuteness.com
 0.0.0.0 detnmz.hunker.com
-0.0.0.0 dev.getcontact.me
 0.0.0.0 d.groc.press
 0.0.0.0 digital-global.furniture-china.cn
 0.0.0.0 digitalworkplace.ricoh.fr
@@ -402,7 +398,6 @@
 0.0.0.0 fpc.fingerprint.com
 0.0.0.0 freakyglass.com
 0.0.0.0 fr.lucanet.com
-0.0.0.0 frogator.com
 0.0.0.0 ft.groc.press
 0.0.0.0 furnstudio.com
 0.0.0.0 fxipreferral.americanexpress.com
@@ -492,7 +487,6 @@
 0.0.0.0 images.pages.brightedge.com
 0.0.0.0 images.publishing.wiley.com
 0.0.0.0 images.read.aspiresys.com
-0.0.0.0 imeetcentral.pgi.com
 0.0.0.0 imgmail.mediasetpremium.it
 0.0.0.0 imzahrwl.xyz
 0.0.0.0 independence.americanportfolios.com
@@ -703,7 +697,6 @@
 0.0.0.0 mds.ricoh.no
 0.0.0.0 med.asacolhdhcp.com
 0.0.0.0 med.delzicol.com
-0.0.0.0 med.gelnique.com
 0.0.0.0 mediniku.viessmann.lt
 0.0.0.0 meds.asacolhdhcp.com
 0.0.0.0 meds.delzicol.com
@@ -739,7 +732,6 @@
 0.0.0.0 metrics.monclick.it
 0.0.0.0 metrics.mum.edu
 0.0.0.0 metrics.outsourcing-pharma.com
-0.0.0.0 metrics.pgi.com
 0.0.0.0 metrics.portal.roche.de
 0.0.0.0 metrics.shop.learningcurve.com
 0.0.0.0 metrics.tcs.com
@@ -919,7 +911,6 @@
 0.0.0.0 secure.svr007phz.com
 0.0.0.0 securetags.esri.cl
 0.0.0.0 secure.tm1-001.com
-0.0.0.0 secure.vice4beek.com
 0.0.0.0 secure.yama1hove.com
 0.0.0.0 secure.yeld9auto.com
 0.0.0.0 selvi.viessmann.com.tr
@@ -1111,7 +1102,6 @@
 0.0.0.0 tk.planete-oui.fr
 0.0.0.0 tmrhpl.nurse-agent.com
 0.0.0.0 torropinto.viessmann.es
-0.0.0.0 t.oticon.com
 0.0.0.0 tpmexb.vans.co.nz
 0.0.0.0 tr1.psa-surveys.com
 0.0.0.0 tr.3xcb.cofinoga.fr
@@ -1119,7 +1109,6 @@
 0.0.0.0 tracking.finanzen.net
 0.0.0.0 tracking.flukecal.com
 0.0.0.0 tracking.max-stg.co.il
-0.0.0.0 tracking.pgi.com
 0.0.0.0 tracking.tdk.com.cn
 0.0.0.0 tracking.y-nmc.jp
 0.0.0.0 track.northamericanincome.co.uk
