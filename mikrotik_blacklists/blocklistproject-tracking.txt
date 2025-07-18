@@ -98,6 +98,7 @@
 0.0.0.0 adagencyonline.biz
 0.0.0.0 adagencyonline.net
 0.0.0.0 adagencyonlineautomotiveadvertising.com
+0.0.0.0 adclear.de
 0.0.0.0 adclick.stuff.co.nz
 0.0.0.0 adclk.co
 0.0.0.0 adclk.com
@@ -264,6 +265,7 @@
 0.0.0.0 apnx.us
 0.0.0.0 app-dynamics.com
 0.0.0.0 appave.mobi
+0.0.0.0 appdynamics.asia
 0.0.0.0 appdynamics.biz
 0.0.0.0 appdynamics.info
 0.0.0.0 appdynamics.mobi
@@ -315,6 +317,7 @@
 0.0.0.0 ashfordinvestments.com
 0.0.0.0 asocials.com
 0.0.0.0 aspirer.xyz
+0.0.0.0 astutemetrics.com
 0.0.0.0 atomz.com
 0.0.0.0 audienceco-op.com
 0.0.0.0 audiencedatamanagement.com
@@ -366,6 +369,7 @@
 0.0.0.0 bigtentresearch.com
 0.0.0.0 bigtentresearch.net
 0.0.0.0 bispd.com
+0.0.0.0 bisrv.com
 0.0.0.0 bitssurfer.com
 0.0.0.0 blackholemyemail.com
 0.0.0.0 bluesnapper.au
@@ -642,6 +646,7 @@
 0.0.0.0 cp1.news.com.au
 0.0.0.0 cpmstars.com
 0.0.0.0 cq.io
+0.0.0.0 crash.steampowered.com
 0.0.0.0 createabetterinternet.com
 0.0.0.0 createsend.click
 0.0.0.0 createsend.email
@@ -700,10 +705,12 @@
 0.0.0.0 d09.no
 0.0.0.0 d1g3gvqfdsvkse.cloudfront.net
 0.0.0.0 d2ha22j8ys3e0o.cloudfront.net
+0.0.0.0 d2jjzw81hqbuqv.cloudfront.net
 0.0.0.0 d3ohfm6v3473ou.cloudfront.net
 0.0.0.0 d3oxtn1x3b8d7i.cloudfront.net
 0.0.0.0 d3ujids68p6xmp.cloudfront.net
 0.0.0.0 danuoyi.alicdn.com
+0.0.0.0 daphnecm.com
 0.0.0.0 databureau.com
 0.0.0.0 databureau.net
 0.0.0.0 databuro.com
@@ -778,6 +785,7 @@
 0.0.0.0 docalytics.com
 0.0.0.0 dohi.se
 0.0.0.0 doma2008.com
+0.0.0.0 dot.idot.cz
 0.0.0.0 doubletrack.us
 0.0.0.0 dqna.net
 0.0.0.0 drptst.com
@@ -897,6 +905,7 @@
 0.0.0.0 evilrank.de
 0.0.0.0 excelenceinfo.com
 0.0.0.0 exclusivo.internet.pt
+0.0.0.0 exebid.ru
 0.0.0.0 exhaustionlaurenbremsstrahlung.info
 0.0.0.0 exosmichk.com
 0.0.0.0 expandengagement.com
@@ -2334,6 +2343,7 @@
 0.0.0.0 niwotesah.com
 0.0.0.0 nl02.net
 0.0.0.0 nl04.net
+0.0.0.0 nlytcs.diffen.com
 0.0.0.0 nmgcdn.com
 0.0.0.0 nmp2.com
 0.0.0.0 nmp4.com
@@ -2347,6 +2357,7 @@
 0.0.0.0 novao.com
 0.0.0.0 novao.net
 0.0.0.0 npario.com
+0.0.0.0 nt.vc
 0.0.0.0 oas-central.com
 0.0.0.0 oas-central.net
 0.0.0.0 oas-network.com
@@ -2486,6 +2497,7 @@
 0.0.0.0 publicidade.motor24.pt
 0.0.0.0 publicidade.tsf.pt
 0.0.0.0 pubzip.net
+0.0.0.0 pump.to
 0.0.0.0 purplenile.com
 0.0.0.0 pvtraffic.com
 0.0.0.0 pxlsrv.com
@@ -2870,6 +2882,7 @@
 0.0.0.0 track.4smobi.com
 0.0.0.0 track.accountreg.com
 0.0.0.0 track.adfocus.pl
+0.0.0.0 track.adtual.com
 0.0.0.0 track.beginb.net
 0.0.0.0 track.claimfreerewards.com
 0.0.0.0 track.domainredbox.com
@@ -2954,6 +2967,7 @@
 0.0.0.0 trk.marketing4.de
 0.0.0.0 trk.newtention.net
 0.0.0.0 trk.sndngbay.site
+0.0.0.0 trk.sodoit.com
 0.0.0.0 trkmob1.com
 0.0.0.0 trkthatpaper.org
 0.0.0.0 trkyme.com

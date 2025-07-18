@@ -110,6 +110,7 @@
 0.0.0.0 adhawktechnologies.com
 0.0.0.0 ad.ink
 0.0.0.0 adintext.net
+0.0.0.0 ad.kakaocorp.com
 0.0.0.0 ad-life.net
 0.0.0.0 ad-linx.com
 0.0.0.0 adlnk.net
@@ -159,8 +160,10 @@
 0.0.0.0 adsubon.com
 0.0.0.0 ads.valuelabs.net
 0.0.0.0 ads.videobridge.tv
+0.0.0.0 ads.xumo.com
 0.0.0.0 adsyoga.com
 0.0.0.0 adtech.cohesionapps.com
+0.0.0.0 aduhads.us
 0.0.0.0 adultclicksponsor.com
 0.0.0.0 adultpartnership.com
 0.0.0.0 advamos.com.tr
@@ -207,6 +210,7 @@
 0.0.0.0 ambitiousanimal.com
 0.0.0.0 amebaad.jp
 0.0.0.0 amplefeed.pro
+0.0.0.0 analik.icu
 0.0.0.0 annrdf.com
 0.0.0.0 aomngb.com
 0.0.0.0 apcl360.com
@@ -274,6 +278,7 @@
 0.0.0.0 buythis.ad
 0.0.0.0 caculi.com
 0.0.0.0 cangatu.xyz
+0.0.0.0 casalemedia.com.edgesuite.net
 0.0.0.0 cashforclicks.xyz
 0.0.0.0 catiligh.ru
 0.0.0.0 ccnc.online
@@ -292,7 +297,9 @@
 0.0.0.0 clearmud.co.uk
 0.0.0.0 clickfetti.com
 0.0.0.0 clickranco.com
+0.0.0.0 clixandco.com
 0.0.0.0 clksor.com
+0.0.0.0 clktrx.com
 0.0.0.0 cluttered-win.pro
 0.0.0.0 comezz.xyz
 0.0.0.0 comfortable-preparation.pro
@@ -307,6 +314,7 @@
 0.0.0.0 cumexskandal.de
 0.0.0.0 cwyxyw.com
 0.0.0.0 cxjrsb.com
+0.0.0.0 cybershop-affiliate.jp
 0.0.0.0 d1272serve.xyz
 0.0.0.0 dahxwf.com
 0.0.0.0 dartcdnfor.com
@@ -317,8 +325,10 @@
 0.0.0.0 ddxmgy.com
 0.0.0.0 debrahinton.pro
 0.0.0.0 decimalcross.pro
+0.0.0.0 devsonsadvertising.com
 0.0.0.0 dgfhkp.com
 0.0.0.0 dierussensindschuld.de
+0.0.0.0 digipush.io
 0.0.0.0 dingeecurlily.com
 0.0.0.0 disfiguredrough.pro
 0.0.0.0 dislanelibrar.top
@@ -346,6 +356,7 @@
 0.0.0.0 dxpxlt.com
 0.0.0.0 dynsrvaz.com
 0.0.0.0 easilyshopping.pro
+0.0.0.0 easyads28.info
 0.0.0.0 easyads29.mobi
 0.0.0.0 easyadv.eu
 0.0.0.0 easyfeeed.com
@@ -371,6 +382,7 @@
 0.0.0.0 eyedemand.com
 0.0.0.0 ezozojawg.com
 0.0.0.0 f4820863aa87c160a3ba03a2a4c91c01.com
+0.0.0.0 faktoryshowroom.com
 0.0.0.0 fastdmr.com
 0.0.0.0 fatebbc.pro
 0.0.0.0 fbcctf.com
@@ -384,6 +396,7 @@
 0.0.0.0 findnewline.com
 0.0.0.0 fiyifo.com
 0.0.0.0 flamboyant-great.pro
+0.0.0.0 flaxdescale.com
 0.0.0.0 flourishagency.net
 0.0.0.0 fluffychair.pro
 0.0.0.0 fqab5xq7qlgt.info
@@ -491,6 +504,7 @@
 0.0.0.0 jvgjrb.com
 0.0.0.0 jvljpv.com
 0.0.0.0 jxteaj.com
+0.0.0.0 jxvjiq.com
 0.0.0.0 k0r2eokjm6.ru
 0.0.0.0 k2digitalsolution.com
 0.0.0.0 kaguadnetwork.com
@@ -564,6 +578,7 @@
 0.0.0.0 malastasho.pro
 0.0.0.0 malinesmanses.com
 0.0.0.0 mammal.net.au
+0.0.0.0 mangoadv.com
 0.0.0.0 marvelous-studio.com
 0.0.0.0 maturecodes.com
 0.0.0.0 maxadvs.ru
@@ -609,6 +624,7 @@
 0.0.0.0 mtd-cpm.com
 0.0.0.0 mustbehand.com
 0.0.0.0 mxtpko.com
+0.0.0.0 myemachine.com
 0.0.0.0 myliveforyoudreder.com
 0.0.0.0 myspicy.de
 0.0.0.0 n101adserv.com
@@ -650,6 +666,7 @@
 0.0.0.0 omlover.de
 0.0.0.0 omyodel.de
 0.0.0.0 onbuilt.de
+0.0.0.0 oneflit.in
 0.0.0.0 onetruth.io
 0.0.0.0 onlineadvertisingclass.com
 0.0.0.0 onservads.com
@@ -670,11 +687,13 @@
 0.0.0.0 panamads.net
 0.0.0.0 paradisecdn.com
 0.0.0.0 pcgames.network
+0.0.0.0 pearlenterprises.in
 0.0.0.0 pelisloadtop.com
 0.0.0.0 perfectaireadvertising.com
 0.0.0.0 personalhigh.pro
 0.0.0.0 petty-increase.pro
 0.0.0.0 phohothiptu.pro
+0.0.0.0 piads.vn
 0.0.0.0 pich18.com
 0.0.0.0 piwhecyfo.pro
 0.0.0.0 plinx.space
@@ -705,7 +724,9 @@
 0.0.0.0 pushenhance.com
 0.0.0.0 pushex.io
 0.0.0.0 pushfan.com
+0.0.0.0 pushofferpro.com
 0.0.0.0 pushprofit.ru
+0.0.0.0 push.samsungosp.com
 0.0.0.0 pushsender.pro
 0.0.0.0 push.trade
 0.0.0.0 pushtr.com
@@ -804,8 +825,10 @@
 0.0.0.0 sorrowfulsuggestion.pro
 0.0.0.0 soxg.xyz
 0.0.0.0 spaceeditors.com
+0.0.0.0 spacetraveldin.com
 0.0.0.0 spe-roll.com
 0.0.0.0 splashnova.de
+0.0.0.0 spnut.com
 0.0.0.0 sportads.ge
 0.0.0.0 squinbested.com
 0.0.0.0 ssl2anyone2.com
@@ -882,6 +905,7 @@
 0.0.0.0 umcbbt.com
 0.0.0.0 unhwav.com
 0.0.0.0 unimportant-vehicle.pro
+0.0.0.0 unlimiteddreams.my
 0.0.0.0 upbijou.de
 0.0.0.0 upbirth.de
 0.0.0.0 upelite.de
@@ -895,6 +919,7 @@
 0.0.0.0 verdantcrescent.com
 0.0.0.0 verwvy.com
 0.0.0.0 vftbnl.com
+0.0.0.0 viaqoo.tech
 0.0.0.0 vicious-instruction.pro
 0.0.0.0 vidcdn.name
 0.0.0.0 videocdnfor.com
@@ -925,7 +950,9 @@
 0.0.0.0 whitewolf-advertising.com
 0.0.0.0 whymhm.space
 0.0.0.0 wideeyedlady.pro
+0.0.0.0 widget.custhelp.com
 0.0.0.0 widget.packeta.com
+0.0.0.0 widget.trengo.eu
 0.0.0.0 wilafhhbdyewgbd.xyz
 0.0.0.0 wildcatadvertising.com
 0.0.0.0 wirverkaufennichts.de

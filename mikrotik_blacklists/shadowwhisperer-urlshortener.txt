@@ -1432,6 +1432,7 @@
 0.0.0.0 goly.me
 0.0.0.0 goninja.live
 0.0.0.0 goo2url.com
+0.0.0.0 goo.by
 0.0.0.0 goo.click
 0.0.0.0 goodnessokparaeke.live
 0.0.0.0 google-139382.com
@@ -1485,6 +1486,7 @@
 0.0.0.0 gskvn.live
 0.0.0.0 gst.bz
 0.0.0.0 gt7.de
+0.0.0.0 gtrv.info
 0.0.0.0 gubdw.com
 0.0.0.0 gumtr.ee
 0.0.0.0 gurl.pro

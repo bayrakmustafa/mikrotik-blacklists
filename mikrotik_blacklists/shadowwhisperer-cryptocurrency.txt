@@ -38,6 +38,7 @@
 0.0.0.0 alfabit.org
 0.0.0.0 algotrade.app
 0.0.0.0 alph2mine.com
+0.0.0.0 altcoinbuilders.com
 0.0.0.0 altcoincash.xyz
 0.0.0.0 altcoinpool.ru
 0.0.0.0 altcoinwarz.com
@@ -132,6 +133,7 @@
 0.0.0.0 bitkub.com
 0.0.0.0 bitmain.com
 0.0.0.0 bitmaintech.com
+0.0.0.0 bitoreum.org
 0.0.0.0 bitpapa.com
 0.0.0.0 bitpay.com
 0.0.0.0 bitsie.com
@@ -294,6 +296,7 @@
 0.0.0.0 cryptoid.info
 0.0.0.0 cryptolootminer.com
 0.0.0.0 cryptomorons.space
+0.0.0.0 cryptonote.club
 0.0.0.0 cryptopay.org.za
 0.0.0.0 cryptopia.co.nz
 0.0.0.0 cryptopool.one
@@ -483,6 +486,7 @@
 0.0.0.0 inetrader.com
 0.0.0.0 insanecoin.com
 0.0.0.0 insidebitcoins.com
+0.0.0.0 instaforex.com
 0.0.0.0 iqmining.com
 0.0.0.0 ironfish.network
 0.0.0.0 isotopec.org
@@ -518,6 +522,7 @@
 0.0.0.0 kujira.app
 0.0.0.0 lamba.top
 0.0.0.0 lanacoin.com
+0.0.0.0 latoken.com
 0.0.0.0 laurentiapool.org
 0.0.0.0 leafpool.com
 0.0.0.0 letsexchange.io
@@ -545,6 +550,7 @@
 0.0.0.0 mangopool.eu
 0.0.0.0 marapool.com
 0.0.0.0 maxminers.net
+0.0.0.0 maxxchain.org
 0.0.0.0 mcmpool.eu
 0.0.0.0 meatec.io
 0.0.0.0 mecrypto.club

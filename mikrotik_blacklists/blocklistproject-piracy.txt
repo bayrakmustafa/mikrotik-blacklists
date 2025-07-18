@@ -361,6 +361,7 @@
 0.0.0.0 get-host.net
 0.0.0.0 getintopc.com
 0.0.0.0 getlink.vn
+0.0.0.0 gigabitwarez.com
 0.0.0.0 gigapurbalingga.net
 0.0.0.0 go2load.com
 0.0.0.0 gold-films.ru
@@ -835,6 +836,7 @@
 0.0.0.0 siliconguide.com
 0.0.0.0 sinister.ly
 0.0.0.0 sjcrack.com
+0.0.0.0 skidrow-games.com
 0.0.0.0 skidrowgames.in
 0.0.0.0 skidrowreloaded.com
 0.0.0.0 skyll.net
@@ -1141,3 +1143,4 @@
 0.0.0.0 crackedversion.com
 0.0.0.0 greencracks.com
 0.0.0.0 cracksoftwareguru.com
+0.0.0.0 abbaspc.net

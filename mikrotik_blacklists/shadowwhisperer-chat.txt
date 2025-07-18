@@ -152,6 +152,7 @@
 0.0.0.0 getinchat.com
 0.0.0.0 getzowie.com
 0.0.0.0 gladly.com
+0.0.0.0 globalchatinc.com
 0.0.0.0 goftino.com
 0.0.0.0 gomoment.com
 0.0.0.0 gorgias.help
@@ -164,6 +165,7 @@
 0.0.0.0 gubagoo.com
 0.0.0.0 gubagoo.io
 0.0.0.0 haptik.ai
+0.0.0.0 headlinerlabs.com
 0.0.0.0 hellotars.com
 0.0.0.0 helloumi.com
 0.0.0.0 helpcrunch.com
@@ -213,6 +215,7 @@
 0.0.0.0 livechat.zen.co.uk
 0.0.0.0 live.hammer-corp.com
 0.0.0.0 livehelp.it
+0.0.0.0 livepersonk.akadns.net
 0.0.0.0 liveperson-liveengage.s3.amazonaws.com
 0.0.0.0 livesupport.com
 0.0.0.0 livex.ai
