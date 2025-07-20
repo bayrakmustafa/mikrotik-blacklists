@@ -31,6 +31,7 @@ def is_plain_domain_list(m_lines):
             domain_only_count += 1
     return domain_only_count >= 50  # If more than 50% of the first 100 lines are domain-only, treat as plain domain list
 
+
 # Load ignore domains
 ignore_domains_file = "ignore_domains.txt"
 if os.path.exists(ignore_domains_file):
@@ -206,6 +207,32 @@ for file_name, domains in file_domains.items():
     print(f"    ➜ Cleaned: {cleaned_path}")
 
 print("[✓] Done! Results are in the 'mikrotik_blacklists' folder.")
+
+# === ➕ Merge all cleaned files into a single minified hosts file (any IP + domain) ===
+combined_hosts_path = os.path.join(output_dir, "microtik_blocklist.txt")
+unique_domains = set()
+lines_written = 0
+
+ip_domain_pattern = re.compile(r"^\s*(\d{1,3}(?:\.\d{1,3}){3})\s+([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})")
+
+with open(combined_hosts_path, "w", encoding="utf-8") as combined_file:
+    for file_name in sorted(os.listdir(output_dir)):
+        if not file_name.endswith(".txt"):
+            continue
+        file_path = os.path.join(output_dir, file_name)
+        with open(file_path, "r", encoding="utf-8", errors="ignore") as f:
+            for line in f:
+                if line.strip().startswith("#") or line.strip() == "":
+                    continue
+                match = ip_domain_pattern.match(line)
+                if match:
+                    domain = normalize_domain(match.group(2))
+                    if domain not in unique_domains:
+                        combined_file.write(f"0.0.0.0 {domain}\n")
+                        unique_domains.add(domain)
+                        lines_written += 1
+
+print(f"[+] Combined hosts file created: {combined_hosts_path} ({lines_written} unique entries)")
 
 # Cleanup temporary directory
 for file_name in os.listdir(temp_dir):
