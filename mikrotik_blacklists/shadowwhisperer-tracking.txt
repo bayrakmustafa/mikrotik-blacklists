@@ -651,7 +651,6 @@
 0.0.0.0 adv.realgroupsrl.it
 0.0.0.0 adv.regis-motors.com
 0.0.0.0 adv.sunprime.it
-0.0.0.0 adway.ai
 0.0.0.0 adwyze.com
 0.0.0.0 adx.red
 0.0.0.0 adz-trax.com
@@ -1104,7 +1103,6 @@
 0.0.0.0 analytic.olearn.net
 0.0.0.0 analytic.oncard.app
 0.0.0.0 analytic.onzmedia.com
-0.0.0.0 analyticowl.com
 0.0.0.0 analytic.partneribalielupe.lv
 0.0.0.0 analyticpartners.com
 0.0.0.0 analytic.pe
@@ -2332,7 +2330,6 @@
 0.0.0.0 analytics.boutdecode.fr
 0.0.0.0 analytics.bouteiller.contact
 0.0.0.0 analytics.bouwinfo.be
-0.0.0.0 analytics.bowhunting.com
 0.0.0.0 analytics.box3.codemao.cn
 0.0.0.0 analytics.box4metal.net
 0.0.0.0 analyticsboy.cf
@@ -9922,7 +9919,6 @@
 0.0.0.0 analytics.torus.co.uk
 0.0.0.0 analytics.totaligent.com
 0.0.0.0 analytics.totallymoney.com
-0.0.0.0 analytics-tot-fa.yinzcam.com
 0.0.0.0 analytics.tothbt.com
 0.0.0.0 analytics.totvs.com.br
 0.0.0.0 analytics.touchize.com
@@ -11221,7 +11217,6 @@
 0.0.0.0 api-diagmon.samsungdm.com
 0.0.0.0 api.diffchecker.com
 0.0.0.0 api.dtm.pixelmotiondemo.com
-0.0.0.0 api.e.burton.co.uk
 0.0.0.0 api.edmunds.com
 0.0.0.0 api.egmont.pl
 0.0.0.0 api.e.karenmillen.com
@@ -12223,7 +12218,6 @@
 0.0.0.0 cables.conwire.com
 0.0.0.0 cadiomobile.com
 0.0.0.0 cafecoffeediscounts.com
-0.0.0.0 ca.foolpitches.com
 0.0.0.0 cahjsj3b2k.com
 0.0.0.0 ca.hotels.com
 0.0.0.0 caisse-epargne-satisfaction.fr
@@ -17930,7 +17924,6 @@
 0.0.0.0 hitachivantara.com
 0.0.0.0 hit-counter-26c68-default-rtdb.firebaseio.com
 0.0.0.0 hit.ebsh.io
-0.0.0.0 hits.golfpost.de
 0.0.0.0 hits.seeyoufarm.com
 0.0.0.0 hit.tonzz3.ru
 0.0.0.0 hiupfluence.com
@@ -19289,7 +19282,6 @@
 0.0.0.0 info.fundingknight.com
 0.0.0.0 info.funeralbusiness-academy.com
 0.0.0.0 info.funplace.co.jp
-0.0.0.0 info.fusfoundation.org
 0.0.0.0 info.fusionstorm.com
 0.0.0.0 info.futuresmedia.com
 0.0.0.0 info.futuresource-consulting.com
@@ -20933,7 +20925,6 @@
 0.0.0.0 info.traverselegal.com
 0.0.0.0 info.tr-d.co.jp
 0.0.0.0 info.treasureer.jp
-0.0.0.0 info.tridelta.org
 0.0.0.0 info.triflo.com
 0.0.0.0 info.trilincglobal.com
 0.0.0.0 info.triumph98.com
@@ -21695,7 +21686,6 @@
 0.0.0.0 jetsetsecretsemail.com
 0.0.0.0 jf20tkr.com
 0.0.0.0 jfn3sk2sc.com
-0.0.0.0 jitsu-api.loomi-prod.xyz
 0.0.0.0 jkblmt01.com
 0.0.0.0 jkowalski.com.pl
 0.0.0.0 jlm-muenchen.de
@@ -21785,7 +21775,6 @@
 0.0.0.0 ketshwa-pixel.b-cdn.net
 0.0.0.0 key-cdn.printfriendly.com
 0.0.0.0 key-logger-free.com
-0.0.0.0 kf91trk.com
 0.0.0.0 kfgy4trk.com
 0.0.0.0 kflaodi888.com
 0.0.0.0 kg-logagent-st.kingsgroupgames.com
@@ -25679,7 +25668,6 @@
 0.0.0.0 matomo.mksag.ch
 0.0.0.0 matomo.mm.he-internet.de
 0.0.0.0 matomo.mmnj.adv.br
-0.0.0.0 matomo.mnhn.fr
 0.0.0.0 matomo.mnspf.fr
 0.0.0.0 matomo.mobileyechina.com
 0.0.0.0 matomo.mobivention.eu
@@ -26140,7 +26128,6 @@
 0.0.0.0 matomo.q1.eu
 0.0.0.0 matomo.qa.astral.de
 0.0.0.0 matomo.qbd.se
-0.0.0.0 matomo.qcovery.de
 0.0.0.0 matomo.qdebouteilles.fr
 0.0.0.0 matomo.qirios.com
 0.0.0.0 matomo.qlmedia.de
@@ -35151,7 +35138,6 @@
 0.0.0.0 piwik.vtech.fr
 0.0.0.0 piwik.vt.sk
 0.0.0.0 piwik.vveen.com
-0.0.0.0 piwik.vvo-online.de
 0.0.0.0 piwik.vwest.com
 0.0.0.0 piwik.w15l.t4n.io
 0.0.0.0 piwik.w2.mcnet-services.de
@@ -35583,7 +35569,6 @@
 0.0.0.0 pixel.marcenariadeinteriores.com
 0.0.0.0 pixel.marianavieira.com.br
 0.0.0.0 pixel.marketingcomdigital.com.br
-0.0.0.0 pixel.marketsformakers.com
 0.0.0.0 pixel.markuswaldl.at
 0.0.0.0 pixel.mastersoul.com.br
 0.0.0.0 pixel.maternalab.com
@@ -39870,7 +39855,6 @@
 0.0.0.0 smetrics.cdw.ca
 0.0.0.0 smetrics.cdwg.com
 0.0.0.0 smetrics.cefcofleet.com
-0.0.0.0 smetrics.centerwell.com
 0.0.0.0 smetrics.charlottesweb.com
 0.0.0.0 smetrics.circusbysamedelman.com
 0.0.0.0 smetrics.citynationalrochdalefunds.com
@@ -44919,7 +44903,6 @@
 0.0.0.0 stats.gera.de
 0.0.0.0 stats.gerbercom.de
 0.0.0.0 stats.gerda-henkel-stiftung.de
-0.0.0.0 stats.germinate.dev
 0.0.0.0 stats.gernandt.info
 0.0.0.0 stats.gerstner.at
 0.0.0.0 stats.gerueb.pt
@@ -45060,7 +45043,6 @@
 0.0.0.0 stats.greekon.eu
 0.0.0.0 stats.greenderella.com
 0.0.0.0 stats.greenmatch.ch
-0.0.0.0 stats.greennet.org.uk
 0.0.0.0 stats.greenparty.org.uk
 0.0.0.0 stats.greenpeak-partners.com
 0.0.0.0 stats.greenspeak.dk
@@ -50272,7 +50254,6 @@
 0.0.0.0 sub.andhabit.com
 0.0.0.0 subaru-tagging-prod.azureedge.net
 0.0.0.0 subcontent.galeria.de
-0.0.0.0 subex.com
 0.0.0.0 sublytics.com
 0.0.0.0 submit.sb.avast.com
 0.0.0.0 subscribers.safeway.com
@@ -52237,7 +52218,6 @@
 0.0.0.0 t.sidekickopen21.com
 0.0.0.0 t.sidekickopen22.com
 0.0.0.0 t.sidekickopen23.com
-0.0.0.0 t.sidekickopen24.com
 0.0.0.0 t.sidekickopen25.com
 0.0.0.0 t.sidekickopen26.com
 0.0.0.0 t.sidekickopen27.com
@@ -52763,7 +52743,6 @@
 0.0.0.0 usertrack.alibaba-inc.com
 0.0.0.0 usertrack.althatech.com
 0.0.0.0 usertrack.balticlei.ee
-0.0.0.0 user-tracking-service-nfm4y5v2fa-uc.a.run.app
 0.0.0.0 usertracking.to8to.com
 0.0.0.0 userwaveclick.com
 0.0.0.0 use.signa.at

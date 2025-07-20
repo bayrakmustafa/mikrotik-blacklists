@@ -22,10 +22,10 @@
 # License:       MIT
 # Format:        hosts
 # Entries:       14,163
-# Version:       0.100.a.25.199.18
+# Version:       0.100.a.25.201.14
 # Expires:       1 day (update frequency)
-# Releasae:      25.199.18
-# Last modified: 2025-07-18T18:11:08.772981 UTC
+# Releasae:      25.201.14
+# Last modified: 2025-07-20T14:03:29.655746 UTC
 # Source:        https://github/EnergizedProtection/block
 # Issue:         https://github/EnergizedProtection/block/issues
 # ----------------------------------------------------------------------------

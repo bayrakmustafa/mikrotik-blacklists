@@ -21,11 +21,11 @@
 # Author:        Ador <mail@ador.com.bd>
 # License:       MIT
 # Format:        hosts
-# Entries:       32,950
-# Version:       0.100.a.25.199.18
+# Entries:       32,984
+# Version:       0.100.a.25.201.14
 # Expires:       1 day (update frequency)
-# Releasae:      25.199.18
-# Last modified: 2025-07-18T18:11:08.878200 UTC
+# Releasae:      25.201.14
+# Last modified: 2025-07-20T14:03:29.825365 UTC
 # Source:        https://github/EnergizedProtection/block
 # Issue:         https://github/EnergizedProtection/block/issues
 # ----------------------------------------------------------------------------
@@ -151,7 +151,6 @@
 0.0.0.0 8pulse.com
 0.0.0.0 9013e61823.com
 0.0.0.0 917c626609.com
-0.0.0.0 932dbf2491.com
 0.0.0.0 93d6b7d3b1.com
 0.0.0.0 9vds.ru
 0.0.0.0 a.aviabay.ru
@@ -202,6 +201,7 @@
 0.0.0.0 accedemotorcycle.com
 0.0.0.0 acces-charme.com
 0.0.0.0 acces-cr.fr
+0.0.0.0 acces-particuliers.fr
 0.0.0.0 acces-pills.com
 0.0.0.0 accesporno.com
 0.0.0.0 accessbourso.fr
@@ -390,6 +390,7 @@
 0.0.0.0 adv.videomega.tv
 0.0.0.0 adv0.com
 0.0.0.0 advance-login.fr
+0.0.0.0 advancementgreeted.com
 0.0.0.0 advcake.online
 0.0.0.0 advego.ru
 0.0.0.0 adventureland.fr
@@ -583,10 +584,10 @@
 0.0.0.0 amzon-service.fr
 0.0.0.0 amzuu.com
 0.0.0.0 anaheim.ru
-0.0.0.0 analytics.ambient-platform.com
 0.0.0.0 analytics.audionow.de
 0.0.0.0 analytics.boomerangtv.dk
 0.0.0.0 analytics.net.jumia.co.tz
+0.0.0.0 analytics.paste.ee
 0.0.0.0 analytics.smhi.se
 0.0.0.0 andastegigas.com
 0.0.0.0 andieswimfrance.fr
@@ -675,6 +676,7 @@
 0.0.0.0 arcteryxoutlet.fr
 0.0.0.0 arcteryxoutletfrance.fr
 0.0.0.0 ariatbootsfrance.fr
+0.0.0.0 arioiundated.com
 0.0.0.0 arkabstoppit.com
 0.0.0.0 arkea-conseil.fr
 0.0.0.0 arkea-direct-conseil.fr
@@ -737,6 +739,7 @@
 0.0.0.0 assr-formulaire.fr
 0.0.0.0 assu-maladie-renvouvellement.fr
 0.0.0.0 assur-lynx.fr
+0.0.0.0 assurance-axa.fr
 0.0.0.0 assurance-macif.fr
 0.0.0.0 assurance-maladie-guadeloupe.fr
 0.0.0.0 assurance-maladie-renouvellement.fr
@@ -805,6 +808,7 @@
 0.0.0.0 auflink.com
 0.0.0.0 augnaimpeept.net
 0.0.0.0 auldbosh.click
+0.0.0.0 auntresodamid.com
 0.0.0.0 auth-abonne-netflix.fr
 0.0.0.0 auth-apple.fr
 0.0.0.0 auth-bonc-vente.fr
@@ -817,7 +821,6 @@
 0.0.0.0 authen-tifsec.fr
 0.0.0.0 authentication.wf
 0.0.0.0 authenticshop93.fr
-0.0.0.0 authentification-opposition.fr
 0.0.0.0 authentification-support.fr
 0.0.0.0 authentificationsg.fr
 0.0.0.0 authorne.info
@@ -906,6 +909,7 @@
 0.0.0.0 baldricclothy.top
 0.0.0.0 baldscatkins.com
 0.0.0.0 balenciaga.re
+0.0.0.0 balkanbet.fr
 0.0.0.0 balldomohone.com
 0.0.0.0 balletsbeep.com
 0.0.0.0 balmainfrance.fr
@@ -1029,6 +1033,7 @@
 0.0.0.0 betfaq.ru
 0.0.0.0 betfred.fr
 0.0.0.0 betfredaffiliates.com
+0.0.0.0 betfury.fr
 0.0.0.0 betfurycasino.fr
 0.0.0.0 betkin.fr
 0.0.0.0 betonmarkets.com
@@ -1053,6 +1058,7 @@
 0.0.0.0 bibiloufrance.fr
 0.0.0.0 bibulustartane.guru
 0.0.0.0 bidajet.info
+0.0.0.0 bigdollarcasino.fr
 0.0.0.0 biglovegirls.com
 0.0.0.0 bihisvmtakx.xyz
 0.0.0.0 biisteringdate.com
@@ -1088,7 +1094,6 @@
 0.0.0.0 birken-destock.fr
 0.0.0.0 birken-stock.fr
 0.0.0.0 birkendestock.fr
-0.0.0.0 birkenstock-destock.fr
 0.0.0.0 birkenstock-outlet.fr
 0.0.0.0 birkenstock-sandales.fr
 0.0.0.0 birkenstock-shop.fr
@@ -1098,6 +1103,7 @@
 0.0.0.0 birkenstockparis.fr
 0.0.0.0 birkenstocks.fr
 0.0.0.0 birkenstockstore.fr
+0.0.0.0 birkishoes.fr
 0.0.0.0 birkoutlet.fr
 0.0.0.0 birkstore.fr
 0.0.0.0 birleeris.com
@@ -1169,6 +1175,7 @@
 0.0.0.0 bonprixfrance.fr
 0.0.0.0 bonsport.ru
 0.0.0.0 bonusmne.com
+0.0.0.0 boocasino.fr
 0.0.0.0 booking-noreply.fr
 0.0.0.0 bookingconfirmation.fr
 0.0.0.0 books555.com
@@ -1178,6 +1185,7 @@
 0.0.0.0 boostsaves.com
 0.0.0.0 bootfrance.fr
 0.0.0.0 bootsfranceshop.fr
+0.0.0.0 bordereaudedepotsecurise.fr
 0.0.0.0 borsalinofrance.fr
 0.0.0.0 boruto.fr
 0.0.0.0 bosefranceshop.fr
@@ -1186,7 +1194,6 @@
 0.0.0.0 bottesetsacs.fr
 0.0.0.0 bottesuggsoldes.fr
 0.0.0.0 bottinesetmanteaux.fr
-0.0.0.0 bouncerglovers.click
 0.0.0.0 boursarama.fr
 0.0.0.0 bourso-banque.fr
 0.0.0.0 bourso-bk.fr
@@ -1262,6 +1269,7 @@
 0.0.0.0 broweb3s.site
 0.0.0.0 brpktq.com
 0.0.0.0 brujosglozed.com
+0.0.0.0 bruno-online.fr
 0.0.0.0 bryansansone.shop
 0.0.0.0 bs.serving-sys.ru
 0.0.0.0 bstlnk.com
@@ -1315,6 +1323,7 @@
 0.0.0.0 ca-lorraines.fr
 0.0.0.0 ca2686564a.com
 0.0.0.0 caatlantiquevendee.fr
+0.0.0.0 cabarino-casino.fr
 0.0.0.0 cacentreloire.fr
 0.0.0.0 cacentreouest.fr
 0.0.0.0 cadwx.com
@@ -1337,7 +1346,7 @@
 0.0.0.0 cam4ads.com
 0.0.0.0 caminitodelreybillets.fr
 0.0.0.0 camorbihan.fr
-0.0.0.0 campaigns.ambient-platform.com
+0.0.0.0 camper-fr.fr
 0.0.0.0 camper-france.fr
 0.0.0.0 camperfr.fr
 0.0.0.0 camperfrance.fr
@@ -1457,9 +1466,6 @@
 0.0.0.0 cdn-aitg.widerplanet.com
 0.0.0.0 cdn-epaiement.fr
 0.0.0.0 cdn-img.ru
-0.0.0.0 cdn-media-m.ambient-platform.com
-0.0.0.0 cdn-media.ambient-platform.com
-0.0.0.0 cdn-media.m.ambient-platform.com
 0.0.0.0 cdn-my4.ru
 0.0.0.0 cdn-static.ru
 0.0.0.0 cdn.actiflex.org
@@ -1579,7 +1585,6 @@
 0.0.0.0 chaussuresupraparis.fr
 0.0.0.0 cheburchik.ru
 0.0.0.0 checke.biz
-0.0.0.0 checkmymedia.biz
 0.0.0.0 checkout-leboncoin.fr
 0.0.0.0 checkout3dsecure.fr
 0.0.0.0 checkpage.org
@@ -1609,7 +1614,6 @@
 0.0.0.0 chorus-facture.fr
 0.0.0.0 chorus-litige.fr
 0.0.0.0 chorus-pro-facture.fr
-0.0.0.0 chorusnotificationpro.fr
 0.0.0.0 chottsunmarry.com
 0.0.0.0 choubsebsu.com
 0.0.0.0 choumoltily.net
@@ -1620,6 +1624,7 @@
 0.0.0.0 chromebrowser.ru
 0.0.0.0 chronno.fr
 0.0.0.0 chronolivraison.fr
+0.0.0.0 chronop-livr.fr
 0.0.0.0 chronopost-delivery.fr
 0.0.0.0 chronopost-express-suivi.fr
 0.0.0.0 chronopost-info-suivi.fr
@@ -1663,8 +1668,6 @@
 0.0.0.0 clarksfr.fr
 0.0.0.0 clckads.com
 0.0.0.0 cleverculture.pro
-0.0.0.0 cli.ambient-platform.com
-0.0.0.0 cli.m.ambient-platform.com
 0.0.0.0 clic-diffusion.com
 0.0.0.0 clic.ws
 0.0.0.0 click-to-pay.fr
@@ -1676,7 +1679,6 @@
 0.0.0.0 clickioglobal.com
 0.0.0.0 clickmoileclito.com
 0.0.0.0 clicksegypt.net
-0.0.0.0 clicksmint.site
 0.0.0.0 clicktictac.com
 0.0.0.0 clicktimes.net
 0.0.0.0 clicktoclick.ru
@@ -1828,14 +1830,12 @@
 0.0.0.0 contravation-antai.fr
 0.0.0.0 controle-transaction.fr
 0.0.0.0 controlmobilepyl.fr
-0.0.0.0 conv.ambient-platform.com
 0.0.0.0 converse-fr.fr
 0.0.0.0 conversefrancestore.fr
 0.0.0.0 conversepascher.fr
 0.0.0.0 conversesfrance.fr
 0.0.0.0 convoiturage.fr
 0.0.0.0 coodleborstal.com
-0.0.0.0 coofoagleeh.com
 0.0.0.0 cookiescriptcdn.pro
 0.0.0.0 cooldeal.by
 0.0.0.0 coolwaychaussures.fr
@@ -1865,14 +1865,12 @@
 0.0.0.0 couche-pampers.fr
 0.0.0.0 cougarchaussures.fr
 0.0.0.0 cougarmessenger.com
-0.0.0.0 cougidauptoo.com
 0.0.0.0 counterparttv.ru
 0.0.0.0 couphowhousi.net
 0.0.0.0 coupon-pcs.fr
 0.0.0.0 couponouigo.fr
 0.0.0.0 courewauph.com
 0.0.0.0 couverturemaladie.fr
-0.0.0.0 couwhoupesho.net
 0.0.0.0 covea-auth.fr
 0.0.0.0 covertsgrete.com
 0.0.0.0 cowhaits.com
@@ -1898,6 +1896,7 @@
 0.0.0.0 craniolenfoil.shop
 0.0.0.0 craptoke.com
 0.0.0.0 crateshoover.com
+0.0.0.0 crazyslotscasino.fr
 0.0.0.0 crd-agricole.fr
 0.0.0.0 creativesrv.com
 0.0.0.0 cred-agricole.fr
@@ -1957,6 +1956,7 @@
 0.0.0.0 customer-prime.fr
 0.0.0.0 customer-support.fr
 0.0.0.0 customerservice-ryanair.fr
+0.0.0.0 customerservicemafrenchbank.fr
 0.0.0.0 cut-urls.com
 0.0.0.0 cv-regularisation.fr
 0.0.0.0 cvj-systeme-u.fr
@@ -1966,7 +1966,6 @@
 0.0.0.0 cyberstyle.ru
 0.0.0.0 cybertek-labege.fr
 0.0.0.0 cybertek4000.fr
-0.0.0.0 cyberterk.fr
 0.0.0.0 cyclivate.com
 0.0.0.0 cytochemistryrecitativewrasse.com
 0.0.0.0 czclients.fr
@@ -2039,6 +2038,7 @@
 0.0.0.0 decathlons.fr
 0.0.0.0 deckerenacts.com
 0.0.0.0 declarationca3dgfip.fr
+0.0.0.0 decollhuaca.com
 0.0.0.0 deegraun.com
 0.0.0.0 deepc.cc
 0.0.0.0 deethaubipy.net
@@ -2047,13 +2047,9 @@
 0.0.0.0 defis-metiers.fr
 0.0.0.0 deiterius.com
 0.0.0.0 dekalee.fr
-0.0.0.0 delatedrhymery.com
 0.0.0.0 delivery-express-mondialrelay.fr
-0.0.0.0 delivery-m.ambient-platform.com
 0.0.0.0 delivery-mondial-relay.fr
 0.0.0.0 delivery-mondialrelay.fr
-0.0.0.0 delivery.ambient-platform.com
-0.0.0.0 delivery.m.ambient-platform.com
 0.0.0.0 deliveryrelay.fr
 0.0.0.0 delivrancedestitres-ants.fr
 0.0.0.0 delivrancesdestitres-ants.fr
@@ -2162,7 +2158,6 @@
 0.0.0.0 distribution-prime.fr
 0.0.0.0 distributions-carrefour.fr
 0.0.0.0 distributions-prime.fr
-0.0.0.0 divaspincasino.fr
 0.0.0.0 divatraffic.bid
 0.0.0.0 divinebydivinefrance.fr
 0.0.0.0 divlnedates.com
@@ -2413,6 +2408,7 @@
 0.0.0.0 ent-marne.fr
 0.0.0.0 entparisnanterre.fr
 0.0.0.0 envoipostale.fr
+0.0.0.0 enzo-online.fr
 0.0.0.0 eogli.com
 0.0.0.0 eogli.org
 0.0.0.0 epalescrous.fr
@@ -2502,9 +2498,11 @@
 0.0.0.0 etu-univ.fr
 0.0.0.0 etwinternational.ru
 0.0.0.0 etwun.com
+0.0.0.0 eu-casino.fr
 0.0.0.0 eu-stussy.fr
 0.0.0.0 euamonudes.com
 0.0.0.0 eucasino.fr
+0.0.0.0 euromooncasino.fr
 0.0.0.0 eurowebbiz.com
 0.0.0.0 everinform.com
 0.0.0.0 every.com
@@ -2628,6 +2626,7 @@
 0.0.0.0 ferganils.com
 0.0.0.0 fermasosedi.ru
 0.0.0.0 fesibsou.net
+0.0.0.0 festicket.fr
 0.0.0.0 fevofep.com
 0.0.0.0 ff-01.com
 0.0.0.0 ff-02.com
@@ -2643,6 +2642,7 @@
 0.0.0.0 filafranceonline.fr
 0.0.0.0 filafranceshops.fr
 0.0.0.0 filafrancesshop.fr
+0.0.0.0 filamagasin.fr
 0.0.0.0 filaoutletfrance.fr
 0.0.0.0 filasfrance.fr
 0.0.0.0 filebase.me
@@ -2675,6 +2675,7 @@
 0.0.0.0 fishgigyeaoman.top
 0.0.0.0 fjallraven-france.fr
 0.0.0.0 fkpnpucrfrckq.com
+0.0.0.0 flappy-casino.fr
 0.0.0.0 flascom.com
 0.0.0.0 flashsc.re
 0.0.0.0 flinteractive.fr
@@ -2816,6 +2817,7 @@
 0.0.0.0 galaxbalilla.click
 0.0.0.0 gallinestate.com
 0.0.0.0 gamaads.com
+0.0.0.0 gamacasino.fr
 0.0.0.0 gamblingbuilder.com
 0.0.0.0 gamebet.news
 0.0.0.0 gamerynis.com
@@ -2938,7 +2940,6 @@
 0.0.0.0 globalsnslp.com
 0.0.0.0 globeshoesfrance.fr
 0.0.0.0 globusgps.ru
-0.0.0.0 glodretsa.net
 0.0.0.0 gloghipusto.xyz
 0.0.0.0 gloochie.com
 0.0.0.0 glooghalty.net
@@ -2974,6 +2975,7 @@
 0.0.0.0 golasiteoficiels.fr
 0.0.0.0 golasitesofficiel.fr
 0.0.0.0 golassiteofficiel.fr
+0.0.0.0 goldbetcasino.fr
 0.0.0.0 golden-gooses.fr
 0.0.0.0 golden-outlet.fr
 0.0.0.0 goldenbet-casino.fr
@@ -2987,8 +2989,10 @@
 0.0.0.0 goldenstars.fr
 0.0.0.0 goldline.pro
 0.0.0.0 goldscogger.top
+0.0.0.0 goldspin-online.fr
 0.0.0.0 goldspin.fr
 0.0.0.0 goldzinocasino.fr
+0.0.0.0 golfwangfrance.fr
 0.0.0.0 golfzon.fr
 0.0.0.0 golynx.tech
 0.0.0.0 gonews2.net
@@ -3041,7 +3045,6 @@
 0.0.0.0 goyard-outlet.fr
 0.0.0.0 gprivee-axa.fr
 0.0.0.0 graifauwhir.net
-0.0.0.0 grairgid.top
 0.0.0.0 gramodo.com
 0.0.0.0 grand-pr.ru
 0.0.0.0 grand-t-code.com
@@ -3160,6 +3163,7 @@
 0.0.0.0 hellywood.ru
 0.0.0.0 helotsscopone.shop
 0.0.0.0 help-compte.fr
+0.0.0.0 help-netflix.fr
 0.0.0.0 help-sgenerale.fr
 0.0.0.0 helpinfoamazon.fr
 0.0.0.0 helpsecurepay.fr
@@ -3248,6 +3252,7 @@
 0.0.0.0 hotpartner.biz
 0.0.0.0 hotpartner.ru
 0.0.0.0 houbaushashe.xyz
+0.0.0.0 howledmintier.com
 0.0.0.0 hqnediwcwnq.com
 0.0.0.0 hrjbylofyso.com
 0.0.0.0 hsbcbank.fr
@@ -3274,7 +3279,6 @@
 0.0.0.0 hunterbootparis.fr
 0.0.0.0 hunteryvely.com
 0.0.0.0 hurleyparis.fr
-0.0.0.0 hurriedcomae.com
 0.0.0.0 hushpuppies-france.fr
 0.0.0.0 huskingbch.top
 0.0.0.0 hutrealebion.com
@@ -3386,9 +3390,6 @@
 0.0.0.0 immobnppf.fr
 0.0.0.0 imobilco.ru
 0.0.0.0 imogennubbled.top
-0.0.0.0 imp-m.ambient-platform.com
-0.0.0.0 imp.ambient-platform.com
-0.0.0.0 imp.m.ambient-platform.com
 0.0.0.0 impaintcuprous.com
 0.0.0.0 imparfum.com
 0.0.0.0 imparloments.com
@@ -3419,6 +3420,7 @@
 0.0.0.0 info-eneidis.fr
 0.0.0.0 info-free.fr
 0.0.0.0 info-gouvernement.fr
+0.0.0.0 info-greffe-kbis.fr
 0.0.0.0 info-prime.fr
 0.0.0.0 info-sms-livraison.fr
 0.0.0.0 info-sms-renouvellement.fr
@@ -3500,6 +3502,7 @@
 0.0.0.0 ipanemasiteofficiel.fr
 0.0.0.0 ipay-services.fr
 0.0.0.0 ipcdigital.co.uk
+0.0.0.0 iphone-store.fr
 0.0.0.0 iphone.pm
 0.0.0.0 iphone10gs.com
 0.0.0.0 ipic.su
@@ -3535,7 +3538,9 @@
 0.0.0.0 iylia12.site
 0.0.0.0 jack21casino.fr
 0.0.0.0 jackpotbob-casinoenligne.fr
+0.0.0.0 jackpotbob-online.fr
 0.0.0.0 jackpotstar.fr
+0.0.0.0 jacquemus-bags.fr
 0.0.0.0 jacquemuss.fr
 0.0.0.0 jacquemusshop.fr
 0.0.0.0 jad-news1.club
@@ -3680,6 +3685,7 @@
 0.0.0.0 kiddyshoes.fr
 0.0.0.0 killerjuke.xyz
 0.0.0.0 kin4ik.com
+0.0.0.0 kingbit-casino.fr
 0.0.0.0 kingko.xyz
 0.0.0.0 kingpeon.com
 0.0.0.0 kingschance-online.fr
@@ -3731,6 +3737,7 @@
 0.0.0.0 kreepo.com
 0.0.0.0 kringrdrct.com
 0.0.0.0 kritka.kz
+0.0.0.0 kryptosino-casino.fr
 0.0.0.0 ksdnf.com
 0.0.0.0 kshop.biz
 0.0.0.0 ksplayer.com
@@ -3771,6 +3778,7 @@
 0.0.0.0 lacostesiteofficiel.fr
 0.0.0.0 lady-click.com
 0.0.0.0 ladygagabilleterie.fr
+0.0.0.0 ladylindacasino.fr
 0.0.0.0 ladyxenaa.fr
 0.0.0.0 lafrancebdsm.com
 0.0.0.0 laiglon-france.fr
@@ -3778,6 +3786,7 @@
 0.0.0.0 laizoochey.com
 0.0.0.0 lamaaf.fr
 0.0.0.0 lamourronline.com
+0.0.0.0 lampions-bet.fr
 0.0.0.0 lancaster-officiel.fr
 0.0.0.0 lancasterparissac.fr
 0.0.0.0 lancelynertz.top
@@ -3868,6 +3877,7 @@
 0.0.0.0 leprogres.ovh
 0.0.0.0 leromerlin.fr
 0.0.0.0 leroy-merlin-france.fr
+0.0.0.0 leroy-merlin-outillage.fr
 0.0.0.0 leroymeriln.fr
 0.0.0.0 leroymerlin-energies.fr
 0.0.0.0 leroymerlin-france.fr
@@ -3892,6 +3902,7 @@
 0.0.0.0 liberation.ovh
 0.0.0.0 libertex-gestion.fr
 0.0.0.0 libertytraffic.ru
+0.0.0.0 librabetcasino.fr
 0.0.0.0 lidl-logistic.fr
 0.0.0.0 lidl-marketplace.fr
 0.0.0.0 lidl-me.fr
@@ -3971,10 +3982,9 @@
 0.0.0.0 loavouduleem.net
 0.0.0.0 loazoapagour.com
 0.0.0.0 loboloshetaery.com
-0.0.0.0 local-media.ambient-platform.com
-0.0.0.0 local-media.m.ambient-platform.com
 0.0.0.0 locales-insee.fr
 0.0.0.0 localiser-connect.fr
+0.0.0.0 localisermaps.fr
 0.0.0.0 localisersupport.fr
 0.0.0.0 locker-coli.fr
 0.0.0.0 locodata.site
@@ -4034,7 +4044,6 @@
 0.0.0.0 louvremuseum.paris
 0.0.0.0 loveafairs.net
 0.0.0.0 loveaflairs.com
-0.0.0.0 lovedatee.com
 0.0.0.0 lovedatng.com
 0.0.0.0 loveeonline.com
 0.0.0.0 loveiswe.net
@@ -4058,8 +4067,10 @@
 0.0.0.0 lucky-spins.fr
 0.0.0.0 lucky8-casinos.fr
 0.0.0.0 luckyblockcasino.fr
+0.0.0.0 luckydayscasino.fr
 0.0.0.0 luckyheroescasino.fr
 0.0.0.0 luckymoneygames.com
+0.0.0.0 luckynugget-casino.fr
 0.0.0.0 luckypush.pro
 0.0.0.0 luckytreasurecasino-fr.fr
 0.0.0.0 luckyvibecasino.fr
@@ -4306,10 +4317,10 @@
 0.0.0.0 messagerieslebonncoin.fr
 0.0.0.0 messagesleboncoin.fr
 0.0.0.0 meta.vn
+0.0.0.0 metaformafr.fr
 0.0.0.0 metamarket.com.ua
 0.0.0.0 meteofranc.fr
 0.0.0.0 meticulousdate.net
-0.0.0.0 metrics.ambient-platform.com
 0.0.0.0 metrics.findomestic.it
 0.0.0.0 metrics.jh-profishop.at
 0.0.0.0 metrics.jobs.ie
@@ -4357,6 +4368,7 @@
 0.0.0.0 mildishsumac.top
 0.0.0.0 milfalone.com
 0.0.0.0 millionairedream.co
+0.0.0.0 millionz-online.fr
 0.0.0.0 min-sante-gouve-france.fr
 0.0.0.0 min.org.ua
 0.0.0.0 minellparis.fr
@@ -4470,6 +4482,7 @@
 0.0.0.0 moncole.fr
 0.0.0.0 moncompte-sante.fr
 0.0.0.0 moncomptecic.fr
+0.0.0.0 mond-casino.fr
 0.0.0.0 mondial-colis.fr
 0.0.0.0 mondial-moncolis.fr
 0.0.0.0 mondialconnectlocker.fr
@@ -4485,6 +4498,7 @@
 0.0.0.0 mondialrelay-service-prioritaire.fr
 0.0.0.0 mondialrelay-suivi-colis.fr
 0.0.0.0 mondialrelay-support.fr
+0.0.0.0 mondialrelay.re
 0.0.0.0 mondoctolib.fr
 0.0.0.0 monecle.fr
 0.0.0.0 monespace-assure.fr
@@ -4565,6 +4579,7 @@
 0.0.0.0 msoffice.pm
 0.0.0.0 mt-data.ru
 0.0.0.0 muchadmiredin.info
+0.0.0.0 muchovegascasino.fr
 0.0.0.0 muddishemblem.shop
 0.0.0.0 muellfrei.de
 0.0.0.0 multicolored-carry.com
@@ -4628,6 +4643,7 @@
 0.0.0.0 mysiten.ucoz.net
 0.0.0.0 myspot.fr
 0.0.0.0 mystake-jouer.fr
+0.0.0.0 mystakecasino-online.fr
 0.0.0.0 mystakefrance.fr
 0.0.0.0 myswiss.fr
 0.0.0.0 mytemplatestorage.com
@@ -4714,6 +4730,7 @@
 0.0.0.0 netmark.online
 0.0.0.0 netmediaeurope.com
 0.0.0.0 netmediaeurope.fr
+0.0.0.0 nevadawin-online.fr
 0.0.0.0 new.traffic.ru
 0.0.0.0 newbalance-france.fr
 0.0.0.0 newbalance-shop.fr
@@ -4756,7 +4773,6 @@
 0.0.0.0 nigivarium.com
 0.0.0.0 nijigen-erogazou.com
 0.0.0.0 nike-airmax.fr
-0.0.0.0 nike-airmaxpascher.fr
 0.0.0.0 nike-jordan.fr
 0.0.0.0 nike-rh.fr
 0.0.0.0 nike-soldes.fr
@@ -4789,6 +4805,7 @@
 0.0.0.0 nocibe-parfums.fr
 0.0.0.0 nocibe-shop.fr
 0.0.0.0 nocibee.fr
+0.0.0.0 nocibeparfum.fr
 0.0.0.0 nocta-outlet.fr
 0.0.0.0 nocta-outlets.fr
 0.0.0.0 nogautssvjlh.com
@@ -4801,6 +4818,7 @@
 0.0.0.0 noouplit.com
 0.0.0.0 nopetsou.net
 0.0.0.0 nordafrance.fr
+0.0.0.0 nordiscasino.fr
 0.0.0.0 nordparisien.fr
 0.0.0.0 north-face-france.fr
 0.0.0.0 northfaceparis.fr
@@ -4813,7 +4831,6 @@
 0.0.0.0 notiares.fr
 0.0.0.0 notification-auto.fr
 0.0.0.0 notification-info.fr
-0.0.0.0 notification-securite.fr
 0.0.0.0 notifnpal.fr
 0.0.0.0 notifs-conseiller.fr
 0.0.0.0 notredamecathedral.paris
@@ -4932,6 +4949,7 @@
 0.0.0.0 onlinemoviestar.xyz
 0.0.0.0 onload-leboncoin.fr
 0.0.0.0 onlyfans.re
+0.0.0.0 onlygamesforme.com
 0.0.0.0 onlyneedtoreadnotebook.buzz
 0.0.0.0 onmicrosoft.fr
 0.0.0.0 onnetwork.tv
@@ -4966,6 +4984,7 @@
 0.0.0.0 optimhub.com
 0.0.0.0 optionsdereglementations.fr
 0.0.0.0 opuxppwnnf.com
+0.0.0.0 oraangee.fr
 0.0.0.0 oraclecloud.fr
 0.0.0.0 oragne.fr
 0.0.0.0 orange-abonnements.fr
@@ -5016,6 +5035,7 @@
 0.0.0.0 outletasics.fr
 0.0.0.0 outletfrancais.fr
 0.0.0.0 outletjbl.fr
+0.0.0.0 outletlab.fr
 0.0.0.0 outletmaglieshop.fr
 0.0.0.0 outlo0k.fr
 0.0.0.0 outlook.pm
@@ -5052,7 +5072,9 @@
 0.0.0.0 paiatialdate.com
 0.0.0.0 paiement-avant-majoration.fr
 0.0.0.0 paiement-colis-livraison.fr
+0.0.0.0 paiement-deer.fr
 0.0.0.0 paiement-le-boncoin.fr
+0.0.0.0 paiement-leboncoin.fr
 0.0.0.0 paiement-secure.fr
 0.0.0.0 paiement-securise-lbc-pack-serenite.fr
 0.0.0.0 paiementboncoin.fr
@@ -5209,7 +5231,6 @@
 0.0.0.0 pharmacie-carte-sante.fr
 0.0.0.0 pharmacie-du-lion-thionville.fr
 0.0.0.0 pharmacie-leonetti.fr
-0.0.0.0 pharmacieandrein.fr
 0.0.0.0 pharmaciedelagare-laval.fr
 0.0.0.0 pharmaciedelautanlafayette.fr
 0.0.0.0 pharmaciedemedis.fr
@@ -5226,6 +5247,7 @@
 0.0.0.0 phoajoamampou.net
 0.0.0.0 phomefoeker.info
 0.0.0.0 phoptockaz.net
+0.0.0.0 phoradevily.com
 0.0.0.0 photcheefets.com
 0.0.0.0 photoshop-master.org
 0.0.0.0 phoumsoomsoh.com
@@ -5361,6 +5383,7 @@
 0.0.0.0 portail-amendes.fr
 0.0.0.0 portail-chorus-pro.fr
 0.0.0.0 portail-clients.fr
+0.0.0.0 portail-enedis.fr
 0.0.0.0 portail-identite.fr
 0.0.0.0 portail-opposition.fr
 0.0.0.0 portail-oppositionenligne.fr
@@ -5499,6 +5522,7 @@
 0.0.0.0 primsiepickier.com
 0.0.0.0 princeali-online.fr
 0.0.0.0 printerest.fr
+0.0.0.0 prism-casino.fr
 0.0.0.0 privacy-cs.mail.ru
 0.0.0.0 privatediet.pro
 0.0.0.0 privatelands.biz
@@ -5747,6 +5771,7 @@
 0.0.0.0 recouvrementedf.fr
 0.0.0.0 recouvrementfinance.fr
 0.0.0.0 recrutement-pro-macif.fr
+0.0.0.0 recupay-paylib.fr
 0.0.0.0 redbutton-adproxy-lb-test.redbutton.de
 0.0.0.0 rederditium.com
 0.0.0.0 redirecturl.ru
@@ -5800,6 +5825,7 @@
 0.0.0.0 relevisibly.com
 0.0.0.0 relivraison-mondialrelay.fr
 0.0.0.0 relivraisons-mondial.fr
+0.0.0.0 remb-freebox.fr
 0.0.0.0 remboursement-ameli.fr
 0.0.0.0 remboursement-ca-cf.fr
 0.0.0.0 remboursement-doctolib.fr
@@ -5861,7 +5887,6 @@
 0.0.0.0 restrictions-netflix.fr
 0.0.0.0 restypigfoot.shop
 0.0.0.0 resume-prime.fr
-0.0.0.0 retg.ambient-platform.com
 0.0.0.0 retingexylogen.com
 0.0.0.0 retinmutage.top
 0.0.0.0 retour-prime.fr
@@ -6176,13 +6201,13 @@
 0.0.0.0 service-amazon.fr
 0.0.0.0 service-antifraude.fr
 0.0.0.0 service-assistance-client.fr
-0.0.0.0 service-cic-cm.fr
 0.0.0.0 service-colis-chronopost.fr
 0.0.0.0 service-credit-fortuneo.fr
 0.0.0.0 service-expedition-engligne.fr
 0.0.0.0 service-livraison-paiement.fr
 0.0.0.0 service-mondialreiay-enligne.fr
 0.0.0.0 service-prioritaire-mondialrelay.fr
+0.0.0.0 service-public-litige.fr
 0.0.0.0 service-recouvrements.fr
 0.0.0.0 service-renouvellement-ameli.fr
 0.0.0.0 service-repressionfraudes.fr
@@ -6257,7 +6282,6 @@
 0.0.0.0 shlnlngdate.com
 0.0.0.0 shmokiads.com
 0.0.0.0 shoagoup.net
-0.0.0.0 shoesmarques.fr
 0.0.0.0 shoftoupsouxoam.net
 0.0.0.0 shoftoussees.com
 0.0.0.0 shookribux.net
@@ -6486,11 +6510,13 @@
 0.0.0.0 spinight-casino.fr
 0.0.0.0 spinmamacasino.fr
 0.0.0.0 spins-heaven.fr
+0.0.0.0 spinsdeluxe-casino.fr
 0.0.0.0 splendiddates.net
 0.0.0.0 spload.site
 0.0.0.0 sploads.site
 0.0.0.0 sport-fitnes.ru
 0.0.0.0 sportoboz.ru
+0.0.0.0 sporty-bet.fr
 0.0.0.0 spostic.date
 0.0.0.0 spotifypromo.fr
 0.0.0.0 spotlight.offerista.com
@@ -6532,7 +6558,6 @@
 0.0.0.0 statersgignate.com
 0.0.0.0 static-od.com
 0.0.0.0 static-pp.ru
-0.0.0.0 static.ambient-platform.com
 0.0.0.0 static.dzeninfra.ru
 0.0.0.0 static.groupy.co.nz
 0.0.0.0 static.interworksmedia.co.kr
@@ -6554,7 +6579,6 @@
 0.0.0.0 stickredgr.online
 0.0.0.0 stickyads.tv
 0.0.0.0 stickywild-casino.fr
-0.0.0.0 stighoazon.com
 0.0.0.0 stihl-fr.fr
 0.0.0.0 stirshakead.com
 0.0.0.0 stizer.ru
@@ -6711,6 +6735,7 @@
 0.0.0.0 t800.org
 0.0.0.0 ta.mybb.ru
 0.0.0.0 tab.clickmon.co.kr
+0.0.0.0 tabacneosurf-verification.fr
 0.0.0.0 tabun.info
 0.0.0.0 tacaveros.com
 0.0.0.0 tafreshtatum.com
@@ -6781,7 +6806,6 @@
 0.0.0.0 teraphessed.guru
 0.0.0.0 teraticvielle.top
 0.0.0.0 tergitepeters.com
-0.0.0.0 test-places.gammassp.com
 0.0.0.0 tetabesl.info
 0.0.0.0 tetheryplagues.com
 0.0.0.0 tetrawicus.com
@@ -6900,6 +6924,7 @@
 0.0.0.0 totale-defonce.com
 0.0.0.0 totalenerqies.fr
 0.0.0.0 totesparapluie.fr
+0.0.0.0 totogaming-casino.fr
 0.0.0.0 toujoursdesbillets.fr
 0.0.0.0 toumohiy.com
 0.0.0.0 tour.reelvidz.com
@@ -6919,6 +6944,7 @@
 0.0.0.0 track-suivi.fr
 0.0.0.0 track.adwad.ru
 0.0.0.0 track.brafiliados.com.br
+0.0.0.0 track.jpassport.jp
 0.0.0.0 track.mypetrofacpension.co.uk
 0.0.0.0 track.nzz.ch
 0.0.0.0 track.oriented.co
@@ -6963,6 +6989,7 @@
 0.0.0.0 transexmessenger.com
 0.0.0.0 transferpayeecra-2024.fr
 0.0.0.0 transferserviceticketmaster.fr
+0.0.0.0 trapstar-france.fr
 0.0.0.0 travelbar.tools
 0.0.0.0 travelpayouts.com
 0.0.0.0 traviseurope.fr
@@ -7001,6 +7028,7 @@
 0.0.0.0 tsnsniper.com
 0.0.0.0 tsongashoesfrance.fr
 0.0.0.0 tsystatic.com
+0.0.0.0 tt.cyberpirate.me
 0.0.0.0 ttsycqxjvgrya.xyz
 0.0.0.0 tubicash.com
 0.0.0.0 tudigofrance.fr
@@ -7014,7 +7042,6 @@
 0.0.0.0 tvks.ru
 0.0.0.0 tvkw.ru
 0.0.0.0 tvoy-startup.ru
-0.0.0.0 twincasinos.fr
 0.0.0.0 twkv.ru
 0.0.0.0 twrences.xyz
 0.0.0.0 txtfeed.club
@@ -7041,7 +7068,6 @@
 0.0.0.0 ugirllove.com
 0.0.0.0 ugirllove.net
 0.0.0.0 ugkod.com
-0.0.0.0 uhiksolsaums.com
 0.0.0.0 ultima7.fun
 0.0.0.0 ultrafiles.co
 0.0.0.0 umagnet.ru
@@ -7107,6 +7133,7 @@
 0.0.0.0 univ-nancy-lorraine.fr
 0.0.0.0 univ-nancy.fr
 0.0.0.0 univ-nimes.fr
+0.0.0.0 univ-pasteur-bfc.fr
 0.0.0.0 univ-pasteur-fc.fr
 0.0.0.0 univ-tlon.fr
 0.0.0.0 univ-vexin.fr
@@ -7204,6 +7231,7 @@
 0.0.0.0 vedofuros.com
 0.0.0.0 veezy.one
 0.0.0.0 vegas-days-casino.fr
+0.0.0.0 vegascrest-casino.fr
 0.0.0.0 veiw-mo.re
 0.0.0.0 veja-chaussures.fr
 0.0.0.0 vejachaussures-france.fr
@@ -7375,6 +7403,7 @@
 0.0.0.0 waanaadoo.fr
 0.0.0.0 waanadooo.fr
 0.0.0.0 wac.a164.taucdn.net
+0.0.0.0 waliya-bet.fr
 0.0.0.0 walkingdead.club
 0.0.0.0 walmart.re
 0.0.0.0 wamland.com
@@ -7384,6 +7413,7 @@
 0.0.0.0 wannadooo.fr
 0.0.0.0 wantyoudate.net
 0.0.0.0 warrtyguns.com
+0.0.0.0 wasafi-bet.fr
 0.0.0.0 watchmen-the-movie.com
 0.0.0.0 watchoutlet.fr
 0.0.0.0 watergate.tv
@@ -7418,7 +7448,6 @@
 0.0.0.0 wellclix.net
 0.0.0.0 welliesazoxime.com
 0.0.0.0 wellnessfrancegroupe.fr
-0.0.0.0 wemoackaik.com
 0.0.0.0 wendatopen.com
 0.0.0.0 wenerhema.com
 0.0.0.0 wepekud.com
@@ -7459,8 +7488,11 @@
 0.0.0.0 widgets.tracdelight.io
 0.0.0.0 wikianimez.ru
 0.0.0.0 wildberries.re
+0.0.0.0 wildfortune-casino.fr
 0.0.0.0 wildfortune.fr
 0.0.0.0 wildishphobiac.shop
+0.0.0.0 wildvegascasino.fr
+0.0.0.0 williamhill-online.fr
 0.0.0.0 win2lucktoday.com
 0.0.0.0 win2profit1.com
 0.0.0.0 winafterwin.com
@@ -7514,12 +7546,14 @@
 0.0.0.0 wwanadoo.fr
 0.0.0.0 wwclick.su
 0.0.0.0 www-boursobank.fr
+0.0.0.0 www-credit-agricole.fr
 0.0.0.0 www-facebook.fr
 0.0.0.0 www-instagram.fr
 0.0.0.0 www-leboncoin.fr
 0.0.0.0 www-linkedin.fr
 0.0.0.0 www20minutes.fr
 0.0.0.0 wwwactu.fr
+0.0.0.0 wwwblancheporte.fr
 0.0.0.0 wwwca-nord-est.fr
 0.0.0.0 wwwchu-lyon.fr
 0.0.0.0 wwwdofus.fr
@@ -7572,6 +7606,7 @@
 0.0.0.0 xn--hespride-e1a.fr
 0.0.0.0 xn--info-scurit-client-gwbf.fr
 0.0.0.0 xn--infosantvitale-ikb.fr
+0.0.0.0 xn--louvre-banque-prive-szb.fr
 0.0.0.0 xn--lycedelarc-d7a.fr
 0.0.0.0 xn--ma-rgularisation-enligne-efc.fr
 0.0.0.0 xn--ministre-vitale-zmb.fr
@@ -7597,6 +7632,7 @@
 0.0.0.0 xn--semo-5oa.re
 0.0.0.0 xn--socitgeneral-eebb.fr
 0.0.0.0 xn--socitgnrales-eebbbb.fr
+0.0.0.0 xn--stssyfrance-uhb.fr
 0.0.0.0 xn--ulys-page-g4a.fr
 0.0.0.0 xn--unfi-6pa.ch
 0.0.0.0 xn--universit-rennes1-jtb.fr
@@ -7623,6 +7659,7 @@
 0.0.0.0 yahoo.wf
 0.0.0.0 yakonapedant.com
 0.0.0.0 yanews24.com
+0.0.0.0 ybets-online.fr
 0.0.0.0 ybnnocszmtuz.com
 0.0.0.0 ydare.space
 0.0.0.0 yeanedeyewear.click

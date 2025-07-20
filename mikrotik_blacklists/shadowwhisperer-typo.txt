@@ -18471,6 +18471,7 @@
 0.0.0.0 dicrionary.com
 0.0.0.0 dicrtionary.com
 0.0.0.0 dicsogs.com
+0.0.0.0 dicsordapp.com
 0.0.0.0 dicsord.com
 0.0.0.0 dicsord.media
 0.0.0.0 dicsovercard.com
@@ -18716,6 +18717,7 @@
 0.0.0.0 dijctionary.com
 0.0.0.0 dijscogs.com
 0.0.0.0 dijscordapp.com
+0.0.0.0 dijscord.com
 0.0.0.0 dijscord.media
 0.0.0.0 dijscovercard.com
 0.0.0.0 dijscover.com
@@ -19052,6 +19054,7 @@
 0.0.0.0 discoivery.com
 0.0.0.0 discokgs.com
 0.0.0.0 discokrdapp.com
+0.0.0.0 discokrd.com
 0.0.0.0 discokrd.media
 0.0.0.0 discokvercard.com
 0.0.0.0 discokver.com
@@ -20397,6 +20400,7 @@
 0.0.0.0 dizneyworld.com
 0.0.0.0 dizscogs.com
 0.0.0.0 dizscordapp.com
+0.0.0.0 dizscord.com
 0.0.0.0 dizscord.media
 0.0.0.0 dizscovercard.com
 0.0.0.0 dizscover.com
@@ -65303,7 +65307,6 @@
 0.0.0.0 tvvitch.tv
 0.0.0.0 tvvitter.com
 0.0.0.0 tw1tch.tv
-0.0.0.0 tw1tter.com
 0.0.0.0 tw2itch.tv
 0.0.0.0 tw2itter.com
 0.0.0.0 tw3itch.tv

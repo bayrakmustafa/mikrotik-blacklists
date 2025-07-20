@@ -19,6 +19,7 @@
 0.0.0.0 currentlymail*.weebly.com
 0.0.0.0 att-currently-*.weeblysite.com
 0.0.0.0 2025*maintenance.weebly.com
+0.0.0.0 plum-binder-*.typedream.app
 0.0.0.0 santander.*.fino.digital
 0.0.0.0 santanderpod.*.co.uk
 0.0.0.0 instagram0639.blogspot.
@@ -45,6 +46,9 @@
 0.0.0.0 telegeram.work
 0.0.0.0 telergctm.vip
 0.0.0.0 d*wsapp.icu
+0.0.0.0 informed.delivery*.top
+0.0.0.0 spoti-safe-support*.codeanyapp.com
+0.0.0.0 spoti-*.codeanyapp.com
 0.0.0.0 suissscomee-correo*.codeanyapp.com
 0.0.0.0 cffsbbhost-aniamaria*.codeanyapp.com
 0.0.0.0 manage-administrere-swisspass-*.codeanyapp.com

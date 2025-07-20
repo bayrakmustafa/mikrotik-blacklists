@@ -19,6 +19,7 @@
 0.0.0.0 assosdiamond.revotas.com
 0.0.0.0 assospirlanta.revotas.com
 0.0.0.0 b-cdn.cnnturk.com
+0.0.0.0 bande2az.com
 0.0.0.0 bireysel-reklam-sayfamiz.tk
 0.0.0.0 bitcireklam.com
 0.0.0.0 bncsdestekgiristr.com

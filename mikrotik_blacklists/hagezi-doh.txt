@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 18 Jul 2025 16:08 UTC
-# Version: 2025.0718.1608.58
+# Last modified: 20 Jul 2025 00:01 UTC
+# Version: 2025.0720.0001.17
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1607
+# Number of entries: 1609
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -302,7 +302,6 @@
 0.0.0.0 dns.ceai.com.tw
 0.0.0.0 dns.cloud88.com.au
 0.0.0.0 adguard.gbrossi.com.br
-0.0.0.0 dns.joaofidelix.com.br
 0.0.0.0 dns.netraptor.com.au
 0.0.0.0 dns.redhosting.com.ar
 0.0.0.0 doh.viatech.com.tw
@@ -593,6 +592,7 @@
 0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
+0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -973,6 +973,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
@@ -1149,7 +1150,6 @@
 0.0.0.0 dns.petqa.ru
 0.0.0.0 adguard.pggns.de
 0.0.0.0 dns.phillipjberry.net
-0.0.0.0 doh.centraleu.pi-dns.com
 0.0.0.0 dot.centraleu.pi-dns.com
 0.0.0.0 doh.pi-dns.com
 0.0.0.0 doh.eastas.pi-dns.com
@@ -1536,5 +1536,6 @@
 0.0.0.0 adguard-kartoffel.zernico.de
 0.0.0.0 doh.zknt.org
 0.0.0.0 zougloub.eu
+0.0.0.0 a.zpn.me
 0.0.0.0 dns.zui.lol
 0.0.0.0 dns.zzuhacker.cn

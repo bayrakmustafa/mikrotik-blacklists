@@ -218,7 +218,6 @@
 0.0.0.0 apiemb.xyz
 0.0.0.0 aqgole.com
 0.0.0.0 aqsxmu.com
-0.0.0.0 as.4teachers.de
 0.0.0.0 aspxpush.com
 0.0.0.0 atlaqs.com
 0.0.0.0 atovub.com
@@ -226,7 +225,6 @@
 0.0.0.0 atuoep.com
 0.0.0.0 average-champion.pro
 0.0.0.0 avrdi.com
-0.0.0.0 a.xl24.net
 0.0.0.0 ayelads.click
 0.0.0.0 b2bleadhunter.com
 0.0.0.0 b6c6k88qe1.ru
@@ -309,7 +307,6 @@
 0.0.0.0 courier-sandbox-push-apple.com.akadns.net
 0.0.0.0 cowscrayon.com
 0.0.0.0 cpwub.com
-0.0.0.0 crt.kosovajob.com
 0.0.0.0 crushingconflict.pro
 0.0.0.0 cumexskandal.de
 0.0.0.0 cwyxyw.com
@@ -586,12 +583,6 @@
 0.0.0.0 mdyhb.com
 0.0.0.0 meaningfulcontent.org
 0.0.0.0 mediabigsail.com
-0.0.0.0 media.stavkinasport.com
-0.0.0.0 media.topcasinoukraine.com
-0.0.0.0 media.top-kazino-rejting.com
-0.0.0.0 media.uphere.ca
-0.0.0.0 media.vespoker.com
-0.0.0.0 media.vipbonusycasino.com
 0.0.0.0 medidexs.com
 0.0.0.0 meekcomplaint.pro
 0.0.0.0 megapush.top
@@ -660,7 +651,6 @@
 0.0.0.0 odoylv.com
 0.0.0.0 oeqirr.com
 0.0.0.0 okshiny.de
-0.0.0.0 o.laudato.hr
 0.0.0.0 oldercdncom.com
 0.0.0.0 ombeaut.de
 0.0.0.0 omlover.de
@@ -856,7 +846,6 @@
 0.0.0.0 taotobuzz.xyz
 0.0.0.0 tashowy.de
 0.0.0.0 tazesty.de
-0.0.0.0 tc.mcmedios.com
 0.0.0.0 tcrybv.com
 0.0.0.0 tgaqxo.com
 0.0.0.0 thatobjective.pro
@@ -963,7 +952,6 @@
 0.0.0.0 wtzgaa.com
 0.0.0.0 wvrney.com
 0.0.0.0 wwiw.online
-0.0.0.0 www2.wszczecinie.pl
 0.0.0.0 wyqaafplm.live
 0.0.0.0 x2push.com
 0.0.0.0 xads.one

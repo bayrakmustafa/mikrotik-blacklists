@@ -5,10 +5,6 @@
 # Updated: 6/17/2025  16:37 (4:37 PM CST)
 #
 0.0.0.0 1000-dating-sites.com
-0.0.0.0 100-best-dating-sites.com
-0.0.0.0 100-best-single-sites.com
-0.0.0.0 100-top-dating-sites.com
-0.0.0.0 101date.com
 0.0.0.0 10meilleurssitesderencontre.fr
 0.0.0.0 123jerencontre.fr
 0.0.0.0 12meetsenior.com
@@ -30,7 +26,6 @@
 0.0.0.0 activepeoplemeet.com
 0.0.0.0 adam-and-eva.com
 0.0.0.0 adopteunmec.com
-0.0.0.0 adultgaypersonals.com
 0.0.0.0 affinitas.io
 0.0.0.0 affinity-apps.com
 0.0.0.0 affiny.fr
@@ -352,7 +347,6 @@
 0.0.0.0 foreignbridesru.com
 0.0.0.0 fotochat.com
 0.0.0.0 francekam.com
-0.0.0.0 free-lesbian-dating.com
 0.0.0.0 freemeet.net
 0.0.0.0 friendscout24.ch
 0.0.0.0 friendscout24.es
@@ -453,7 +447,6 @@
 0.0.0.0 latinamericancupid.com
 0.0.0.0 latinoswingers.com
 0.0.0.0 latinparejas.com
-0.0.0.0 lavalife.com
 0.0.0.0 lavenderslove.com
 0.0.0.0 lesbianmatchmaker.com.au
 0.0.0.0 letsbond.com

@@ -4290,7 +4290,6 @@
 0.0.0.0 devpick.io
 0.0.0.0 devscope.io
 0.0.0.0 df3n43m.com
-0.0.0.0 df77.com
 0.0.0.0 dfc1.benbaisteel.com
 0.0.0.0 dfds.cloud
 0.0.0.0 dfp.microsoft.com
@@ -4582,6 +4581,7 @@
 0.0.0.0 e7015.com
 0.0.0.0 e704.net
 0.0.0.0 e705.net
+0.0.0.0 e706.net
 0.0.0.0 e719.net
 0.0.0.0 e762.vangoghmuseumshop.com
 0.0.0.0 ead.me
@@ -7191,7 +7191,6 @@
 0.0.0.0 mall.tv
 0.0.0.0 mallidy.com
 0.0.0.0 manage.devcenter.microsoft.com
-0.0.0.0 mandrill.com
 0.0.0.0 mandrillapp.com
 0.0.0.0 manifest.production-public.tubi.io
 0.0.0.0 manizx.com
@@ -7259,7 +7258,6 @@
 0.0.0.0 matineeensoleillee.fr
 0.0.0.0 matomo-poc.similarweb.io
 0.0.0.0 matomo.clickmeeting.com
-0.0.0.0 matomo.eea.europa.eu
 0.0.0.0 matomo.efca.europa.eu
 0.0.0.0 matomo.hetzner.company
 0.0.0.0 matomo.internet.nl
@@ -8814,7 +8812,7 @@
 0.0.0.0 qbyy010.com
 0.0.0.0 qchannel0d.cn
 0.0.0.0 qcloud.com
-0.0.0.0 qd.js.sanjiangge.com
+0.0.0.0 qd.dhzw.org
 0.0.0.0 qd.wanjuanba.com
 0.0.0.0 qgss8.com
 0.0.0.0 qiailm.com
@@ -9230,6 +9228,7 @@
 0.0.0.0 s2.menzis.nl
 0.0.0.0 s2.symcb.com
 0.0.0.0 s2.vinkvink.nl
+0.0.0.0 s2blosh.com
 0.0.0.0 s3-downtime.figma.com
 0.0.0.0 s3.feedly.com
 0.0.0.0 s3.symcb.com
@@ -9508,7 +9507,6 @@
 0.0.0.0 shanghaironghua.com
 0.0.0.0 shanglinli.com
 0.0.0.0 shangz99991.com
-0.0.0.0 share-eu1.hsforms.com
 0.0.0.0 share.america.gov
 0.0.0.0 shared.piwik.prisma-it.com
 0.0.0.0 sharedaddomain.com
@@ -9855,7 +9853,6 @@
 0.0.0.0 srv.ch.ebayrtm.com
 0.0.0.0 srv.co.uk.ebayrtm.com
 0.0.0.0 srv.com.hk.ebayrtm.com
-0.0.0.0 srv.es.ebayrtm.com
 0.0.0.0 srv.hk.ebayrtm.com
 0.0.0.0 srv.ie.ebayrtm.com
 0.0.0.0 srv.in.ebayrtm.com
@@ -10057,7 +10054,6 @@
 0.0.0.0 storescan.eu
 0.0.0.0 storeus.ldmnq.com
 0.0.0.0 stormgeo.com
-0.0.0.0 stormly.com
 0.0.0.0 story.tl
 0.0.0.0 storylane.io
 0.0.0.0 str1089.mailappzone.com

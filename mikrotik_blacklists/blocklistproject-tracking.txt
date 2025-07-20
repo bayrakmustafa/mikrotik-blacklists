@@ -710,7 +710,6 @@
 0.0.0.0 d3oxtn1x3b8d7i.cloudfront.net
 0.0.0.0 d3ujids68p6xmp.cloudfront.net
 0.0.0.0 danuoyi.alicdn.com
-0.0.0.0 daphnecm.com
 0.0.0.0 databureau.com
 0.0.0.0 databureau.net
 0.0.0.0 databuro.com
@@ -1090,6 +1089,7 @@
 0.0.0.0 hsms02.com
 0.0.0.0 hsms02qa.net
 0.0.0.0 hsms03.com
+0.0.0.0 hsms04.com
 0.0.0.0 hsms05.com
 0.0.0.0 hsms06.com
 0.0.0.0 hsms07.com

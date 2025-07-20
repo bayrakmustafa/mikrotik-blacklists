@@ -416,7 +416,6 @@
 0.0.0.0 09.git.fra1.appnexus.com
 0.0.0.0 092-ols-020.mktoresp.com
 0.0.0.0 093-mxc-460.mktoresp.com
-0.0.0.0 093-tqy-221.mktoresp.com
 0.0.0.0 0935-5457-9a1d-ce06.reporo.net
 0.0.0.0 094-dcs-290.mktoresp.com
 0.0.0.0 0956228a2df97a.com
@@ -5249,7 +5248,6 @@
 0.0.0.0 5d402.v.fwmrm.net
 0.0.0.0 5d404.v.fwmrm.net
 0.0.0.0 5d40a.v.fwmrm.net
-0.0.0.0 5d423.v.fwmrm.net
 0.0.0.0 5d425.v.fwmrm.net
 0.0.0.0 5d427.v.fwmrm.net
 0.0.0.0 5d457.v.fwmrm.net
@@ -23495,7 +23493,6 @@
 0.0.0.0 ads.esquemas.com
 0.0.0.0 ads.ethicalads.net
 0.0.0.0 ads.etoiledirect.com
-0.0.0.0 ads.eu.e-planning.net
 0.0.0.0 ads.eurogrand.com
 0.0.0.0 ads.everyplay.com
 0.0.0.0 ads.ewebse.com
@@ -27926,7 +27923,6 @@
 0.0.0.0 api.smartadv.ru
 0.0.0.0 api.snoobi.com
 0.0.0.0 api.sonobi.com
-0.0.0.0 api.south.kontagent.net
 0.0.0.0 api.stage.onereporting.vidible.tv
 0.0.0.0 api.staging.adgear.com
 0.0.0.0 api.staging.avocet.io
@@ -29402,7 +29398,6 @@
 0.0.0.0 awseukpi.whisbi.com
 0.0.0.0 awsm.rubiconproject.com
 0.0.0.0 awsmer.com
-0.0.0.0 awstaticdn.net
 0.0.0.0 awtkamrzza.mentalist.kameleoon.com
 0.0.0.0 awvrvqxq.com
 0.0.0.0 awvuhwqyimgd.com
@@ -31797,7 +31792,6 @@
 0.0.0.0 bitmovin-bitanalytics.appspot.com
 0.0.0.0 bitnex.io
 0.0.0.0 bitnodes.io
-0.0.0.0 bitstamp.me
 0.0.0.0 bittads.com
 0.0.0.0 bitterstrawberry.org
 0.0.0.0 bittraffic.io
@@ -34102,7 +34096,6 @@
 0.0.0.0 builder.smartlook.com
 0.0.0.0 builder.ws.adacts.com
 0.0.0.0 buildtrafficx.com
-0.0.0.0 buildviet.info
 0.0.0.0 buitxcrnucyi.com
 0.0.0.0 bujntrmh.com
 0.0.0.0 bujrc.voluumtrk.com
@@ -42009,7 +42002,6 @@
 0.0.0.0 ddaac98f67e384d8a9.com
 0.0.0.0 ddbnikwub.com
 0.0.0.0 ddczayne.bid
-0.0.0.0 ddd.gouwuke.cn
 0.0.0.0 dddgndcqajr.com
 0.0.0.0 ddefvibhjwoolfat.review
 0.0.0.0 ddf0-6eaa-f70b-beb5.reporo.net
@@ -42828,7 +42820,6 @@
 0.0.0.0 diaryofagameaddict.com
 0.0.0.0 dibmarketing.go2cloud.org
 0.0.0.0 dibpvaoi.bid
-0.0.0.0 dichvuvesinhhanoi.com
 0.0.0.0 dichvuvesinhquocte.com
 0.0.0.0 dicke.live
 0.0.0.0 dicks-sporting-goods.evyy.net
@@ -50598,6 +50589,7 @@
 0.0.0.0 get.fabric.io
 0.0.0.0 get.geo.opera.com.global.prod.fastly.net
 0.0.0.0 get.leanplum.com
+0.0.0.0 get.marfeel.com
 0.0.0.0 get.moengage.com
 0.0.0.0 get.netscape.com
 0.0.0.0 get.newrelic.com
@@ -51385,7 +51377,6 @@
 0.0.0.0 golkkzpniri.com
 0.0.0.0 gollox.de
 0.0.0.0 golokavi.com
-0.0.0.0 gom-player.gooofull.com
 0.0.0.0 gomcdermottworld.d1.sc.omtrdc.net
 0.0.0.0 gomeal.de.intellitxt.com
 0.0.0.0 gomobbi.go2cloud.org
@@ -63172,7 +63163,6 @@
 0.0.0.0 media-mgmt.armorgames.com
 0.0.0.0 media-ncd.cmgdigital.com
 0.0.0.0 media-networks.ru
-0.0.0.0 media-playerz.com
 0.0.0.0 media-reports.bluekai.com
 0.0.0.0 media-sj2.msg.dotomi.com
 0.0.0.0 media-skyde.inq.com
@@ -63631,7 +63621,6 @@
 0.0.0.0 metrics.soundandvision.com
 0.0.0.0 metrics.soundandvisionmag.com
 0.0.0.0 metrics.sourceforge.net
-0.0.0.0 metrics.strato.de
 0.0.0.0 metrics.upcload.com
 0.0.0.0 metrics.vizury.com
 0.0.0.0 metrics.wikinvest.com
@@ -71054,7 +71043,6 @@
 0.0.0.0 pdds.uodoo.com
 0.0.0.0 pddvryclt.bid
 0.0.0.0 pdf-archive.com
-0.0.0.0 pdf-platinum.info
 0.0.0.0 pdf.forbes.com
 0.0.0.0 pdgpekso.com
 0.0.0.0 pdgxtdughbeks.com
@@ -87344,7 +87332,6 @@
 0.0.0.0 tslogging-lax1.touchcommerce.com
 0.0.0.0 tslogging.touchcommerce.com
 0.0.0.0 tsmdmunzbtu.com
-0.0.0.0 tsms-ad.tsms.com
 0.0.0.0 tsmwdhwvkaz.com
 0.0.0.0 tsn-shato.ru
 0.0.0.0 tsnkvlesphbmul.bid
@@ -98863,6 +98850,7 @@
 0.0.0.0 yorkstatebank.com.102.112.2o7.net
 0.0.0.0 yorte.com
 0.0.0.0 yostatic.net
+0.0.0.0 yottacash.com
 0.0.0.0 you-have-0ne-messsagehe0.top
 0.0.0.0 you.tubetitties.com
 0.0.0.0 you2mail.com
