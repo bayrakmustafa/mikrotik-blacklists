@@ -209,7 +209,7 @@ for file_name, domains in file_domains.items():
 print("[✓] Done! Results are in the 'mikrotik_blacklists' folder.")
 
 # === ➕ Merge all cleaned files into a single minified hosts file (any IP + domain) ===
-combined_hosts_path = os.path.join(output_dir, "microtik_blocklist.txt")
+combined_hosts_path = os.path.join(output_dir, "mikrotik-blocklist.txt")
 unique_domains = set()
 lines_written = 0
 
