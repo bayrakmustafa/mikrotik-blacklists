@@ -129,7 +129,6 @@
 0.0.0.0 cpcalendars.mondial-ae.com
 0.0.0.0 cpcontacts.taelimsystem.vip
 0.0.0.0 cptchverf.com
-0.0.0.0 cracsiu.com
 0.0.0.0 ctpzd.press
 0.0.0.0 cubuj.press
 0.0.0.0 curol.run

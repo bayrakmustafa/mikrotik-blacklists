@@ -51,11 +51,15 @@
 0.0.0.0 alicebrandstudio.com
 0.0.0.0 alippo.ddns.net
 0.0.0.0 alissaathirah.blogspot.com
+0.0.0.0 allegro.723661.cfd
 0.0.0.0 allegrobg.online
+0.0.0.0 allegrolokalnie-oferta-59812.cfd
 0.0.0.0 allegrolokalnie.72086.top
+0.0.0.0 allegrolokalnie.723661.cfd
 0.0.0.0 allegrolokalnie.kategoria-narzedzia-budowlane-zageszczarki-3.sbs
 0.0.0.0 allegrolokalnie.pl-oferta-02938910.icu
 0.0.0.0 allegrolokalnie.pl-oferta-2930349.icu
+0.0.0.0 allegrolokalnie55414.cfd
 0.0.0.0 almiranazelia.blogspot.com
 0.0.0.0 alonewiththemalones.blogspot.com
 0.0.0.0 alservic-tirmiles.blogspot.com
@@ -138,6 +142,7 @@
 0.0.0.0 binanceweb.com
 0.0.0.0 bioginmiawit1987.blogspot.be
 0.0.0.0 bitcoinwalletco.com
+0.0.0.0 bixpal.com
 0.0.0.0 bjcass.com
 0.0.0.0 black-jack-chewingkon.blogspot.com
 0.0.0.0 blazinevo35.blogspot.com
@@ -483,6 +488,7 @@
 0.0.0.0 legroupe-e-leclerc.fr
 0.0.0.0 lethimshine.blogspot.com
 0.0.0.0 lewiatansamochodnagrody145.blogspot.com
+0.0.0.0 lgbtqplustourism.com
 0.0.0.0 life-filipe-fernandes.blogspot.com
 0.0.0.0 lifeofmrsround.blogspot.com
 0.0.0.0 lightthehedgehog.blogspot.com
@@ -619,7 +625,6 @@
 0.0.0.0 njsrt4.blogspot.it
 0.0.0.0 nodinpoh.blogspot.com
 0.0.0.0 noreply-netelle.blogspot.com
-0.0.0.0 noswexa.com
 0.0.0.0 novelalittleme.blogspot.com
 0.0.0.0 novite-mebeli.info
 0.0.0.0 nowyzexploration.blogspot.com
@@ -923,6 +928,7 @@
 0.0.0.0 utopianuncajamas.blogspot.com
 0.0.0.0 v2d5v4.blogspot.ca
 0.0.0.0 valorantskinchanger.netlify.app
+0.0.0.0 valuelimo.com
 0.0.0.0 vansfr.fr
 0.0.0.0 vauth.fr
 0.0.0.0 vchiy.com

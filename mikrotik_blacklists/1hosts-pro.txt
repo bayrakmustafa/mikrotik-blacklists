@@ -15473,7 +15473,6 @@
 0.0.0.0 84ec12e88aa742e883a3dc094f70ad00-7736390f98ba.cdn.forter.com
 0.0.0.0 84ec2558-7272-4a80-9bb7-4481c5be5808.distil.ninja
 0.0.0.0 84f3d637e00855a34fcc22f5a393b112.safeframe.googlesyndication.com
-0.0.0.0 84vqt4-launches.appsflyersdk.com
 0.0.0.0 85.c-ko.imedia.cz
 0.0.0.0 85.c-ng.imedia.cz
 0.0.0.0 85.c-oa.imedia.cz
@@ -42528,7 +42527,6 @@
 0.0.0.0 cdgmlks.pa-cd.com
 0.0.0.0 cdhhbbkm.micpn.com
 0.0.0.0 cdid.c-ctrip.com
-0.0.0.0 cdjbf8trk.com
 0.0.0.0 cdk.piwik.pro
 0.0.0.0 cdk.piwikpro.com
 0.0.0.0 cdk7ivzt.emltrk.com
@@ -45806,7 +45804,6 @@
 0.0.0.0 cihbes.launches.appsflyersdk.com
 0.0.0.0 ciinvestmentscipwwealthnetprod.112.2o7.net
 0.0.0.0 cijehf-adrevenue.appsflyersdk.com
-0.0.0.0 cijehf-inapps.appsflyersdk.com
 0.0.0.0 cikivjto.biz
 0.0.0.0 cikmayedekparca.com
 0.0.0.0 cikqigwab.cc.rs6.net
@@ -52293,7 +52290,6 @@
 0.0.0.0 cserzx-attr.appsflyersdk.com
 0.0.0.0 cserzx-conversions.appsflyersdk.com
 0.0.0.0 cserzx-dlsdk.appsflyersdk.com
-0.0.0.0 cserzx-pia.appsflyersdk.com
 0.0.0.0 csg.kuso.xyz
 0.0.0.0 csgo-roulette.net
 0.0.0.0 csgo-skins.com
@@ -69572,7 +69568,6 @@
 0.0.0.0 gentlyrevitalizedarchitect.com
 0.0.0.0 gentsefeesten.piwik.pro
 0.0.0.0 gentside.co.uk
-0.0.0.0 genuine-crash.com
 0.0.0.0 genuinelyunfit.com
 0.0.0.0 genusconfirmed.com
 0.0.0.0 genya.it
@@ -90068,7 +90063,6 @@
 0.0.0.0 mn.qwant.com
 0.0.0.0 mn77d.com
 0.0.0.0 mnbh7.com
-0.0.0.0 mnbvpo8trk.com
 0.0.0.0 mncjdkj3sw.com
 0.0.0.0 mncmedia.co.kr
 0.0.0.0 mnd-analyze.mynewsdesk.dev
@@ -96246,7 +96240,6 @@
 0.0.0.0 o4507218984108032.ingest.us.sentry.io
 0.0.0.0 o4507222113845248.ingest.us.sentry.io
 0.0.0.0 o4507228608331776.ingest.us.sentry.io
-0.0.0.0 o4507244030918656.ingest.de.sentry.io
 0.0.0.0 o4507251107823616.ingest.us.sentry.io
 0.0.0.0 o4507261164716032.ingest.de.sentry.io
 0.0.0.0 o4507264437190656.ingest.de.sentry.io
@@ -98639,7 +98632,6 @@
 0.0.0.0 ourbusinesstoolbar.com
 0.0.0.0 ourchurchtoolbar.com
 0.0.0.0 ourconvertersearch.com
-0.0.0.0 ourdoahafopsy.com
 0.0.0.0 ourfirm.com
 0.0.0.0 ourflightsearch.com
 0.0.0.0 ourgiftcards.com
@@ -128023,7 +128015,6 @@
 0.0.0.0 prestopizza-7ea02.firebaseio.com
 0.0.0.0 pretarg.adhigh.net
 0.0.0.0 pretendcraveidle.com
-0.0.0.0 pretenddeceiveglitter.com
 0.0.0.0 pretendsequence.com
 0.0.0.0 prettycrib.com
 0.0.0.0 prevailedfundraiser.com
@@ -132469,7 +132460,6 @@
 0.0.0.0 quollters.com
 0.0.0.0 quorum.wdp.brave.com
 0.0.0.0 quotationcafe.myway.com
-0.0.0.0 quotationmanipulateloved.com
 0.0.0.0 quote.users.51.la
 0.0.0.0 quoteformotivation.org
 0.0.0.0 quotestream.com
@@ -132497,7 +132487,6 @@
 0.0.0.0 qviyzo-inapps.appsflyersdk.com
 0.0.0.0 qvj15335.apps.dynatrace.com
 0.0.0.0 qvj15335.live.dynatrace.com
-0.0.0.0 qvjlns-inapps.appsflyersdk.com
 0.0.0.0 qvjncr-inapps.appsflyersdk.com
 0.0.0.0 qvjncr-launches.appsflyersdk.com
 0.0.0.0 qvo6.com

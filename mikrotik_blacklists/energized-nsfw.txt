@@ -21,11 +21,11 @@
 # Author:        Ador <mail@ador.com.bd>
 # License:       MIT
 # Format:        hosts
-# Entries:       146,672
-# Version:       0.100.a.25.201.16
+# Entries:       146,678
+# Version:       0.100.a.25.201.20
 # Expires:       1 day (update frequency)
-# Releasae:      25.201.16
-# Last modified: 2025-07-20T16:05:00.883736 UTC
+# Releasae:      25.201.20
+# Last modified: 2025-07-20T20:05:50.259408 UTC
 # Source:        https://github/EnergizedProtection/block
 # Issue:         https://github/EnergizedProtection/block/issues
 # ----------------------------------------------------------------------------
@@ -2299,6 +2299,7 @@
 0.0.0.0 5starsporn.club
 0.0.0.0 5startube.com
 0.0.0.0 5syse.com
+0.0.0.0 5tv5.ru
 0.0.0.0 5up.net
 0.0.0.0 5upsexer.com
 0.0.0.0 5valleycatrescue.co.uk
@@ -29879,6 +29880,7 @@
 0.0.0.0 dress.fr
 0.0.0.0 dressupwho.com
 0.0.0.0 dressya.ru
+0.0.0.0 dretube.xyz
 0.0.0.0 drevangoldstein.medium.com
 0.0.0.0 drevenesoudky.cz
 0.0.0.0 drfucker.pro
@@ -47966,6 +47968,7 @@
 0.0.0.0 hdporner.cc
 0.0.0.0 hdporner.co
 0.0.0.0 hdporner.me
+0.0.0.0 hdporner.org
 0.0.0.0 hdporner.su
 0.0.0.0 hdporner.tv
 0.0.0.0 hdporner.xyz
@@ -61214,6 +61217,7 @@
 0.0.0.0 jiujiu.one
 0.0.0.0 jiuse.ai
 0.0.0.0 jiuse.com.co
+0.0.0.0 jiuse.icu
 0.0.0.0 jiuse.in
 0.0.0.0 jiuse.io
 0.0.0.0 jiuse.me
@@ -86381,6 +86385,7 @@
 0.0.0.0 pornfilms3d.com
 0.0.0.0 pornfilmsfree.com
 0.0.0.0 pornfind.cc
+0.0.0.0 pornfind.me
 0.0.0.0 pornfind.net
 0.0.0.0 pornfind.org
 0.0.0.0 pornfinder.biz

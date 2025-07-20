@@ -58711,6 +58711,7 @@
 0.0.0.0 freejobalerts.info
 0.0.0.0 freejobsalert.net
 0.0.0.0 freelancerjobs.online
+0.0.0.0 freelancerprotips.com
 0.0.0.0 tracking-api.freeletics.com
 0.0.0.0 freeliker.net
 0.0.0.0 freelisskins.ru
@@ -102426,6 +102427,7 @@
 0.0.0.0 onlyme-office-one.com
 0.0.0.0 track.onlynaturalpro.com
 0.0.0.0 onlyofficew.top
+0.0.0.0 onlyonebod.com
 0.0.0.0 cricket-crash.onlyplay.net
 0.0.0.0 cricket-crash.onlyplaygames.net
 0.0.0.0 onlyrichvipgirls.com
@@ -103063,6 +103065,7 @@
 0.0.0.0 optimalgame.top
 0.0.0.0 optimalsport.net
 0.0.0.0 optimalsystemsolutions.com
+0.0.0.0 optimamonday.click
 0.0.0.0 optimarkets.com
 0.0.0.0 optimationsglory.com
 0.0.0.0 optimationsglory.online

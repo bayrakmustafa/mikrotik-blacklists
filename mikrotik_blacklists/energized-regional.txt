@@ -21,11 +21,11 @@
 # Author:        Ador <mail@ador.com.bd>
 # License:       MIT
 # Format:        hosts
-# Entries:       32,984
-# Version:       0.100.a.25.201.14
+# Entries:       32,988
+# Version:       0.100.a.25.201.20
 # Expires:       1 day (update frequency)
-# Releasae:      25.201.14
-# Last modified: 2025-07-20T14:03:29.825365 UTC
+# Releasae:      25.201.20
+# Last modified: 2025-07-20T20:05:51.099649 UTC
 # Source:        https://github/EnergizedProtection/block
 # Issue:         https://github/EnergizedProtection/block/issues
 # ----------------------------------------------------------------------------
@@ -1346,7 +1346,6 @@
 0.0.0.0 cam4ads.com
 0.0.0.0 caminitodelreybillets.fr
 0.0.0.0 camorbihan.fr
-0.0.0.0 camper-fr.fr
 0.0.0.0 camper-france.fr
 0.0.0.0 camperfr.fr
 0.0.0.0 camperfrance.fr
@@ -1762,6 +1761,7 @@
 0.0.0.0 comission-vitale.fr
 0.0.0.0 commande-mondialrelay.fr
 0.0.0.0 commerce.ua
+0.0.0.0 commissariatdepolicedeparis.fr
 0.0.0.0 commontools.net
 0.0.0.0 commune-poitiers.fr
 0.0.0.0 como.com
@@ -1787,6 +1787,7 @@
 0.0.0.0 configforthis.site
 0.0.0.0 configs-pc.com
 0.0.0.0 confir-leboncoin.fr
+0.0.0.0 confirama.fr
 0.0.0.0 confirmation-information.fr
 0.0.0.0 confirmation-opposition.fr
 0.0.0.0 confirmation-prime.fr
@@ -2626,7 +2627,6 @@
 0.0.0.0 ferganils.com
 0.0.0.0 fermasosedi.ru
 0.0.0.0 fesibsou.net
-0.0.0.0 festicket.fr
 0.0.0.0 fevofep.com
 0.0.0.0 ff-01.com
 0.0.0.0 ff-02.com
@@ -2989,7 +2989,6 @@
 0.0.0.0 goldenstars.fr
 0.0.0.0 goldline.pro
 0.0.0.0 goldscogger.top
-0.0.0.0 goldspin-online.fr
 0.0.0.0 goldspin.fr
 0.0.0.0 goldzinocasino.fr
 0.0.0.0 golfwangfrance.fr
@@ -3420,7 +3419,6 @@
 0.0.0.0 info-eneidis.fr
 0.0.0.0 info-free.fr
 0.0.0.0 info-gouvernement.fr
-0.0.0.0 info-greffe-kbis.fr
 0.0.0.0 info-prime.fr
 0.0.0.0 info-sms-livraison.fr
 0.0.0.0 info-sms-renouvellement.fr
@@ -4317,7 +4315,6 @@
 0.0.0.0 messagerieslebonncoin.fr
 0.0.0.0 messagesleboncoin.fr
 0.0.0.0 meta.vn
-0.0.0.0 metaformafr.fr
 0.0.0.0 metamarket.com.ua
 0.0.0.0 meteofranc.fr
 0.0.0.0 meticulousdate.net
@@ -4984,7 +4981,6 @@
 0.0.0.0 optimhub.com
 0.0.0.0 optionsdereglementations.fr
 0.0.0.0 opuxppwnnf.com
-0.0.0.0 oraangee.fr
 0.0.0.0 oraclecloud.fr
 0.0.0.0 oragne.fr
 0.0.0.0 orange-abonnements.fr
@@ -5035,7 +5031,6 @@
 0.0.0.0 outletasics.fr
 0.0.0.0 outletfrancais.fr
 0.0.0.0 outletjbl.fr
-0.0.0.0 outletlab.fr
 0.0.0.0 outletmaglieshop.fr
 0.0.0.0 outlo0k.fr
 0.0.0.0 outlook.pm
@@ -5183,6 +5178,7 @@
 0.0.0.0 paygamesport.net
 0.0.0.0 payglad.com
 0.0.0.0 paygladplayer.com
+0.0.0.0 payli.fr
 0.0.0.0 paylibservice.fr
 0.0.0.0 payment-prime.fr
 0.0.0.0 payment.pm
@@ -7321,6 +7317,7 @@
 0.0.0.0 virwerxx.fr
 0.0.0.0 visa.wf
 0.0.0.0 visibay.com
+0.0.0.0 vitalife-assurance.fr
 0.0.0.0 vitalnfo.fr
 0.0.0.0 vitsum.com
 0.0.0.0 viva-vivata.ru

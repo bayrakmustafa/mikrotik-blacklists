@@ -1328,6 +1328,7 @@
 0.0.0.0 myvpn.com
 0.0.0.0 mywebproxy.net
 0.0.0.0 mywebtunnel.com
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 study.sci.nabim.com
 0.0.0.0 nanoproxy.com
 0.0.0.0 natfrp.cloud
@@ -1531,6 +1532,8 @@
 0.0.0.0 privacyprotector.eu
 0.0.0.0 examccctestedd.privatedns.org
 0.0.0.0 privatewifi.com
+0.0.0.0 de.dns.privex.io
+0.0.0.0 nl.dns.privex.io
 0.0.0.0 privoxy.org
 0.0.0.0 chinesekidscheeksarentsafearoundme.procrastin.ar
 0.0.0.0 prointern.info
