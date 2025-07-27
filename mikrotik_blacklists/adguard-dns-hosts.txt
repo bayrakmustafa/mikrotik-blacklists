@@ -1,5 +1,5 @@
 # AdguardDNS, parsed and mirrored by https://firebog.net
-# Updated 18JUL25 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+# Updated 25JUL25 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -245,7 +245,6 @@
 0.0.0.0 aliexshop.life
 0.0.0.0 aliexshop.top
 0.0.0.0 allcracks.org
-0.0.0.0 allowandgo.link
 0.0.0.0 a.llysc.cn
 0.0.0.0 almofmultiple.cfd
 0.0.0.0 alovay24h.com
@@ -334,7 +333,6 @@
 0.0.0.0 asian-tindung.com
 0.0.0.0 asiashop666.com
 0.0.0.0 asiashop999.com
-0.0.0.0 as.tarnkappe.info
 0.0.0.0 at.adtech.redventures.io
 0.0.0.0 a.tainengchong.com
 0.0.0.0 atax.gamespy.com
@@ -602,6 +600,7 @@
 0.0.0.0 cressbank.com
 0.0.0.0 crestfidubank.com
 0.0.0.0 crnsgngrpj.nl
+0.0.0.0 crumberstoa.com
 0.0.0.0 cryo.socialblade.com
 0.0.0.0 cryptominexchange.com
 0.0.0.0 cryptooexchange.xyz
@@ -686,7 +685,6 @@
 0.0.0.0 dat1.jzjxmj.com
 0.0.0.0 datgrabsaigon.com
 0.0.0.0 dathangdon.com
-0.0.0.0 dauntedsnubbed.com
 0.0.0.0 dautruongdanhvong.com
 0.0.0.0 dautukiemtien.net
 0.0.0.0 davedbux.ir
@@ -2268,7 +2266,6 @@
 0.0.0.0 rb.sport-express.ru
 0.0.0.0 r.dimkriju.bget.ru
 0.0.0.0 re0y7d.cyou
-0.0.0.0 recs-api.conde.digital
 0.0.0.0 refer.wordpress.com
 0.0.0.0 regis2tarsgroup.click
 0.0.0.0 regis2tarsinc.click
@@ -3548,7 +3545,6 @@
 0.0.0.0 vcbigdank.com
 0.0.0.0 vcb-vaysodo.com
 0.0.0.0 vcb-vaytaichinh.com
-0.0.0.0 vdbank.com.vn
 0.0.0.0 vebo123.vip
 0.0.0.0 vebo1s.co
 0.0.0.0 vebo8386.me

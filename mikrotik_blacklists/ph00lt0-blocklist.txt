@@ -218,6 +218,7 @@
 0.0.0.0 1i9wu42vzknf1h4zwf2to5aq-wpengine.netdna-ssl.com
 0.0.0.0 1igc0ojossa412h1e3ek8d1w-wpengine.netdna-ssl.com
 0.0.0.0 1ja0pa1tvpl63v04fj2l0oby-wpengine.netdna-ssl.com
+0.0.0.0 1kmb.cn
 0.0.0.0 1l14d.fr
 0.0.0.0 1lib.education
 0.0.0.0 1lib.fr
@@ -363,6 +364,7 @@
 0.0.0.0 3.ly
 0.0.0.0 300624.com
 0.0.0.0 304a46cc9a.com
+0.0.0.0 305609.com
 0.0.0.0 31173.se
 0.0.0.0 316xavyzpk7494f8p6dpp5n5-wpengine.netdna-ssl.com
 0.0.0.0 321lenet.com
@@ -542,6 +544,7 @@
 0.0.0.0 5t48cjc.x.incapdns.net
 0.0.0.0 5vju.net
 0.0.0.0 5vz3cfs0yd.me
+0.0.0.0 5xpb4fkh75h5s4vngnzy6oowcy0cgahe.lambda-url.us-east-1.on.aws
 0.0.0.0 600.static.anwb.nl
 0.0.0.0 626uc.com
 0.0.0.0 62ac0a5777dcfd000863a23b--pat-splash.netlify.app
@@ -646,7 +649,9 @@
 0.0.0.0 91zgm.com
 0.0.0.0 92-zumospin.com
 0.0.0.0 9377bh.com
+0.0.0.0 9377hi.com
 0.0.0.0 9377if.com
+0.0.0.0 9377ku.com
 0.0.0.0 9377or.com
 0.0.0.0 940388.smushcdn.com
 0.0.0.0 95105012.com
@@ -1038,6 +1043,7 @@
 0.0.0.0 adkongjian.com
 0.0.0.0 adktrack.com
 0.0.0.0 adler-mannheim.de
+0.0.0.0 adlink.shopsafe.co.nz
 0.0.0.0 adm.72zx.com
 0.0.0.0 adm.baidu.cn
 0.0.0.0 adm.icast.cn
@@ -1127,7 +1133,6 @@
 0.0.0.0 adsninja.club
 0.0.0.0 adsor.openrunner.com
 0.0.0.0 adspy.com
-0.0.0.0 adsquare.com
 0.0.0.0 adss.dotdo.net
 0.0.0.0 adstream.123.sogoucdn.com
 0.0.0.0 adsttc.com
@@ -1168,6 +1173,7 @@
 0.0.0.0 afarkas.github.io
 0.0.0.0 afc108597d3284df396e2da12bf63adb-553426981.eu-west-3.elb.amazonaws.com
 0.0.0.0 afcdn.com
+0.0.0.0 afcha2nmzsir4rr4zbta4tyy6e0fxjix.lambda-url.us-east-1.on.aws
 0.0.0.0 afd.baidu.cn
 0.0.0.0 afd.l.google.com
 0.0.0.0 afdb.org
@@ -1407,7 +1413,6 @@
 0.0.0.0 analytics.guestplan.app
 0.0.0.0 analytics.hightouch.io
 0.0.0.0 analytics.hydra-global.com
-0.0.0.0 analytics.museum.nl
 0.0.0.0 analytics.nicknick.nl
 0.0.0.0 analytics.oneplus.cn
 0.0.0.0 analytics.partijvoordedieren.nl
@@ -1430,7 +1435,6 @@
 0.0.0.0 analytics.ticketmaster.ch
 0.0.0.0 analytics.ticketmaster.co.nz
 0.0.0.0 analytics.ticketmaster.cz
-0.0.0.0 analytics.ticketmaster.dk
 0.0.0.0 analytics.ticketmaster.es
 0.0.0.0 analytics.ticketmaster.fi
 0.0.0.0 analytics.ticketmaster.it
@@ -1711,6 +1715,7 @@
 0.0.0.0 aral.github.io
 0.0.0.0 arc-dns.net
 0.0.0.0 arcantel.ch
+0.0.0.0 arccorp.com
 0.0.0.0 arcgisonline.com
 0.0.0.0 archant-web-resources.s3.eu-west-2.amazonaws.com
 0.0.0.0 archant.co.uk
@@ -2433,6 +2438,7 @@
 0.0.0.0 botfuel-hermes-webchat-server.herokuapp.com
 0.0.0.0 botfuel.io
 0.0.0.0 botgate.ai
+0.0.0.0 botmind.ai
 0.0.0.0 botmind.io
 0.0.0.0 botnation.ai
 0.0.0.0 boulevarddeletincelle.fr
@@ -2778,6 +2784,7 @@
 0.0.0.0 cc.xtgreat.com
 0.0.0.0 cc.yac8.com
 0.0.0.0 ccbaihehq.com
+0.0.0.0 ccbc.cz
 0.0.0.0 cccat.io
 0.0.0.0 ccg-analytics-server-prod.herokuapp.com
 0.0.0.0 ccleaner.com
@@ -2990,6 +2997,7 @@
 0.0.0.0 chaport.com
 0.0.0.0 chapsvision-cybergov.fr
 0.0.0.0 chapsvision.fr
+0.0.0.0 charitycasino.com
 0.0.0.0 charting.vwdservices.com
 0.0.0.0 chartio.com
 0.0.0.0 charts3.equitystory.com
@@ -4278,7 +4286,6 @@
 0.0.0.0 devicebind.ebay.com.sg
 0.0.0.0 devicebind.ebay.es
 0.0.0.0 devicebind.ebay.fr
-0.0.0.0 devicebind.ebay.ie
 0.0.0.0 devicebind.ebay.in
 0.0.0.0 devicebind.ebay.it
 0.0.0.0 devicebind.ebay.my
@@ -4334,7 +4341,6 @@
 0.0.0.0 digitalworld.earth
 0.0.0.0 digiteka.com
 0.0.0.0 diib.com
-0.0.0.0 dik.si
 0.0.0.0 dilogr.com
 0.0.0.0 dimdi.de
 0.0.0.0 dimensions.ai
@@ -4478,6 +4484,7 @@
 0.0.0.0 dreamlab.pl
 0.0.0.0 dreamopportunities.co.uk
 0.0.0.0 driftrock.com
+0.0.0.0 drimble.com
 0.0.0.0 drimble.nl
 0.0.0.0 drive-constant.trade
 0.0.0.0 drive-thirdparty.googleapis.com
@@ -4811,6 +4818,7 @@
 0.0.0.0 erdin1.com
 0.0.0.0 erectilebooster.shop
 0.0.0.0 ereg.wip3.adobe.com
+0.0.0.0 erergame.net
 0.0.0.0 ericprim.ru.com
 0.0.0.0 ermes.ai
 0.0.0.0 ernxdgt.com
@@ -4827,6 +4835,7 @@
 0.0.0.0 espaceducoeur.com
 0.0.0.0 esrpxyahzna.bid
 0.0.0.0 ess.apple.com
+0.0.0.0 essential-apps.com
 0.0.0.0 estimationrapide.fr
 0.0.0.0 estimote.com
 0.0.0.0 estrazionedellotto.it
@@ -5321,7 +5330,6 @@
 0.0.0.0 gapromomanager-pa.googleapis.com
 0.0.0.0 garena.com
 0.0.0.0 gastonsers.autos
-0.0.0.0 gatag.it
 0.0.0.0 gate.rapidsec.net
 0.0.0.0 gatedcontent.com
 0.0.0.0 gateway-sop.fpt.vn
@@ -6055,6 +6063,7 @@
 0.0.0.0 img-cloudflare-2.haizap.com
 0.0.0.0 img-cloudflare.haizap.com
 0.0.0.0 img.9duw.com
+0.0.0.0 img.adnyg.com
 0.0.0.0 img.adpush.cn
 0.0.0.0 img.gou.wpscdn.cn
 0.0.0.0 img.icons8.com
@@ -6420,6 +6429,7 @@
 0.0.0.0 joyfuldoors.com
 0.0.0.0 jpeg.ly
 0.0.0.0 jpplus.com
+0.0.0.0 jqz9.com
 0.0.0.0 js-data.allegro.pl
 0.0.0.0 js-exceptions.paylogic.com
 0.0.0.0 js-sdk.dirs21.de
@@ -6572,6 +6582,7 @@
 0.0.0.0 klenty.com
 0.0.0.0 kleurenpunctuur.nl
 0.0.0.0 kliken.com
+0.0.0.0 kliksysteem.duckdns.org
 0.0.0.0 klipfolio.com
 0.0.0.0 kljei27asdkj.nl
 0.0.0.0 klm-ea.jscrambler.com
@@ -6878,6 +6889,7 @@
 0.0.0.0 linvenaked.com
 0.0.0.0 linyao.dxsdb.com
 0.0.0.0 liplijnig.com
+0.0.0.0 liplynig.com
 0.0.0.0 liquid-iv.ca
 0.0.0.0 liquid-iv.com
 0.0.0.0 liquid-iv.eu
@@ -7346,6 +7358,7 @@
 0.0.0.0 meitu.com
 0.0.0.0 mejora-empresas.com
 0.0.0.0 meldingen.zeelandveilig.nl
+0.0.0.0 mellowtel.dev
 0.0.0.0 mem.gfx.ms
 0.0.0.0 membre.20minutes.fr
 0.0.0.0 memo2.nl
@@ -7458,6 +7471,7 @@
 0.0.0.0 miviet.com
 0.0.0.0 miwifi.com
 0.0.0.0 mix.paretosecurity.com
+0.0.0.0 mjkrxoav2cqz3dtgn6ttcyxeua0mqpul.lambda-url.us-east-1.on.aws
 0.0.0.0 mjt.lu
 0.0.0.0 mk-api.acc.wearetriple.com
 0.0.0.0 mkr1en1mksitesap.blob.core.windows.net
@@ -8001,6 +8015,7 @@
 0.0.0.0 olark.com
 0.0.0.0 olbb2cd1.bmo.com
 0.0.0.0 olbb2cd2.bmo.com
+0.0.0.0 olostep.com
 0.0.0.0 oltreconsulenza.it
 0.0.0.0 olvy.co
 0.0.0.0 olx.com
@@ -8814,6 +8829,7 @@
 0.0.0.0 qcloud.com
 0.0.0.0 qd.dhzw.org
 0.0.0.0 qd.wanjuanba.com
+0.0.0.0 qdchunyu.com
 0.0.0.0 qgss8.com
 0.0.0.0 qiailm.com
 0.0.0.0 qicm.aexp-static.com
@@ -9507,6 +9523,7 @@
 0.0.0.0 shanghaironghua.com
 0.0.0.0 shanglinli.com
 0.0.0.0 shangz99991.com
+0.0.0.0 share-eu1.hsforms.com
 0.0.0.0 share.america.gov
 0.0.0.0 shared.piwik.prisma-it.com
 0.0.0.0 sharedaddomain.com
@@ -9853,6 +9870,7 @@
 0.0.0.0 srv.ch.ebayrtm.com
 0.0.0.0 srv.co.uk.ebayrtm.com
 0.0.0.0 srv.com.hk.ebayrtm.com
+0.0.0.0 srv.es.ebayrtm.com
 0.0.0.0 srv.hk.ebayrtm.com
 0.0.0.0 srv.ie.ebayrtm.com
 0.0.0.0 srv.in.ebayrtm.com
@@ -10122,7 +10140,6 @@
 0.0.0.0 survs.com
 0.0.0.0 sv.aq.qq.com
 0.0.0.0 sv06p01ad-ext-cloud.iad.apple.com
-0.0.0.0 svb.containers.piwik.pro
 0.0.0.0 swetrix.com
 0.0.0.0 swetsins.com
 0.0.0.0 swiftobc.com
@@ -10398,6 +10415,7 @@
 0.0.0.0 thunder.partners
 0.0.0.0 thxnr.com
 0.0.0.0 thyvjboy.com
+0.0.0.0 ti6sritai2y2cqwc23byo7iobm0vfpsg.lambda-url.us-east-1.on.aws
 0.0.0.0 tiangoutai.com
 0.0.0.0 tianqi777.com
 0.0.0.0 tianyanzs.com
@@ -11473,6 +11491,7 @@
 0.0.0.0 ztedevices.com
 0.0.0.0 zteusa.com
 0.0.0.0 ztxbd.com
+0.0.0.0 zuaq4uywadlj75qqkfns3bmoom0xpaiz.lambda-url.us-east-1.on.aws
 0.0.0.0 zuko.io
 0.0.0.0 zwanoo.org
 0.0.0.0 zweeler.com

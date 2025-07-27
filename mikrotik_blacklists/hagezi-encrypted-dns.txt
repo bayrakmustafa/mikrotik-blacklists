@@ -73,6 +73,7 @@
 0.0.0.0 builtlikearat.advanced-orchestra.site
 0.0.0.0 piie.advanced-orchestra.site
 0.0.0.0 advancedvpn.com
+0.0.0.0 affsoft.cc
 0.0.0.0 research.africa.com
 0.0.0.0 gov.goal.agilewhitecloud.com
 0.0.0.0 agmath.xyz
@@ -139,6 +140,7 @@
 0.0.0.0 anura.pro
 0.0.0.0 adbox-v10.any64.de
 0.0.0.0 anyip.io
+0.0.0.0 ad.anym0re.ru
 0.0.0.0 vocab.real.anynall.com
 0.0.0.0 aplusvpn.com
 0.0.0.0 appleproxy.com
@@ -339,6 +341,7 @@
 0.0.0.0 cloakpoint.com
 0.0.0.0 cloakvpn.com
 0.0.0.0 ramberhead.clocking.ro
+0.0.0.0 adguard.cloudmini.net
 0.0.0.0 addition.chillyparrotmath.cloudns.ch
 0.0.0.0 cloudnymous.com
 0.0.0.0 cloudssh.net
@@ -582,6 +585,7 @@
 0.0.0.0 rawr.duia.us
 0.0.0.0 dutchproxy.nl
 0.0.0.0 dvprovider.icu
+0.0.0.0 resolver1.dyndnsinternetguide.com
 0.0.0.0 adbox-v9.dynipv6.de
 0.0.0.0 sagamihara.dynv6.net
 0.0.0.0 t9rke-5zq1m.dynv6.net
@@ -608,6 +612,7 @@
 0.0.0.0 ecxs.asia
 0.0.0.0 steves-lava-chicken.edah.us
 0.0.0.0 edgedcircles.com
+0.0.0.0 dns.edgy.network
 0.0.0.0 edpuzzle.space
 0.0.0.0 education-lesson-pre-algebra-lesson68.eduarmor.com
 0.0.0.0 educationdean.us
@@ -639,6 +644,7 @@
 0.0.0.0 mylo.estic.org
 0.0.0.0 proxy.eti.pw
 0.0.0.0 ettego.com
+0.0.0.0 arashi.net.eu.org
 0.0.0.0 rammerhead.eu.org
 0.0.0.0 eurproxy.com
 0.0.0.0 joe-goldberg-is-so-tuff.just-like-dexter-morgan.ev73.ru
@@ -1328,7 +1334,6 @@
 0.0.0.0 myvpn.com
 0.0.0.0 mywebproxy.net
 0.0.0.0 mywebtunnel.com
-0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 study.sci.nabim.com
 0.0.0.0 nanoproxy.com
 0.0.0.0 natfrp.cloud
@@ -1532,8 +1537,6 @@
 0.0.0.0 privacyprotector.eu
 0.0.0.0 examccctestedd.privatedns.org
 0.0.0.0 privatewifi.com
-0.0.0.0 de.dns.privex.io
-0.0.0.0 nl.dns.privex.io
 0.0.0.0 privoxy.org
 0.0.0.0 chinesekidscheeksarentsafearoundme.procrastin.ar
 0.0.0.0 prointern.info
@@ -1569,7 +1572,6 @@
 0.0.0.0 proxtube.com
 0.0.0.0 proxy.am
 0.0.0.0 proxy.cc
-0.0.0.0 proxy.gd
 0.0.0.0 proxy.lol
 0.0.0.0 proxy.nu
 0.0.0.0 proxy.red
@@ -2786,6 +2788,7 @@
 0.0.0.0 ylink.info
 0.0.0.0 alst.ynbbs.cc
 0.0.0.0 yogawiki.in
+0.0.0.0 net01.youcef.io
 0.0.0.0 youfreeproxytube.com
 0.0.0.0 youproxything.com
 0.0.0.0 youproxytube.com
@@ -2817,4 +2820,5 @@
 0.0.0.0 calculus.zothow.com
 0.0.0.0 diagnostics.zothow.com
 0.0.0.0 zpn.im
+0.0.0.0 a.zpn.me
 0.0.0.0 zproxy.de

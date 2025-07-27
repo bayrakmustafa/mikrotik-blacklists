@@ -80,7 +80,6 @@
 0.0.0.0 bbwcupid.com
 0.0.0.0 bbwdating.net
 0.0.0.0 be2.at
-0.0.0.0 be2.com
 0.0.0.0 be2.com.ar
 0.0.0.0 be2.de
 0.0.0.0 be2.fr
@@ -326,7 +325,6 @@
 0.0.0.0 espace-live.com
 0.0.0.0 europe-tchat-rencontre.fr
 0.0.0.0 everflirt.com
-0.0.0.0 facetoface.com
 0.0.0.0 fastmatch.com.au
 0.0.0.0 fdating.com
 0.0.0.0 filipinocupid.com
@@ -475,6 +473,7 @@
 0.0.0.0 lovetest.com
 0.0.0.0 love-you2.com
 0.0.0.0 lovinga.com
+0.0.0.0 lov.net
 0.0.0.0 lovoo.ch
 0.0.0.0 lovoo.de
 0.0.0.0 lovoo.es
@@ -709,7 +708,6 @@
 0.0.0.0 reveuse.fr
 0.0.0.0 roastdating.com
 0.0.0.0 rockabillydate.com
-0.0.0.0 rsvp.com.au
 0.0.0.0 russiaforyou.com
 0.0.0.0 russiancupid.com
 0.0.0.0 russian-dating.com
@@ -774,7 +772,6 @@
 0.0.0.0 tancdn.com
 0.0.0.0 tantanapp.com
 0.0.0.0 tattoolovers.com
-0.0.0.0 tchatcheblog.com
 0.0.0.0 tchatche.com
 0.0.0.0 tennesseeflirt.com
 0.0.0.0 tennisdating.org

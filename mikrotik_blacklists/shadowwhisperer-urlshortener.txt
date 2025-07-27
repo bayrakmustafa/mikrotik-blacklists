@@ -574,6 +574,7 @@
 0.0.0.0 bitlylinks.com
 0.0.0.0 bitly.mobi
 0.0.0.0 b-i-t-l-y.net
+0.0.0.0 bitly.net
 0.0.0.0 bitly.network
 0.0.0.0 bitly.pw
 0.0.0.0 bitly.team
@@ -1871,6 +1872,7 @@
 0.0.0.0 kinnto.me
 0.0.0.0 kirr.co
 0.0.0.0 kisaca.site
+0.0.0.0 kisa.link
 0.0.0.0 kisa.pro
 0.0.0.0 kisaurl.org
 0.0.0.0 kjd.us
@@ -3917,6 +3919,7 @@
 0.0.0.0 ura.vn
 0.0.0.0 ur.fish
 0.0.0.0 url.1.hubs.vn
+0.0.0.0 url1.io
 0.0.0.0 url2.in
 0.0.0.0 url2s.com
 0.0.0.0 url4.org

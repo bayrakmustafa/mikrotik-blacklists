@@ -771,7 +771,6 @@
 0.0.0.0 digitalreflectionpanel.com
 0.0.0.0 digitalreflectionpanel.net
 0.0.0.0 direct-serve.com
-0.0.0.0 directedat.asia
 0.0.0.0 directserve.com
 0.0.0.0 dispatcho.com
 0.0.0.0 dispatcho1.com
@@ -940,6 +939,7 @@
 0.0.0.0 firsttshare.us
 0.0.0.0 fits.me
 0.0.0.0 flamemobi.download
+0.0.0.0 flipora.com
 0.0.0.0 flxads.com
 0.0.0.0 flyway.in
 0.0.0.0 focus-site.com
@@ -2461,7 +2461,6 @@
 0.0.0.0 popularix.com
 0.0.0.0 pornarea51.com
 0.0.0.0 positiveadv.com
-0.0.0.0 post2delicious.com
 0.0.0.0 power-cl1cks.com
 0.0.0.0 powertds.trade
 0.0.0.0 powertheads.com
