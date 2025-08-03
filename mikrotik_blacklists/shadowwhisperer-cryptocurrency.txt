@@ -1,8 +1,8 @@
 #
 #    File: Cryptocurrency
 #    Info: Bitcoin, Ethereum, Mining, etc
-# Domains: 1,146
-# Updated: 6/6/2025  12:56 (12:56 PM CST)
+# Domains: 1,145
+# Updated: 8/1/2025  10:51 (10:51 AM CST)
 #
 0.0.0.0 10102.io
 0.0.0.0 10xbitcoin.com
@@ -319,7 +319,6 @@
 0.0.0.0 dcrdata.org
 0.0.0.0 deadcoin.club
 0.0.0.0 debutech.de
-0.0.0.0 decrypt.co
 0.0.0.0 deepfields.io
 0.0.0.0 dentacoin.com
 0.0.0.0 deribit.com
@@ -491,7 +490,6 @@
 0.0.0.0 ironfish.network
 0.0.0.0 isotopec.org
 0.0.0.0 jambler.io
-0.0.0.0 jingniupool.com
 0.0.0.0 jjpool.fr
 0.0.0.0 joys.digital
 0.0.0.0 jup.ag

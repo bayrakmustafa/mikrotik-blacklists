@@ -21,11 +21,11 @@
 # Author:        Ador <mail@ador.com.bd>
 # License:       MIT
 # Format:        hosts
-# Entries:       72
-# Version:       0.100.a.25.208.14
+# Entries:       73
+# Version:       0.100.a.25.215.14
 # Expires:       1 day (update frequency)
-# Releasae:      25.208.14
-# Last modified: 2025-07-27T14:03:16.188566 UTC
+# Releasae:      25.215.14
+# Last modified: 2025-08-03T14:04:17.913898 UTC
 # Source:        https://github/EnergizedProtection/block
 # Issue:         https://github/EnergizedProtection/block/issues
 # ----------------------------------------------------------------------------
@@ -92,6 +92,7 @@
 0.0.0.0 notifications-pa.googleapis.com
 0.0.0.0 onelink.me
 0.0.0.0 optimizationguide-pa.googleapis.com
+0.0.0.0 p16-tiktok-ads-sg.tiktokcdn.com
 0.0.0.0 playatoms-pa.googleapis.com
 0.0.0.0 pubsub.googleapis.com
 0.0.0.0 qcc.qualcomm.com

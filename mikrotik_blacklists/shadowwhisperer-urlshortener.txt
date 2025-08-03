@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,584
-# Updated: 7/14/2025  16:06 (4:06 PM CST)
+# Domains: 4,587
+# Updated: 7/30/2025  11:55 (11:55 AM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -75,6 +75,7 @@
 0.0.0.0 233.be
 0.0.0.0 247superhost.com
 0.0.0.0 256.so
+0.0.0.0 2b1s.zacharyhurdle.com
 0.0.0.0 2bio.link
 0.0.0.0 2fear.com
 0.0.0.0 2h.ae
@@ -3890,6 +3891,7 @@
 0.0.0.0 umuly.com
 0.0.0.0 umuoq.com
 0.0.0.0 unand.net
+0.0.0.0 unesa.me
 0.0.0.0 unfunnyi.com
 0.0.0.0 unhc.life
 0.0.0.0 unicycle.to
@@ -3919,7 +3921,6 @@
 0.0.0.0 ura.vn
 0.0.0.0 ur.fish
 0.0.0.0 url.1.hubs.vn
-0.0.0.0 url1.io
 0.0.0.0 url2.in
 0.0.0.0 url2s.com
 0.0.0.0 url4.org
@@ -4062,6 +4063,7 @@
 0.0.0.0 vd0.pro
 0.0.0.0 vd1.pro
 0.0.0.0 vdio.pro
+0.0.0.0 vdp.in.net
 0.0.0.0 vdsnw.mom
 0.0.0.0 vea.link
 0.0.0.0 veall.mom
@@ -4108,6 +4110,7 @@
 0.0.0.0 vlcbm.com
 0.0.0.0 vlink.cz
 0.0.0.0 vloggi.com
+0.0.0.0 vm88.com.co
 0.0.0.0 vms.bz
 0.0.0.0 vmsvv.top
 0.0.0.0 vnfim.top

@@ -1,5 +1,5 @@
 # AdguardDNS, parsed and mirrored by https://firebog.net
-# Updated 25JUL25 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+# Updated 01AUG25 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -1480,6 +1480,7 @@
 0.0.0.0 lg777.club
 0.0.0.0 lhaqtn.lyst.ca
 0.0.0.0 lianmen1.joyyang.com
+0.0.0.0 libring.com
 0.0.0.0 lienkettaikhoan.com
 0.0.0.0 lienkettaikhoannhanqua.online
 0.0.0.0 lienketvidientu.com
@@ -2760,6 +2761,7 @@
 0.0.0.0 spmail86.com
 0.0.0.0 spmail88.com
 0.0.0.0 sp.naver.com
+0.0.0.0 spnut.com
 0.0.0.0 spohopena.com
 0.0.0.0 spohopenm.com
 0.0.0.0 spohopenm.org
@@ -3142,7 +3144,6 @@
 0.0.0.0 tintucnganhang.fun
 0.0.0.0 tinvietttt.com
 0.0.0.0 titki55.cc
-0.0.0.0 t.iwara.tv
 0.0.0.0 tj3rql9siwef.www.freecodecamp.org
 0.0.0.0 tk9998.com
 0.0.0.0 tmko1.com

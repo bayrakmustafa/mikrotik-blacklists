@@ -17707,6 +17707,7 @@
 0.0.0.0 dcisco.com
 0.0.0.0 dciscogs.com
 0.0.0.0 dciscordapp.com
+0.0.0.0 dciscord.com
 0.0.0.0 dciscord.media
 0.0.0.0 dciscovercard.com
 0.0.0.0 dciscover.com
@@ -18971,6 +18972,7 @@
 0.0.0.0 discodrapp.com
 0.0.0.0 discodr.com
 0.0.0.0 discodrdapp.com
+0.0.0.0 discodrd.com
 0.0.0.0 discodrd.media
 0.0.0.0 discodr.media
 0.0.0.0 discoedapp.com
@@ -19061,6 +19063,7 @@
 0.0.0.0 discokvery.com
 0.0.0.0 discolgs.com
 0.0.0.0 discolrdapp.com
+0.0.0.0 discolrd.com
 0.0.0.0 discolrd.media
 0.0.0.0 discolvercard.com
 0.0.0.0 discolver.com
@@ -20306,6 +20309,7 @@
 0.0.0.0 disytrowatch.com
 0.0.0.0 diszcogs.com
 0.0.0.0 diszcordapp.com
+0.0.0.0 diszcord.com
 0.0.0.0 diszcord.media
 0.0.0.0 diszcovercard.com
 0.0.0.0 diszcover.com
@@ -21495,6 +21499,7 @@
 0.0.0.0 duictionary.com
 0.0.0.0 duiscogs.com
 0.0.0.0 duiscordapp.com
+0.0.0.0 duiscord.com
 0.0.0.0 duiscord.media
 0.0.0.0 duiscovercard.com
 0.0.0.0 duiscover.com
@@ -61219,7 +61224,6 @@
 0.0.0.0 steampowsred.com
 0.0.0.0 steamppowered.com
 0.0.0.0 steamppwered.com
-0.0.0.0 steampwoered.com
 0.0.0.0 steamvcommunity.com
 0.0.0.0 steamvcontent.com
 0.0.0.0 steamvommunity.com

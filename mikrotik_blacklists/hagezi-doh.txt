@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 27 Jul 2025 00:07 UTC
-# Version: 2025.0727.0007.15
+# Last modified: 03 Aug 2025 12:10 UTC
+# Version: 2025.0803.1210.43
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1604
+# Number of entries: 1598
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -72,7 +72,6 @@
 0.0.0.0 family.adguard-dns.com
 0.0.0.0 unfiltered.adguard-dns.com
 0.0.0.0 dns.adrianlam.com
-0.0.0.0 aerodrorne.vip
 0.0.0.0 affcdn.net
 0.0.0.0 shield.afixer.app
 0.0.0.0 doh.au.ahadns.net
@@ -117,6 +116,7 @@
 0.0.0.0 doh.angry.im
 0.0.0.0 dns.anon.no
 0.0.0.0 secure.anudeep.me
+0.0.0.0 ad.anym0re.ru
 0.0.0.0 doh.apad.pro
 0.0.0.0 ag.apollohct.com
 0.0.0.0 doh.dns.apple.com
@@ -302,6 +302,7 @@
 0.0.0.0 dns.netraptor.com.au
 0.0.0.0 dns.redhosting.com.ar
 0.0.0.0 doh.viatech.com.tw
+0.0.0.0 dns.comeonjames.club
 0.0.0.0 dns.comff.net
 0.0.0.0 commons.host
 0.0.0.0 comss.one
@@ -407,6 +408,9 @@
 0.0.0.0 uk01.dns4me.net
 0.0.0.0 us01.dns4me.net
 0.0.0.0 us02.dns4me.net
+0.0.0.0 dnsbunker.org
+0.0.0.0 alpha.dnsbunker.org
+0.0.0.0 bravo.dnsbunker.org
 0.0.0.0 ns1.recursive.dnsbycomodo.com
 0.0.0.0 ns2.recursive.dnsbycomodo.com
 0.0.0.0 2.dnscrypt-cert.shield-2.dnsbycomodo.com
@@ -482,7 +486,6 @@
 0.0.0.0 slc01.dnscry.pt
 0.0.0.0 sof01.dnscry.pt
 0.0.0.0 sto01.dnscry.pt
-0.0.0.0 syd01.dnscry.pt
 0.0.0.0 syd02.dnscry.pt
 0.0.0.0 tbs01.dnscry.pt
 0.0.0.0 tll01.dnscry.pt
@@ -559,7 +562,6 @@
 0.0.0.0 uk-lon.doh.sb
 0.0.0.0 doh.domreg.lt
 0.0.0.0 takhtakh.domyah.net
-0.0.0.0 dns.dooks.uk
 0.0.0.0 dot.pub
 0.0.0.0 ns1.dotls.org
 0.0.0.0 dns.dotnet.win
@@ -605,6 +607,7 @@
 0.0.0.0 armorrush.eu.org
 0.0.0.0 dns.fullaccesstointernet.jp.eu.org
 0.0.0.0 dns.mayx.eu.org
+0.0.0.0 arashi.net.eu.org
 0.0.0.0 sukidayo.eu.org
 0.0.0.0 dns.extrawdw.net
 0.0.0.0 fra1.eyecay.xyz
@@ -627,6 +630,7 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
+0.0.0.0 doh.flashstart.com
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
@@ -782,7 +786,6 @@
 0.0.0.0 dns.jstockley.com
 0.0.0.0 dns.jundev.org
 0.0.0.0 dns.jupitrdns.com
-0.0.0.0 ad.justincounts.com
 0.0.0.0 dns.justinnetworkingsolutions.com
 0.0.0.0 dns.k3nny.fr
 0.0.0.0 kaiwu.xyz
@@ -968,7 +971,6 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
-0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
@@ -987,7 +989,6 @@
 0.0.0.0 de-fsn-w-p-1.nashkan.net
 0.0.0.0 fi-hel-w-f-2.nashkan.net
 0.0.0.0 fr-gra-w-p-1.nashkan.net
-0.0.0.0 gb-cov-w-f-1.nashkan.net
 0.0.0.0 gb-cov-w-p-1.nashkan.net
 0.0.0.0 gb-lon-w-f-1.nashkan.net
 0.0.0.0 gb-lon-w-p-1.nashkan.net
@@ -1039,17 +1040,6 @@
 0.0.0.0 dns1.nielsdb.be
 0.0.0.0 dns.ningkelle.id
 0.0.0.0 family.dns.ningkelle.id
-0.0.0.0 adblock.any.dns.nixnet.xyz
-0.0.0.0 uncensored.any.dns.nixnet.xyz
-0.0.0.0 adblock.lux1.dns.nixnet.xyz
-0.0.0.0 uncensored.lux1.dns.nixnet.xyz
-0.0.0.0 adblock.lv1.dns.nixnet.xyz
-0.0.0.0 uncensored.lv1.dns.nixnet.xyz
-0.0.0.0 adblock.ny1.dns.nixnet.xyz
-0.0.0.0 uncensored.ny1.dns.nixnet.xyz
-0.0.0.0 lux1.nixnet.xyz
-0.0.0.0 lv1.nixnet.xyz
-0.0.0.0 ny1.nixnet.xyz
 0.0.0.0 doh.niyawe.de
 0.0.0.0 dns.njal.la
 0.0.0.0 pi1.node15.com
@@ -1520,9 +1510,11 @@
 0.0.0.0 ychen.cf
 0.0.0.0 ychen.gq
 0.0.0.0 sg.yepdns.com
+0.0.0.0 net01.youcef.io
 0.0.0.0 your-dns.run
 0.0.0.0 yovbak.com
 0.0.0.0 dns.yuu-g.net
+0.0.0.0 yuvelirtut.website
 0.0.0.0 adg.yybyy.wiki
 0.0.0.0 dns.daemon.za.net
 0.0.0.0 adguard.zachitect.com
