@@ -5,7 +5,9 @@
 0.0.0.0 bingkasprogram-*.xdbng.com
 0.0.0.0 apples-24x7-*.pages.dev
 0.0.0.0 icloud.apple-*.cn
+0.0.0.0 cardverify*-booking.com
 0.0.0.0 air-bnb.check-
+0.0.0.0 adobepd*.glitch.me
 0.0.0.0 loginnetflixleiojfioje.blogspot.
 0.0.0.0 allegrolokalnie.pl-
 0.0.0.0 messagerie*.godaddysites.com
@@ -69,7 +71,6 @@
 0.0.0.0 lcldetecthumainweb*.firebaseapp.com
 0.0.0.0 nhantienquocte*.vercel.app
 0.0.0.0 westernunion*.wixsite.com
-0.0.0.0 sichogyp.su
 0.0.0.0 arciansi.su
 0.0.0.0 marketplace-item-*.000.pe
 0.0.0.0 ajmaboxanherulv*.b-cdn.net
@@ -88,3 +89,4 @@
 0.0.0.0 zoom.us*web.us
 0.0.0.0 e-zpass.com-
 0.0.0.0 irs.gov-
+0.0.0.0 pttavm.*.com.tr

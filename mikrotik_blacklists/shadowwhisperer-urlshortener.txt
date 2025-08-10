@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 4,587
-# Updated: 7/30/2025  11:55 (11:55 AM CST)
+# Domains: 4,618
+# Updated: 8/9/2025  19:18 (7:18 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -180,6 +180,8 @@
 0.0.0.0 88link.me
 0.0.0.0 88nb.cc
 0.0.0.0 88win.link
+0.0.0.0 89bet69.cc
+0.0.0.0 89bet69.net
 0.0.0.0 89q.sk
 0.0.0.0 8a6rh.shop
 0.0.0.0 8n.ink
@@ -269,6 +271,7 @@
 0.0.0.0 ady.to
 0.0.0.0 aegyo.me
 0.0.0.0 afb88.life
+0.0.0.0 aficlicktrack.xyz
 0.0.0.0 afly.in
 0.0.0.0 aftv.news
 0.0.0.0 agbr.ir
@@ -284,6 +287,7 @@
 0.0.0.0 agt.fyi
 0.0.0.0 ahgzp.com
 0.0.0.0 ahpit.cyou
+0.0.0.0 ai18.link
 0.0.0.0 ai6.net
 0.0.0.0 ai-beast-online.life
 0.0.0.0 ai.blendnow.com
@@ -365,6 +369,7 @@
 0.0.0.0 anisepretzel.com
 0.0.0.0 anizam.ru
 0.0.0.0 anmeld.biz
+0.0.0.0 annah.ar
 0.0.0.0 anonme.net
 0.0.0.0 anp.su
 0.0.0.0 ansaj.top
@@ -662,6 +667,7 @@
 0.0.0.0 brevi.space
 0.0.0.0 brg.mobi
 0.0.0.0 bridging-analytics.life
+0.0.0.0 brightestbeginning.me
 0.0.0.0 briidge.life
 0.0.0.0 brilink.me
 0.0.0.0 brisktopia.com
@@ -753,6 +759,7 @@
 0.0.0.0 cdpoju.com
 0.0.0.0 cdwus.com
 0.0.0.0 ceci-ana-jada-271928.life
+0.0.0.0 ceittp.com
 0.0.0.0 celfam.us
 0.0.0.0 celiasorrentino.life
 0.0.0.0 cepatwd.vip
@@ -897,6 +904,7 @@
 0.0.0.0 curious-cat.live
 0.0.0.0 curl.pk
 0.0.0.0 curl.ro
+0.0.0.0 customers.my
 0.0.0.0 customurlshortener.com
 0.0.0.0 cut2.ir
 0.0.0.0 cut2link.com
@@ -965,6 +973,7 @@
 0.0.0.0 ddw.nu
 0.0.0.0 ddwxl.info
 0.0.0.0 dealc.me
+0.0.0.0 dealsfindersgroup.com
 0.0.0.0 debbiewestdicksons.life
 0.0.0.0 decat.de
 0.0.0.0 defigodirect.com
@@ -1176,6 +1185,7 @@
 0.0.0.0 eranmoney.site
 0.0.0.0 erath.email
 0.0.0.0 erdch.com
+0.0.0.0 erd.wtf
 0.0.0.0 ericadams.link
 0.0.0.0 erthdaily.com
 0.0.0.0 eru789.com
@@ -1228,8 +1238,10 @@
 0.0.0.0 fagn.top
 0.0.0.0 faiq09824.life
 0.0.0.0 famousurl.com
+0.0.0.0 famu.cc
 0.0.0.0 fashionmi.live
 0.0.0.0 fa-st.co
+0.0.0.0 f-ast.me
 0.0.0.0 fasttory.com
 0.0.0.0 fbook.cc
 0.0.0.0 fbuef.com
@@ -1285,6 +1297,7 @@
 0.0.0.0 fna.ir
 0.0.0.0 fnote.it
 0.0.0.0 foee.top
+0.0.0.0 font.ai
 0.0.0.0 fortunium.xyz
 0.0.0.0 fovre.sbs
 0.0.0.0 fpfro.sbs
@@ -1358,6 +1371,7 @@
 0.0.0.0 gcrs.live
 0.0.0.0 gdanstum.net
 0.0.0.0 gdtikx.com
+0.0.0.0 geefi.me
 0.0.0.0 geetlink.com
 0.0.0.0 gef.me
 0.0.0.0 gegeshidzedato10.life
@@ -1571,6 +1585,7 @@
 0.0.0.0 hoheo.sbs
 0.0.0.0 hoholah.xyz
 0.0.0.0 ho.io
+0.0.0.0 hoki108.shop
 0.0.0.0 hoki22crot.com
 0.0.0.0 hokidana.vip
 0.0.0.0 hokie.co
@@ -1615,7 +1630,6 @@
 0.0.0.0 hyp.ae
 0.0.0.0 hyperly.co
 0.0.0.0 i7i.co
-0.0.0.0 i8.ae
 0.0.0.0 i-am-here.live
 0.0.0.0 iamsrikrung.com
 0.0.0.0 iapdw.com
@@ -1713,12 +1727,14 @@
 0.0.0.0 istubby.com
 0.0.0.0 itdad.info
 0.0.0.0 itdmusic.top
+0.0.0.0 iti.bz
 0.0.0.0 itly.in
 0.0.0.0 itop.so
 0.0.0.0 itrk.it
 0.0.0.0 its-4-u.com
 0.0.0.0 itsmariapage.xyz
 0.0.0.0 itsmariaspage.xyz
+0.0.0.0 itty.be
 0.0.0.0 itumb.sbs
 0.0.0.0 itvty.com
 0.0.0.0 iurl.dk
@@ -1905,6 +1921,7 @@
 0.0.0.0 krishnaraosivaramas.life
 0.0.0.0 kristal777.us
 0.0.0.0 krohne.link
+0.0.0.0 krpcgvm.wiki
 0.0.0.0 krpp.me
 0.0.0.0 kshjg.sbs
 0.0.0.0 ksimw.sbs
@@ -2145,6 +2162,7 @@
 0.0.0.0 lnkshk.com
 0.0.0.0 lnk.vn
 0.0.0.0 lnkw.co
+0.0.0.0 lnkzap.com
 0.0.0.0 loasj.com
 0.0.0.0 loaynwfv2.live
 0.0.0.0 lo.ge
@@ -2200,6 +2218,7 @@
 0.0.0.0 lynxshort.net
 0.0.0.0 lyreck.com
 0.0.0.0 lyreck.site
+0.0.0.0 lyt.me
 0.0.0.0 lz.com
 0.0.0.0 lzd.page
 0.0.0.0 m17.ca
@@ -2243,12 +2262,14 @@
 0.0.0.0 marveliness.com
 0.0.0.0 mas.si
 0.0.0.0 mas.so
+0.0.0.0 masterpoing.vip
 0.0.0.0 masuk-id.info
 0.0.0.0 masuksini.my
 0.0.0.0 masy.uk
 0.0.0.0 matchurl.com
 0.0.0.0 mathmayr.com
 0.0.0.0 math-sm-9075.life
+0.0.0.0 matmacakiem222.makeup
 0.0.0.0 matten1.life
 0.0.0.0 mattes.live
 0.0.0.0 mattsuuii.life
@@ -2274,6 +2295,7 @@
 0.0.0.0 mdl.town
 0.0.0.0 mdmblz.com
 0.0.0.0 mdmehedi474156.live
+0.0.0.0 mdsh.io
 0.0.0.0 mdska.com
 0.0.0.0 mdyvah.com
 0.0.0.0 me9.in
@@ -2625,6 +2647,7 @@
 0.0.0.0 oghyn.lol
 0.0.0.0 ogle-wolfe.life
 0.0.0.0 ogms.co
+0.0.0.0 ogwa.me
 0.0.0.0 oh.pn
 0.0.0.0 oii.io
 0.0.0.0 oinb.top
@@ -2730,6 +2753,8 @@
 0.0.0.0 peak.fan
 0.0.0.0 peak-prosperity.com
 0.0.0.0 pecurgoa.com
+0.0.0.0 pedalhub.store
+0.0.0.0 peekstory.com
 0.0.0.0 peen.ca
 0.0.0.0 peercertification.wildalwhite.com
 0.0.0.0 pekcamke.link
@@ -2833,6 +2858,7 @@
 0.0.0.0 prokura.space
 0.0.0.0 prolinks.me
 0.0.0.0 promo-visits.site
+0.0.0.0 proof.click
 0.0.0.0 proposal.talecraft.io
 0.0.0.0 pros.si
 0.0.0.0 prt.nu
@@ -2860,6 +2886,7 @@
 0.0.0.0 pws1ooo.xyz
 0.0.0.0 pxicz.com
 0.0.0.0 pxlcrv.co
+0.0.0.0 pxl.fm
 0.0.0.0 pygy.co
 0.0.0.0 pylwm.sbs
 0.0.0.0 py.md
@@ -2938,6 +2965,8 @@
 0.0.0.0 r2slotamp.xyz
 0.0.0.0 rabde.sbs
 0.0.0.0 raceclip.com
+0.0.0.0 radiances.beauty
+0.0.0.0 radioantennaweb.com
 0.0.0.0 radly.ir
 0.0.0.0 rainonit.com
 0.0.0.0 rajamahjong.site
@@ -3076,6 +3105,7 @@
 0.0.0.0 ruplink.com
 0.0.0.0 rusd.in
 0.0.0.0 rusuhkali.xyz
+0.0.0.0 ruvi.me
 0.0.0.0 rwecv.com
 0.0.0.0 rwemw.com
 0.0.0.0 rwqhh.sbs
@@ -3765,6 +3795,7 @@
 0.0.0.0 topsitus.com
 0.0.0.0 top-sub-cve-len.live
 0.0.0.0 topsubcvelens.life
+0.0.0.0 topurl.cc
 0.0.0.0 topurl.link
 0.0.0.0 tosul.top
 0.0.0.0 toui.cc
@@ -3891,7 +3922,6 @@
 0.0.0.0 umuly.com
 0.0.0.0 umuoq.com
 0.0.0.0 unand.net
-0.0.0.0 unesa.me
 0.0.0.0 unfunnyi.com
 0.0.0.0 unhc.life
 0.0.0.0 unicycle.to

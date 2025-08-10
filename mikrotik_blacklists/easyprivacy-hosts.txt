@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 01AUG25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 08AUG25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -702,6 +702,7 @@
 0.0.0.0 mac.macheq.com
 0.0.0.0 mail.academyforconsciousleadership.net
 0.0.0.0 mail.fathomdelivers.com
+0.0.0.0 mail.wondery.com
 0.0.0.0 marceline.wantsext.me
 0.0.0.0 markedcrayon.com
 0.0.0.0 marketing1.yealink.com
@@ -1015,7 +1016,6 @@
 0.0.0.0 secure.yama1hove.com
 0.0.0.0 secure.yeld9auto.com
 0.0.0.0 selvi.viessmann.com.tr
-0.0.0.0 send.preply.com
 0.0.0.0 services.eclerx.com
 0.0.0.0 services.edc.ca
 0.0.0.0 service.vrp.com

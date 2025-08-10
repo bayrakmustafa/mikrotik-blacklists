@@ -1,8 +1,8 @@
 #
 #    File: Gambling
 #    Info: Casino, gambling, poker, etc.
-# Domains: 26,795
-# Updated: 7/25/2025  09:22 (9:22 AM CST)
+# Domains: 26,802
+# Updated: 8/9/2025  19:18 (7:18 PM CST)
 #
 0.0.0.0 0009casino.com
 0.0.0.0 000-online-casino.biz
@@ -1218,6 +1218,7 @@
 0.0.0.0 99slots.vip
 0.0.0.0 9bets10.com
 0.0.0.0 9fine.com
+0.0.0.0 9goldfishka.com
 0.0.0.0 9mastercasino88.com
 0.0.0.0 9s-app-casino.com
 0.0.0.0 9winz-casino.com
@@ -2389,6 +2390,7 @@
 0.0.0.0 betbook.dev
 0.0.0.0 betbox2174.com
 0.0.0.0 betbox2178.com
+0.0.0.0 bet.br
 0.0.0.0 betbrx.com
 0.0.0.0 betbull247.com
 0.0.0.0 betcasinocraze.com
@@ -3586,6 +3588,7 @@
 0.0.0.0 cashwin578.com
 0.0.0.0 cashzillacasino.com
 0.0.0.0 casiblu151.com
+0.0.0.0 casiblu158.com
 0.0.0.0 casiblu161.com
 0.0.0.0 casiblu162.com
 0.0.0.0 casiblu163.com
@@ -12563,6 +12566,7 @@
 0.0.0.0 goldfishka268.com
 0.0.0.0 goldfishka328.com
 0.0.0.0 goldfishka329.com
+0.0.0.0 goldfishka330.com
 0.0.0.0 goldfishkacasino.click
 0.0.0.0 goldfishka-casino.co
 0.0.0.0 goldfishka-casino.group
@@ -16639,6 +16643,7 @@
 0.0.0.0 lodigamecasino.me
 0.0.0.0 lodislot-casino.me
 0.0.0.0 loftcasino.org
+0.0.0.0 loginggbet.com
 0.0.0.0 lokecasino.se
 0.0.0.0 lok-fresh-casino.top
 0.0.0.0 lok-freshcasino.top
@@ -16650,6 +16655,7 @@
 0.0.0.0 lokicasinoplay1.com
 0.0.0.0 lokicasino.top
 0.0.0.0 lolly-bet2.com
+0.0.0.0 lolly-bet666.com
 0.0.0.0 lolly-bet.com
 0.0.0.0 lonacionline.ci
 0.0.0.0 londonpartypoker.com
@@ -18806,6 +18812,7 @@
 0.0.0.0 panalo99-casino.me
 0.0.0.0 panalobet-casino.me
 0.0.0.0 panaloko-casino.com
+0.0.0.0 pan-casino.com
 0.0.0.0 pandacasinos.online
 0.0.0.0 paracasino.net
 0.0.0.0 paradisecasino.com
@@ -26414,7 +26421,6 @@
 0.0.0.0 xn--utlndskacasinos-2kb.se
 0.0.0.0 xslots1x.ru
 0.0.0.0 xslots.website
-0.0.0.0 xxxbetcasino.com
 0.0.0.0 xyzonlinegambling.com
 0.0.0.0 ya888yacasino.org
 0.0.0.0 yaacasino.online

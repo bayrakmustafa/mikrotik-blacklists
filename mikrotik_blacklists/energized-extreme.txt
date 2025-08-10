@@ -21,11 +21,11 @@
 # Author:        Ador <mail@ador.com.bd>
 # License:       MIT
 # Format:        hosts
-# Entries:       73
-# Version:       0.100.a.25.215.14
+# Entries:       74
+# Version:       0.100.a.25.222.16
 # Expires:       1 day (update frequency)
-# Releasae:      25.215.14
-# Last modified: 2025-08-03T14:04:17.913898 UTC
+# Releasae:      25.222.16
+# Last modified: 2025-08-10T16:03:02.536908 UTC
 # Source:        https://github/EnergizedProtection/block
 # Issue:         https://github/EnergizedProtection/block/issues
 # ----------------------------------------------------------------------------
@@ -53,6 +53,7 @@
 0.0.0.0 apps.facebook.com
 0.0.0.0 auditrecording-pa.googleapis.com
 0.0.0.0 b-graph.facebook.com
+0.0.0.0 blue.mbsy.co
 0.0.0.0 cdn.gigya.com
 0.0.0.0 cdn.mocaplatform.com
 0.0.0.0 cdn.privacy-mgmt.com

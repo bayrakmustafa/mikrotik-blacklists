@@ -22,10 +22,10 @@
 # License:       MIT
 # Format:        hosts
 # Entries:       14,163
-# Version:       0.100.a.25.215.14
+# Version:       0.100.a.25.222.14
 # Expires:       1 day (update frequency)
-# Releasae:      25.215.14
-# Last modified: 2025-08-03T14:04:17.775249 UTC
+# Releasae:      25.222.14
+# Last modified: 2025-08-10T14:03:02.094817 UTC
 # Source:        https://github/EnergizedProtection/block
 # Issue:         https://github/EnergizedProtection/block/issues
 # ----------------------------------------------------------------------------
@@ -4864,6 +4864,7 @@
 0.0.0.0 help.snapchat.com
 0.0.0.0 help.twitter.com
 0.0.0.0 hermes.twitch.tv
+0.0.0.0 hi-in.facebook.com
 0.0.0.0 hi.datememe.com
 0.0.0.0 hilfe.linkedin.com
 0.0.0.0 hinge.co

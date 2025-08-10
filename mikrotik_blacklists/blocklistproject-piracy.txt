@@ -85,6 +85,7 @@
 0.0.0.0 aviraland.ru
 0.0.0.0 avistaz.me
 0.0.0.0 axxomovies.org
+0.0.0.0 baberepublic.com
 0.0.0.0 basixmovie.com
 0.0.0.0 bayfiles.com
 0.0.0.0 beatz.bz
@@ -282,6 +283,7 @@
 0.0.0.0 eztv.ch
 0.0.0.0 eztv.it
 0.0.0.0 eztv.re
+0.0.0.0 f4freesoftware.com
 0.0.0.0 fashion-factory.ru
 0.0.0.0 feuerbringer.com
 0.0.0.0 filecatch.com
@@ -933,6 +935,7 @@
 0.0.0.0 thepiratebay.am
 0.0.0.0 thepiratebay.ee
 0.0.0.0 thepiratebay.fm
+0.0.0.0 thepiratebay.gd
 0.0.0.0 thepiratebay.ms
 0.0.0.0 thepiratebay.org
 0.0.0.0 thepiratebay.se

@@ -443,6 +443,7 @@
 0.0.0.0 brpx.io
 0.0.0.0 brvideosummit.com
 0.0.0.0 brvs.com
+0.0.0.0 brx.com
 0.0.0.0 brxvideosummit.com
 0.0.0.0 btrack.niceforward.com
 0.0.0.0 btrack.powermtapro.com
@@ -1353,6 +1354,7 @@
 0.0.0.0 mkt019.com
 0.0.0.0 mkt020.com
 0.0.0.0 mkt021.com
+0.0.0.0 mkt022.com
 0.0.0.0 mkt023.com
 0.0.0.0 mkt024.com
 0.0.0.0 mkt025.com
@@ -1565,6 +1567,7 @@
 0.0.0.0 mkt2270.com
 0.0.0.0 mkt229.com
 0.0.0.0 mkt2295.com
+0.0.0.0 mkt230.com
 0.0.0.0 mkt2307.com
 0.0.0.0 mkt2316.com
 0.0.0.0 mkt2318.com

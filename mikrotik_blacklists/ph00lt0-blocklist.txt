@@ -512,6 +512,7 @@
 0.0.0.0 51weidashi.com
 0.0.0.0 52096q.cn
 0.0.0.0 52gg.net
+0.0.0.0 52kmk.com
 0.0.0.0 535485.smushcdn.com
 0.0.0.0 5378.org
 0.0.0.0 5431800.fls.doubleclick.net
@@ -649,15 +650,14 @@
 0.0.0.0 91zgm.com
 0.0.0.0 92-zumospin.com
 0.0.0.0 9377bh.com
-0.0.0.0 9377hi.com
 0.0.0.0 9377if.com
-0.0.0.0 9377ku.com
 0.0.0.0 9377or.com
 0.0.0.0 940388.smushcdn.com
 0.0.0.0 95105012.com
 0.0.0.0 951199.smushcdn.com
 0.0.0.0 952ws4ayphb1pfk6hy8v3gfr-wpengine.netdna-ssl.com
 0.0.0.0 95558000.com
+0.0.0.0 96mob.com
 0.0.0.0 987967.xyz
 0.0.0.0 99909988.com
 0.0.0.0 9a7f6a3c-8431-438c-89d9-90924a59e618.akamaized.net
@@ -1190,7 +1190,6 @@
 0.0.0.0 affiliatenetwork.com
 0.0.0.0 affiliates.adsterra.com
 0.0.0.0 affiliatetrackerapi.monotypeimaging.com
-0.0.0.0 affiliation.fotovista.com
 0.0.0.0 affinitysolutions.com
 0.0.0.0 affixcrm.com
 0.0.0.0 affplus.com
@@ -1310,7 +1309,6 @@
 0.0.0.0 alignmentdisabled.netalignmentdisabled.net
 0.0.0.0 alikunlun.com
 0.0.0.0 aliqqjd.cn
-0.0.0.0 alisinak.com
 0.0.0.0 alitui.weibo.com.cn
 0.0.0.0 aliunion.cn.yahoo.com
 0.0.0.0 alive.github.com
@@ -1441,7 +1439,6 @@
 0.0.0.0 analytics.ticketmaster.fi
 0.0.0.0 analytics.ticketmaster.it
 0.0.0.0 analytics.ticketmaster.no
-0.0.0.0 analytics.ticketmaster.se
 0.0.0.0 analytics.ttgswe.at
 0.0.0.0 analytics.vacations.united.com
 0.0.0.0 analytics.withgoogle.com
@@ -1748,7 +1745,6 @@
 0.0.0.0 arxivcu.containers.piwik.pro
 0.0.0.0 aryel.io
 0.0.0.0 as.baidu.cn
-0.0.0.0 as.sinahk.net
 0.0.0.0 as.trklinklog.com
 0.0.0.0 as.yuewz.com
 0.0.0.0 as49870.net
@@ -2778,6 +2774,7 @@
 0.0.0.0 cbjs.baidu.cn
 0.0.0.0 cbjslog.baidu.cn
 0.0.0.0 cbjslog.baidu.com
+0.0.0.0 cbs.containers.piwik.pro
 0.0.0.0 cbsaavideo.com
 0.0.0.0 cbsnewsstatic.com
 0.0.0.0 cc-cdn.com
@@ -3509,6 +3506,7 @@
 0.0.0.0 cookies.workup.it
 0.0.0.0 cookiesmanager.valk.com
 0.0.0.0 cookiesmanager.vandervalkonline.com
+0.0.0.0 cookieyes.com
 0.0.0.0 cool-tabs.com
 0.0.0.0 coolnay.com
 0.0.0.0 coopcdn-res.cloudinary.com
@@ -3593,6 +3591,7 @@
 0.0.0.0 cpc.sogou.com
 0.0.0.0 cpm.cm.sandai.net
 0.0.0.0 cpmchina.co
+0.0.0.0 cpms.cc
 0.0.0.0 cpro.9xu.com
 0.0.0.0 cpro.baidu.cn
 0.0.0.0 cpro.tieba.baidu.com
@@ -3770,7 +3769,6 @@
 0.0.0.0 cz01016102.cg2017.com
 0.0.0.0 cz01016102.ms758.com
 0.0.0.0 czdqhyo1.net
-0.0.0.0 czjiuding.cn
 0.0.0.0 czpush.com
 0.0.0.0 czpwm.com
 0.0.0.0 czxiangyue.com
@@ -4125,7 +4123,6 @@
 0.0.0.0 data.indianexpress.com
 0.0.0.0 data.microsoft.com.akadns.net
 0.0.0.0 data.moori.net
-0.0.0.0 data.neuroxmedia.com
 0.0.0.0 data.paddle.com
 0.0.0.0 data.qvc.de
 0.0.0.0 data.sendpulse.com
@@ -4341,6 +4338,7 @@
 0.0.0.0 digitalworld.earth
 0.0.0.0 digiteka.com
 0.0.0.0 diib.com
+0.0.0.0 dik.si
 0.0.0.0 dilogr.com
 0.0.0.0 dimdi.de
 0.0.0.0 dimensions.ai
@@ -4831,6 +4829,7 @@
 0.0.0.0 eshopboard.nl
 0.0.0.0 eshopboard24.nl
 0.0.0.0 esi.edge.permutive.app
+0.0.0.0 esnchocco.com
 0.0.0.0 esogetics.com
 0.0.0.0 espaceducoeur.com
 0.0.0.0 esrpxyahzna.bid
@@ -5275,7 +5274,6 @@
 0.0.0.0 fw2.com
 0.0.0.0 fxc.aiquxs.com
 0.0.0.0 fxmacd.com
-0.0.0.0 fydgold132.com
 0.0.0.0 fyre.co
 0.0.0.0 fytza.cn
 0.0.0.0 fz.letv.com
@@ -5297,6 +5295,7 @@
 0.0.0.0 g2.ousns.net
 0.0.0.0 g940.vangoghmuseum.nl
 0.0.0.0 ga-dev-tools.google
+0.0.0.0 gaana.com
 0.0.0.0 gad.kugou.com
 0.0.0.0 gadgets.buienradar.nl
 0.0.0.0 gagdonkey.net
@@ -5350,7 +5349,6 @@
 0.0.0.0 gdpr-portal.acc.wearetriple.com
 0.0.0.0 gdpr.acc.wearetriple.com
 0.0.0.0 gdpr.picserver.nl
-0.0.0.0 ge95.com
 0.0.0.0 gedmatch.com
 0.0.0.0 geefmijmeeraanbiedingen.nl
 0.0.0.0 geeksrepos.com
@@ -5445,7 +5443,6 @@
 0.0.0.0 gg.jtertp.com
 0.0.0.0 gg.stargame.com
 0.0.0.0 gg.xingzuo360.cn
-0.0.0.0 gg.yxdown.com
 0.0.0.0 gg.zhongyao1.com
 0.0.0.0 gg0376.com
 0.0.0.0 gg2.dss9927.com
@@ -5794,7 +5791,6 @@
 0.0.0.0 hm-uk.digital.nuance.com
 0.0.0.0 hm.baidu.cn
 0.0.0.0 hm.inq.com
-0.0.0.0 hm.ru
 0.0.0.0 hmimg.com
 0.0.0.0 hmma.baidu.cn
 0.0.0.0 hmp33.com
@@ -6058,6 +6054,7 @@
 0.0.0.0 images.saymedia-content.com
 0.0.0.0 images.thecompanycheck.com
 0.0.0.0 images9999.com
+0.0.0.0 imagesmx.cdscdn.com
 0.0.0.0 imatch.wearetriple.com
 0.0.0.0 imbox.io
 0.0.0.0 imcom.ge
@@ -6252,7 +6249,6 @@
 0.0.0.0 invite.duolingo.com
 0.0.0.0 invkvk.nl
 0.0.0.0 invt.io
-0.0.0.0 inx.lv
 0.0.0.0 io.io
 0.0.0.0 ioactive.com
 0.0.0.0 ioresearch.nl
@@ -6388,6 +6384,7 @@
 0.0.0.0 jiaeasy.net
 0.0.0.0 jiagu.360.cn
 0.0.0.0 jiaheyonggu.com
+0.0.0.0 jianbaimei.com
 0.0.0.0 jianduankm.com
 0.0.0.0 jianmei123.com
 0.0.0.0 jiaoben.junmeng.com
@@ -6510,6 +6507,7 @@
 0.0.0.0 kapost.com
 0.0.0.0 kapowcasino.dk
 0.0.0.0 karavel.112.2o7.net
+0.0.0.0 kat.cr
 0.0.0.0 kawa11.space
 0.0.0.0 kbg.rip
 0.0.0.0 kbodrvwz.bio
@@ -7099,6 +7097,7 @@
 0.0.0.0 luckyplanetgames.com
 0.0.0.0 luckyvegas.de
 0.0.0.0 lucovitaal.nl
+0.0.0.0 lucting.cn
 0.0.0.0 ludoking.com
 0.0.0.0 luikenkarstens.nl
 0.0.0.0 lumtest.com
@@ -7391,7 +7390,6 @@
 0.0.0.0 mesenviesdemain.fr
 0.0.0.0 meshobbiesdujour.fr
 0.0.0.0 mesrencontresdujour.fr
-0.0.0.0 messenger.ebilobster.ai
 0.0.0.0 metadata.google.internal
 0.0.0.0 metalspiel.de
 0.0.0.0 metamask-secure.com
@@ -8848,6 +8846,7 @@
 0.0.0.0 qchannel0d.cn
 0.0.0.0 qcloud.com
 0.0.0.0 qd.dhzw.org
+0.0.0.0 qd.js.sanjiangge.com
 0.0.0.0 qd.wanjuanba.com
 0.0.0.0 qdchunyu.com
 0.0.0.0 qgss8.com
@@ -9045,6 +9044,7 @@
 0.0.0.0 reports.iq.vantivcnp.com
 0.0.0.0 reportz.io
 0.0.0.0 reposhub.com
+0.0.0.0 reppublika.com
 0.0.0.0 repro.io
 0.0.0.0 repsly.com
 0.0.0.0 republish-pixel.nl
@@ -9477,6 +9477,7 @@
 0.0.0.0 sentry.ente.io
 0.0.0.0 sentry.glassdoor.com
 0.0.0.0 sentry.hetzner.cloud
+0.0.0.0 sentry.hq.citizenlab.co
 0.0.0.0 sentry.internxt.com
 0.0.0.0 sentry.invoicing.co
 0.0.0.0 sentry.issuu.com
@@ -9535,8 +9536,6 @@
 0.0.0.0 sg.rayjump.com
 0.0.0.0 sgbfjs.info
 0.0.0.0 sgpjpslot.net
-0.0.0.0 sgtm.kaspersky.com
-0.0.0.0 sgtm.plein.nl
 0.0.0.0 shaft.jebe.renren.com
 0.0.0.0 shakegroup.nl
 0.0.0.0 shakemedia.nl
@@ -10116,6 +10115,7 @@
 0.0.0.0 studio-gong.de
 0.0.0.0 studio.nws.ai
 0.0.0.0 studiorific.com
+0.0.0.0 stumbleupon.com
 0.0.0.0 stylecowboys.nl
 0.0.0.0 styleenvogue.fr
 0.0.0.0 su.zoho.eu
@@ -10336,7 +10336,6 @@
 0.0.0.0 teliasoneracdn.net
 0.0.0.0 tellerapi.npo.nl
 0.0.0.0 tellmedna.com
-0.0.0.0 tempest.saymedia.com
 0.0.0.0 templates.glispaconnect.com
 0.0.0.0 temptation-module-assets.api.dpgmedia.cloud
 0.0.0.0 temptation.nu.nl
@@ -10526,7 +10525,6 @@
 0.0.0.0 toplinkjes.com
 0.0.0.0 topseos.com
 0.0.0.0 topshareware.com
-0.0.0.0 topsites.services.mozilla.com
 0.0.0.0 toptechninjas.com
 0.0.0.0 totalfootballanalysis.com
 0.0.0.0 totalpower.nl
@@ -10777,6 +10775,7 @@
 0.0.0.0 upsiide.com
 0.0.0.0 upviral.com
 0.0.0.0 upvoty.com
+0.0.0.0 upwave.com
 0.0.0.0 upwidget.tildacdn.com
 0.0.0.0 upwlxcvm.belkin
 0.0.0.0 uqr.me
@@ -11368,7 +11367,6 @@
 0.0.0.0 xyrhd.com
 0.0.0.0 yageben.com
 0.0.0.0 yahoodns.net
-0.0.0.0 yangdasen.cn
 0.0.0.0 yangishui.work
 0.0.0.0 yanqishui.work
 0.0.0.0 yaohq.com
@@ -11441,7 +11439,6 @@
 0.0.0.0 yxszy.com
 0.0.0.0 yxxwyz.com
 0.0.0.0 yy.com
-0.0.0.0 yy58ju.com
 0.0.0.0 yyffeicd.m.qxs.la
 0.0.0.0 yyjxgm.net
 0.0.0.0 yz29dh2uhe.kameleoon.eu

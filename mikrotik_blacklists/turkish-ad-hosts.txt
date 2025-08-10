@@ -4,6 +4,7 @@
 0.0.0.0 7fb6f12dd2.17dc91dc49.com
 0.0.0.0 a50f745777.6061de8597.com
 0.0.0.0 a69i.com
+0.0.0.0 aan.amazon.com.tr
 0.0.0.0 aan.amazon.com.tr.home
 0.0.0.0 abundantservantexact.com
 0.0.0.0 adsreklamizm.ga
@@ -134,6 +135,7 @@
 0.0.0.0 vstvstsa.com
 0.0.0.0 widgets.engageya.com
 0.0.0.0 ww38.main.termux-mirror.ml
+0.0.0.0 ww5.w3xs.com
 0.0.0.0 xmtvreklam3d.com
 0.0.0.0 zcode12.me
 0.0.0.0 zpbpenn.com

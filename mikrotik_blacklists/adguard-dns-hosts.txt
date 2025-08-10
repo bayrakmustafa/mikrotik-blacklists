@@ -1,5 +1,5 @@
 # AdguardDNS, parsed and mirrored by https://firebog.net
-# Updated 01AUG25 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+# Updated 08AUG25 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -393,6 +393,7 @@
 0.0.0.0 bb9998.com
 0.0.0.0 bc.coupons.com
 0.0.0.0 bd1.365qilu.com
+0.0.0.0 bd1-china.6789.com
 0.0.0.0 bd1.qcjslm.com
 0.0.0.0 bd1.xiby.cn
 0.0.0.0 bdad.gaotie.net
@@ -414,6 +415,7 @@
 0.0.0.0 beacon.search.yahoo.com
 0.0.0.0 beacons.helium.com
 0.0.0.0 beap1.cb.g01.yahoodns.net
+0.0.0.0 begumsbandi.com
 0.0.0.0 behavior.tongdun.net
 0.0.0.0 beijing.buzhi5.com
 0.0.0.0 bemcll.me
@@ -443,6 +445,7 @@
 0.0.0.0 bocongthuong.org
 0.0.0.0 books-analytics-events.news.apple-dns.net
 0.0.0.0 boostquery.com
+0.0.0.0 bostryxagamis.com
 0.0.0.0 box.zap.com.br
 0.0.0.0 bsanvietnam.online
 0.0.0.0 bschuyenkhoamat.biz
@@ -1480,7 +1483,6 @@
 0.0.0.0 lg777.club
 0.0.0.0 lhaqtn.lyst.ca
 0.0.0.0 lianmen1.joyyang.com
-0.0.0.0 libring.com
 0.0.0.0 lienkettaikhoan.com
 0.0.0.0 lienkettaikhoannhanqua.online
 0.0.0.0 lienketvidientu.com
@@ -2160,6 +2162,7 @@
 0.0.0.0 playtogetherquabaotri.online
 0.0.0.0 playtogethervietnam.com
 0.0.0.0 playtogethervn-napthe.com
+0.0.0.0 plygainroundup.com
 0.0.0.0 pocitadlo.sk
 0.0.0.0 policeonline.club
 0.0.0.0 popina.ir
@@ -2263,6 +2266,7 @@
 0.0.0.0 quytiente.com
 0.0.0.0 r.99waiyu.com
 0.0.0.0 r.aachener-zeitung.de
+0.0.0.0 raglanyakking.com
 0.0.0.0 rategicstrai.cfd
 0.0.0.0 rb.sport-express.ru
 0.0.0.0 r.dimkriju.bget.ru
@@ -3094,6 +3098,7 @@
 0.0.0.0 tikixv.com
 0.0.0.0 tikiy.cc
 0.0.0.0 tiktokcy1.com
+0.0.0.0 tildenshrip.com
 0.0.0.0 timetrpchines.top
 0.0.0.0 timivay.com
 0.0.0.0 timx2918.com

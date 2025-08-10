@@ -48,6 +48,7 @@
 0.0.0.0 mediate-ios-*.hyprmx.com
 0.0.0.0 production-adserver-*.amazonaws.com
 0.0.0.0 rtbimp-loadbalancer-*.amazonaws.com
+0.0.0.0 ecommerce-events*.adscale.com
 0.0.0.0 install*.zonastat.com
 0.0.0.0 log*.zijieapi.com
 0.0.0.0 mssdk*.zijieapi.com
@@ -81,6 +82,7 @@
 0.0.0.0 query*.petametrics.com
 0.0.0.0 sock*-goguardian.pusher.com
 0.0.0.0 tccd.douglas.
+0.0.0.0 analyzer*.fc2.com
 0.0.0.0 hba*.hepsiburada.com
 0.0.0.0 apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-*.amazonaws.com
 0.0.0.0 customerevents.us-east-*.internal.dradis.netflix.com

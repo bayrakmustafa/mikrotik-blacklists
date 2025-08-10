@@ -21499,7 +21499,6 @@
 0.0.0.0 duictionary.com
 0.0.0.0 duiscogs.com
 0.0.0.0 duiscordapp.com
-0.0.0.0 duiscord.com
 0.0.0.0 duiscord.media
 0.0.0.0 duiscovercard.com
 0.0.0.0 duiscover.com
@@ -26873,6 +26872,7 @@
 0.0.0.0 gflychicago.com
 0.0.0.0 gflydenver.com
 0.0.0.0 gflysfo.com
+0.0.0.0 gfmail.com
 0.0.0.0 gfodaddy.com
 0.0.0.0 gfofundme.com
 0.0.0.0 gfoldmansachs.com
@@ -27927,6 +27927,7 @@
 0.0.0.0 gmalil.com
 0.0.0.0 gmaoil.com
 0.0.0.0 gmaol.com
+0.0.0.0 gmaqil.com
 0.0.0.0 gmarena.com
 0.0.0.0 gmasil.com
 0.0.0.0 gmauil.com
@@ -31706,6 +31707,7 @@
 0.0.0.0 googls.co.jp
 0.0.0.0 googls.co.ke
 0.0.0.0 googls.co.kr
+0.0.0.0 googls.com
 0.0.0.0 googls.co.ma
 0.0.0.0 googls.com.ar
 0.0.0.0 googls.com.au
@@ -47736,6 +47738,7 @@
 0.0.0.0 myspacde.com
 0.0.0.0 myspace3.com
 0.0.0.0 myspace4.com
+0.0.0.0 myspace.cm
 0.0.0.0 myspace.co
 0.0.0.0 mys-pace.com
 0.0.0.0 mysp-ace.com
@@ -60887,7 +60890,6 @@
 0.0.0.0 steamcommubnity.com
 0.0.0.0 steamcommuhity.com
 0.0.0.0 steamcommuhnity.com
-0.0.0.0 steamcommuinty.com
 0.0.0.0 steamcommujity.com
 0.0.0.0 steamcommujnity.com
 0.0.0.0 steamcommuknity.com
@@ -62037,6 +62039,7 @@
 0.0.0.0 taarget.com
 0.0.0.0 tabao.com
 0.0.0.0 taboao.com
+0.0.0.0 tacebook.com
 0.0.0.0 tackexchange.com
 0.0.0.0 tackoverflow.com
 0.0.0.0 tadget.com
