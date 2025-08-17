@@ -20,7 +20,6 @@
 0.0.0.0 aalapsolutions.com
 0.0.0.0 aamodz.g-vortex.com
 0.0.0.0 abartcharityfoundation.org
-0.0.0.0 abaseed.com
 0.0.0.0 abdullahansari.in
 0.0.0.0 abellosjeans.com
 0.0.0.0 abepets.visaojr.com.br
@@ -32,7 +31,6 @@
 0.0.0.0 alababababa.cloud
 0.0.0.0 alert.costariga.de
 0.0.0.0 alert.joumizni.de
-0.0.0.0 apexservices.duckdns.org
 0.0.0.0 api.chanlevip.site
 0.0.0.0 api.trumdvfb.com
 0.0.0.0 apidnschangerdmnd.com
@@ -84,6 +82,7 @@
 0.0.0.0 bot.ccpower.net
 0.0.0.0 bot.networkbot.org
 0.0.0.0 botnet.exiled.rip
+0.0.0.0 botnet.fakepay.online
 0.0.0.0 boxworld.top
 0.0.0.0 brightbytesite.com
 0.0.0.0 broker-bonus.cfd
@@ -121,9 +120,11 @@
 0.0.0.0 com-collective.info
 0.0.0.0 comcocgbl.com
 0.0.0.0 cook.organzoperate.com
+0.0.0.0 correctwion.click
 0.0.0.0 correo7.shop
 0.0.0.0 counterstrike2cheats.com
 0.0.0.0 cptchverf.com
+0.0.0.0 crixlands.xyz
 0.0.0.0 crow.costariga.de
 0.0.0.0 csis.costariga.de
 0.0.0.0 cv.jyla.ru
@@ -170,10 +171,12 @@
 0.0.0.0 domain-from-home.com
 0.0.0.0 domainservicecontrol.com
 0.0.0.0 dori.noirc0re.online
+0.0.0.0 dori.refinedautoservice.com
 0.0.0.0 downloadappseguro.online
 0.0.0.0 downoadfilesfast.com
 0.0.0.0 doxxed-you.lol
 0.0.0.0 dropthefile.com
+0.0.0.0 dxs.info
 0.0.0.0 dyky.press
 0.0.0.0 eb.cfjmfd8.sa.com
 0.0.0.0 edgeburst.sbs
@@ -188,6 +191,7 @@
 0.0.0.0 extended-pie-vienna-orleans.trycloudflare.com
 0.0.0.0 extranet-listing.com
 0.0.0.0 ezx.lat
+0.0.0.0 faggot.comslut.xyz
 0.0.0.0 far.joumizni.de
 0.0.0.0 fdsgfdsgdfgdf3446534653.icu
 0.0.0.0 fhasjcasd.click
@@ -195,7 +199,7 @@
 0.0.0.0 file.volcano.best
 0.0.0.0 filedisterbuter.icu
 0.0.0.0 files.joumizni.de
-0.0.0.0 firefoxmozilla.duckdns.org
+0.0.0.0 fivenightatyogurt.shop
 0.0.0.0 flowito.xyz
 0.0.0.0 forbescheck.top
 0.0.0.0 formxinvestor.com
@@ -265,7 +269,6 @@
 0.0.0.0 iresz.org
 0.0.0.0 isthecapital.com
 0.0.0.0 j-bookmarks-annie-possess.trycloudflare.com
-0.0.0.0 j48asd.dns.army
 0.0.0.0 jbvpshosti.com
 0.0.0.0 jobs.joumizni.de
 0.0.0.0 judges-amsterdam-buck-cameron.trycloudflare.com
@@ -290,6 +293,7 @@
 0.0.0.0 lrs-statementviewer.sbs
 0.0.0.0 lumennex.pro
 0.0.0.0 luminati-china.xyz
+0.0.0.0 luna.guard.plooza.pro
 0.0.0.0 lx7v9.top
 0.0.0.0 m-sec.costariga.de
 0.0.0.0 macmediclab.xyz
@@ -308,6 +312,7 @@
 0.0.0.0 mijn-omgeving.almostmy.com
 0.0.0.0 milkor723.duckdns.org
 0.0.0.0 minneapolis-dealt-taking-clerk.trycloudflare.com
+0.0.0.0 mistlatch.click
 0.0.0.0 mopiq.joumizni.de
 0.0.0.0 morebitro.com
 0.0.0.0 morteone.duckdns.org
@@ -329,6 +334,7 @@
 0.0.0.0 net.botwork.cc
 0.0.0.0 net.drillrp.com
 0.0.0.0 net.proxyscanner.cc
+0.0.0.0 nigger.comslut.xyz
 0.0.0.0 nk.zujer.ru
 0.0.0.0 nkbada.online
 0.0.0.0 nl1.meonix.site
@@ -353,6 +359,7 @@
 0.0.0.0 pay-overeni.info
 0.0.0.0 perpetualleadsformula.com
 0.0.0.0 petrofac-files.cloud
+0.0.0.0 play.minequest.fun
 0.0.0.0 pnrt.kotomari-vn.dev
 0.0.0.0 postaf.vip
 0.0.0.0 pravaix.top
@@ -380,6 +387,7 @@
 0.0.0.0 saipem-files.cloud
 0.0.0.0 saipem-projects.cloud
 0.0.0.0 sans.costariga.de
+0.0.0.0 sbd.hoangmaidong.com
 0.0.0.0 sc-01.infinitycloud.org
 0.0.0.0 sc-02.infinitycloud.org
 0.0.0.0 sc-03.infinitycloud.org
@@ -395,15 +403,18 @@
 0.0.0.0 selling-water-adelaide-plugins.trycloudflare.com
 0.0.0.0 sent.costariga.de
 0.0.0.0 server.samc0ndubai.com
+0.0.0.0 serverdata-cloud.cloud
 0.0.0.0 services.southsideblackancestry.com
 0.0.0.0 set.oaksazure.su
 0.0.0.0 sf.grantmangy.top
+0.0.0.0 sharenvpn.net
 0.0.0.0 shopmeyxc.pro
 0.0.0.0 silentclickteam.co
 0.0.0.0 simvascor.top
 0.0.0.0 sisconnect-01.infinitycloud.org
 0.0.0.0 sizzlingcareer.com
 0.0.0.0 smtp.nota-fiscal.email
+0.0.0.0 snoopdogweedhitler.comslut.xyz
 0.0.0.0 snowsro.com
 0.0.0.0 soap2dayfree.top
 0.0.0.0 soft-server.online
@@ -436,6 +447,7 @@
 0.0.0.0 ttokapp03.com
 0.0.0.0 turegalo.com
 0.0.0.0 uat.joumizni.de
+0.0.0.0 ultraviewer.network
 0.0.0.0 unnameddownloadddd.xyz
 0.0.0.0 urabenet.ddns.net
 0.0.0.0 usatelecalls.online
@@ -485,6 +497,8 @@
 0.0.0.0 zamin-kav.com
 0.0.0.0 zapataplast.com.ar
 0.0.0.0 zarurt.com
+0.0.0.0 zazadawg.comslut.xyz
+0.0.0.0 zazadawg3.comslut.xyz
 0.0.0.0 zbvision.com
 0.0.0.0 zdkexsh2e7yihw5uhg5hpsgq3dois2m5je7lzfagij2y6iw5ptl35gyd.onion
 0.0.0.0 zdoorovaya-kozha.ru

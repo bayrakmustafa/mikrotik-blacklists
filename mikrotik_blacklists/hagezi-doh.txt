@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 10 Aug 2025 04:01 UTC
-# Version: 2025.0810.0401.37
+# Last modified: 17 Aug 2025 08:10 UTC
+# Version: 2025.0817.0810.03
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1606
+# Number of entries: 1591
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -24,7 +24,6 @@
 0.0.0.0 doh003.280blocker.net
 0.0.0.0 doh.30x.me
 0.0.0.0 dns.354688.xyz
-0.0.0.0 3dcosas.xyz
 0.0.0.0 3dns.eu
 0.0.0.0 3jjxxl.tech
 0.0.0.0 dns.3wv.de
@@ -162,7 +161,6 @@
 0.0.0.0 justhost.bedro.cloud
 0.0.0.0 dns.belnet.be
 0.0.0.0 dns.bermeitinger.eu
-0.0.0.0 bestwon203.com
 0.0.0.0 ns3.bit-trail.nl
 0.0.0.0 dns.bitdefender.net
 0.0.0.0 fra-dns.bitdefender.net
@@ -569,7 +567,6 @@
 0.0.0.0 dot.pub
 0.0.0.0 ns1.dotls.org
 0.0.0.0 dns.dotnet.win
-0.0.0.0 dns.dremaxx.de
 0.0.0.0 droyd.top
 0.0.0.0 doh.dscloud.me
 0.0.0.0 agh.dshubham.xyz
@@ -584,16 +581,15 @@
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 resolver2.dyndnsinternetguide.com
+0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
 0.0.0.0 easyhandshake.com
 0.0.0.0 dns.eddi.net
 0.0.0.0 doh.eddi.net
-0.0.0.0 dns.editechstudio.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
-0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -636,7 +632,6 @@
 0.0.0.0 dns.filipccz.eu
 0.0.0.0 doh.flashstart.com
 0.0.0.0 dns.flatuslifir.is
-0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
 0.0.0.0 ns1.flodns.net
 0.0.0.0 ns2.flodns.net
@@ -748,7 +743,6 @@
 0.0.0.0 dns2.in-berlin.de
 0.0.0.0 dns.inclusioproject.com
 0.0.0.0 adblock.indianets.net
-0.0.0.0 dns.indust.me
 0.0.0.0 dns.indybanipal.com
 0.0.0.0 dns.inforlogia.com
 0.0.0.0 doh.infracell.net
@@ -765,7 +759,6 @@
 0.0.0.0 jabber-germany.de
 0.0.0.0 jackyes.ovh
 0.0.0.0 tj.jamesxue.xyz
-0.0.0.0 dns.janl.eu
 0.0.0.0 jcdns.fun
 0.0.0.0 doh.jeroenhd.nl
 0.0.0.0 adguard.jfchenier.ca
@@ -918,7 +911,6 @@
 0.0.0.0 testguard.meexx.de
 0.0.0.0 meganerd.nl
 0.0.0.0 dns.melvin2204.nl
-0.0.0.0 mendozasdelivery.com
 0.0.0.0 testaghome.meshkov.info
 0.0.0.0 dns.mestdag.fr
 0.0.0.0 dns.mh4ckt3mh4ckt1c4s.xyz
@@ -975,7 +967,6 @@
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
 0.0.0.0 dns.mzrme.cn
-0.0.0.0 n0.eu
 0.0.0.0 dns.n23.io
 0.0.0.0 doh-ca.naftalie.net
 0.0.0.0 najiakeji.top
@@ -1064,8 +1055,6 @@
 0.0.0.0 dns.npe.bz
 0.0.0.0 dns.npsolution.it
 0.0.0.0 ns3.com
-0.0.0.0 ns3.cx
-0.0.0.0 ns3.link
 0.0.0.0 dnscache0.ns71.net
 0.0.0.0 ntwrkh.pro
 0.0.0.0 dns.nullgate.net
@@ -1125,7 +1114,6 @@
 0.0.0.0 dns-ovh.panszelescik.pl
 0.0.0.0 paradise-human.shop
 0.0.0.0 dns.pari.network
-0.0.0.0 pashagame456.com
 0.0.0.0 a.passcloud.xyz
 0.0.0.0 i.passcloud.xyz
 0.0.0.0 dns.pccoach.nl
@@ -1190,7 +1178,6 @@
 0.0.0.0 zxcvb.pp.ua
 0.0.0.0 dns.pragmasec.nl
 0.0.0.0 dns2.prima-solusindo.com
-0.0.0.0 dns.princex.net
 0.0.0.0 princez.uk
 0.0.0.0 agh.printk.info
 0.0.0.0 hungary.privacy-dns.pw
@@ -1517,7 +1504,6 @@
 0.0.0.0 ychen.cf
 0.0.0.0 ychen.gq
 0.0.0.0 sg.yepdns.com
-0.0.0.0 net01.youcef.io
 0.0.0.0 your-dns.run
 0.0.0.0 yovbak.com
 0.0.0.0 dns.yuu-g.net

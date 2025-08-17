@@ -345,6 +345,7 @@
 0.0.0.0 bannermeter.com
 0.0.0.0 barra.iol.pt
 0.0.0.0 barranew.iol.pt
+0.0.0.0 bars.sapo.pt
 0.0.0.0 bcplayer.net
 0.0.0.0 behancemanage.com
 0.0.0.0 behavioralmailing.com
@@ -546,6 +547,7 @@
 0.0.0.0 clicktracks.us
 0.0.0.0 clickwindow.com
 0.0.0.0 clickwindow.net
+0.0.0.0 clickz.gettraffic.com
 0.0.0.0 client.yixe.com
 0.0.0.0 clientsend.com
 0.0.0.0 clixengine.com
@@ -790,6 +792,7 @@
 0.0.0.0 drptst.com
 0.0.0.0 dsywd.com
 0.0.0.0 dtt617kogtcso.cloudfront.net
+0.0.0.0 dyntracker.de
 0.0.0.0 dzc-metrics.mzstatic.com
 0.0.0.0 ebayenterprise.com
 0.0.0.0 ebaypartnernetwork.com
@@ -2776,11 +2779,13 @@
 0.0.0.0 solidinc.net
 0.0.0.0 solorpowernowme.com
 0.0.0.0 solvemedia.com
+0.0.0.0 soos.soliver.de
 0.0.0.0 special-delivery-1.com
 0.0.0.0 speed-rank.de
 0.0.0.0 spendandraise.org
 0.0.0.0 spendnraise.org
 0.0.0.0 spiderwatch.com
+0.0.0.0 spotad.co
 0.0.0.0 spoteffects.com
 0.0.0.0 sptslmtrafms.com
 0.0.0.0 spyvisit.com
@@ -2799,6 +2804,7 @@
 0.0.0.0 stats.searchtrack.net
 0.0.0.0 stats.welt.de
 0.0.0.0 statuscake-email.com
+0.0.0.0 sto3.spotify.com
 0.0.0.0 stopemails.info
 0.0.0.0 stormartists.com
 0.0.0.0 streamsense.com
@@ -2900,6 +2906,7 @@
 0.0.0.0 track.neckermann.de
 0.0.0.0 track.o2online.de
 0.0.0.0 track.passionc.net
+0.0.0.0 track.platinum-giveaways.com
 0.0.0.0 track.prize-wave.com
 0.0.0.0 track.spankadoo.pl
 0.0.0.0 track.talarsystems.com
@@ -3112,6 +3119,7 @@
 0.0.0.0 workdesk.click
 0.0.0.0 worldwideoffers.net
 0.0.0.0 wp.gl
+0.0.0.0 wpa.qq.com
 0.0.0.0 wpdigital.net
 0.0.0.0 ws-outage.com
 0.0.0.0 wshifen.com
@@ -3127,6 +3135,7 @@
 0.0.0.0 xixiwan.net
 0.0.0.0 xploreroffers.com
 0.0.0.0 xs.gy
+0.0.0.0 yabs.yandex.ru
 0.0.0.0 yadsrflowms.com
 0.0.0.0 ybx.io
 0.0.0.0 yellowdragonsoft.com

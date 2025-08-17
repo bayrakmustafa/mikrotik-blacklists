@@ -1,8 +1,8 @@
 #
 #    File: Gambling
 #    Info: Casino, gambling, poker, etc.
-# Domains: 26,802
-# Updated: 8/9/2025  19:18 (7:18 PM CST)
+# Domains: 26,815
+# Updated: 8/15/2025  23:04 (11:04 PM CST)
 #
 0.0.0.0 0009casino.com
 0.0.0.0 000-online-casino.biz
@@ -545,6 +545,7 @@
 0.0.0.0 1xslotscasino.online
 0.0.0.0 1xslotscasinotop.ru
 0.0.0.0 1xslots.charity
+0.0.0.0 1xslots-club.ru
 0.0.0.0 1-xslots.com
 0.0.0.0 1xslots-dom.xyz
 0.0.0.0 1xslots-elite.ru
@@ -2588,7 +2589,6 @@
 0.0.0.0 betoffice779.com
 0.0.0.0 betoffice780.com
 0.0.0.0 bet-on-red-casino.de
-0.0.0.0 bet-on-red-casino.fr
 0.0.0.0 bet-on-red-casino.pl
 0.0.0.0 betonredstag.com
 0.0.0.0 betonthegocasino.top
@@ -2695,6 +2695,7 @@
 0.0.0.0 bettingsports.com
 0.0.0.0 bettuttur290.com
 0.0.0.0 betuk.com
+0.0.0.0 betunlim8.com
 0.0.0.0 betuscdn.com
 0.0.0.0 betvakti245.com
 0.0.0.0 betvakti248.com
@@ -7779,6 +7780,7 @@
 0.0.0.0 club-vulkan-casino.ink
 0.0.0.0 club-vulkan-casino.live
 0.0.0.0 clubvulkangambling.com
+0.0.0.0 clubwptgold.com
 0.0.0.0 cmd31.com
 0.0.0.0 cobbercasino.com
 0.0.0.0 cobracasino15.com
@@ -12330,10 +12332,15 @@
 0.0.0.0 ggbet-247.net
 0.0.0.0 ggbet-24.com
 0.0.0.0 ggbet-24.net
+0.0.0.0 ggbet333.com
+0.0.0.0 ggbet75.com
+0.0.0.0 ggbet78.com
+0.0.0.0 ggbetbet.net
 0.0.0.0 ggbet-canadian.ca
 0.0.0.0 ggbet-casin0.org
 0.0.0.0 ggbet-casino-bonus.pw
 0.0.0.0 ggbetcasino.org
+0.0.0.0 ggbetcenter1.net
 0.0.0.0 ggbet-esport.com
 0.0.0.0 ggbet.expert
 0.0.0.0 ggbetglobal.com
@@ -16660,6 +16667,7 @@
 0.0.0.0 lonacionline.ci
 0.0.0.0 londonpartypoker.com
 0.0.0.0 londracasino.com
+0.0.0.0 lonestarcasino.com
 0.0.0.0 loosecasino.xyz
 0.0.0.0 lordcasino267.com
 0.0.0.0 lordcasino268.com
@@ -16802,6 +16810,7 @@
 0.0.0.0 lukkicasino1.com
 0.0.0.0 lukki-casino.live
 0.0.0.0 lukkly3.com
+0.0.0.0 lukkly4.com
 0.0.0.0 lukkly.com
 0.0.0.0 lukscasino19.com
 0.0.0.0 lukscasino20.com
@@ -17841,6 +17850,7 @@
 0.0.0.0 myluxor.com
 0.0.0.0 mymgm.com
 0.0.0.0 mymobicasino.com
+0.0.0.0 mynylottery.org
 0.0.0.0 myonlinecasinos.com
 0.0.0.0 mypersonas.ca
 0.0.0.0 mypokercasinoufabet.online
@@ -20373,6 +20383,7 @@
 0.0.0.0 pokerstarsfun2.com
 0.0.0.0 pokerstarsinsochi.com
 0.0.0.0 pokerstarslearn.info
+0.0.0.0 pokerstarslearn.lat
 0.0.0.0 pokerstarslive.com
 0.0.0.0 pokerstarslive.net
 0.0.0.0 pokerstars.net
@@ -21977,6 +21988,7 @@
 0.0.0.0 samo-fresh-casino.top
 0.0.0.0 samosacasino.com
 0.0.0.0 sampiyoncasino.com
+0.0.0.0 samratbet.com
 0.0.0.0 sandiegocasinonight.com
 0.0.0.0 sapphirecasino.site
 0.0.0.0 saserkangri.in

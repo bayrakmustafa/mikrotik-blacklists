@@ -26,6 +26,7 @@
 0.0.0.0 2r34.com
 0.0.0.0 2ub.top
 0.0.0.0 30t.online
+0.0.0.0 3dcosas.xyz
 0.0.0.0 bold-storm-255.3kh0.org
 0.0.0.0 calm-fox-682.3kh0.org
 0.0.0.0 calm-hawk-529.3kh0.org
@@ -197,6 +198,7 @@
 0.0.0.0 bestvpnprovider.info
 0.0.0.0 bestvpnserver.com
 0.0.0.0 bestvpnssh.com
+0.0.0.0 bestwon203.com
 0.0.0.0 bestyouproxytube.com
 0.0.0.0 bestyoutubeproxy.info
 0.0.0.0 www-proxy.bettercallghaith.wiki
@@ -551,6 +553,7 @@
 0.0.0.0 doyouremember.love
 0.0.0.0 globe.dragonbyte.me
 0.0.0.0 dreamvpn.us
+0.0.0.0 dns.dremaxx.de
 0.0.0.0 droidvpn.com
 0.0.0.0 maths.ds6.pw
 0.0.0.0 bitly-galatikx.duckdns.org
@@ -589,10 +592,12 @@
 0.0.0.0 ecxs.asia
 0.0.0.0 steves-lava-chicken.edah.us
 0.0.0.0 edgedcircles.com
+0.0.0.0 dns.editechstudio.com
 0.0.0.0 edpuzzle.space
 0.0.0.0 education-lesson-pre-algebra-lesson68.eduarmor.com
 0.0.0.0 educationdean.us
 0.0.0.0 tor.eff.org
+0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 scifi0.eigenlicht.us
 0.0.0.0 elearning.electronicajck.com
 0.0.0.0 registry.electronicajck.com
@@ -678,6 +683,7 @@
 0.0.0.0 flarquix.xyz
 0.0.0.0 abdulv2.flazzard.com
 0.0.0.0 vps.fleuryk.ovh
+0.0.0.0 dns.flightspace.net
 0.0.0.0 flowvpn.com
 0.0.0.0 flyssh.com
 0.0.0.0 flyvpn.com
@@ -980,6 +986,7 @@
 0.0.0.0 incog.works
 0.0.0.0 indiaproxy.win
 0.0.0.0 indo-ssh.com
+0.0.0.0 dns.indust.me
 0.0.0.0 the.infocommthailand.com
 0.0.0.0 infvpn.com
 0.0.0.0 owner.should.hopefully.spot.this.ingeker.cl
@@ -1037,6 +1044,7 @@
 0.0.0.0 sm6.jake.eu
 0.0.0.0 tesutorender.jake.eu
 0.0.0.0 jamesisbald.xyz
+0.0.0.0 dns.janl.eu
 0.0.0.0 transit.javierblog.com
 0.0.0.0 state.gov.jaycloudlab.com
 0.0.0.0 woodshop.jbworks.com
@@ -1208,6 +1216,7 @@
 0.0.0.0 play.meicosoft.com
 0.0.0.0 support.meicosoft.com
 0.0.0.0 membean.cf
+0.0.0.0 mendozasdelivery.com
 0.0.0.0 recap.utopia.menorahscrazyblog.com
 0.0.0.0 researchedu.mesaayuda.net
 0.0.0.0 metal-masters.us
@@ -1293,6 +1302,7 @@
 0.0.0.0 myvpn.com
 0.0.0.0 mywebproxy.net
 0.0.0.0 mywebtunnel.com
+0.0.0.0 n0.eu
 0.0.0.0 study.sci.nabim.com
 0.0.0.0 nanoproxy.com
 0.0.0.0 natfrp.cloud
@@ -1346,6 +1356,8 @@
 0.0.0.0 nice.noviolencia.ar
 0.0.0.0 poiuytrewq.novipro.ca
 0.0.0.0 nowhiteflags.xyz
+0.0.0.0 ns3.cx
+0.0.0.0 ns3.link
 0.0.0.0 nslookup.io
 0.0.0.0 bright-storm-767.nstabiology.org
 0.0.0.0 deep-lake-819.nstabiology.org
@@ -1431,6 +1443,7 @@
 0.0.0.0 pangdavpn.com
 0.0.0.0 papervpn.info
 0.0.0.0 parkviewenglish.buzz
+0.0.0.0 pashagame456.com
 0.0.0.0 info.lab.paskud.net
 0.0.0.0 kleep.paulopedron.com
 0.0.0.0 pazou.org
@@ -1484,6 +1497,7 @@
 0.0.0.0 class.bio.prettybirdserver.com
 0.0.0.0 primeproxy23.info
 0.0.0.0 primevpn.pro
+0.0.0.0 dns.princex.net
 0.0.0.0 printruns.us
 0.0.0.0 printtools.us
 0.0.0.0 privacy.io
@@ -2914,6 +2928,7 @@
 0.0.0.0 ylink.info
 0.0.0.0 alst.ynbbs.cc
 0.0.0.0 yogawiki.in
+0.0.0.0 net01.youcef.io
 0.0.0.0 youproxything.com
 0.0.0.0 youproxytube.com
 0.0.0.0 yourcheat.com

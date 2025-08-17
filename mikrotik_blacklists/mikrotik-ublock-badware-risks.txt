@@ -1,10 +1,16 @@
 0.0.0.0 youfindadate.top
+0.0.0.0 best-site-online.com
+0.0.0.0 melodydownloader.com
+0.0.0.0 aajdrp.com
+0.0.0.0 forum0120.com
+0.0.0.0 jinsei-uranai2023.com
 0.0.0.0 foundations-x2024.cloud
 0.0.0.0 vnote-*.myqcloud.com
 0.0.0.0 testra*-covid.weebly.com
 0.0.0.0 bingkasprogram-*.xdbng.com
 0.0.0.0 apples-24x7-*.pages.dev
 0.0.0.0 icloud.apple-*.cn
+0.0.0.0 fedexridn.com
 0.0.0.0 cardverify*-booking.com
 0.0.0.0 air-bnb.check-
 0.0.0.0 adobepd*.glitch.me
@@ -84,6 +90,7 @@
 0.0.0.0 verification-module-v*.b-cdn.net
 0.0.0.0 verifyyourself-*system.b-cdn.net
 0.0.0.0 weoidnet*.b-cdn.net
+0.0.0.0 printcaretech.com
 0.0.0.0 irs.gov.*.com
 0.0.0.0 e-navy*.weebly.com
 0.0.0.0 zoom.us*web.us

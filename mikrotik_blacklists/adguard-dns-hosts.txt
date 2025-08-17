@@ -1,5 +1,5 @@
 # AdguardDNS, parsed and mirrored by https://firebog.net
-# Updated 08AUG25 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+# Updated 15AUG25 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -238,7 +238,6 @@
 0.0.0.0 a.jurnalu.ru
 0.0.0.0 a.kakoysegodnyaprazdnik.ru
 0.0.0.0 a.kubik3.ru
-0.0.0.0 alackzokor.com
 0.0.0.0 alibabavip.xyz
 0.0.0.0 alibabavnn.com
 0.0.0.0 alibabavn.shop
@@ -263,6 +262,7 @@
 0.0.0.0 a.miyudaquan.top
 0.0.0.0 amqa11.com
 0.0.0.0 ams.fx678.com
+0.0.0.0 amusementmorning.com
 0.0.0.0 amwoukrkskillso.com
 0.0.0.0 anal.doubledouble.top
 0.0.0.0 analysis.faradars.org
@@ -333,6 +333,7 @@
 0.0.0.0 asian-tindung.com
 0.0.0.0 asiashop666.com
 0.0.0.0 asiashop999.com
+0.0.0.0 astralhustle.com
 0.0.0.0 at.adtech.redventures.io
 0.0.0.0 a.tainengchong.com
 0.0.0.0 atax.gamespy.com
@@ -436,6 +437,7 @@
 0.0.0.0 bjs.faxingzhan.com
 0.0.0.0 b.kakoysegodnyaprazdnik.ru
 0.0.0.0 b.kouke5.com
+0.0.0.0 blackbrake.com
 0.0.0.0 blasedustin.shop
 0.0.0.0 bluvenie.com
 0.0.0.0 bm1717.com
@@ -546,6 +548,7 @@
 0.0.0.0 cltx.shop
 0.0.0.0 clubfiletyc.com
 0.0.0.0 clubleadershipsolutions.com
+0.0.0.0 c.microsoft.com
 0.0.0.0 c.mnjkw.cn
 0.0.0.0 cmstrendslog.indiatimes.com
 0.0.0.0 cmvietcombank.com
@@ -568,6 +571,7 @@
 0.0.0.0 collector.tescocompare.com
 0.0.0.0 collect.sas.com
 0.0.0.0 com-bank.xyz
+0.0.0.0 commonalmanac.com
 0.0.0.0 comptrffc.com
 0.0.0.0 condandthi.cfd
 0.0.0.0 congdientu247.com
@@ -685,6 +689,7 @@
 0.0.0.0 daohannganhang.click
 0.0.0.0 daq0d0aotgq0f.cloudfront.net
 0.0.0.0 dasda64.fun
+0.0.0.0 dashingdrop.com
 0.0.0.0 dat1.jzjxmj.com
 0.0.0.0 datgrabsaigon.com
 0.0.0.0 dathangdon.com
@@ -970,6 +975,7 @@
 0.0.0.0 freestats.biz
 0.0.0.0 freihit.de
 0.0.0.0 frionene.xyz
+0.0.0.0 frogator.com
 0.0.0.0 ftpshopvn.com
 0.0.0.0 fuconap.vip
 0.0.0.0 fullofactivishop.com
@@ -1102,7 +1108,6 @@
 0.0.0.0 gtm.catcare24.de
 0.0.0.0 gtm.kiwitaxi.com
 0.0.0.0 guess.h.qhimg.com
-0.0.0.0 gulgulsinjer.top
 0.0.0.0 gwrtdp-tn690BFAdt.tclclouds.com
 0.0.0.0 gxqzz.7766.org
 0.0.0.0 h092021u.click
@@ -1118,10 +1123,12 @@
 0.0.0.0 halovay.com
 0.0.0.0 hamoney.xyz
 0.0.0.0 handico.vaytienmat-nhanh24h.com
+0.0.0.0 handyfield.com
 0.0.0.0 hangairsoft.com
 0.0.0.0 hanghaiqt.com
 0.0.0.0 hanmucvn.com
 0.0.0.0 hapic1.zhuangxiu22.com
+0.0.0.0 hatefulrequest.com
 0.0.0.0 hdbankfinancc.digital
 0.0.0.0 hdbankfinancc.icu
 0.0.0.0 hdbankfinancc.space
@@ -1230,13 +1237,13 @@
 0.0.0.0 huiyuangang.cc
 0.0.0.0 hummingbird.mavencoalition.io
 0.0.0.0 husbandsonly.co.uk
-0.0.0.0 huskilyvroom.com
 0.0.0.0 hvay.xyz
 0.0.0.0 hwstats.unity3d.com
 0.0.0.0 hxbt.alading123.com
 0.0.0.0 hyrankhit.meldingcloud.com
 0.0.0.0 hz.shouyoutv.com
 0.0.0.0 i8m6.com
+0.0.0.0 iads.xinmin.cn
 0.0.0.0 ibankingdigital.com
 0.0.0.0 ibankingshopee.vn
 0.0.0.0 ibkbank.net
@@ -1321,7 +1328,6 @@
 0.0.0.0 jaemoney.ltd
 0.0.0.0 japan-shopac.asia
 0.0.0.0 jb.dianshu119.com
-0.0.0.0 jekzyyyljvyww.top
 0.0.0.0 jetbux.ir
 0.0.0.0 jewvvkh.cyou
 0.0.0.0 jiaoben.eastday.com
@@ -1343,7 +1349,6 @@
 0.0.0.0 k1.wendahu.com
 0.0.0.0 kaan.kakao.com
 0.0.0.0 kajads.com
-0.0.0.0 kajeputhorn.com
 0.0.0.0 kalmukrattail.com
 0.0.0.0 kaurroot.com
 0.0.0.0 kavay.vn
@@ -1403,6 +1408,7 @@
 0.0.0.0 la7890.cc
 0.0.0.0 la9435.com
 0.0.0.0 labanga.de
+0.0.0.0 lackadaisicalkite.com
 0.0.0.0 ladyvietnam.online
 0.0.0.0 laisuatkiemtiencao.com
 0.0.0.0 lambangcap3giare.net
@@ -1608,6 +1614,7 @@
 0.0.0.0 mallslazada.com
 0.0.0.0 manags.twilightparadox.com
 0.0.0.0 maphuahin.com
+0.0.0.0 markedcrayon.com
 0.0.0.0 market.178.com
 0.0.0.0 market.21cn.com
 0.0.0.0 mastercard-quetthetindung247.com
@@ -1629,6 +1636,7 @@
 0.0.0.0 mbdkb.com
 0.0.0.0 mbfic-plus.com
 0.0.0.0 mbfn-fic.com
+0.0.0.0 mbsy.co
 0.0.0.0 mbtk-bank.com
 0.0.0.0 mcfa11.com
 0.0.0.0 mcnodes.zapto.org
@@ -1686,6 +1694,7 @@
 0.0.0.0 mhshopee.com
 0.0.0.0 miaoniter.com
 0.0.0.0 milftube.mob
+0.0.0.0 mindlessmark.com
 0.0.0.0 miner-linkperfectmoney.com
 0.0.0.0 minhchinhmega.com
 0.0.0.0 minhngocc789.com
@@ -2071,7 +2080,6 @@
 0.0.0.0 og.zyzjpx.cn
 0.0.0.0 o.jy135.com
 0.0.0.0 omapi.fangraphs.com
-0.0.0.0 omnibuswaist.com
 0.0.0.0 one.fsylr.com
 0.0.0.0 onepx.kr
 0.0.0.0 onhamuadich.com
@@ -2142,6 +2150,7 @@
 0.0.0.0 pic.fengniao.com
 0.0.0.0 picnewsss.com
 0.0.0.0 pictures.zooplus.com
+0.0.0.0 pietexture.com
 0.0.0.0 ping.buto.tv
 0.0.0.0 ping.tvmaze.com
 0.0.0.0 pipki.r.worldssl.net
@@ -2176,6 +2185,7 @@
 0.0.0.0 pr.comet.yahoo.com
 0.0.0.0 premierebankstandard.com
 0.0.0.0 prod-clientlog.fastly.newssuite.sinfony.ne.jp
+0.0.0.0 productivepear.com
 0.0.0.0 promomobilsuzukijakarta.com
 0.0.0.0 promo.partner.alawar.ru
 0.0.0.0 prostoimya.kino-o-voine.ru
@@ -2187,7 +2197,6 @@
 0.0.0.0 pwsk11.com
 0.0.0.0 pwsk88.com
 0.0.0.0 pxl.retaku.net
-0.0.0.0 pyroidscarphs.top
 0.0.0.0 qiji1.jdwx.info
 0.0.0.0 qjc2vo.cyou
 0.0.0.0 qrsg11.com
@@ -2260,6 +2269,7 @@
 0.0.0.0 quetthe-tructuyenvn.com
 0.0.0.0 quettindung247-mpos.com
 0.0.0.0 quezachieve.cfd
+0.0.0.0 quicksandear.com
 0.0.0.0 quickvayorg.com
 0.0.0.0 quocdanhbank.online
 0.0.0.0 quocthang.me
@@ -2268,6 +2278,7 @@
 0.0.0.0 r.aachener-zeitung.de
 0.0.0.0 raglanyakking.com
 0.0.0.0 rategicstrai.cfd
+0.0.0.0 razzweb.com
 0.0.0.0 rb.sport-express.ru
 0.0.0.0 r.dimkriju.bget.ru
 0.0.0.0 re0y7d.cyou
@@ -2338,6 +2349,7 @@
 0.0.0.0 s31u.com
 0.0.0.0 s.4tr.cc
 0.0.0.0 saber.srvcs.tumblr.com
+0.0.0.0 sablesmile.com
 0.0.0.0 sacchaeleduk.com
 0.0.0.0 sacombank.net.vn
 0.0.0.0 sacombank.vn-ne.top
@@ -2349,6 +2361,7 @@
 0.0.0.0 sanqua-lienminh2021.cf
 0.0.0.0 saokenganhangvn.com
 0.0.0.0 sauyv.top
+0.0.0.0 savorystructure.com
 0.0.0.0 savoy.cubecdn.net
 0.0.0.0 sayac.kapital.com.tr
 0.0.0.0 scb.chamsockhachhang-truc-tuyen-the.online
@@ -2375,14 +2388,12 @@
 0.0.0.0 seabank-nganhanghanoi.com
 0.0.0.0 search-ads-api.joongna.com
 0.0.0.0 search-carousel-widget.snc-prod.aws.cinch.co.uk
-0.0.0.0 seemyresumefo.com
 0.0.0.0 sendovip.com
 0.0.0.0 sendword.ir
 0.0.0.0 senopaee.com
 0.0.0.0 sentry.malltina.com
 0.0.0.0 sentry.virgool.io
 0.0.0.0 seostar2.xyz
-0.0.0.0 seraphsklom.com
 0.0.0.0 serl.mooo.com
 0.0.0.0 servevietnam.com
 0.0.0.0 servsvietnam.com
@@ -2708,6 +2719,7 @@
 0.0.0.0 shopxu365.com
 0.0.0.0 shopy59782.com
 0.0.0.0 show.kc.taotaosou.com
+0.0.0.0 showsteel.com
 0.0.0.0 showzyeye.com
 0.0.0.0 shrimpskins.org
 0.0.0.0 shvnb.kfcvnpay.com
@@ -2828,6 +2840,7 @@
 0.0.0.0 stpmgo.com
 0.0.0.0 style.onvz.nl
 0.0.0.0 subducgiare.shop
+0.0.0.0 subsequentstew.com
 0.0.0.0 sukiem-muahe-pubgmobilevn.com
 0.0.0.0 sukien-2021lmht.ga
 0.0.0.0 sukienbts2022.com
@@ -2904,6 +2917,7 @@
 0.0.0.0 sv7momo.com
 0.0.0.0 svi.online.sberbank.ru
 0.0.0.0 sv.sheego.de
+0.0.0.0 sweetslope.com
 0.0.0.0 sxwxswg8z1xe.www.arnowebtv.com
 0.0.0.0 tadcaz.com
 0.0.0.0 tadcb.com
@@ -2950,6 +2964,7 @@
 0.0.0.0 taoshopttv.xyz
 0.0.0.0 targeet.shop
 0.0.0.0 targget.shop
+0.0.0.0 tarttendency.com
 0.0.0.0 tasker.shop
 0.0.0.0 tb55788.com
 0.0.0.0 tb55988.com
@@ -2968,6 +2983,7 @@
 0.0.0.0 telemetry.voxeet.com
 0.0.0.0 teleway.top
 0.0.0.0 tescoshop.shop
+0.0.0.0 testedtouch.com
 0.0.0.0 test.torrentfreak.com
 0.0.0.0 tet2023.shop
 0.0.0.0 tetlienquan2023.website
@@ -3099,7 +3115,6 @@
 0.0.0.0 tikiy.cc
 0.0.0.0 tiktokcy1.com
 0.0.0.0 tildenshrip.com
-0.0.0.0 timetrpchines.top
 0.0.0.0 timivay.com
 0.0.0.0 timx2918.com
 0.0.0.0 tinancefa.org
@@ -3225,6 +3240,8 @@
 0.0.0.0 track.thesaurus.com
 0.0.0.0 track.ttsave.app
 0.0.0.0 track.yfret.com
+0.0.0.0 track.zomato.com
+0.0.0.0 tr.actus-fdj.fr
 0.0.0.0 tracuugiaodichvi.com
 0.0.0.0 tracuuthenap247.com
 0.0.0.0 tracuu-thongtin.online
@@ -3251,7 +3268,6 @@
 0.0.0.0 traoquatangshopee.com
 0.0.0.0 traothuongxe37.com
 0.0.0.0 traothuongxe7.com
-0.0.0.0 trasyaircrew.top
 0.0.0.0 travelokaaaa.com
 0.0.0.0 travelokas1.com
 0.0.0.0 travelokeaaa.top
@@ -3271,7 +3287,6 @@
 0.0.0.0 trianthang12.com
 0.0.0.0 trianvangthang12.com
 0.0.0.0 trickervietnam.com
-0.0.0.0 triconsenex.top
 0.0.0.0 tr.infopanel.jp
 0.0.0.0 trk.cx.motivcx.com
 0.0.0.0 trk.glispa.com
@@ -3315,7 +3330,7 @@
 0.0.0.0 tuanlevang.vn
 0.0.0.0 tuanlocvang123.com
 0.0.0.0 tubingacater.com
-0.0.0.0 tutorygarua.top
+0.0.0.0 tuneupcoffee.com
 0.0.0.0 tututiki.com
 0.0.0.0 tuvanruttien.com
 0.0.0.0 tuyendung203.com
@@ -3335,7 +3350,6 @@
 0.0.0.0 tx55.vip
 0.0.0.0 tx99y.net
 0.0.0.0 txclmomo.club
-0.0.0.0 typiestdecrial.top
 0.0.0.0 t.yzwr588.com
 0.0.0.0 u1.2048sj.com
 0.0.0.0 u1.idongde.com
@@ -3356,9 +3370,7 @@
 0.0.0.0 union.yihaodian.com
 0.0.0.0 unixfilesystem2.xyz
 0.0.0.0 unixpop.xyz
-0.0.0.0 unsavedbaruch.top
 0.0.0.0 un.ubaike.cn
-0.0.0.0 unwaryunpegs.top
 0.0.0.0 upasiansex.com
 0.0.0.0 upmiles-vpbank.com
 0.0.0.0 upta16theu.cfd
@@ -3391,7 +3403,6 @@
 0.0.0.0 vanmaymm24h.com
 0.0.0.0 vanmayshoppe.com
 0.0.0.0 vanthangcltxmomo.xyz
-0.0.0.0 varkelmbqlbrw.top
 0.0.0.0 vast.filmnet.ir
 0.0.0.0 vast.videocdn.tv
 0.0.0.0 vatgia306.com
@@ -3554,7 +3565,6 @@
 0.0.0.0 vebo123.vip
 0.0.0.0 vebo1s.co
 0.0.0.0 vebo8386.me
-0.0.0.0 veezljzkrjakz.top
 0.0.0.0 veitgov.cc
 0.0.0.0 vemaybaynhatviet.com
 0.0.0.0 verifytech.click
@@ -3963,7 +3973,6 @@
 0.0.0.0 vonsieuytoc.com
 0.0.0.0 vonsieuztoc.com
 0.0.0.0 vortex.data.msn.com
-0.0.0.0 vowingsirees.top
 0.0.0.0 vp111.vip
 0.0.0.0 vpbank-vaytien.com
 0.0.0.0 vpbankvn.com
@@ -3979,8 +3988,6 @@
 0.0.0.0 vp-nanghanmuc.com
 0.0.0.0 vp-nanghanmuc.online
 0.0.0.0 vps8449vn.com
-0.0.0.0 vqoqlebqqammj.top
-0.0.0.0 vqrozzojjlwbz.top
 0.0.0.0 vrichshop.com
 0.0.0.0 vssid.govvvn.com
 0.0.0.0 vstvst10toc.com
@@ -4020,17 +4027,14 @@
 0.0.0.0 vukhhjzd.com
 0.0.0.0 vv1.pyhfxdm.cn
 0.0.0.0 v.vl404.cn
-0.0.0.0 vvsalar.top
 0.0.0.0 vvshopee.com
 0.0.0.0 vvvietcombank.com
 0.0.0.0 vwietcombank.com
 0.0.0.0 vxvw11.com
 0.0.0.0 vxvw22.com
 0.0.0.0 vxvw55.com
-0.0.0.0 wabbledrutter.top
 0.0.0.0 wap001.bytravel.cn
 0.0.0.0 warrenmoneytrader.com
-0.0.0.0 wazzeyrykkbk.top
 0.0.0.0 wds.weqs.me
 0.0.0.0 weather-analytics-events.news.apple-dns.net
 0.0.0.0 webbanklienthong247.com
@@ -4047,31 +4051,17 @@
 0.0.0.0 webtuanlocvang123.com
 0.0.0.0 webxacnhankhoanvay247.com
 0.0.0.0 webxacnhankhoanvay24h.com
-0.0.0.0 wedeffront.top
 0.0.0.0 wedvay.vn
 0.0.0.0 wefinexvietnam.xyz
-0.0.0.0 welbljlvmmyek.top
 0.0.0.0 weline.info
 0.0.0.0 wenhua.jiaoshou.com
 0.0.0.0 wenxue.weimeifan.net
 0.0.0.0 westgarybank.com
 0.0.0.0 wew.dushiwenxue.net
-0.0.0.0 wewlorozwojrm.top
-0.0.0.0 widget.cybershop-affiliate.jp
 0.0.0.0 widget.utinet.ru
 0.0.0.0 wietcombank.com
 0.0.0.0 winmomo.com
-0.0.0.0 wjzrzwyvzbzbj.top
-0.0.0.0 wkoeoarkqqoez.top
-0.0.0.0 wkvvzeqybmmlv.top
-0.0.0.0 wleallwqyblmm.top
-0.0.0.0 wllebozbzjybk.top
-0.0.0.0 wlvkzwqmyjkmw.top
-0.0.0.0 wlzzwzeevbwez.top
 0.0.0.0 wmail-service.com
-0.0.0.0 wmeqoborqboyv.top
-0.0.0.0 wmlollmkvybzm.top
-0.0.0.0 wmzlbovlwrrok.top
 0.0.0.0 woorivn.online
 0.0.0.0 word.emldn.com
 0.0.0.0 wordmonetize.com
@@ -4086,10 +4076,8 @@
 0.0.0.0 wvOntgd.pqmg.bid
 0.0.0.0 wvvietcombank.com
 0.0.0.0 wvwiietcoombank.com
-0.0.0.0 wwarvlezkjev.top
 0.0.0.0 www-mfacebook.com.vn
 0.0.0.0 w.xiaopiaoyou.com
-0.0.0.0 wylmzwklklywm.top
 0.0.0.0 wyzq.rehuwang.com
 0.0.0.0 xa38.xyz
 0.0.0.0 xacminhbank247.com
@@ -4146,26 +4134,19 @@
 0.0.0.0 yoqqiev.top
 0.0.0.0 youtube.local
 0.0.0.0 y.photoint.net
-0.0.0.0 yucanesiote.top
 0.0.0.0 yunduofei.xyz
-0.0.0.0 yungluteal.top
 0.0.0.0 yuwenbin.host
 0.0.0.0 yx1.managershare.com
 0.0.0.0 yy17173.dtime.com
 0.0.0.0 z1.o8h7d.cn
 0.0.0.0 za.zingnews.vn
 0.0.0.0 zcck60eqyw.world
-0.0.0.0 zerzvqrzzvlmo.top
 0.0.0.0 zg.mmyuer.com
 0.0.0.0 zingmp3.pro
 0.0.0.0 zk.91post.com
 0.0.0.0 zla653.top
-0.0.0.0 zmkevvbavojrj.top
 0.0.0.0 zmomo.cc
-0.0.0.0 zmzwloelraaoz.top
 0.0.0.0 znavidsde.cfd
-0.0.0.0 zqmblmvomvmaj.top
-0.0.0.0 zqvvzrlevbkbz.top
 0.0.0.0 zSmhlV.zgbv.tech
 0.0.0.0 zt2088.com
 0.0.0.0 zuowen.hydcd.com
@@ -4173,6 +4154,3 @@
 0.0.0.0 zvay.online
 0.0.0.0 zvietcombank.com
 0.0.0.0 z.webengage.com
-0.0.0.0 zyblzreyykzme.top
-0.0.0.0 zyvbvqvjjkvqz.top
-0.0.0.0 zyzqkbkeyqajw.top

@@ -211,6 +211,7 @@
 0.0.0.0 livechat.middle.host
 0.0.0.0 livechatoo.com
 0.0.0.0 livechat-static.com
+0.0.0.0 live-chat-static.sprinklr.com
 0.0.0.0 live-chat-tooling.api.dgs.ig.com
 0.0.0.0 livechat.zen.co.uk
 0.0.0.0 live.hammer-corp.com
@@ -258,6 +259,8 @@
 0.0.0.0 podium.com
 0.0.0.0 powerfront.com
 0.0.0.0 proactive-chat-server-us.prod.aws.lcloud.com
+0.0.0.0 prod2-live-chat-mqtt.sprinklr.com
+0.0.0.0 prod2-live-chat.sprinklr.com
 0.0.0.0 prod-chat-configs.s3.eu-south-1.amazonaws.com
 0.0.0.0 prod-chatwoot-assets.s3.amazonaws.com
 0.0.0.0 productstrategymeanssayingno.com

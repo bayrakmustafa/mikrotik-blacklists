@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 22,979
-# Updated: 8/9/2025  19:18 (7:18 PM CST)
+# Domains: 23,266
+# Updated: 8/17/2025  11:01 (11:01 AM CST)
 #
 0.0.0.0 03ab2paradisecdn.com
 0.0.0.0 0p1ohj2f5f.ru
@@ -236,6 +236,7 @@
 0.0.0.0 banners777.com
 0.0.0.0 bcvideod.com
 0.0.0.0 beanedbounds.shop
+0.0.0.0 bearmoonlodge.com
 0.0.0.0 beehomemade.com
 0.0.0.0 beeviewd.com
 0.0.0.0 belladama.fr
@@ -397,10 +398,12 @@
 0.0.0.0 flourishagency.net
 0.0.0.0 fluffychair.pro
 0.0.0.0 fqab5xq7qlgt.info
+0.0.0.0 freakyglass.com
 0.0.0.0 frightening-crack.pro
 0.0.0.0 fryvzw.com
 0.0.0.0 fsvgal.com
 0.0.0.0 fuhykici.xyz
+0.0.0.0 furnstudio.com
 0.0.0.0 fxasqo.com
 0.0.0.0 gad-s.com
 0.0.0.0 gallerytraffic.net
@@ -547,6 +550,7 @@
 0.0.0.0 kzerr.com
 0.0.0.0 lama-ad.com
 0.0.0.0 lammaou.xyz
+0.0.0.0 landandfloor.com
 0.0.0.0 lawsivo.ru
 0.0.0.0 lbsinters.shop
 0.0.0.0 leads-permagroup.ch
@@ -702,6 +706,7 @@
 0.0.0.0 pozekate.com
 0.0.0.0 predictvideo.com
 0.0.0.0 prestanciatechnologies.com
+0.0.0.0 proofconvert.com
 0.0.0.0 proventusquantum.com
 0.0.0.0 provers.pro
 0.0.0.0 prudentreward.com
@@ -933,6 +938,7 @@
 0.0.0.0 watieb.com
 0.0.0.0 webadservices.in
 0.0.0.0 weird-lab.pro
+0.0.0.0 westpalmweb.com
 0.0.0.0 wherabygry.com
 0.0.0.0 whewsv.com
 0.0.0.0 whitewolf-advertising.com

@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 08AUG25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 15AUG25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -68,6 +68,7 @@
 0.0.0.0 aaxwall.com
 0.0.0.0 ablink.care.sanvello.com
 0.0.0.0 ablinkclicktest.prod.aws.skyscnr.com
+0.0.0.0 ablink.email.etsy.com
 0.0.0.0 ablink.e.sanvello.com
 0.0.0.0 ablink.hello.sanvello.com
 0.0.0.0 ablink.help.sanvello.com
@@ -105,7 +106,6 @@
 0.0.0.0 ama.quarks.de
 0.0.0.0 ama.wdr.de
 0.0.0.0 ama.wdrmaus.de
-0.0.0.0 amusementmorning.com
 0.0.0.0 analytics.aita.gov.vn
 0.0.0.0 analytics.chattarize.de
 0.0.0.0 analytics.floridatravellife.com
@@ -124,6 +124,7 @@
 0.0.0.0 app.bekfood.de
 0.0.0.0 app.bettle.co
 0.0.0.0 app.budweisergardens.com
+0.0.0.0 app.business.westernunion.com
 0.0.0.0 app.cb.pnc.com
 0.0.0.0 app.citylink.ro
 0.0.0.0 app.cmnet.cf
@@ -178,7 +179,6 @@
 0.0.0.0 ask.wearelistening.co.nz
 0.0.0.0 assets.channelplay.in
 0.0.0.0 assets.garron.me
-0.0.0.0 astralhustle.com
 0.0.0.0 atcbju.silvergoldbull.ca
 0.0.0.0 atgtfj.bettermusic.com.au
 0.0.0.0 atlantablackstar.black.news
@@ -188,20 +188,17 @@
 0.0.0.0 balkog.withmoment.co.kr
 0.0.0.0 bbs.theacademyforconsciousleadership.com
 0.0.0.0 bclicks.lyst.com
-0.0.0.0 bearmoonlodge.com
 0.0.0.0 bestinfo.bluetrustloans.com
 0.0.0.0 betrice.wantsext.me
 0.0.0.0 bewaslac.com
 0.0.0.0 bh.groc.press
 0.0.0.0 b.home.com.au
 0.0.0.0 bh-test.groc.press
-0.0.0.0 blackbrake.com
 0.0.0.0 blackenterprise.black.news
 0.0.0.0 blava.viessmann.sk
 0.0.0.0 blavity.black.news
 0.0.0.0 blinkstest.mindoktor.se
 0.0.0.0 blitz-analytics-batch-server.blitz.gg
-0.0.0.0 blotburn.com
 0.0.0.0 b.lyst.com
 0.0.0.0 bmnr.pw
 0.0.0.0 bnc.citylink.ro
@@ -272,7 +269,6 @@
 0.0.0.0 cnebis.i-no-science.com
 0.0.0.0 commerce.edc.ca
 0.0.0.0 commercial.inform.equifax.com
-0.0.0.0 commonalmanac.com
 0.0.0.0 communication.ricoh.ch
 0.0.0.0 communication.ricoh.pt
 0.0.0.0 communications.parcours.fr
@@ -335,7 +331,6 @@
 0.0.0.0 cv.tokyowork.jp
 0.0.0.0 cvtspo.moebel24.de
 0.0.0.0 cv.zephylrin-x.net
-0.0.0.0 dashingdrop.com
 0.0.0.0 data.acierto.com
 0.0.0.0 data.clientes.caixabankpc.com
 0.0.0.0 data.decathlon.de
@@ -381,7 +376,6 @@
 0.0.0.0 download.supercoating.com.hk
 0.0.0.0 download.wearelistening.co.nz
 0.0.0.0 drau.viessmann.si
-0.0.0.0 drawservant.com
 0.0.0.0 drive.waitrapp.com
 0.0.0.0 d-staging.groc.press
 0.0.0.0 dtnmyp.cocotorico.com
@@ -444,11 +438,8 @@
 0.0.0.0 forms.vistage.com
 0.0.0.0 fpc.attcenter.com
 0.0.0.0 fpc.fingerprint.com
-0.0.0.0 freakyglass.com
 0.0.0.0 fr.lucanet.com
-0.0.0.0 frogator.com
 0.0.0.0 ft.groc.press
-0.0.0.0 furnstudio.com
 0.0.0.0 fxipreferral.americanexpress.com
 0.0.0.0 fxreferral.americanexpress.com
 0.0.0.0 ga.groc.press
@@ -504,8 +495,6 @@
 0.0.0.0 guest.vistage.com
 0.0.0.0 gvmomuqjv1.swyftx.com
 0.0.0.0 gx.idg.se
-0.0.0.0 handyfield.com
-0.0.0.0 hatefulrequest.com
 0.0.0.0 hello.emergeinteractive.com
 0.0.0.0 hello.steadyapp.com
 0.0.0.0 hjgkdv.fiverr.com
@@ -628,8 +617,6 @@
 0.0.0.0 klmcorporate.americanexpress.nl
 0.0.0.0 krgoad.mauboussin.fr
 0.0.0.0 kvt5.blesscollectionhotels.com
-0.0.0.0 lackadaisicalkite.com
-0.0.0.0 landandfloor.com
 0.0.0.0 landingpages.csustudycentres.edu.au
 0.0.0.0 l.bspace.io
 0.0.0.0 l.dev.audibook.si
@@ -704,7 +691,6 @@
 0.0.0.0 mail.fathomdelivers.com
 0.0.0.0 mail.wondery.com
 0.0.0.0 marceline.wantsext.me
-0.0.0.0 markedcrayon.com
 0.0.0.0 marketing1.yealink.com
 0.0.0.0 marketing.allenmotorgroup.co.uk
 0.0.0.0 marketing.arenasports.net
@@ -808,7 +794,6 @@
 0.0.0.0 mhauev.glasses.com
 0.0.0.0 mhnpec.nimaxi-online.com
 0.0.0.0 microfocus.qm-g.com
-0.0.0.0 mindlessmark.com
 0.0.0.0 mk.convera.com
 0.0.0.0 mkt.unipega.com
 0.0.0.0 mobile.reki.tv
@@ -840,7 +825,6 @@
 0.0.0.0 nordics.atradius.com
 0.0.0.0 nordicsbtaenrolment.americanexpress.co.uk
 0.0.0.0 norex-app.paihealth.no
-0.0.0.0 nothingmethod.com
 0.0.0.0 notificaciones.conduce-seguro.es
 0.0.0.0 noushe.zevvle.com
 0.0.0.0 now.cumminsfiltration.com
@@ -896,7 +880,6 @@
 0.0.0.0 peards.zevvle.com
 0.0.0.0 pe.txbe.at
 0.0.0.0 p.ianmjones.com
-0.0.0.0 pietexture.com
 0.0.0.0 pine.nervecentral.com
 0.0.0.0 pingo.staticmoly.me
 0.0.0.0 pixel.archivecaslytosk.onion
@@ -927,26 +910,23 @@
 0.0.0.0 pm.dailykos.com
 0.0.0.0 poll.pollinatepolls.com
 0.0.0.0 portal.krollontrack.co.uk
+0.0.0.0 prfct.co
 0.0.0.0 pro.bizportal.co.il
 0.0.0.0 processusmetier.ricoh.fr
 0.0.0.0 productionprinting.ricoh.ch
-0.0.0.0 productivepear.com
 0.0.0.0 products.ricoh.ch
 0.0.0.0 profiling.eurofins.fi
 0.0.0.0 profit.edc.ca
 0.0.0.0 promo.cafexapp.com
-0.0.0.0 proofconvert.com
 0.0.0.0 putphc.zuhre.com.tr
 0.0.0.0 qbse.intuit.com
 0.0.0.0 qceyjl.cellularoutfitter.com
 0.0.0.0 qrcode.visit-thassos.com
 0.0.0.0 qr.printko.ro
 0.0.0.0 qt5jl7r111h7.allesvoormijnvakantie.nl
-0.0.0.0 quicksandear.com
 0.0.0.0 qvenxs.cash-piscines.com
 0.0.0.0 qymjpg.star-tex.ru
 0.0.0.0 qyn6.ofertastelecable.es
-0.0.0.0 razzweb.com
 0.0.0.0 rb.groc.press
 0.0.0.0 r.blidzdeal.com
 0.0.0.0 r.cricbet.co
@@ -978,7 +958,6 @@
 0.0.0.0 rvbqze.albamoda.de
 0.0.0.0 s1133198723.sc.origins.en25.com
 0.0.0.0 saas.stratitude.com
-0.0.0.0 sablesmile.com
 0.0.0.0 sadbmetrics.carteleraasturias.com
 0.0.0.0 salzwerk.viessmann.de
 0.0.0.0 sanalytics.boomerang.com.br
@@ -988,7 +967,6 @@
 0.0.0.0 sanalytics.smart.mercedes-benz.com
 0.0.0.0 sanl.footlocker.gr
 0.0.0.0 satarget.npubank.com.au
-0.0.0.0 savorystructure.com
 0.0.0.0 say.hello.navan.com
 0.0.0.0 say.hello.tripactions.com
 0.0.0.0 sbcomniture.focus.de
@@ -1039,7 +1017,6 @@
 0.0.0.0 share.supp.film
 0.0.0.0 share.tp666.vip
 0.0.0.0 shop.anu-cosme.com
-0.0.0.0 showsteel.com
 0.0.0.0 sig.nadex.com
 0.0.0.0 simpletopay.americanexpress.com
 0.0.0.0 simpletopay.americanexpress.com.au
@@ -1193,13 +1170,11 @@
 0.0.0.0 stfynw.esprit.be
 0.0.0.0 strack.store.manutd.com
 0.0.0.0 subscribe.vistage.com
-0.0.0.0 subsequentstew.com
 0.0.0.0 success.getfluid.com
 0.0.0.0 success.mapcom.com
 0.0.0.0 sustainability.ricoh.ch
 0.0.0.0 swa.onlineverzendservice.be
 0.0.0.0 swa.postnl.nl
-0.0.0.0 sweetslope.com
 0.0.0.0 t1.benefits.tops.co.th
 0.0.0.0 tags.catapultx.com
 0.0.0.0 talk.stitch.cam
@@ -1214,7 +1189,6 @@
 0.0.0.0 target.visitsingapore.com
 0.0.0.0 target.zeiss.com
 0.0.0.0 target.zeiss.de
-0.0.0.0 tarttendency.com
 0.0.0.0 ta.taxslayer.com
 0.0.0.0 t.av.st
 0.0.0.0 tba.smrtp.link
@@ -1225,7 +1199,6 @@
 0.0.0.0 teamhodges.hodgesualumniandfriends.com
 0.0.0.0 teen.zubie.com
 0.0.0.0 test-b.todaytix.com
-0.0.0.0 testedtouch.com
 0.0.0.0 test-eml.postmates.com
 0.0.0.0 test-fleet-eml.postmates.com
 0.0.0.0 test.pooler.io
@@ -1252,7 +1225,6 @@
 0.0.0.0 track.inspirage.com
 0.0.0.0 track.northamericanincome.co.uk
 0.0.0.0 track.shop.atleticodemadrid.com
-0.0.0.0 tr.actus-fdj.fr
 0.0.0.0 tr.animations.alticemedia.com
 0.0.0.0 tr.assoc.cfsr-retine.com
 0.0.0.0 tr.camara.eu.com
@@ -1320,7 +1292,6 @@
 0.0.0.0 tr.toner-services.fr
 0.0.0.0 try.popchart.family
 0.0.0.0 tsa.taxslayer.com
-0.0.0.0 tuneupcoffee.com
 0.0.0.0 txvoin.with2.net
 0.0.0.0 ucmetrics.unicreditbanca.it
 0.0.0.0 ucmetrics.unicreditgroup.eu
@@ -1339,7 +1310,6 @@
 0.0.0.0 uzipbs.weltbild.ch
 0.0.0.0 views.asurascans.com
 0.0.0.0 views.emikajewelry.com
-0.0.0.0 virgoplato.com
 0.0.0.0 vllsuv.skatedeluxe.com
 0.0.0.0 vs.verisure.fr
 0.0.0.0 waaf1.hoferfotos.at
@@ -1358,7 +1328,6 @@
 0.0.0.0 web.slimjoy.ro
 0.0.0.0 web.slimjoy.se
 0.0.0.0 westevents.presidio.com
-0.0.0.0 westpalmweb.com
 0.0.0.0 wiz.empowerhearing.com
 0.0.0.0 wlxhzn.godfreys.com.au
 0.0.0.0 woodstock.viessmann.com.au
