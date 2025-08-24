@@ -1,5 +1,5 @@
 # AdguardDNS, parsed and mirrored by https://firebog.net
-# Updated 15AUG25 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+# Updated 22AUG25 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -548,7 +548,6 @@
 0.0.0.0 cltx.shop
 0.0.0.0 clubfiletyc.com
 0.0.0.0 clubleadershipsolutions.com
-0.0.0.0 c.microsoft.com
 0.0.0.0 c.mnjkw.cn
 0.0.0.0 cmstrendslog.indiatimes.com
 0.0.0.0 cmvietcombank.com
@@ -858,7 +857,6 @@
 0.0.0.0 eventlqvn.com
 0.0.0.0 eventriansieusao.com
 0.0.0.0 events.air.tv
-0.0.0.0 events-ingestion.services.gorgias.com
 0.0.0.0 eventtracker.elitedaily.com
 0.0.0.0 evnbankcredit.info
 0.0.0.0 evncredit.online
@@ -1075,7 +1073,6 @@
 0.0.0.0 giiao.hangtietkiem.com
 0.0.0.0 gionghatvietnhi.online
 0.0.0.0 giovangvn999.com
-0.0.0.0 github-scanner.com
 0.0.0.0 gk1.582582.com
 0.0.0.0 gk1.zjbiz.net
 0.0.0.0 globalsellingads.com
@@ -1243,7 +1240,6 @@
 0.0.0.0 hyrankhit.meldingcloud.com
 0.0.0.0 hz.shouyoutv.com
 0.0.0.0 i8m6.com
-0.0.0.0 iads.xinmin.cn
 0.0.0.0 ibankingdigital.com
 0.0.0.0 ibankingshopee.vn
 0.0.0.0 ibkbank.net
@@ -1636,7 +1632,6 @@
 0.0.0.0 mbdkb.com
 0.0.0.0 mbfic-plus.com
 0.0.0.0 mbfn-fic.com
-0.0.0.0 mbsy.co
 0.0.0.0 mbtk-bank.com
 0.0.0.0 mcfa11.com
 0.0.0.0 mcnodes.zapto.org
@@ -2080,6 +2075,7 @@
 0.0.0.0 og.zyzjpx.cn
 0.0.0.0 o.jy135.com
 0.0.0.0 omapi.fangraphs.com
+0.0.0.0 omnibuswaist.com
 0.0.0.0 one.fsylr.com
 0.0.0.0 onepx.kr
 0.0.0.0 onhamuadich.com
@@ -2841,6 +2837,7 @@
 0.0.0.0 style.onvz.nl
 0.0.0.0 subducgiare.shop
 0.0.0.0 subsequentstew.com
+0.0.0.0 success.mapcom.com
 0.0.0.0 sukiem-muahe-pubgmobilevn.com
 0.0.0.0 sukien-2021lmht.ga
 0.0.0.0 sukienbts2022.com
@@ -3240,7 +3237,6 @@
 0.0.0.0 track.thesaurus.com
 0.0.0.0 track.ttsave.app
 0.0.0.0 track.yfret.com
-0.0.0.0 track.zomato.com
 0.0.0.0 tr.actus-fdj.fr
 0.0.0.0 tracuugiaodichvi.com
 0.0.0.0 tracuuthenap247.com

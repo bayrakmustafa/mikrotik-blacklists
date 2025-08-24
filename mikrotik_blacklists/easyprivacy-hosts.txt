@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 15AUG25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 22AUG25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -68,7 +68,6 @@
 0.0.0.0 aaxwall.com
 0.0.0.0 ablink.care.sanvello.com
 0.0.0.0 ablinkclicktest.prod.aws.skyscnr.com
-0.0.0.0 ablink.email.etsy.com
 0.0.0.0 ablink.e.sanvello.com
 0.0.0.0 ablink.hello.sanvello.com
 0.0.0.0 ablink.help.sanvello.com
@@ -89,6 +88,7 @@
 0.0.0.0 a.deutschehospitality.com
 0.0.0.0 admin.academyforconsciousleadership.net
 0.0.0.0 adobe.truckscout24.com
+0.0.0.0 ads-tracking.beop.io
 0.0.0.0 advantages.americanexpress.com
 0.0.0.0 afep.pivn.shop
 0.0.0.0 agexpo.americanexpress.com
@@ -124,7 +124,6 @@
 0.0.0.0 app.bekfood.de
 0.0.0.0 app.bettle.co
 0.0.0.0 app.budweisergardens.com
-0.0.0.0 app.business.westernunion.com
 0.0.0.0 app.cb.pnc.com
 0.0.0.0 app.citylink.ro
 0.0.0.0 app.cmnet.cf
@@ -300,7 +299,6 @@
 0.0.0.0 content.actionbenefits.com
 0.0.0.0 content.nxp.com
 0.0.0.0 content.rightsourcemarketing.com
-0.0.0.0 contents-tracking.beop.io
 0.0.0.0 content.yole365.com
 0.0.0.0 cookietracking.eatonpowersource.com
 0.0.0.0 corporate.americanexpress.it
@@ -910,7 +908,6 @@
 0.0.0.0 pm.dailykos.com
 0.0.0.0 poll.pollinatepolls.com
 0.0.0.0 portal.krollontrack.co.uk
-0.0.0.0 prfct.co
 0.0.0.0 pro.bizportal.co.il
 0.0.0.0 processusmetier.ricoh.fr
 0.0.0.0 productionprinting.ricoh.ch
@@ -1171,7 +1168,6 @@
 0.0.0.0 strack.store.manutd.com
 0.0.0.0 subscribe.vistage.com
 0.0.0.0 success.getfluid.com
-0.0.0.0 success.mapcom.com
 0.0.0.0 sustainability.ricoh.ch
 0.0.0.0 swa.onlineverzendservice.be
 0.0.0.0 swa.postnl.nl

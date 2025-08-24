@@ -31842,6 +31842,7 @@
 0.0.0.0 googls.de
 0.0.0.0 googls.dk
 0.0.0.0 googls.dz
+0.0.0.0 googl.se
 0.0.0.0 googlse.ca
 0.0.0.0 googlse.com
 0.0.0.0 googlse.com.au
@@ -44959,7 +44960,6 @@
 0.0.0.0 malwareby6tes.com
 0.0.0.0 malwareby7tes.com
 0.0.0.0 malwarebyees.com
-0.0.0.0 malwarebyes.com
 0.0.0.0 malwarebyes.org
 0.0.0.0 malwarebyets.com
 0.0.0.0 malwarebyets.org
@@ -69061,6 +69061,7 @@
 0.0.0.0 whatseapp.com
 0.0.0.0 whatsopp.com
 0.0.0.0 whatspap.com
+0.0.0.0 whatspp.com
 0.0.0.0 whatsqapp.com
 0.0.0.0 whatsqpp.com
 0.0.0.0 whatssapp.com
@@ -72358,7 +72359,6 @@
 0.0.0.0 yahpoo.com
 0.0.0.0 yahpp.com
 0.0.0.0 yahuoo.com
-0.0.0.0 yahyoo.com
 0.0.0.0 yaie.edu
 0.0.0.0 yaje.edu
 0.0.0.0 yajhoo.com
@@ -72793,6 +72793,7 @@
 0.0.0.0 yohtubekids.com
 0.0.0.0 yohutube.com
 0.0.0.0 yohutubekids.com
+0.0.0.0 yoitube.com
 0.0.0.0 yoitubekids.com
 0.0.0.0 yoiutube.com
 0.0.0.0 yoiutubekids.com
@@ -73122,6 +73123,7 @@
 0.0.0.0 youtubeoids.com
 0.0.0.0 youtubeokids.com
 0.0.0.0 youtube.om
+0.0.0.0 youtuber.com
 0.0.0.0 youtuberkids.com
 0.0.0.0 youtubes.com
 0.0.0.0 youtubeskids.com

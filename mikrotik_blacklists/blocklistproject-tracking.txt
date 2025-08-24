@@ -139,7 +139,6 @@
 0.0.0.0 adrank.net
 0.0.0.0 adready.info
 0.0.0.0 ads-ai.com
-0.0.0.0 ads-creativesyndicator.com
 0.0.0.0 ads-verify.net
 0.0.0.0 ads.diamonds
 0.0.0.0 ads4apps.net
@@ -318,7 +317,6 @@
 0.0.0.0 asocials.com
 0.0.0.0 aspirer.xyz
 0.0.0.0 astutemetrics.com
-0.0.0.0 atomz.com
 0.0.0.0 audienceco-op.com
 0.0.0.0 audiencedatamanagement.com
 0.0.0.0 audiencemanagementplatform.com
@@ -429,9 +427,7 @@
 0.0.0.0 brightcovemedia.com
 0.0.0.0 brightcovetv.com
 0.0.0.0 brightpixel.co.uk
-0.0.0.0 brightroll.mobi
 0.0.0.0 brightroll.net
-0.0.0.0 brightroll.org
 0.0.0.0 brightrolldsp.com
 0.0.0.0 brightrollexchange.com
 0.0.0.0 brightrollmarketplace.com
@@ -654,7 +650,6 @@
 0.0.0.0 createsend.click
 0.0.0.0 createsend.email
 0.0.0.0 createsend.gallery
-0.0.0.0 createsend.help
 0.0.0.0 createsend.link
 0.0.0.0 createsend10.com
 0.0.0.0 createsend12.com
@@ -666,8 +661,6 @@
 0.0.0.0 createsend18.com
 0.0.0.0 createsend19.com
 0.0.0.0 createsend20.com
-0.0.0.0 createsend21.com
-0.0.0.0 createsend22.com
 0.0.0.0 createsend23.com
 0.0.0.0 createsend24.com
 0.0.0.0 createsend25.com
@@ -792,7 +785,6 @@
 0.0.0.0 drptst.com
 0.0.0.0 dsywd.com
 0.0.0.0 dtt617kogtcso.cloudfront.net
-0.0.0.0 dyntracker.de
 0.0.0.0 dzc-metrics.mzstatic.com
 0.0.0.0 ebayenterprise.com
 0.0.0.0 ebaypartnernetwork.com
@@ -864,11 +856,9 @@
 0.0.0.0 ellard.net
 0.0.0.0 email-confirmation.com
 0.0.0.0 email-standards.com
-0.0.0.0 email-standards.org
 0.0.0.0 emailblaster.co.za
 0.0.0.0 emailingidylis.com
 0.0.0.0 emailreporting.com
-0.0.0.0 emailreports.info
 0.0.0.0 emark.nl
 0.0.0.0 embed.ly
 0.0.0.0 emediate.com
@@ -1046,6 +1036,7 @@
 0.0.0.0 gwallet-qa.com
 0.0.0.0 gwallet.net
 0.0.0.0 ha44888.com
+0.0.0.0 hackers.lv
 0.0.0.0 hailiao520.com
 0.0.0.0 hardbouncemyemail.com
 0.0.0.0 hardofhearing.org
@@ -1265,7 +1256,6 @@
 0.0.0.0 lrcdn.net
 0.0.0.0 ltds.cc
 0.0.0.0 lyhxwx.com
-0.0.0.0 lynxtrack.com
 0.0.0.0 lyris1.com
 0.0.0.0 lyrishq.com
 0.0.0.0 lyrishq.info
@@ -2304,7 +2294,6 @@
 0.0.0.0 myrebrandly.com
 0.0.0.0 mystats.in
 0.0.0.0 mytrafficvalue.commsedge.net
-0.0.0.0 mytrix.com
 0.0.0.0 myunsubscribe.net
 0.0.0.0 myvirtualdisc.com
 0.0.0.0 myvirtualdisc.net
@@ -2349,7 +2338,6 @@
 0.0.0.0 niwotesah.com
 0.0.0.0 nl02.net
 0.0.0.0 nl04.net
-0.0.0.0 nlytcs.diffen.com
 0.0.0.0 nmgcdn.com
 0.0.0.0 nmp2.com
 0.0.0.0 nmp4.com
@@ -2464,7 +2452,6 @@
 0.0.0.0 policefirm1.com
 0.0.0.0 popadvertisement.club
 0.0.0.0 popcon.ubuntu.com
-0.0.0.0 popularix.com
 0.0.0.0 pornarea51.com
 0.0.0.0 positiveadv.com
 0.0.0.0 power-cl1cks.com
@@ -2804,7 +2791,6 @@
 0.0.0.0 stats.searchtrack.net
 0.0.0.0 stats.welt.de
 0.0.0.0 statuscake-email.com
-0.0.0.0 sto3.spotify.com
 0.0.0.0 stopemails.info
 0.0.0.0 stormartists.com
 0.0.0.0 streamsense.com
@@ -3119,7 +3105,6 @@
 0.0.0.0 workdesk.click
 0.0.0.0 worldwideoffers.net
 0.0.0.0 wp.gl
-0.0.0.0 wpa.qq.com
 0.0.0.0 wpdigital.net
 0.0.0.0 ws-outage.com
 0.0.0.0 wshifen.com
@@ -3135,7 +3120,6 @@
 0.0.0.0 xixiwan.net
 0.0.0.0 xploreroffers.com
 0.0.0.0 xs.gy
-0.0.0.0 yabs.yandex.ru
 0.0.0.0 yadsrflowms.com
 0.0.0.0 ybx.io
 0.0.0.0 yellowdragonsoft.com

@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 17 Aug 2025 08:10 UTC
-# Version: 2025.0817.0810.03
+# Last modified: 23 Aug 2025 16:21 UTC
+# Version: 2025.0823.1621.59
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1591
+# Number of entries: 1594
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -17,6 +17,7 @@
 0.0.0.0 dns.0x55.net
 0.0.0.0 123000123.xyz
 0.0.0.0 dns.13evl.com
+0.0.0.0 doh.18bit.cn
 0.0.0.0 cloud.198.games
 0.0.0.0 1and1-dns.de
 0.0.0.0 233py.com
@@ -98,6 +99,7 @@
 0.0.0.0 dot.pl.ahadns.net
 0.0.0.0 ahoj.email
 0.0.0.0 adguard.ajinga.net
+0.0.0.0 dns.akbxr.com
 0.0.0.0 dns.albony.xyz
 0.0.0.0 dnsnl.alekberg.net
 0.0.0.0 dns.alidns.com
@@ -528,6 +530,9 @@
 0.0.0.0 b.safe.ns.dnslify.com
 0.0.0.0 dnslow.me
 0.0.0.0 dns.dnsoverhttps.net
+0.0.0.0 chuncheon.dnsovertor.cc
+0.0.0.0 japan.dnsovertor.cc
+0.0.0.0 seoul.dnsovertor.cc
 0.0.0.0 adblock-dot.dnswarden.com
 0.0.0.0 adult-filter-dot.dnswarden.com
 0.0.0.0 doh.asia.dnswarden.com
@@ -567,6 +572,8 @@
 0.0.0.0 dot.pub
 0.0.0.0 ns1.dotls.org
 0.0.0.0 dns.dotnet.win
+0.0.0.0 family.dns.doubleangels.com
+0.0.0.0 dns.dremaxx.de
 0.0.0.0 droyd.top
 0.0.0.0 doh.dscloud.me
 0.0.0.0 agh.dshubham.xyz
@@ -574,7 +581,6 @@
 0.0.0.0 jurre-home.duckdns.org
 0.0.0.0 krtekvpn.duckdns.org
 0.0.0.0 osefcorp.duckdns.org
-0.0.0.0 punono.duckdns.org
 0.0.0.0 tuandns.duckdns.org
 0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 dukun.de
@@ -678,6 +684,7 @@
 0.0.0.0 dns.goldplate.org
 0.0.0.0 doh-primary-pool.goodbyegambling.com
 0.0.0.0 performance.gosami.xyz
+0.0.0.0 dns.green-ping.lol
 0.0.0.0 dnsblock.grisumedia.de
 0.0.0.0 dns.grqu.de
 0.0.0.0 dns.guard.io
@@ -1121,7 +1128,6 @@
 0.0.0.0 dns.peb-schmidt.de
 0.0.0.0 fuchur.pentament.de
 0.0.0.0 pepetio.xyz
-0.0.0.0 dns.pernika.net
 0.0.0.0 darya.persiannit.net
 0.0.0.0 dns.pesaventofilippo.com
 0.0.0.0 dns.petqa.ru
@@ -1175,7 +1181,6 @@
 0.0.0.0 lindung.pp.ua
 0.0.0.0 sundalandia.pp.ua
 0.0.0.0 virga.pp.ua
-0.0.0.0 zxcvb.pp.ua
 0.0.0.0 dns.pragmasec.nl
 0.0.0.0 dns2.prima-solusindo.com
 0.0.0.0 princez.uk
@@ -1303,7 +1308,6 @@
 0.0.0.0 dns.sev.monster
 0.0.0.0 pates.services.sfr.fr.casepp.sfr.fr
 0.0.0.0 d2.shabi.icu
-0.0.0.0 shalenkov.dev
 0.0.0.0 dns.shareworx.net
 0.0.0.0 dns.shecan.ir
 0.0.0.0 free.shecan.ir
@@ -1341,7 +1345,6 @@
 0.0.0.0 dns.stirringphoto.com
 0.0.0.0 dns.stormycloud.org
 0.0.0.0 dns.strassmair.org
-0.0.0.0 dns.stvsk.ml
 0.0.0.0 doh.sublime9.xyz
 0.0.0.0 doh.suche.org
 0.0.0.0 dns.suhaila.dev
@@ -1354,12 +1357,12 @@
 0.0.0.0 dns.surobe.com
 0.0.0.0 dns.sv-zauner.at
 0.0.0.0 dns.svoi.dev
-0.0.0.0 dns.swin.pro
 0.0.0.0 switch.ch
 0.0.0.0 dns.sy.st
 0.0.0.0 dns.syaifullah.com
 0.0.0.0 ihctw.synology.me
 0.0.0.0 doh.syshero.org
+0.0.0.0 doh.sz-dns.com
 0.0.0.0 dns.szpadel.ovh
 0.0.0.0 dns.t-ipnet.de
 0.0.0.0 tecdrive.site

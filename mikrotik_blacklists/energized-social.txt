@@ -22,10 +22,10 @@
 # License:       MIT
 # Format:        hosts
 # Entries:       14,163
-# Version:       0.100.a.25.229.14
+# Version:       0.100.a.25.236.14
 # Expires:       1 day (update frequency)
-# Releasae:      25.229.14
-# Last modified: 2025-08-17T14:02:56.334374 UTC
+# Releasae:      25.236.14
+# Last modified: 2025-08-24T14:02:57.304880 UTC
 # Source:        https://github/EnergizedProtection/block
 # Issue:         https://github/EnergizedProtection/block/issues
 # ----------------------------------------------------------------------------
@@ -371,6 +371,7 @@
 0.0.0.0 b.thumbs.redditmedia.com
 0.0.0.0 backvip-https-api-ru.bigolive.tv
 0.0.0.0 badges.linkedin.com
+0.0.0.0 badoo.com
 0.0.0.0 bd.linkedin.com
 0.0.0.0 be-by.facebook.com
 0.0.0.0 be.linkedin.com
@@ -7465,6 +7466,9 @@
 0.0.0.0 ms.bantuan.linkedin.com
 0.0.0.0 msd1-api.twitter.com
 0.0.0.0 mssdk-boot.tiktokv.com
+0.0.0.0 mssdk16-normal-alisg.tiktokv.com
+0.0.0.0 mssdk16-normal-useast1a.tiktokv.com
+0.0.0.0 mssdk16-normal-useast2a.tiktokv.com
 0.0.0.0 mt-mt.facebook.com
 0.0.0.0 mtouch.facebook.com
 0.0.0.0 muscdn.com
@@ -13170,6 +13174,7 @@
 0.0.0.0 w.facebook.com
 0.0.0.0 w3-reporting-csp.reddit.com
 0.0.0.0 wcs-afd.www.linkedin.com
+0.0.0.0 weareher.com
 0.0.0.0 web-cdn.bsky.app
 0.0.0.0 web-chat-e2ee.facebook.com
 0.0.0.0 web-chat-e2ee.instagram.com

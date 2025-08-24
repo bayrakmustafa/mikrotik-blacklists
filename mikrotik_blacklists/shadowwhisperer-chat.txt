@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes
-# Domains: 487
-# Updated: 6/24/2025  10:51 (10:51 AM CST)
+# Domains: 488
+# Updated: 8/21/2025  23:21 (11:21 PM CST)
 #
 0.0.0.0 accpi.org
 0.0.0.0 admaker.tech
@@ -28,6 +28,7 @@
 0.0.0.0 bahasa.ai
 0.0.0.0 bespokechat.com
 0.0.0.0 betterbot.com
+0.0.0.0 blip.ai
 0.0.0.0 blueai.dk
 0.0.0.0 boost.ai
 0.0.0.0 botbanhang.vn
@@ -211,7 +212,6 @@
 0.0.0.0 livechat.middle.host
 0.0.0.0 livechatoo.com
 0.0.0.0 livechat-static.com
-0.0.0.0 live-chat-static.sprinklr.com
 0.0.0.0 live-chat-tooling.api.dgs.ig.com
 0.0.0.0 livechat.zen.co.uk
 0.0.0.0 live.hammer-corp.com
@@ -220,6 +220,7 @@
 0.0.0.0 liveperson-liveengage.s3.amazonaws.com
 0.0.0.0 livesupport.com
 0.0.0.0 livex.ai
+0.0.0.0 livezhat.com
 0.0.0.0 loyjoy.com
 0.0.0.0 lucy.ai
 0.0.0.0 medchatapp.com
@@ -259,8 +260,6 @@
 0.0.0.0 podium.com
 0.0.0.0 powerfront.com
 0.0.0.0 proactive-chat-server-us.prod.aws.lcloud.com
-0.0.0.0 prod2-live-chat-mqtt.sprinklr.com
-0.0.0.0 prod2-live-chat.sprinklr.com
 0.0.0.0 prod-chat-configs.s3.eu-south-1.amazonaws.com
 0.0.0.0 prod-chatwoot-assets.s3.amazonaws.com
 0.0.0.0 productstrategymeanssayingno.com

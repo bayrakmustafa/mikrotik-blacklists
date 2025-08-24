@@ -15,6 +15,7 @@
 0.0.0.0 adbreak.cdn.ubeei.com
 0.0.0.0 adbreak.ubeei.com
 0.0.0.0 admax.com.tr
+0.0.0.0 adplay.com.tr
 0.0.0.0 adplus.yaani.com.tr
 0.0.0.0 adport.com.tr
 0.0.0.0 adpre.com
@@ -156,6 +157,7 @@
 0.0.0.0 spwms.com
 0.0.0.0 stats.acunn.com
 0.0.0.0 stats.posta.com.tr
+0.0.0.0 stats.tv8.com.tr
 0.0.0.0 stats.yenicaggazetesi.com.tr
 0.0.0.0 stopblyat.tk
 0.0.0.0 tarpitbar.com

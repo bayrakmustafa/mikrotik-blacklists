@@ -1,8 +1,8 @@
 #
 #    File: Gambling
 #    Info: Casino, gambling, poker, etc.
-# Domains: 26,815
-# Updated: 8/15/2025  23:04 (11:04 PM CST)
+# Domains: 26,821
+# Updated: 8/22/2025  13:45 (1:45 PM CST)
 #
 0.0.0.0 0009casino.com
 0.0.0.0 000-online-casino.biz
@@ -12774,6 +12774,7 @@
 0.0.0.0 hell-spin-casino-au.com
 0.0.0.0 hell-spincasino.top
 0.0.0.0 herabetcasino.com
+0.0.0.0 herbiceps.com
 0.0.0.0 herehotelswithcasino.com
 0.0.0.0 herrycasinopoker.site
 0.0.0.0 heycasinoapp.online
@@ -13772,6 +13773,7 @@
 0.0.0.0 jackpotgamescasino.com
 0.0.0.0 jackpotguru.com
 0.0.0.0 jackpot-jill-casinos.com
+0.0.0.0 jackpotmobilecasino.co.uk
 0.0.0.0 jackpot-online-casino.co.uk
 0.0.0.0 jackpot-partners.com
 0.0.0.0 jackpotroyalcasino.shop
@@ -18511,6 +18513,7 @@
 0.0.0.0 online-casino-portal.net
 0.0.0.0 onlinecasino-portugal.com
 0.0.0.0 onlinecasinopromotionen.de
+0.0.0.0 onlinecasinopulse.com
 0.0.0.0 onlinecasinoquest.com
 0.0.0.0 onlinecasinorank-ao.com
 0.0.0.0 onlinecasinorank-sg.com
@@ -18802,7 +18805,9 @@
 0.0.0.0 padisahbet575.com
 0.0.0.0 padisahbet576.com
 0.0.0.0 padisahbet577.com
+0.0.0.0 pagcor-casino.com
 0.0.0.0 pagcor-casino.me
+0.0.0.0 pagcor.ph
 0.0.0.0 paigegamble.com
 0.0.0.0 pailottery.com
 0.0.0.0 palacebet305.com
@@ -23643,6 +23648,7 @@
 0.0.0.0 starsstore.com
 0.0.0.0 stars-support.net
 0.0.0.0 starswinningmoments.com
+0.0.0.0 start-casino.nl
 0.0.0.0 startcasino.nl
 0.0.0.0 startowncasino.com
 0.0.0.0 starzino-casinos.com
@@ -24140,6 +24146,7 @@
 0.0.0.0 topcasinofindhotels.com
 0.0.0.0 topcasinofrance.com
 0.0.0.0 top-casino-fr.com
+0.0.0.0 topcasino.games
 0.0.0.0 topcasinogethotels.com
 0.0.0.0 topcasino-hotel24.com
 0.0.0.0 top-casinohotel365.com
@@ -24370,6 +24377,7 @@
 0.0.0.0 tryggenorskecasino.org
 0.0.0.0 tsepass.co.in
 0.0.0.0 ttr-casino-online.com
+0.0.0.0 tucasinojoker.com
 0.0.0.0 tudigongcasino.com
 0.0.0.0 turbo-casino65gg.ru
 0.0.0.0 turbo-casino67gg.ru
@@ -26433,6 +26441,7 @@
 0.0.0.0 xn--utlndskacasinos-2kb.se
 0.0.0.0 xslots1x.ru
 0.0.0.0 xslots.website
+0.0.0.0 xxxbetcasino.com
 0.0.0.0 xyzonlinegambling.com
 0.0.0.0 ya888yacasino.org
 0.0.0.0 yaacasino.online

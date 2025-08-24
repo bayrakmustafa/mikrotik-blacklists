@@ -1,9 +1,10 @@
 #
 #    File: Cryptocurrency
 #    Info: Bitcoin, Ethereum, Mining, etc
-# Domains: 1,146
-# Updated: 8/15/2025  16:00 (4:00 PM CST)
+# Domains: 1,166
+# Updated: 8/23/2025  00:36 (12:36 AM CST)
 #
+0.0.0.0 0slot.trade
 0.0.0.0 10102.io
 0.0.0.0 10xbitcoin.com
 0.0.0.0 168pool.com
@@ -98,6 +99,7 @@
 0.0.0.0 bitaps.com
 0.0.0.0 bitaroo.com.au
 0.0.0.0 bitaroo.net
+0.0.0.0 bitbo.io
 0.0.0.0 bitcanna.io
 0.0.0.0 bitcatra.com
 0.0.0.0 bitclubpool.com
@@ -214,6 +216,7 @@
 0.0.0.0 cminer.org
 0.0.0.0 cminors-pool.com
 0.0.0.0 cnpool.cc
+0.0.0.0 co2ledger.xyz
 0.0.0.0 codpool.com
 0.0.0.0 coetyl1.vip
 0.0.0.0 coetyl2.vip
@@ -284,6 +287,7 @@
 0.0.0.0 cryptocoinpools.com
 0.0.0.0 cryptocollective.gg
 0.0.0.0 cryptoexchange.com
+0.0.0.0 crypto-extranet.com
 0.0.0.0 cryptofans.asia
 0.0.0.0 cryptofans.news
 0.0.0.0 cryptofans.ru
@@ -291,11 +295,13 @@
 0.0.0.0 cryptogreek.cafe
 0.0.0.0 cryptoguru.org
 0.0.0.0 cryptohamstr.com
+0.0.0.0 cryptohash.net
 0.0.0.0 cryptohispano.net
 0.0.0.0 cryptohosting.eu
 0.0.0.0 cryptoid.info
 0.0.0.0 cryptolootminer.com
 0.0.0.0 cryptomorons.space
+0.0.0.0 cryptom.site
 0.0.0.0 cryptonote.club
 0.0.0.0 cryptopay.org.za
 0.0.0.0 cryptopia.co.nz
@@ -304,6 +310,7 @@
 0.0.0.0 cryptopools.pl
 0.0.0.0 cryptopowered.club
 0.0.0.0 cryptoratesxe.com
+0.0.0.0 cryptoscope.io
 0.0.0.0 cryptouniverse.io
 0.0.0.0 cryptoverse.eu
 0.0.0.0 cryptowat.ch
@@ -313,6 +320,7 @@
 0.0.0.0 dapool.io
 0.0.0.0 darkfibermines.com
 0.0.0.0 darkmine.su
+0.0.0.0 darwinia.network
 0.0.0.0 dashblockexplorer.com
 0.0.0.0 dashninja.pl
 0.0.0.0 dcrblockexplorer.com
@@ -362,6 +370,7 @@
 0.0.0.0 elegro.eu
 0.0.0.0 elhereum.com
 0.0.0.0 elicoin.net
+0.0.0.0 elysiumchain.tech
 0.0.0.0 elysiumpool.com
 0.0.0.0 emc2.foundation
 0.0.0.0 emcd.io
@@ -433,6 +442,7 @@
 0.0.0.0 getmonero.org
 0.0.0.0 global-crypto.co.uk
 0.0.0.0 gltminer.com
+0.0.0.0 glue.net
 0.0.0.0 gntl.co.uk
 0.0.0.0 gntl.uk
 0.0.0.0 gogpool.eu
@@ -454,6 +464,7 @@
 0.0.0.0 hash.green
 0.0.0.0 hashing.com
 0.0.0.0 hashlink.eu
+0.0.0.0 hashnode.space
 0.0.0.0 hashpool.cc
 0.0.0.0 hashpool.com
 0.0.0.0 hashpool.live
@@ -493,6 +504,7 @@
 0.0.0.0 jjpool.fr
 0.0.0.0 joys.digital
 0.0.0.0 jup.ag
+0.0.0.0 jzero.xyz
 0.0.0.0 k1pool.com
 0.0.0.0 karbo.io
 0.0.0.0 karbowanec.com
@@ -506,6 +518,7 @@
 0.0.0.0 kipcoin.org
 0.0.0.0 kiwifar.ms
 0.0.0.0 k-miners.com
+0.0.0.0 koii.network
 0.0.0.0 kouvr.com
 0.0.0.0 kraken.com
 0.0.0.0 kriptokyng.com
@@ -647,6 +660,7 @@
 0.0.0.0 okminer.com
 0.0.0.0 okx.com
 0.0.0.0 onebitco.com
+0.0.0.0 oneworldchain.org
 0.0.0.0 openchains.info
 0.0.0.0 p1pool.com
 0.0.0.0 p2p-spb.xyz
@@ -674,6 +688,7 @@
 0.0.0.0 pmpmining.com
 0.0.0.0 polcoin.pl
 0.0.0.0 poljkastarter.com
+0.0.0.0 polkadot.io
 0.0.0.0 pool2mine.net
 0.0.0.0 pool4ever.com
 0.0.0.0 poolbe.eu
@@ -724,6 +739,7 @@
 0.0.0.0 revain.org
 0.0.0.0 reversedbitcoin.org
 0.0.0.0 richpool.pro
+0.0.0.0 rocknblock.io
 0.0.0.0 rosebird.org
 0.0.0.0 rplant.xyz
 0.0.0.0 ru-poolbe.ru
@@ -772,6 +788,7 @@
 0.0.0.0 steam-up.ru
 0.0.0.0 stex.com
 0.0.0.0 stohncoin.org
+0.0.0.0 storagechain.io
 0.0.0.0 sucrecoin.io
 0.0.0.0 sucrecoin.org
 0.0.0.0 sui.io
@@ -827,6 +844,7 @@
 0.0.0.0 ukrpool.com
 0.0.0.0 ultimuspool.com
 0.0.0.0 unipool.pro
+0.0.0.0 unique.network
 0.0.0.0 unmineable.com
 0.0.0.0 upool.in
 0.0.0.0 uralscoin.info
@@ -835,6 +853,7 @@
 0.0.0.0 uunigate.com
 0.0.0.0 v6pool.com
 0.0.0.0 valhala.is
+0.0.0.0 vara.network
 0.0.0.0 vectorium.co
 0.0.0.0 veopool.pw
 0.0.0.0 veriblock.org
@@ -883,6 +902,7 @@
 0.0.0.0 xchain.io
 0.0.0.0 xdagmine.com
 0.0.0.0 xingyun.io
+0.0.0.0 xlon.org
 0.0.0.0 xmrchain.net
 0.0.0.0 xmrfast.com
 0.0.0.0 xmrig.com
