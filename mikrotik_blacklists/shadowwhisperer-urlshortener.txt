@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 5,640
-# Updated: 8/18/2025  23:16 (11:16 PM CST)
+# Domains: 5,657
+# Updated: 8/27/2025  01:52 (1:52 AM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -118,10 +118,16 @@
 0.0.0.0 303.kim
 0.0.0.0 30na.ma
 0.0.0.0 31productions.de
-0.0.0.0 369.xn--6frz82g
+0.0.0.0 350.my
 0.0.0.0 389sport.fun
 0.0.0.0 389sport.store
+0.0.0.0 396264243-020.com
+0.0.0.0 396264243-025.com
+0.0.0.0 396264243-029.com
+0.0.0.0 396264243-033.com
+0.0.0.0 396264243-044.com
 0.0.0.0 3c5.com
+0.0.0.0 3c.pw
 0.0.0.0 3ind.com
 0.0.0.0 3le.ru
 0.0.0.0 3lo.gy
@@ -230,6 +236,7 @@
 0.0.0.0 9fx.org
 0.0.0.0 9jagistme.com.ng
 0.0.0.0 9k.gg
+0.0.0.0 9lick.me
 0.0.0.0 9o9.cc
 0.0.0.0 9oz.com
 0.0.0.0 9u9.de
@@ -664,6 +671,7 @@
 0.0.0.0 bitl.app
 0.0.0.0 bitlee.site
 0.0.0.0 bitli.pro
+0.0.0.0 bitl.to
 0.0.0.0 bitly1.ru
 0.0.0.0 bitly.best
 0.0.0.0 bitly.bz
@@ -680,7 +688,6 @@
 0.0.0.0 bitlylinks.com
 0.0.0.0 bitly.mobi
 0.0.0.0 b-i-t-l-y.net
-0.0.0.0 bitly.net
 0.0.0.0 bitly.network
 0.0.0.0 bitly.pw
 0.0.0.0 bitly.team
@@ -690,6 +697,7 @@
 0.0.0.0 bitlz.cc
 0.0.0.0 bitnew.pw
 0.0.0.0 bitnew.us
+0.0.0.0 bitq.link
 0.0.0.0 bitq.pw
 0.0.0.0 bitshort.vip
 0.0.0.0 bitshrt.com
@@ -716,6 +724,7 @@
 0.0.0.0 bjl.ink
 0.0.0.0 bjwfd.top
 0.0.0.0 bkjkwg.quest
+0.0.0.0 blabigo.com
 0.0.0.0 blacknig.ht
 0.0.0.0 black-panther.live
 0.0.0.0 blinko.me
@@ -1089,6 +1098,7 @@
 0.0.0.0 cuts2.com
 0.0.0.0 cuts.al
 0.0.0.0 cutt4.me
+0.0.0.0 cutt.cx
 0.0.0.0 cuttgoo.com
 0.0.0.0 cutth.com
 0.0.0.0 cutt.lol
@@ -3225,6 +3235,7 @@
 0.0.0.0 omedia.live
 0.0.0.0 omegalinks.in
 0.0.0.0 omxhp.com
+0.0.0.0 on4t.com
 0.0.0.0 on5.net
 0.0.0.0 one9.one
 0.0.0.0 oneany.shop
@@ -3491,7 +3502,6 @@
 0.0.0.0 pws1ooo.xyz
 0.0.0.0 pxicz.com
 0.0.0.0 pxlcrv.co
-0.0.0.0 pxl.fm
 0.0.0.0 pxlfy.me
 0.0.0.0 pygy.co
 0.0.0.0 pylwm.sbs
@@ -3937,6 +3947,7 @@
 0.0.0.0 shortenedlinks.com
 0.0.0.0 shortenedurl.me
 0.0.0.0 shortened.website
+0.0.0.0 shorten.ee
 0.0.0.0 shortenercs.com
 0.0.0.0 shortenerlab.com
 0.0.0.0 shortenerlink.net
@@ -4359,7 +4370,6 @@
 0.0.0.0 szjrw.sbs
 0.0.0.0 t111.info
 0.0.0.0 t111.pro
-0.0.0.0 t2m.co
 0.0.0.0 t77reg.click
 0.0.0.0 taedy.com
 0.0.0.0 tahmil.net
@@ -4498,6 +4508,7 @@
 0.0.0.0 tiniworkfennies.live
 0.0.0.0 tinky.cc
 0.0.0.0 tinlie.com
+0.0.0.0 tinurl.pro
 0.0.0.0 tiny1z.com
 0.0.0.0 tinybit.cc
 0.0.0.0 tiny.cc
@@ -4515,6 +4526,8 @@
 0.0.0.0 tinyfy.me
 0.0.0.0 tiny.ie
 0.0.0.0 tinyi.sh
+0.0.0.0 tinyl.co
+0.0.0.0 tiny-l.com
 0.0.0.0 tinyl.ink
 0.0.0.0 tinylink.ca
 0.0.0.0 tinylink.info
@@ -4567,6 +4580,7 @@
 0.0.0.0 tkjzd.pics
 0.0.0.0 tklinknow.com
 0.0.0.0 tklinks.com
+0.0.0.0 tkopod.co
 0.0.0.0 tkshopreview.store
 0.0.0.0 tkz.es
 0.0.0.0 tlgs.info
@@ -5430,6 +5444,7 @@
 0.0.0.0 y.stadtfabrikanten.org
 0.0.0.0 yts.nu
 0.0.0.0 ytube.io
+0.0.0.0 ytubl.ink
 0.0.0.0 yt.vu
 0.0.0.0 ytxt.mobi
 0.0.0.0 yu3.io

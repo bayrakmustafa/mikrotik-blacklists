@@ -22,10 +22,10 @@
 # License:       MIT
 # Format:        hosts
 # Entries:       14,163
-# Version:       0.100.a.25.236.14
+# Version:       0.100.a.25.243.14
 # Expires:       1 day (update frequency)
-# Releasae:      25.236.14
-# Last modified: 2025-08-24T14:02:57.304880 UTC
+# Releasae:      25.243.14
+# Last modified: 2025-08-31T14:03:09.994426 UTC
 # Source:        https://github/EnergizedProtection/block
 # Issue:         https://github/EnergizedProtection/block/issues
 # ----------------------------------------------------------------------------
@@ -371,7 +371,6 @@
 0.0.0.0 b.thumbs.redditmedia.com
 0.0.0.0 backvip-https-api-ru.bigolive.tv
 0.0.0.0 badges.linkedin.com
-0.0.0.0 badoo.com
 0.0.0.0 bd.linkedin.com
 0.0.0.0 be-by.facebook.com
 0.0.0.0 be.linkedin.com
@@ -12099,16 +12098,6 @@
 0.0.0.0 tlivecdn.com
 0.0.0.0 tm.linkedin.com
 0.0.0.0 tn.linkedin.com
-0.0.0.0 tnc-boot.tiktokv.com
-0.0.0.0 tnc0-normal-my.tiktokv.com
-0.0.0.0 tnc0-normal-sg1.tiktokv.com
-0.0.0.0 tnc0-normal-useast1a.tiktokv.com
-0.0.0.0 tnc16-normal-ycru.tiktokv.com
-0.0.0.0 tnc16-platform-alisg.tiktokv.com
-0.0.0.0 tnc16-platform-useast1a.tiktokv.com
-0.0.0.0 tnc16-platform-useast2a.tiktokv.com
-0.0.0.0 tnc31-platform-useast1a.tiktokv.com
-0.0.0.0 tnc31-platform-useast2a.tiktokv.com
 0.0.0.0 ton.local.twitter.com
 0.0.0.0 ton.twitter.com
 0.0.0.0 ton.x.com
@@ -13174,7 +13163,6 @@
 0.0.0.0 w.facebook.com
 0.0.0.0 w3-reporting-csp.reddit.com
 0.0.0.0 wcs-afd.www.linkedin.com
-0.0.0.0 weareher.com
 0.0.0.0 web-cdn.bsky.app
 0.0.0.0 web-chat-e2ee.facebook.com
 0.0.0.0 web-chat-e2ee.instagram.com

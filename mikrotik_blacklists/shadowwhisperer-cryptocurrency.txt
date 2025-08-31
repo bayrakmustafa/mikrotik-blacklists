@@ -1,8 +1,8 @@
 #
 #    File: Cryptocurrency
 #    Info: Bitcoin, Ethereum, Mining, etc
-# Domains: 1,166
-# Updated: 8/23/2025  00:36 (12:36 AM CST)
+# Domains: 1,257
+# Updated: 8/27/2025  01:35 (1:35 AM CST)
 #
 0.0.0.0 0slot.trade
 0.0.0.0 10102.io
@@ -28,9 +28,13 @@
 0.0.0.0 acc-pool.pw
 0.0.0.0 achia.co
 0.0.0.0 actinium.org
+0.0.0.0 actionblockchain.org
 0.0.0.0 adapools.org
 0.0.0.0 adsbtc.fun
+0.0.0.0 aeon.xyz
 0.0.0.0 afinepool.xyz
+0.0.0.0 aiascan.com
+0.0.0.0 ailayer.xyz
 0.0.0.0 aionmine.org
 0.0.0.0 aipowergrid.io
 0.0.0.0 ajcryptominer.com
@@ -44,6 +48,8 @@
 0.0.0.0 altcoinpool.ru
 0.0.0.0 altcoinwarz.com
 0.0.0.0 altpool.eu
+0.0.0.0 alveyscan.com
+0.0.0.0 alveytestnet.com
 0.0.0.0 amberescoin.com
 0.0.0.0 amigacoin.org
 0.0.0.0 aminingpool.com
@@ -54,6 +60,7 @@
 0.0.0.0 antmining.com
 0.0.0.0 anyswap.exchange
 0.0.0.0 api.cryptonator.com
+0.0.0.0 applayer.com
 0.0.0.0 aprovl.com
 0.0.0.0 arabianchain.org
 0.0.0.0 argoneum.net
@@ -69,6 +76,7 @@
 0.0.0.0 ausminers.com
 0.0.0.0 aussie-pools.com
 0.0.0.0 authedminer.com
+0.0.0.0 autonity.org
 0.0.0.0 avescoin.io
 0.0.0.0 avn.network
 0.0.0.0 awesomeminer.com
@@ -86,6 +94,8 @@
 0.0.0.0 beeppool.org
 0.0.0.0 beldex.io
 0.0.0.0 bestchange.com
+0.0.0.0 bethscan.io
+0.0.0.0 bevm.io
 0.0.0.0 biblepay.org
 0.0.0.0 binancechain.io
 0.0.0.0 binance.cloud
@@ -159,9 +169,13 @@
 0.0.0.0 blockstack.org
 0.0.0.0 blockwarepool.com
 0.0.0.0 bluerockpools.net
+0.0.0.0 boolscan.com
+0.0.0.0 boomscan.io
 0.0.0.0 bowserlab.ddns.net
 0.0.0.0 braiins.com
+0.0.0.0 bronbro.io
 0.0.0.0 bsod.pw
+0.0.0.0 bsquared.network
 0.0.0.0 btc6x.com
 0.0.0.0 btc-alpha.com
 0.0.0.0 btcc.com
@@ -187,6 +201,7 @@
 0.0.0.0 bytepool.com
 0.0.0.0 c3pool.com
 0.0.0.0 cafebitcoin.com
+0.0.0.0 canxium.org
 0.0.0.0 capcut.pics
 0.0.0.0 cayunbtc.com
 0.0.0.0 cbtoken.me
@@ -315,6 +330,7 @@
 0.0.0.0 cryptoverse.eu
 0.0.0.0 cryptowat.ch
 0.0.0.0 crystaleum.org
+0.0.0.0 cuckoo.network
 0.0.0.0 currency.com
 0.0.0.0 d00.org
 0.0.0.0 dapool.io
@@ -323,11 +339,13 @@
 0.0.0.0 darwinia.network
 0.0.0.0 dashblockexplorer.com
 0.0.0.0 dashninja.pl
+0.0.0.0 dbcscan.io
 0.0.0.0 dcrblockexplorer.com
 0.0.0.0 dcrdata.org
 0.0.0.0 deadcoin.club
 0.0.0.0 debutech.de
 0.0.0.0 deepfields.io
+0.0.0.0 defi-verse.org
 0.0.0.0 dentacoin.com
 0.0.0.0 deribit.com
 0.0.0.0 deutsche-emark.org
@@ -347,9 +365,11 @@
 0.0.0.0 dogether.dog
 0.0.0.0 dogpool.one
 0.0.0.0 dominoprotocol.com
+0.0.0.0 doscan.io
 0.0.0.0 dpool.top
 0.0.0.0 dragonchain.com
 0.0.0.0 dragonpuddle.com
+0.0.0.0 duckchain.io
 0.0.0.0 dxmkt.com
 0.0.0.0 dxpool.com
 0.0.0.0 dydx.exchange
@@ -364,6 +384,7 @@
 0.0.0.0 edelcoin.com
 0.0.0.0 eelpool.com
 0.0.0.0 egem.io
+0.0.0.0 egoscan.io
 0.0.0.0 ekapool.com
 0.0.0.0 eleccoin.org
 0.0.0.0 electrum.org
@@ -374,6 +395,7 @@
 0.0.0.0 elysiumpool.com
 0.0.0.0 emc2.foundation
 0.0.0.0 emcd.io
+0.0.0.0 emcscan.com
 0.0.0.0 emeraldcrypto.de
 0.0.0.0 emercoin.com
 0.0.0.0 equihub.pro
@@ -382,6 +404,7 @@
 0.0.0.0 etc-pool.com
 0.0.0.0 etcturk.com
 0.0.0.0 ethcore.ru
+0.0.0.0 ethda.io
 0.0.0.0 ether1.org
 0.0.0.0 ethercore.io
 0.0.0.0 ethereum.org
@@ -395,13 +418,16 @@
 0.0.0.0 evepool.pw
 0.0.0.0 evergreencoin.org
 0.0.0.0 everstake.one
+0.0.0.0 evoexplorer.com
 0.0.0.0 evrpool.com
 0.0.0.0 excc.co
 0.0.0.0 exodus.com
 0.0.0.0 exploredvt.com
+0.0.0.0 exsat.network
 0.0.0.0 extremehash.io
 0.0.0.0 exx.com
 0.0.0.0 ezil.me
+0.0.0.0 facet.org
 0.0.0.0 farmine.net
 0.0.0.0 farringtonpool.com
 0.0.0.0 fastblockmining.com
@@ -435,7 +461,9 @@
 0.0.0.0 gate.io
 0.0.0.0 gcko.io
 0.0.0.0 gcpool.eu
+0.0.0.0 geb.network
 0.0.0.0 geckoterminal.com
+0.0.0.0 geekout-pte.com
 0.0.0.0 getbze.com
 0.0.0.0 getcrypto.info
 0.0.0.0 getgrass.io
@@ -457,6 +485,8 @@
 0.0.0.0 groestlcoin.org
 0.0.0.0 gteh.org
 0.0.0.0 h9.com
+0.0.0.0 haqq.network
+0.0.0.0 harmony.one
 0.0.0.0 hash.blue
 0.0.0.0 hashcity.org
 0.0.0.0 hashfaster.com
@@ -474,6 +504,7 @@
 0.0.0.0 hedgehog.app
 0.0.0.0 helius-rpc.com
 0.0.0.0 helpico.tech
+0.0.0.0 hemi.xyz
 0.0.0.0 herbsters.com
 0.0.0.0 hiveon.net
 0.0.0.0 hiveos.farm
@@ -486,11 +517,14 @@
 0.0.0.0 huobi.com
 0.0.0.0 huobipool.com
 0.0.0.0 huopool.com
+0.0.0.0 hydrachain.org
 0.0.0.0 hyperdonkey.com
+0.0.0.0 hypra.network
 0.0.0.0 ibotta1.cc
 0.0.0.0 icanmining.ru
 0.0.0.0 icrypto.media
 0.0.0.0 idcray.com
+0.0.0.0 iex.ec
 0.0.0.0 ihashrate.com
 0.0.0.0 ikpool.com
 0.0.0.0 inetrader.com
@@ -501,17 +535,21 @@
 0.0.0.0 ironfish.network
 0.0.0.0 isotopec.org
 0.0.0.0 jambler.io
+0.0.0.0 japanopenchain.org
+0.0.0.0 jibl2.com
 0.0.0.0 jjpool.fr
 0.0.0.0 joys.digital
 0.0.0.0 jup.ag
 0.0.0.0 jzero.xyz
 0.0.0.0 k1pool.com
+0.0.0.0 kalichain.com
 0.0.0.0 karbo.io
 0.0.0.0 karbowanec.com
 0.0.0.0 karlsencoin.com
 0.0.0.0 kaspa.org
 0.0.0.0 kaspa-pool.org
 0.0.0.0 kawkawcoin.org
+0.0.0.0 keeex.me
 0.0.0.0 keplr.app
 0.0.0.0 kievpool.com
 0.0.0.0 kiirocoin.org
@@ -519,6 +557,7 @@
 0.0.0.0 kiwifar.ms
 0.0.0.0 k-miners.com
 0.0.0.0 koii.network
+0.0.0.0 konetexplorer.io
 0.0.0.0 kouvr.com
 0.0.0.0 kraken.com
 0.0.0.0 kriptokyng.com
@@ -531,8 +570,10 @@
 0.0.0.0 kucoin.top
 0.0.0.0 kucoln.com
 0.0.0.0 kujira.app
+0.0.0.0 laikachain.dog
 0.0.0.0 lamba.top
 0.0.0.0 lanacoin.com
+0.0.0.0 laosnetwork.io
 0.0.0.0 latoken.com
 0.0.0.0 laurentiapool.org
 0.0.0.0 leafpool.com
@@ -541,12 +582,15 @@
 0.0.0.0 letshash.online
 0.0.0.0 leywapool.com
 0.0.0.0 liberty-pool.com
+0.0.0.0 lif3scout.com
 0.0.0.0 lightninginabox.co
 0.0.0.0 lightning.network
 0.0.0.0 lincoin.com
+0.0.0.0 linea.build
 0.0.0.0 litesolo.org
 0.0.0.0 livebitcoinnews.com
 0.0.0.0 llama.horse
+0.0.0.0 load.network
 0.0.0.0 localbetcoins.net
 0.0.0.0 lookup365.com
 0.0.0.0 loudmining.com
@@ -554,12 +598,16 @@
 0.0.0.0 luckymonster.pro
 0.0.0.0 luckypool.org
 0.0.0.0 ludicorp.com
+0.0.0.0 lummio.net
 0.0.0.0 m2pool.eu
 0.0.0.0 macyan.net
 0.0.0.0 magicpool.co
 0.0.0.0 majanetwork.com
 0.0.0.0 mangopool.eu
+0.0.0.0 mantle.xyz
 0.0.0.0 marapool.com
+0.0.0.0 matchscan.io
+0.0.0.0 maxi.network
 0.0.0.0 maxminers.net
 0.0.0.0 maxxchain.org
 0.0.0.0 mcmpool.eu
@@ -567,7 +615,10 @@
 0.0.0.0 mecrypto.club
 0.0.0.0 mempool.com
 0.0.0.0 merit.me
+0.0.0.0 metalscan.io
 0.0.0.0 metamask.io
+0.0.0.0 metisdevops.link
+0.0.0.0 metis.io
 0.0.0.0 mibpool.com
 0.0.0.0 microvisionchain.com
 0.0.0.0 millpools.cc
@@ -584,11 +635,13 @@
 0.0.0.0 minerpool.pro
 0.0.0.0 minerrocks.com
 0.0.0.0 miner.tokyo
+0.0.0.0 minexteam.com
 0.0.0.0 mineyguys.com
 0.0.0.0 mining4people.com
 0.0.0.0 miningandco.com
 0.0.0.0 mining.bittubeapp.com
 0.0.0.0 miningco.net
+0.0.0.0 miningethers.com
 0.0.0.0 miningfool.com
 0.0.0.0 mining-help.ru
 0.0.0.0 miningmadness.com
@@ -623,12 +676,15 @@
 0.0.0.0 multitrust.cc
 0.0.0.0 my2coins.com
 0.0.0.0 mycrypto.com
+0.0.0.0 mydefichain.com
 0.0.0.0 myetpminer.com
 0.0.0.0 myezcoin.com
 0.0.0.0 myminers.org
 0.0.0.0 my-mining-pool.de
 0.0.0.0 mymonero.com
 0.0.0.0 mynewmining.com
+0.0.0.0 nahmii.io
+0.0.0.0 nanon.network
 0.0.0.0 nanopool.org
 0.0.0.0 neoxa.net
 0.0.0.0 netcoins.ca
@@ -653,15 +709,21 @@
 0.0.0.0 nyxcoin.org
 0.0.0.0 ocean.xyz
 0.0.0.0 ocprotocol.com
+0.0.0.0 octa.space
 0.0.0.0 okcash.co
 0.0.0.0 okcoin.com
 0.0.0.0 okex.com
 0.0.0.0 okkong.com
 0.0.0.0 okminer.com
 0.0.0.0 okx.com
+0.0.0.0 omaxscan.com
 0.0.0.0 onebitco.com
 0.0.0.0 oneworldchain.org
+0.0.0.0 onfascan.com
 0.0.0.0 openchains.info
+0.0.0.0 optimusz7.com
+0.0.0.0 optopia.ai
+0.0.0.0 ozonescan.org
 0.0.0.0 p1pool.com
 0.0.0.0 p2p-spb.xyz
 0.0.0.0 paccoin.net
@@ -669,11 +731,14 @@
 0.0.0.0 pacificpool.ws
 0.0.0.0 pancakeswap.finance
 0.0.0.0 pandaminer.com
+0.0.0.0 pandorachain.org
 0.0.0.0 pangolinminer.com
 0.0.0.0 parity.io
+0.0.0.0 pburtlecreative.co.uk
 0.0.0.0 pdss2access.com
 0.0.0.0 peercoin.net
 0.0.0.0 pega-pool.com
+0.0.0.0 pego.network
 0.0.0.0 peopleland.net
 0.0.0.0 pesetadigital.es
 0.0.0.0 pexaproject.com
@@ -685,6 +750,8 @@
 0.0.0.0 pigrofelice.com
 0.0.0.0 pioncoin.org
 0.0.0.0 pirl.network
+0.0.0.0 pkrdscan.com
+0.0.0.0 planq.network
 0.0.0.0 pmpmining.com
 0.0.0.0 polcoin.pl
 0.0.0.0 poljkastarter.com
@@ -714,12 +781,16 @@
 0.0.0.0 prominerspool.org
 0.0.0.0 propool.ca
 0.0.0.0 proxynode.network
+0.0.0.0 publicnode.com
 0.0.0.0 public-pool.io
 0.0.0.0 pukkapool.com
+0.0.0.0 pwrlabs.io
+0.0.0.0 qitmeer.io
 0.0.0.0 quarkchain.io
 0.0.0.0 quicknode.com
 0.0.0.0 quiknode.pro
 0.0.0.0 qwertycoin.org
+0.0.0.0 racescan.io
 0.0.0.0 radiantexplorer.com
 0.0.0.0 radiant.ovh
 0.0.0.0 raptoreum.com
@@ -740,6 +811,7 @@
 0.0.0.0 reversedbitcoin.org
 0.0.0.0 richpool.pro
 0.0.0.0 rocknblock.io
+0.0.0.0 rollux.com
 0.0.0.0 rosebird.org
 0.0.0.0 rplant.xyz
 0.0.0.0 ru-poolbe.ru
@@ -749,6 +821,7 @@
 0.0.0.0 rwinfo.club
 0.0.0.0 rxdpool.com
 0.0.0.0 ryo-currency.com
+0.0.0.0 saakuru.network
 0.0.0.0 safex.io
 0.0.0.0 safex.org
 0.0.0.0 sargatxet.cloud
@@ -756,11 +829,14 @@
 0.0.0.0 saturnpool.com
 0.0.0.0 sbicrypto.com
 0.0.0.0 scalaproject.io
+0.0.0.0 scschain.com
 0.0.0.0 secpool.com
+0.0.0.0 sgverse.net
 0.0.0.0 shapeshift.com
 0.0.0.0 shardpool.io
 0.0.0.0 shibatoken.com
 0.0.0.0 shib.io
+0.0.0.0 shinescan.io
 0.0.0.0 sigmapool.com
 0.0.0.0 signumcoin.ro
 0.0.0.0 signumpool.com
@@ -783,8 +859,11 @@
 0.0.0.0 spotmecoin.com
 0.0.0.0 sprintpay.net
 0.0.0.0 squiremining.com
+0.0.0.0 srmscan.io
 0.0.0.0 stage.bittube.app
+0.0.0.0 statemesh.net
 0.0.0.0 steadyhash.org
+0.0.0.0 steamexchange.io
 0.0.0.0 steam-up.ru
 0.0.0.0 stex.com
 0.0.0.0 stohncoin.org
@@ -795,8 +874,12 @@
 0.0.0.0 supportcryptonight.com
 0.0.0.0 svpool.com
 0.0.0.0 swampthing.net
+0.0.0.0 swanchain.io
 0.0.0.0 taal.com
+0.0.0.0 tabiscan.com
+0.0.0.0 taker.xyz
 0.0.0.0 talkether.org
+0.0.0.0 tanenbaum.io
 0.0.0.0 tazmining.ch
 0.0.0.0 tbdice.org
 0.0.0.0 tecracoin.io
@@ -843,6 +926,7 @@
 0.0.0.0 ua-mining.com
 0.0.0.0 ukrpool.com
 0.0.0.0 ultimuspool.com
+0.0.0.0 unidex.exchange
 0.0.0.0 unipool.pro
 0.0.0.0 unique.network
 0.0.0.0 unmineable.com
@@ -860,12 +944,15 @@
 0.0.0.0 veriblockpool.com
 0.0.0.0 vericoin.info
 0.0.0.0 vertcoin.org
+0.0.0.0 veryscan.io
 0.0.0.0 viawallet.com
 0.0.0.0 vinchain.io
 0.0.0.0 vip69.ru
 0.0.0.0 vipbit.biz
 0.0.0.0 vipor.net
 0.0.0.0 virdpool.com
+0.0.0.0 vitruveo.xyz
+0.0.0.0 vizing.com
 0.0.0.0 volt-mine.com
 0.0.0.0 vvpool.com
 0.0.0.0 walemo.com
@@ -901,6 +988,7 @@
 0.0.0.0 xazab.xyz
 0.0.0.0 xchain.io
 0.0.0.0 xdagmine.com
+0.0.0.0 xga.com
 0.0.0.0 xingyun.io
 0.0.0.0 xlon.org
 0.0.0.0 xmrchain.net
@@ -927,6 +1015,7 @@
 0.0.0.0 zeroclassic.org
 0.0.0.0 zerocurrency.io
 0.0.0.0 zero.directory
+0.0.0.0 zero.network
 0.0.0.0 zeropool.io
 0.0.0.0 zetpool.org
 0.0.0.0 zet-tech.eu
@@ -934,3 +1023,5 @@
 0.0.0.0 zondacrypto.exchange
 0.0.0.0 ztyj0000.com
 0.0.0.0 zulupool.com
+0.0.0.0 zypher.game
+0.0.0.0 zypher.network

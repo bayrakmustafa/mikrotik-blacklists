@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 23 Aug 2025 16:21 UTC
-# Version: 2025.0823.1621.59
+# Last modified: 31 Aug 2025 08:21 UTC
+# Version: 2025.0831.0821.38
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1594
+# Number of entries: 1639
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -17,6 +17,7 @@
 0.0.0.0 dns.0x55.net
 0.0.0.0 123000123.xyz
 0.0.0.0 dns.13evl.com
+0.0.0.0 httpdns.c.163.com
 0.0.0.0 doh.18bit.cn
 0.0.0.0 cloud.198.games
 0.0.0.0 1and1-dns.de
@@ -140,6 +141,7 @@
 0.0.0.0 dns.asterimoon.com
 0.0.0.0 dns.asysec.com
 0.0.0.0 adguardhome.atakorah.com
+0.0.0.0 atris.cyou
 0.0.0.0 africa.avastdns.com
 0.0.0.0 secure.avastdns.com
 0.0.0.0 adguard.avdkishore.dev
@@ -353,6 +355,8 @@
 0.0.0.0 dns.datenquark.de
 0.0.0.0 dns.david888.com
 0.0.0.0 dns.daw.dev
+0.0.0.0 httpdns.platform.dbankcloud.cn
+0.0.0.0 cloudflares.ddns.net
 0.0.0.0 jit.ddns.net
 0.0.0.0 dns.deadsec.net
 0.0.0.0 dns.decky.eu
@@ -572,12 +576,10 @@
 0.0.0.0 dot.pub
 0.0.0.0 ns1.dotls.org
 0.0.0.0 dns.dotnet.win
-0.0.0.0 family.dns.doubleangels.com
 0.0.0.0 dns.dremaxx.de
 0.0.0.0 droyd.top
 0.0.0.0 doh.dscloud.me
 0.0.0.0 agh.dshubham.xyz
-0.0.0.0 home27.duckdns.org
 0.0.0.0 jurre-home.duckdns.org
 0.0.0.0 krtekvpn.duckdns.org
 0.0.0.0 osefcorp.duckdns.org
@@ -596,6 +598,7 @@
 0.0.0.0 doh.eddi.net
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
+0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -756,6 +759,7 @@
 0.0.0.0 inpssh.online
 0.0.0.0 qlf-doh.inria.fr
 0.0.0.0 dns.interhub.cc
+0.0.0.0 dns.iqiyi.com
 0.0.0.0 dns1.irumatech.com
 0.0.0.0 dns.is0mino.com
 0.0.0.0 mickedi.isgood.host
@@ -777,7 +781,6 @@
 0.0.0.0 adg.jnorton.us
 0.0.0.0 green2.jnraptor.net
 0.0.0.0 dns.joey01245.nl
-0.0.0.0 adguard.johanliebert.top
 0.0.0.0 johneldenring.lol
 0.0.0.0 child.joindns4.eu
 0.0.0.0 child-noads.joindns4.eu
@@ -917,6 +920,7 @@
 0.0.0.0 dns.meeo.win
 0.0.0.0 testguard.meexx.de
 0.0.0.0 meganerd.nl
+0.0.0.0 httpdnsvip.meituan.com
 0.0.0.0 dns.melvin2204.nl
 0.0.0.0 testaghome.meshkov.info
 0.0.0.0 dns.mestdag.fr
@@ -973,6 +977,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 dns.n23.io
 0.0.0.0 doh-ca.naftalie.net
@@ -1354,7 +1359,6 @@
 0.0.0.0 dns.superstefan.win
 0.0.0.0 dns.surfshark.com
 0.0.0.0 dns.surfsharkdns.com
-0.0.0.0 dns.surobe.com
 0.0.0.0 dns.sv-zauner.at
 0.0.0.0 dns.svoi.dev
 0.0.0.0 switch.ch
@@ -1415,7 +1419,6 @@
 0.0.0.0 dns.tryk.app
 0.0.0.0 doh.ibr.cs.tu-bs.de
 0.0.0.0 tujenasnaszato.xyz
-0.0.0.0 tuskythehusky.tech
 0.0.0.0 nat64.tuxis.nl
 0.0.0.0 adguard.twotigers.xyz
 0.0.0.0 dns.txq.life

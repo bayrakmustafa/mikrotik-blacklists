@@ -1,5 +1,5 @@
 # Easylist, parsed and mirrored by https://firebog.net
-# Updated 22AUG25 from https://easylist.to/easylist/easylist.txt
+# Updated 29AUG25 from https://easylist.to/easylist/easylist.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7,5 +7,3 @@
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://github.com/easylist/easylist#list-issues
 
-0.0.0.0 hb.collectiveaudience.cothird-party
-0.0.0.0 s.collectiveaudience.cothird-party

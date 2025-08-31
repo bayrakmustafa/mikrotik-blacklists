@@ -83,6 +83,7 @@
 0.0.0.0 sock*-goguardian.pusher.com
 0.0.0.0 tccd.douglas.
 0.0.0.0 beehiiv-adnetwork-production.s*.amazonaws.com
+0.0.0.0 telemetry.*.pvp.net
 0.0.0.0 analyzer*.fc2.com
 0.0.0.0 hba*.hepsiburada.com
 0.0.0.0 apiproxy-log-nlb-1f304af4d3ac01a4.elb.us-east-*.amazonaws.com

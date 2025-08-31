@@ -2,9 +2,15 @@
 0.0.0.0 foundations-x2024.cloud
 0.0.0.0 vnote-*.myqcloud.com
 0.0.0.0 testra*-covid.weebly.com
+0.0.0.0 rampostsouthafrican-*.codeanyapp.com
+0.0.0.0 download-wetransfer-*.vercel.app
 0.0.0.0 bingkasprogram-*.xdbng.com
+0.0.0.0 lnkdeka.standard.*.oortech.com
+0.0.0.0 my-ee-*.web.app
 0.0.0.0 apples-24x7-*.pages.dev
 0.0.0.0 icloud.apple-*.cn
+0.0.0.0 profile-ourtime.*.workers.dev
+0.0.0.0 voice-ourtime.*.workers.dev
 0.0.0.0 cardverify*-booking.com
 0.0.0.0 air-bnb.check-
 0.0.0.0 adobepd*.glitch.me

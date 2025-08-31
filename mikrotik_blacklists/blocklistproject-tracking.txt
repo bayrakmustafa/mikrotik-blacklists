@@ -1036,7 +1036,6 @@
 0.0.0.0 gwallet-qa.com
 0.0.0.0 gwallet.net
 0.0.0.0 ha44888.com
-0.0.0.0 hackers.lv
 0.0.0.0 hailiao520.com
 0.0.0.0 hardbouncemyemail.com
 0.0.0.0 hardofhearing.org

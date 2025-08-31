@@ -1,5 +1,5 @@
 # AdguardDNS, parsed and mirrored by https://firebog.net
-# Updated 22AUG25 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+# Updated 29AUG25 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -238,6 +238,7 @@
 0.0.0.0 a.jurnalu.ru
 0.0.0.0 a.kakoysegodnyaprazdnik.ru
 0.0.0.0 a.kubik3.ru
+0.0.0.0 algediduala.com
 0.0.0.0 alibabavip.xyz
 0.0.0.0 alibabavnn.com
 0.0.0.0 alibabavn.shop
@@ -603,6 +604,7 @@
 0.0.0.0 cpro.bdrmb.cn
 0.0.0.0 cpro.xixiliya.cn
 0.0.0.0 cracknhanh.com
+0.0.0.0 craxzapas.com
 0.0.0.0 cressbank.com
 0.0.0.0 crestfidubank.com
 0.0.0.0 crnsgngrpj.nl
@@ -792,7 +794,6 @@
 0.0.0.0 dragoncapitalvay.com
 0.0.0.0 drake4.xyz
 0.0.0.0 drakeesh.com
-0.0.0.0 drjs123.com
 0.0.0.0 drmcmm.baidu.com
 0.0.0.0 dtcltx.com
 0.0.0.0 dtdvmuadong-lienquan.com
@@ -1083,7 +1084,6 @@
 0.0.0.0 goat.nhimmeo.cf
 0.0.0.0 gocp.stroeermediabrands.de
 0.0.0.0 gomakemerich2.com
-0.0.0.0 goodvibe1.com
 0.0.0.0 goplay88.me
 0.0.0.0 goshop2018.com
 0.0.0.0 goshopback.vip
@@ -1331,6 +1331,7 @@
 0.0.0.0 jke1.jianke.com
 0.0.0.0 jo9p72.cyou
 0.0.0.0 jomashopsa.com
+0.0.0.0 joyletloggat.com
 0.0.0.0 js.bju888.com
 0.0.0.0 js.kt250.com
 0.0.0.0 js.oh100.com
@@ -1345,7 +1346,6 @@
 0.0.0.0 k1.wendahu.com
 0.0.0.0 kaan.kakao.com
 0.0.0.0 kajads.com
-0.0.0.0 kalmukrattail.com
 0.0.0.0 kaurroot.com
 0.0.0.0 kavay.vn
 0.0.0.0 kavietnam.xyz
@@ -2297,6 +2297,7 @@
 0.0.0.0 re.taotaosou.com
 0.0.0.0 revive.99mac.se
 0.0.0.0 revive.edgeflyfishing.com
+0.0.0.0 rhaphaecelts.com
 0.0.0.0 rhighest.cfd
 0.0.0.0 rickmomo.fun
 0.0.0.0 ridirre.com
@@ -3170,6 +3171,7 @@
 0.0.0.0 tmz.vo.llnwd.net
 0.0.0.0 toaaikhoongnhho-352614.click
 0.0.0.0 tochucthetindung.com
+0.0.0.0 togataurnfuls.com
 0.0.0.0 tomo5963.vip
 0.0.0.0 tongdaicaptruyenhinh.online
 0.0.0.0 tongdaifacebook.online
@@ -3314,7 +3316,6 @@
 0.0.0.0 tsofhormuz.cfd
 0.0.0.0 tsr.zlatoff.ru
 0.0.0.0 tt123.eastday.com
-0.0.0.0 ttad125.com
 0.0.0.0 ttb5.shop
 0.0.0.0 ttb6.shop
 0.0.0.0 ttb8.shop
@@ -3360,6 +3361,7 @@
 0.0.0.0 uhy89mb.com
 0.0.0.0 ullis-airbrush-shop.de
 0.0.0.0 umyugu88.ru
+0.0.0.0 uncotorture.com
 0.0.0.0 undertheguid.cfd
 0.0.0.0 undimangen.cfd
 0.0.0.0 undm.qibulo.com

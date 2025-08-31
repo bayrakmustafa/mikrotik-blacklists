@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 23,265
-# Updated: 8/23/2025  10:25 (10:25 AM CST)
+# Domains: 23,278
+# Updated: 8/28/2025  16:32 (4:32 PM CST)
 #
 0.0.0.0 03ab2paradisecdn.com
 0.0.0.0 0p1ohj2f5f.ru
@@ -484,6 +484,7 @@
 0.0.0.0 ip-casual.com
 0.0.0.0 ipiech.com
 0.0.0.0 iqtcqw.com
+0.0.0.0 iris.mwbsys.com
 0.0.0.0 iulftx.com
 0.0.0.0 iupgxu.com
 0.0.0.0 iw-adserver.com
@@ -937,6 +938,7 @@
 0.0.0.0 waryboot.pro
 0.0.0.0 watchtaro.com
 0.0.0.0 watieb.com
+0.0.0.0 wcpstatic.microsoft.com
 0.0.0.0 webadservices.in
 0.0.0.0 weird-lab.pro
 0.0.0.0 westpalmweb.com

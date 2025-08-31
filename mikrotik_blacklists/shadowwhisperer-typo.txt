@@ -36152,7 +36152,6 @@
 0.0.0.0 hotjmail.com
 0.0.0.0 hotkail.com
 0.0.0.0 hotkmail.com
-0.0.0.0 hotma11.com
 0.0.0.0 hotma1l.com
 0.0.0.0 hotma8il.com
 0.0.0.0 hotma8l.com
@@ -53996,7 +53995,6 @@
 0.0.0.0 pornprosn0twork.com
 0.0.0.0 pornprosnetworkc.om
 0.0.0.0 pornprosnetwork.om
-0.0.0.0 pornxub.com
 0.0.0.0 porogressive.com
 0.0.0.0 porotonmail.com
 0.0.0.0 porrseattle.org
@@ -61074,7 +61072,6 @@
 0.0.0.0 steamc9ntent.com
 0.0.0.0 steamc9ommunity.com
 0.0.0.0 steamc9ontent.com
-0.0.0.0 steamcammunity.com
 0.0.0.0 steamcantent.com
 0.0.0.0 steamccommunity.com
 0.0.0.0 steamccontent.com
@@ -61216,6 +61213,7 @@
 0.0.0.0 steamcommunoty.com
 0.0.0.0 steamcommunuity.com
 0.0.0.0 steamcommunuty.com
+0.0.0.0 steamcommuunity.com
 0.0.0.0 steamcommuynity.com
 0.0.0.0 steamcommvnity.com
 0.0.0.0 steamcommyunity.com
@@ -69061,7 +69059,6 @@
 0.0.0.0 whatseapp.com
 0.0.0.0 whatsopp.com
 0.0.0.0 whatspap.com
-0.0.0.0 whatspp.com
 0.0.0.0 whatsqapp.com
 0.0.0.0 whatsqpp.com
 0.0.0.0 whatssapp.com
@@ -72747,7 +72744,6 @@
 0.0.0.0 yioutube.com
 0.0.0.0 yioutubekids.com
 0.0.0.0 yithub.com
-0.0.0.0 yiutube.com
 0.0.0.0 yiutubekids.com
 0.0.0.0 yjahoo.com
 0.0.0.0 yjale.edu
@@ -72793,7 +72789,6 @@
 0.0.0.0 yohtubekids.com
 0.0.0.0 yohutube.com
 0.0.0.0 yohutubekids.com
-0.0.0.0 yoitube.com
 0.0.0.0 yoitubekids.com
 0.0.0.0 yoiutube.com
 0.0.0.0 yoiutubekids.com
@@ -73123,7 +73118,6 @@
 0.0.0.0 youtubeoids.com
 0.0.0.0 youtubeokids.com
 0.0.0.0 youtube.om
-0.0.0.0 youtuber.com
 0.0.0.0 youtuberkids.com
 0.0.0.0 youtubes.com
 0.0.0.0 youtubeskids.com
