@@ -41,7 +41,6 @@
 0.0.0.0 santanderpod.*.co.uk
 0.0.0.0 dhl.*.potabox.com
 0.0.0.0 instagram0639.blogspot.
-0.0.0.0 slimhealth.us
 0.0.0.0 business-facebook-*.pages.dev
 0.0.0.0 govern-assessment-validation-*.vercel.app
 0.0.0.0 support-center-for-*.vercel.app
@@ -87,7 +86,6 @@
 0.0.0.0 lcldetecthumainweb*.firebaseapp.com
 0.0.0.0 nhantienquocte*.vercel.app
 0.0.0.0 westernunion*.wixsite.com
-0.0.0.0 arciansi.su
 0.0.0.0 marketplace-item-*.000.pe
 0.0.0.0 ajmaboxanherulv*.b-cdn.net
 0.0.0.0 anti-automation-v*.b-cdn.net

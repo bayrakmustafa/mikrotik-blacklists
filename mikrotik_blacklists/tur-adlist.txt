@@ -38,6 +38,7 @@
 0.0.0.0 adserver.advrstcdn.com
 0.0.0.0 adshare3.freedocast.com
 0.0.0.0 adv.letitbit.net
+0.0.0.0 advertag.in
 0.0.0.0 advertising.bulurum.com
 0.0.0.0 adx.ligadx.com
 0.0.0.0 aff.tamvakti.com

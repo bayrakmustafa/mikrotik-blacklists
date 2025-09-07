@@ -706,6 +706,7 @@
 0.0.0.0 d3oxtn1x3b8d7i.cloudfront.net
 0.0.0.0 d3ujids68p6xmp.cloudfront.net
 0.0.0.0 danuoyi.alicdn.com
+0.0.0.0 daphnecm.com
 0.0.0.0 databureau.com
 0.0.0.0 databureau.net
 0.0.0.0 databuro.com
@@ -2536,6 +2537,7 @@
 0.0.0.0 reddadd.net
 0.0.0.0 redfacflowms.com
 0.0.0.0 redirect.disqus.com
+0.0.0.0 redirecting2.net
 0.0.0.0 redrevmsmt.com
 0.0.0.0 redstar.co.uk
 0.0.0.0 redzumsmtva.com

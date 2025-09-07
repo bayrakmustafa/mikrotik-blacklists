@@ -1,5 +1,5 @@
 # AdguardDNS, parsed and mirrored by https://firebog.net
-# Updated 29AUG25 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+# Updated 05SEP25 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -182,7 +182,6 @@
 0.0.0.0 adsharedwi897th.cfd
 0.0.0.0 adshows.21cn.com
 0.0.0.0 ads.igfhaber.com
-0.0.0.0 adskav.com
 0.0.0.0 ads.linksrequest.com
 0.0.0.0 ads.livetvcdn.net
 0.0.0.0 ads.oyungemisi.com
@@ -198,7 +197,6 @@
 0.0.0.0 a.duanmeiwen.com
 0.0.0.0 a.duduji.com
 0.0.0.0 adultoafiliados.com.br
-0.0.0.0 advn.ir
 0.0.0.0 ad.vo-media.ru
 0.0.0.0 ad.walkgame.com
 0.0.0.0 adw.heraldm.com
@@ -1827,6 +1825,7 @@
 0.0.0.0 mucvidientu24-7.com
 0.0.0.0 mucvidientuvietnam247.com
 0.0.0.0 mucvinganhangso247.com
+0.0.0.0 muzjikspanman.com
 0.0.0.0 m.vncongthue.top
 0.0.0.0 m.vnsc-finhay.com
 0.0.0.0 mxn191102201nm.click
@@ -4121,6 +4120,7 @@
 0.0.0.0 xuexi.hydcd.com
 0.0.0.0 x.yaohuo.me
 0.0.0.0 ybcnvqf.cn
+0.0.0.0 ycq.cab
 0.0.0.0 yeumomo.me
 0.0.0.0 yijfdsu.cn
 0.0.0.0 yijiuningyia.gushiwen.org

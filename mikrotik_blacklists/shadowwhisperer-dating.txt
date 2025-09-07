@@ -1,8 +1,8 @@
 #
 #    File: Dating
 #    Info: Dating Sites
-# Domains: 1,107
-# Updated: 8/28/2025  13:59 (1:59 PM CST)
+# Domains: 1,150
+# Updated: 9/4/2025  21:11 (9:11 PM CST)
 #
 0.0.0.0 1000-dating-sites.com
 0.0.0.0 10meilleurssitesderencontre.fr
@@ -82,7 +82,6 @@
 0.0.0.0 be2.at
 0.0.0.0 be2.com.ar
 0.0.0.0 be2.de
-0.0.0.0 be2.es
 0.0.0.0 be2.fr
 0.0.0.0 be2.se
 0.0.0.0 behappy2day.com
@@ -137,7 +136,6 @@
 0.0.0.0 classicfmromance.com
 0.0.0.0 clubedamizade.com
 0.0.0.0 clubreseau.com
-0.0.0.0 clubs-de-rencontres.fr
 0.0.0.0 connectingsingles.com
 0.0.0.0 contactsingles.co.uk
 0.0.0.0 cooldating.be
@@ -162,8 +160,38 @@
 0.0.0.0 datecougar.net
 0.0.0.0 dateforeal.com
 0.0.0.0 datefromukraine.com
+0.0.0.0 date-in-aachen.de
+0.0.0.0 date-in-augsburg.de
+0.0.0.0 date-in-berlin.de
+0.0.0.0 date-in-bielefeld.de
+0.0.0.0 date-in-bochum.de
+0.0.0.0 date-in-bonn.de
+0.0.0.0 date-in-bremen.de
+0.0.0.0 date-in-chemnitz.de
+0.0.0.0 date-in-dortmund.de
+0.0.0.0 date-in-dresden.de
+0.0.0.0 date-in-duesseldorf.de
+0.0.0.0 date-in-duisburg.de
+0.0.0.0 date-in-essen.de
+0.0.0.0 date-in-frankfurt.de
+0.0.0.0 date-in-halle.de
+0.0.0.0 date-in-hamburg.de
+0.0.0.0 date-in-hannover.de
+0.0.0.0 date-in-karlsruhe.de
+0.0.0.0 date-in-kiel.de
+0.0.0.0 date-in-koeln.de
+0.0.0.0 date-in-leipzig.de
+0.0.0.0 date-in-mannheim.de
+0.0.0.0 date-in-muenchen.de
+0.0.0.0 date-in-muenster.de
+0.0.0.0 date-in-nuernberg.de
+0.0.0.0 date-in-potsdam.de
+0.0.0.0 date-in-rostock.de
 0.0.0.0 dateinspire.com
-0.0.0.0 dateland.co.il
+0.0.0.0 date-in-stuttgart.de
+0.0.0.0 date-in-wiesbaden.de
+0.0.0.0 date-in-wuppertal.de
+0.0.0.0 date-in-zuerich.ch
 0.0.0.0 dateleicestershiresingles.co.uk
 0.0.0.0 datelinknetworks.com
 0.0.0.0 date-local-gays.com
@@ -184,6 +212,7 @@
 0.0.0.0 dating-center.com
 0.0.0.0 dating-central.net
 0.0.0.0 dating.com
+0.0.0.0 datingfantastic.com
 0.0.0.0 dating-finder.com
 0.0.0.0 datingforseniors.com
 0.0.0.0 datingfriendships.com
@@ -315,6 +344,7 @@
 0.0.0.0 drawingdownthemoon.co.uk
 0.0.0.0 dzf1174d4gjln.cloudfront.net
 0.0.0.0 easternhoneys.com
+0.0.0.0 easy-chat.net
 0.0.0.0 edarling.com
 0.0.0.0 edarling.fr
 0.0.0.0 edate.com
@@ -358,7 +388,6 @@
 0.0.0.0 foreignbridesru.com
 0.0.0.0 fotochat.com
 0.0.0.0 francekam.com
-0.0.0.0 freegaydatingapps.com
 0.0.0.0 freemeet.net
 0.0.0.0 friendscout24.ch
 0.0.0.0 friendscout24.es
@@ -389,6 +418,7 @@
 0.0.0.0 gothscene.com
 0.0.0.0 gotinder.com
 0.0.0.0 gotthem.com
+0.0.0.0 gratissexkontakt.com
 0.0.0.0 greensingles.net
 0.0.0.0 groony.com
 0.0.0.0 guidedenuit.com
@@ -423,6 +453,7 @@
 0.0.0.0 ima-dating.com
 0.0.0.0 images.prod.boo.dating
 0.0.0.0 incontramilf.com
+0.0.0.0 incontricasual.net
 0.0.0.0 incontriromantici.it
 0.0.0.0 inter-mariage.com
 0.0.0.0 internationalcupid.com
@@ -464,8 +495,9 @@
 0.0.0.0 latinamericancupid.com
 0.0.0.0 latinoswingers.com
 0.0.0.0 latinparejas.com
-0.0.0.0 lavaplace.com
+0.0.0.0 lavalife.com
 0.0.0.0 lavenderslove.com
+0.0.0.0 lekdate.no
 0.0.0.0 lesbianmatchmaker.com.au
 0.0.0.0 letsbond.com
 0.0.0.0 letsmeet.com
@@ -510,9 +542,9 @@
 0.0.0.0 lyad.fr
 0.0.0.0 maatjie.com
 0.0.0.0 manwoman.com.au
-0.0.0.0 mariadating.com
 0.0.0.0 marihuanadating.com
 0.0.0.0 matchmaker.co.za
+0.0.0.0 maturerelationship.com
 0.0.0.0 maxi-offerte.com
 0.0.0.0 mazaltov.org
 0.0.0.0 meeta-img.com
@@ -545,10 +577,8 @@
 0.0.0.0 mexicancupid.com
 0.0.0.0 midsummerseve.com
 0.0.0.0 mignons.net
-0.0.0.0 milalol.com
 0.0.0.0 minglematey.com
 0.0.0.0 miss34.com
-0.0.0.0 mixeddating.net
 0.0.0.0 monamour.ru
 0.0.0.0 mon-bled.com
 0.0.0.0 monsecretsexy.com
@@ -558,6 +588,7 @@
 0.0.0.0 myfunkyfish.com
 0.0.0.0 mysinglefriend.com
 0.0.0.0 nationsingles.com
+0.0.0.0 neckdate.de
 0.0.0.0 neu.ch
 0.0.0.0 new-dating.com
 0.0.0.0 newmeet.com
@@ -570,6 +601,7 @@
 0.0.0.0 okccdn.com
 0.0.0.0 oknotify2.com
 0.0.0.0 onadate.com
+0.0.0.0 onenight-stand.eu
 0.0.0.0 onewife.com
 0.0.0.0 onlinedatingconnect.com
 0.0.0.0 onlinedatingerfolg.com
@@ -587,6 +619,7 @@
 0.0.0.0 over50datingnorge.com
 0.0.0.0 parisvideochat.com
 0.0.0.0 parship.ch
+0.0.0.0 parship.com
 0.0.0.0 partner-services.com
 0.0.0.0 peekabooheart.com
 0.0.0.0 pentecostalpeoplemeet.com
@@ -607,6 +640,7 @@
 0.0.0.0 professionalpeoplemeet.com
 0.0.0.0 proximeety.com
 0.0.0.0 proximeety.gr
+0.0.0.0 pure-app.com
 0.0.0.0 quality-singles.com
 0.0.0.0 questchat.com
 0.0.0.0 radar-rencontres.fr
@@ -745,6 +779,7 @@
 0.0.0.0 russian-enigma.com
 0.0.0.0 russian-women-dating.net
 0.0.0.0 russ-love.com
+0.0.0.0 scandimatch.com
 0.0.0.0 schweizerhotchat.com
 0.0.0.0 scotsgodating.com
 0.0.0.0 scottish-dating.co.uk
@@ -796,6 +831,7 @@
 0.0.0.0 speed-dating-lyon.com
 0.0.0.0 speeddatingmontreal.com
 0.0.0.0 sportdatingplanet.com
+0.0.0.0 sportydates.de
 0.0.0.0 sturb.com
 0.0.0.0 suchejetzt.com
 0.0.0.0 sugarmatchmaking.com
@@ -845,6 +881,7 @@
 0.0.0.0 u-rencontres.com
 0.0.0.0 valentimatchmaking.com
 0.0.0.0 veemance.com.au
+0.0.0.0 vegadating.com
 0.0.0.0 vegaia.com
 0.0.0.0 vegandatinguk.co.uk
 0.0.0.0 veganland.io

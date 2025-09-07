@@ -688,6 +688,7 @@
 0.0.0.0 bitlylinks.com
 0.0.0.0 bitly.mobi
 0.0.0.0 b-i-t-l-y.net
+0.0.0.0 bitly.net
 0.0.0.0 bitly.network
 0.0.0.0 bitly.pw
 0.0.0.0 bitly.team
@@ -824,7 +825,6 @@
 0.0.0.0 buka.wine
 0.0.0.0 bulink.co
 0.0.0.0 bulkurlshortener.com
-0.0.0.0 buly.kr
 0.0.0.0 bumpnt.com
 0.0.0.0 buprg.sbs
 0.0.0.0 burma123.life
@@ -2347,7 +2347,6 @@
 0.0.0.0 kulink.me
 0.0.0.0 kulturaff.info
 0.0.0.0 kuoo.life
-0.0.0.0 kurl.ru
 0.0.0.0 kurv.gr
 0.0.0.0 kurz.jetzt
 0.0.0.0 kuty.me
@@ -4223,6 +4222,7 @@
 0.0.0.0 smr.to
 0.0.0.0 sms.club
 0.0.0.0 sm-s.in
+0.0.0.0 sms-my.com
 0.0.0.0 smurl.fr
 0.0.0.0 smurl.link
 0.0.0.0 snapadd.net
@@ -4370,6 +4370,7 @@
 0.0.0.0 szjrw.sbs
 0.0.0.0 t111.info
 0.0.0.0 t111.pro
+0.0.0.0 t2m.co
 0.0.0.0 t77reg.click
 0.0.0.0 taedy.com
 0.0.0.0 tahmil.net

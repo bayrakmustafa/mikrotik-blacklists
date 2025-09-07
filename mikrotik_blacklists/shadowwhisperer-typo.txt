@@ -29415,6 +29415,7 @@
 0.0.0.0 goo9gle.de
 0.0.0.0 goo9gle.es
 0.0.0.0 goo9gle.fr
+0.0.0.0 goo9gle.it
 0.0.0.0 goo9gle.nl
 0.0.0.0 goo9gle.no
 0.0.0.0 goo9gle.pl
@@ -61072,6 +61073,7 @@
 0.0.0.0 steamc9ntent.com
 0.0.0.0 steamc9ommunity.com
 0.0.0.0 steamc9ontent.com
+0.0.0.0 steamcammunity.com
 0.0.0.0 steamcantent.com
 0.0.0.0 steamccommunity.com
 0.0.0.0 steamccontent.com
@@ -61128,6 +61130,7 @@
 0.0.0.0 steamcommhunity.com
 0.0.0.0 steamcommiunity.com
 0.0.0.0 steamcommjnity.com
+0.0.0.0 steamcommjunity.com
 0.0.0.0 steamcommknity.com
 0.0.0.0 steamcommkunity.com
 0.0.0.0 steamcommmunity.com
@@ -61198,6 +61201,7 @@
 0.0.0.0 steamcommunityj.com
 0.0.0.0 steamcommunityt.com
 0.0.0.0 steamcommunityu.com
+0.0.0.0 steamcommunityy.com
 0.0.0.0 steamcommuniuty.com
 0.0.0.0 steamcommuniy.com
 0.0.0.0 steamcommuniyty.com

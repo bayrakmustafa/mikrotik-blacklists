@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 31 Aug 2025 08:21 UTC
-# Version: 2025.0831.0821.38
+# Last modified: 07 Sep 2025 12:18 UTC
+# Version: 2025.0907.1218.37
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1639
+# Number of entries: 1636
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -596,9 +596,9 @@
 0.0.0.0 easyhandshake.com
 0.0.0.0 dns.eddi.net
 0.0.0.0 doh.eddi.net
+0.0.0.0 dns.edgeburnmedia.com
 0.0.0.0 dns.tuna.tsinghua.edu.cn
 0.0.0.0 adguard.ef67daisuki.club
-0.0.0.0 dns.efficientdocuments.com
 0.0.0.0 hole.elbschloss.xyz
 0.0.0.0 dns.elemental.software
 0.0.0.0 eliatofani.ovh
@@ -614,6 +614,7 @@
 0.0.0.0 opennic1.eth-services.de
 0.0.0.0 arashi.eu.org
 0.0.0.0 armorrush.eu.org
+0.0.0.0 doh.excdn.eu.org
 0.0.0.0 dns.fullaccesstointernet.jp.eu.org
 0.0.0.0 dns.mayx.eu.org
 0.0.0.0 arashi.net.eu.org
@@ -641,6 +642,7 @@
 0.0.0.0 dns.filipccz.eu
 0.0.0.0 doh.flashstart.com
 0.0.0.0 dns.flatuslifir.is
+0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
 0.0.0.0 ns1.flodns.net
 0.0.0.0 ns2.flodns.net
@@ -705,7 +707,6 @@
 0.0.0.0 adguard.hartley.cloud
 0.0.0.0 query.hdns.io
 0.0.0.0 dns.hellozhao.com
-0.0.0.0 dns.henek.ovh
 0.0.0.0 himedns.com
 0.0.0.0 dns.hinet.net
 0.0.0.0 hitian.me
@@ -880,9 +881,7 @@
 0.0.0.0 doh.phdns4.lonet.org
 0.0.0.0 doh.phdns5.lonet.org
 0.0.0.0 n5.lsasss.com
-0.0.0.0 lukscasino-479-tr.xyz
 0.0.0.0 lukscasino-542-tr.xyz
-0.0.0.0 lukscasino-929-tr.xyz
 0.0.0.0 dns.luma-medien.com
 0.0.0.0 orau.lz0724.com
 0.0.0.0 addns1.m-it.ro
@@ -977,7 +976,6 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
-0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 dns.n23.io
 0.0.0.0 doh-ca.naftalie.net
@@ -1369,7 +1367,6 @@
 0.0.0.0 doh.sz-dns.com
 0.0.0.0 dns.szpadel.ovh
 0.0.0.0 dns.t-ipnet.de
-0.0.0.0 tecdrive.site
 0.0.0.0 dns1.techeasy.org
 0.0.0.0 vpn.technicule.info
 0.0.0.0 doh.technochat.in
@@ -1389,7 +1386,6 @@
 0.0.0.0 dns.therifleman.name
 0.0.0.0 blocker.thethorsens.org
 0.0.0.0 doh.thio.me
-0.0.0.0 dns.thiz.top
 0.0.0.0 doh.tiar.app
 0.0.0.0 dot.tiar.app
 0.0.0.0 jp.tiar.app
@@ -1402,6 +1398,7 @@
 0.0.0.0 dns.tipsy.coffee
 0.0.0.0 tk31z.com
 0.0.0.0 dns.tls-data.de
+0.0.0.0 tlz.asia
 0.0.0.0 d.toairs.com
 0.0.0.0 dot.tooli.ca
 0.0.0.0 nsc.torgues.net
@@ -1454,7 +1451,6 @@
 0.0.0.0 vorlif.org
 0.0.0.0 vtcuong.site
 0.0.0.0 dns.w3ctag.org
-0.0.0.0 dns.wahr.top
 0.0.0.0 aqua.is.my.waifu.cz
 0.0.0.0 darkness.is.my.waifu.cz
 0.0.0.0 megumin.is.my.waifu.cz
@@ -1488,6 +1484,7 @@
 0.0.0.0 xholgm.top
 0.0.0.0 agh.xinfeng16m.top
 0.0.0.0 dns.xlion.tw
+0.0.0.0 xmr.land
 0.0.0.0 xn--durhre-yxa.de
 0.0.0.0 xorbiadns.com
 0.0.0.0 dns.xuming.studio
