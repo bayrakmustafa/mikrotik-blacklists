@@ -3,9 +3,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 05 September 2025 15:26:50 (UTC)
+# Date: 09 September 2025 00:47:08 (UTC)
 # Extensions added to this file: fakenews, gambling, porn
-# Number of unique domains: 325,664
+# Number of unique domains: 329,635
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2047,7 +2047,6 @@
 0.0.0.0 0hx.26847653.xyz
 0.0.0.0 0hx.74365245.xyz
 0.0.0.0 0ix.76344245.xyz
-0.0.0.0 0jx.66481547.xyz
 0.0.0.0 0jx.89154812.xyz
 0.0.0.0 0kcrmx6fe8giahw.lorp92.pl
 0.0.0.0 0lk.71109289.xyz
@@ -2070,12 +2069,7 @@
 0.0.0.0 0olx.2658758.xyz
 0.0.0.0 0xl.08417481.xyz
 0.0.0.0 0y4cj5txkzinrov.vtvsa.pl
-0.0.0.0 01-x.08176305.xyz
-0.0.0.0 01-x.38176305.xyz
-0.0.0.0 01-x.68176305.xyz
-0.0.0.0 01-x.74978051.xyz
 0.0.0.0 01-x.88715482.xyz
-0.0.0.0 01-x.94978051.xyz
 0.0.0.0 1hp0st.37845179.xyz
 0.0.0.0 01lx.09281547.xyz
 0.0.0.0 1lydodi.netlify.app
@@ -2083,7 +2077,6 @@
 0.0.0.0 1mpost.48915487.xyz
 0.0.0.0 01x.5209019.xyz
 0.0.0.0 01x.08475481.xyz
-0.0.0.0 01x.45412796.xyz
 0.0.0.0 01x.45476110.xyz
 0.0.0.0 01x.78475481.xyz
 0.0.0.0 01x.80743653.xyz
@@ -2097,6 +2090,7 @@
 0.0.0.0 46k0pjeydb5zmtw.vtvsa.pl
 0.0.0.0 67e4c1744367918342048b0a--coruscating-cuchufli-1e6840.netlify.app
 0.0.0.0 68a839e6b48f761c442289da--whimsical-salmiakki-1469b4.netlify.app
+0.0.0.0 77b4.netlify.app
 0.0.0.0 123mopie.nwsautodaily.com
 0.0.0.0 123randkujemy.pl
 0.0.0.0 689b753f7bec080902be5854--precious-entremet-79ff84.netlify.app
@@ -2104,6 +2098,7 @@
 0.0.0.0 1310z.netlify.app
 0.0.0.0 09025e.netlify.app
 0.0.0.0 544633ce-53fe-4dd6-a084-bba33e23c92d.netlify.app
+0.0.0.0 a180.netlify.app
 0.0.0.0 a936xvo44xy25lkh8ztk3g7o.blob.core.windows.net
 0.0.0.0 about.enea.store
 0.0.0.0 access.corevistaflow.info
@@ -2119,15 +2114,10 @@
 0.0.0.0 allepro.57876483.xyz
 0.0.0.0 alnistratorslowing.viewdns.net
 0.0.0.0 amazonpl028429.pl
-0.0.0.0 ams3.bestinvestoptions.cfd
-0.0.0.0 ams3.chicappareloutlet.cyou
-0.0.0.0 ams3.futureinvestguide.cfd
-0.0.0.0 ams3.sportcircleconnect.cyou
 0.0.0.0 ams5w6nrxzq2lpf.vtvsa.pl
 0.0.0.0 ams.globalimpactnews.cyou
 0.0.0.0 apidevzz.buzz
 0.0.0.0 apifixzz.buzz
-0.0.0.0 app009-server.lmmortal-rose.com
 0.0.0.0 appcare-zmail-cloudupdate-9dd2eb.netlify.app
 0.0.0.0 appwweb-renew.ca
 0.0.0.0 article.craftsman-nabeo.info
@@ -2157,7 +2147,6 @@
 0.0.0.0 booking.com-login.live
 0.0.0.0 boro.widgetmarkething.com
 0.0.0.0 brightwavehub.top
-0.0.0.0 buddacash.top
 0.0.0.0 business-ngocmombudam123.netlify.app
 0.0.0.0 business-ngocmomkhonvcl.netlify.app
 0.0.0.0 business-ngocmomlayvo2205.netlify.app
@@ -2168,6 +2157,7 @@
 0.0.0.0 case-id-100020423.dafea.co.uk
 0.0.0.0 case-id-100038843.dafea.co.uk
 0.0.0.0 cauco-store.fr
+0.0.0.0 cb9c.netlify.app
 0.0.0.0 cdaflix.pl
 0.0.0.0 cdpa.pl
 0.0.0.0 ceka.widgetmarkething.com
@@ -2190,27 +2180,21 @@
 0.0.0.0 cont-dost.shop
 0.0.0.0 contr-pdtw.shop
 0.0.0.0 cosmicrayreview.top
-0.0.0.0 cotopaxilink.shop
 0.0.0.0 cutil.iverity.site
 0.0.0.0 cyberfolks0poczta.blob.core.windows.net
 0.0.0.0 cyberfolkskomunikat.blob.core.windows.net
 0.0.0.0 czwestfield.vip
-0.0.0.0 d2f548.cc
 0.0.0.0 d2y8g1hhn4k7zr.cloudfront.net
 0.0.0.0 d8wj17bovxl46ac.vtvsa.pl
 0.0.0.0 d-pd.47490432.xyz
 0.0.0.0 danubefuture.eu
 0.0.0.0 dappx-tools.shop
 0.0.0.0 dashing-blancmange-9c5608.netlify.app
-0.0.0.0 dczcx.fbclasi.top
-0.0.0.0 dd-pd.75412796.xyz
 0.0.0.0 ddp-d.68715481.xyz
 0.0.0.0 ddp-d.78715481.xyz
 0.0.0.0 ddp-d.98715481.xyz
-0.0.0.0 ddp.32781543.xyz
 0.0.0.0 ddpd.61091826.xyz
 0.0.0.0 demvutruong201-helpcenter.netlify.app
-0.0.0.0 dermalogikamed.pl
 0.0.0.0 digfx2s6jrzlymu.h2i39.pl
 0.0.0.0 disney.plus-show.tv
 0.0.0.0 disney.plus-tv.show
@@ -2227,7 +2211,6 @@
 0.0.0.0 dtdwey.shop
 0.0.0.0 duatienday1.netlify.app
 0.0.0.0 dyreim09uky1.cloudfront.net
-0.0.0.0 dzik2.com.pl
 0.0.0.0 e3n.l7w4c6.cfd
 0.0.0.0 e4.axshddjc.ru
 0.0.0.0 ebookeo.pl
@@ -2235,11 +2218,9 @@
 0.0.0.0 efwhsw.blogspot.pt
 0.0.0.0 ejnuiojk32e89ruewis.pages.dev
 0.0.0.0 elakkella-fi-kampanja.com
-0.0.0.0 emailcenter.dandalion.top
 0.0.0.0 emailzone.fervenmind.top
 0.0.0.0 energyy.green-tops.com
 0.0.0.0 ennppleaa.activeelec.com
-0.0.0.0 epaymentapps23docx.d21ur8hz5quupk.amplifyapp.com
 0.0.0.0 epocztahomepl42.blob.core.windows.net
 0.0.0.0 eporhknmioejkre.pages.dev
 0.0.0.0 eu.nmola.click
@@ -2259,11 +2240,9 @@
 0.0.0.0 filmycdaonline.wordpress.com
 0.0.0.0 filmydownload.wordpress.com
 0.0.0.0 filmyplus.pl
-0.0.0.0 fimobiili-kampanja.com
 0.0.0.0 fitnesstips.pl
 0.0.0.0 fn8h10em6b5a2ls.qpl2.pl
 0.0.0.0 frolicking-brigadeiros-df014ecollater.netlify.app
-0.0.0.0 frontdayz.buzz
 0.0.0.0 g2lq8.top
 0.0.0.0 g2spl6.top
 0.0.0.0 g2spw1.top
@@ -2277,7 +2256,6 @@
 0.0.0.0 go.dnivergo.sbs
 0.0.0.0 go.eltonain.sbs
 0.0.0.0 go.maxemole.sbs
-0.0.0.0 go.megabubbles.sbs
 0.0.0.0 go.thehoth.com
 0.0.0.0 go.vtyfiken.sbs
 0.0.0.0 golf2iy6vhsrdap.plti2.pl
@@ -2309,8 +2287,6 @@
 0.0.0.0 id2847.pl
 0.0.0.0 iejonruehia9i.pages.dev
 0.0.0.0 ihqost.65746367.xyz
-0.0.0.0 ilpost.05487982.xyz
-0.0.0.0 ilpost.95487982.xyz
 0.0.0.0 impil.mgconv.site
 0.0.0.0 impost.56458361.xyz
 0.0.0.0 impost.96344245.xyz
@@ -2319,9 +2295,7 @@
 0.0.0.0 inp0st.27309383.xyz
 0.0.0.0 inposf.15746367.xyz
 0.0.0.0 interia.weryfikacjakontapoczty.top
-0.0.0.0 invest.earthstrata.sbs
 0.0.0.0 investpl.online
-0.0.0.0 ivp0st.23490548.xyz
 0.0.0.0 jacob-jones.club
 0.0.0.0 jh9spl.top
 0.0.0.0 jhp0st.05154815.xyz
@@ -2337,7 +2311,6 @@
 0.0.0.0 johnnygrip.top
 0.0.0.0 jovial-blancmange-fb169e.netlify.app
 0.0.0.0 jufemo.gadgetbazaar.st
-0.0.0.0 juhuko.gadgetscartcom.com
 0.0.0.0 juso.zapstoretel.com
 0.0.0.0 justwatch.asia
 0.0.0.0 k8u3pvq7iz5wlof.vtvsa.pl
@@ -2392,19 +2365,15 @@
 0.0.0.0 mental.probroer.top
 0.0.0.0 mfcgetr67lq9u4i.platnosci-winetfix.cfd
 0.0.0.0 milf-finder.pl
-0.0.0.0 mitl.neonics.site
 0.0.0.0 miylo.butteryjal.site
 0.0.0.0 mobiili-fi-kampanja.com
 0.0.0.0 mobillecampaiiqnsg.com
-0.0.0.0 mobyw.keycaps.sbs
 0.0.0.0 moku.surveyrewardsclub.store
-0.0.0.0 momentummirror.top
 0.0.0.0 morremorebns.com
 0.0.0.0 mpy9i7btnz8afqv.tvshna.pl
 0.0.0.0 multifilmy.pl
 0.0.0.0 n3bqpzloamdrxw8.nbro2.pl
 0.0.0.0 name.doxapolis.com
-0.0.0.0 nanospoty.com
 0.0.0.0 nanoze2019ogladajbezlimituonlinezalukaj.wordpress.com
 0.0.0.0 neftlixpl-aktualizacja.com.pl
 0.0.0.0 neon-semolina-bc69bc.netlify.app
@@ -2439,11 +2408,8 @@
 0.0.0.0 oh-x.74932501.xyz
 0.0.0.0 oh-x.84932501.xyz
 0.0.0.0 oh-x.94932501.xyz
-0.0.0.0 ohx.05418457.xyz
 0.0.0.0 ohx.14932501.xyz
 0.0.0.0 ohx.27598400.xyz
-0.0.0.0 ohx.45418457.xyz
-0.0.0.0 ohx.55418457.xyz
 0.0.0.0 ohx.61109289.xyz
 0.0.0.0 ohx.71324352.xyz
 0.0.0.0 oiix.45462326.xyz
@@ -2462,14 +2428,11 @@
 0.0.0.0 olix.l4oxne.hair
 0.0.0.0 olix.yw3ixv.hair
 0.0.0.0 oljx.bq5tgx.skin
-0.0.0.0 oljx.bt2fxb.hair
-0.0.0.0 oljx.rq1niy.cyou
 0.0.0.0 ollx.6684376.xyz
 0.0.0.0 ollx.13872967.xyz
 0.0.0.0 ollx.17091826.xyz
 0.0.0.0 ollx.75463763.xyz
 0.0.0.0 ollx.85746367.xyz
-0.0.0.0 olx-pl.abivode.cfd
 0.0.0.0 olx-pl.adfurkil.cfd
 0.0.0.0 olx-pl.afforpal.sbs
 0.0.0.0 olx-pl.amobiser.cfd
@@ -2479,21 +2442,17 @@
 0.0.0.0 olx-pl.avolmero.cfd
 0.0.0.0 olx-pl.avornilek.sbs
 0.0.0.0 olx-pl.avromenil.cfd
-0.0.0.0 olx-pl.aydorlf.cfd
 0.0.0.0 olx-pl.azamkaf.cfd
 0.0.0.0 olx-pl.azneisoa.icu
-0.0.0.0 olx-pl.baliwon.sbs
 0.0.0.0 olx-pl.banwolf.cfd
 0.0.0.0 olx-pl.blossomtulip.cfd
 0.0.0.0 olx-pl.brakefix.cfd
 0.0.0.0 olx-pl.brakepad.cfd
 0.0.0.0 olx-pl.cbominlo.cfd
 0.0.0.0 olx-pl.cenalsod.cfd
-0.0.0.0 olx-pl.cfikeln.cfd
 0.0.0.0 olx-pl.chryspetal.cfd
 0.0.0.0 olx-pl.chryspetalart.cfd
 0.0.0.0 olx-pl.cisapohs.cfd
-0.0.0.0 olx-pl.clidenls.cfd
 0.0.0.0 olx-pl.cnaelia.sbs
 0.0.0.0 olx-pl.cskielof.cfd
 0.0.0.0 olx-pl.dcleosla.cfd
@@ -2510,7 +2469,6 @@
 0.0.0.0 olx-pl.gaptivel.cfd
 0.0.0.0 olx-pl.hagavse.cfd
 0.0.0.0 olx-pl.havtompis.sbs
-0.0.0.0 olx-pl.karldso.cfd
 0.0.0.0 olx-pl.kecopre.cfd
 0.0.0.0 olx-pl.lecwinld.cfd
 0.0.0.0 olx-pl.lichetiko.sbs
@@ -2518,7 +2476,6 @@
 0.0.0.0 olx-pl.lucoebn.sbs
 0.0.0.0 olx-pl.lusuihe.cfd
 0.0.0.0 olx-pl.luusgi.sbs
-0.0.0.0 olx-pl.niznelkm.cfd
 0.0.0.0 olx-pl.odviolen.sbs
 0.0.0.0 olx-pl.ovanorm.cfd
 0.0.0.0 olx-pl.padservice.cfd
@@ -2528,7 +2485,6 @@
 0.0.0.0 olx-pl.petaltip.cfd
 0.0.0.0 olx-pl.petaltulip.cfd
 0.0.0.0 olx-pl.pladewe.cfd
-0.0.0.0 olx-pl.podferk.cfd
 0.0.0.0 olx-pl.prieknolvi.cfd
 0.0.0.0 olx-pl.qazimols.sbs
 0.0.0.0 olx-pl.qvinlerk.cfd
@@ -2544,7 +2500,6 @@
 0.0.0.0 olx-pl.sovrlosal.sbs
 0.0.0.0 olx-pl.stekormi.sbs
 0.0.0.0 olx-pl.stemarl.cfd
-0.0.0.0 olx-pl.stikalr.cfd
 0.0.0.0 olx-pl.stingylir.cfd
 0.0.0.0 olx-pl.stivelkor.cfd
 0.0.0.0 olx-pl.stivelor.cfd
@@ -2553,7 +2508,6 @@
 0.0.0.0 olx-pl.tifaklom.sbs
 0.0.0.0 olx-pl.tlizapern.cfd
 0.0.0.0 olx-pl.tnesdalr.sbs
-0.0.0.0 olx-pl.trevakn.cfd
 0.0.0.0 olx-pl.tulipblossom.cfd
 0.0.0.0 olx-pl.tulipflor.cfd
 0.0.0.0 olx-pl.tulipflower.cfd
@@ -2561,14 +2515,11 @@
 0.0.0.0 olx-pl.tulpetal.cfd
 0.0.0.0 olx-pl.tuulpor.cfd
 0.0.0.0 olx-pl.tvenkipa.cfd
-0.0.0.0 olx-pl.txandel.cfd
 0.0.0.0 olx-pl.tyzwalos.sbs
 0.0.0.0 olx-pl.tzaklenk.cfd
 0.0.0.0 olx-pl.tzeatyno.sbs
 0.0.0.0 olx-pl.tzenklis.sbs
-0.0.0.0 olx-pl.tziyram.sbs
 0.0.0.0 olx-pl.tzunrov.cfd
-0.0.0.0 olx-pl.v1zirok.cfd
 0.0.0.0 olx-pl.vailaveli.cfd
 0.0.0.0 olx-pl.vielosmi.sbs
 0.0.0.0 olx-pl.votibel.cfd
@@ -2576,14 +2527,9 @@
 0.0.0.0 olx-pl.whofimed.cfd
 0.0.0.0 olx-pl.wisaldo.cfd
 0.0.0.0 olx-pl.xilfex.cfd
-0.0.0.0 olx-pl.ydvioor.cfd
-0.0.0.0 olx-pl.yivulem.cfd
 0.0.0.0 olx-pl.yplioren.cfd
-0.0.0.0 olx-pl.yrminolse.cfd
-0.0.0.0 olx-pl.zarviqal.cfd
 0.0.0.0 olx-pl.zdivnos.cfd
 0.0.0.0 olx-pl.zepiadi.cfd
-0.0.0.0 olx-pl.zlevier.sbs
 0.0.0.0 olx-pl.zniabloms.sbs
 0.0.0.0 olx-pl.zniwkakmo.sbs
 0.0.0.0 olx.8374579.sbs
@@ -2607,7 +2553,6 @@
 0.0.0.0 olx.daqenkt.cfd
 0.0.0.0 olx.de-ordertop.com
 0.0.0.0 olx.denzole.sbs
-0.0.0.0 olx.dliveqa.sbs
 0.0.0.0 olx.dyvnolik.sbs
 0.0.0.0 olx.elivnertk.cfd
 0.0.0.0 olx.elubcot.cfd
@@ -2647,8 +2592,6 @@
 0.0.0.0 olx.oferta-048262.shop
 0.0.0.0 olx.oferta-125822.cyou
 0.0.0.0 olx.oferta-205855.shop
-0.0.0.0 olx.oferta-421414.icu
-0.0.0.0 olx.oferta-421415.icu
 0.0.0.0 olx.oferta-592262.shop
 0.0.0.0 olx.oferta-653752.icu
 0.0.0.0 olx.oferta-753214.icu
@@ -2658,12 +2601,10 @@
 0.0.0.0 olx.oferta-2285958.cfd
 0.0.0.0 olx.oferta-2721337.icu
 0.0.0.0 olx.oferta-2784679.cfd
-0.0.0.0 olx.oferta-2932823.cyou
 0.0.0.0 olx.oferta-4125988.icu
 0.0.0.0 olx.oferta-4302880.icu
 0.0.0.0 olx.oferta-4417653.cfd
 0.0.0.0 olx.oferta-5402766.icu
-0.0.0.0 olx.oferta-5451335.icu
 0.0.0.0 olx.oferta-5535067.icu
 0.0.0.0 olx.oferta-5871610.cfd
 0.0.0.0 olx.oferta-6528153.icu
@@ -2676,16 +2617,13 @@
 0.0.0.0 olx.oferta-8681986.sbs
 0.0.0.0 olx.oferta-8779536.icu
 0.0.0.0 olx.oferta-8785322.icu
-0.0.0.0 olx.oferta-8872112.icu
 0.0.0.0 olx.oferta-8909315.icu
 0.0.0.0 olx.oferta-9062558.cyou
 0.0.0.0 olx.oferta-9062558.sbs
 0.0.0.0 olx.oferta-9383833.icu
-0.0.0.0 olx.oferta-9526504.icu
 0.0.0.0 olx.oferta-9947599.icu
 0.0.0.0 olx.oferta-64565234.icu
 0.0.0.0 olx.oferta-99482326.shop
-0.0.0.0 olx.oferta-928317231.icu
 0.0.0.0 olx.oplienaj.sbs
 0.0.0.0 olx.otvilok.sbs
 0.0.0.0 olx.povnymil.sbs
@@ -2807,10 +2745,8 @@
 0.0.0.0 pl-oferta7925661.shop
 0.0.0.0 pl-ogloszenie765452311.shop
 0.0.0.0 pl-olx.festiveexplosions.sbs
-0.0.0.0 pl.hulakou.shop
 0.0.0.0 platform.primefocusnow.org
 0.0.0.0 platform.topsolutions24.org
-0.0.0.0 platform.trustprime.es
 0.0.0.0 playful-llama-ce8fe8.netlify.app
 0.0.0.0 plcyber.tempurl.host
 0.0.0.0 plikownik2015.wordpress.com
@@ -2842,7 +2778,6 @@
 0.0.0.0 robllox.com.pl
 0.0.0.0 robloxr.com.pl
 0.0.0.0 romepast.top
-0.0.0.0 ropa.wincabs.com
 0.0.0.0 rossmannbonyzakupowe.grvdc.eu
 0.0.0.0 roundcude-client-dc02a7.netlify.app
 0.0.0.0 row.ulrike-lentz-querfloete.info
@@ -2857,11 +2792,8 @@
 0.0.0.0 sale.furelink.com
 0.0.0.0 sdn07x81qyrocet.vtvsa.pl
 0.0.0.0 second.ulrike-lentz-querfloete.info
-0.0.0.0 sg24.677539.com
 0.0.0.0 sgb24.173946.com
-0.0.0.0 sgb24.677539.com
 0.0.0.0 sh0zcnob6rm49q5.netfix-platnosci.sbs
-0.0.0.0 share-docx-d3930043.standard.us-east-1.oortstorage.com
 0.0.0.0 shell-gift.shop
 0.0.0.0 shop-barcelona.shop
 0.0.0.0 shop.egbdxl.top
@@ -2878,12 +2810,9 @@
 0.0.0.0 soc.rosepetals.sbs
 0.0.0.0 soc.vsiernfml.cfd
 0.0.0.0 socialcapital.tik.free.hr
-0.0.0.0 spankki-fi-kampanja.com
-0.0.0.0 sparkling-cassata-49ab11.netlify.app
 0.0.0.0 sponsor-sex.pl
 0.0.0.0 spragnienimilosci.pl
 0.0.0.0 sq2s4.lat
-0.0.0.0 sql4safe.top
 0.0.0.0 srtnadwerkicfja17.543558.com
 0.0.0.0 srwtrd.blogspot.am
 0.0.0.0 staemconmumity.ru
@@ -2894,7 +2823,6 @@
 0.0.0.0 steamcommunity.p250workshop.com
 0.0.0.0 stellarstreamupdate.site
 0.0.0.0 stem.craftsman-nabeo.info
-0.0.0.0 suli.zapstoretel.com
 0.0.0.0 super-choux-e3ee50.netlify.app
 0.0.0.0 support-verify-businesscenter-case909.netlify.app
 0.0.0.0 szybcyiwscielki7.wordpress.com
@@ -2902,12 +2830,10 @@
 0.0.0.0 tfn.objectop.xyz
 0.0.0.0 thriving-manatee-d3894c.netlify.app
 0.0.0.0 tilbynorrgeviipss.com
-0.0.0.0 tkls-bmw-weit.com
 0.0.0.0 tmobile.pw
 0.0.0.0 torrentu.pl
 0.0.0.0 trendymarketplace.top
 0.0.0.0 tv.starnewsstyle.xyz
-0.0.0.0 tvnwydarzenia24h.com.pl
 0.0.0.0 tvshna.pl
 0.0.0.0 twojdlug.pl
 0.0.0.0 twy8.wlocl.pl
@@ -2915,8 +2841,6 @@
 0.0.0.0 tz35.rgxqzdkx.ru
 0.0.0.0 ulx.0945081.xyz
 0.0.0.0 update714.membership.louis-ip.com
-0.0.0.0 update.diisnyplas.hs.vc
-0.0.0.0 update.dlsinyplus.alyaf.com
 0.0.0.0 update.dlsinyplus.louis-ip.com
 0.0.0.0 urzad-pl.com.es
 0.0.0.0 uw5j9.cc
@@ -2958,16 +2882,12 @@
 0.0.0.0 vinted.transportation989.shop
 0.0.0.0 vinted.verify-pay.cfd
 0.0.0.0 vinted.verify-pay.cyou
-0.0.0.0 vinted.zahlung17.de
 0.0.0.0 vinted.zahlung21.de
 0.0.0.0 vjnted.37782642.xyz
 0.0.0.0 voskre.polkderter.top
 0.0.0.0 vxu76kl4bfjysga.vtvsa.pl
 0.0.0.0 w1dzien-gotowka.pl
-0.0.0.0 w1k3avtsbkmv6a883sll7q6i.gadgetsdailes.com
 0.0.0.0 w3j484c7jn0k36o8jv3ls9fo.gossiphiden.com
-0.0.0.0 w3li50o3hdar9g783g9b2da4.gadgetsfish.com
-0.0.0.0 w4au3pif7sc2sc783dvb6bs4.gadgettol.com
 0.0.0.0 walidacjapoczty.netlify.app
 0.0.0.0 warhammerstore.shop
 0.0.0.0 werjnuijkdfniskodmieuj.pages.dev
@@ -2977,11 +2897,8 @@
 0.0.0.0 whisper-torey-halibut.netlify.app
 0.0.0.0 whtp.metrahre.top
 0.0.0.0 wittchenpl.shop
-0.0.0.0 wmhq1qbna6u50k883id7pjk8.gadgetshom.com
 0.0.0.0 wng.yaalwgyl.ru
 0.0.0.0 wolyncalyfilm.wordpress.com
-0.0.0.0 wpo1a70qqq34eq8839j9ekes.gadgetscenters.com
-0.0.0.0 wtvemu03lk5eve78j23t05a8.gadgetsfish.com
 0.0.0.0 wujote.gizmostore.st
 0.0.0.0 xlo.435263783.xyz
 0.0.0.0 xn--dostpnazawsze-l0b.itsforever.org
@@ -2989,7 +2906,6 @@
 0.0.0.0 xyrol.free.hr
 0.0.0.0 yakovu.widgetmart.st
 0.0.0.0 yinted.50683263.xyz
-0.0.0.0 yode.widgetmarkething.com
 0.0.0.0 ys4spl.lat
 0.0.0.0 ysp850tbhnvqwor.tvshow-netfiix.cfd
 0.0.0.0 z4sw1.top
@@ -3001,6 +2917,7 @@
 0.0.0.0 zc2spl.top
 0.0.0.0 zdroweszpitale.pl
 0.0.0.0 zgloszeniaiwypadki.pl
+0.0.0.0 zimbra-9da5-7022a1b05633-416aca-webos.netlify.app
 0.0.0.0 zuyupu.gadgetbazaar.st
 0.0.0.0 zyciegwiazd24tv.com.pl
 0.0.0.0 zyciegwiazd24tv.pl
@@ -11391,11 +11308,9 @@
 0.0.0.0 gaidam3x.com
 0.0.0.0 gaidanang.click
 0.0.0.0 gaidepvn.xyz
-0.0.0.0 gaigoi.homes
 0.0.0.0 gaigoi.icu
 0.0.0.0 gaigoi.id
 0.0.0.0 gaigoi.link
-0.0.0.0 gaigoi.live
 0.0.0.0 gaigoi.mom
 0.0.0.0 gaigoi.network
 0.0.0.0 gaigoi.ws
@@ -11406,7 +11321,6 @@
 0.0.0.0 gaigoicantho.info
 0.0.0.0 gaigoicaocap.pro
 0.0.0.0 gaigoicave.pro
-0.0.0.0 gaigoicave.xyz
 0.0.0.0 gaigoidalat.xyz
 0.0.0.0 gaigoidanang.info
 0.0.0.0 gaigoidanang.net
@@ -11492,6 +11406,7 @@
 0.0.0.0 gaigutv.vip
 0.0.0.0 gaiguvietnam1.com
 0.0.0.0 gaihongdao.xyz
+0.0.0.0 gaikhoehang.com
 0.0.0.0 gaikiemdinh.live
 0.0.0.0 gaikiemdinh.net
 0.0.0.0 gaikiemdinhx.xyz
@@ -11607,7 +11522,6 @@
 0.0.0.0 hentaivn.com
 0.0.0.0 hentaivn.fun
 0.0.0.0 hentaivn.moe
-0.0.0.0 hentaivn.online
 0.0.0.0 hentaivn.sbs
 0.0.0.0 hentaivn.sh
 0.0.0.0 hentaivn.tv
@@ -11892,7 +11806,6 @@
 0.0.0.0 mobiblogtv.com
 0.0.0.0 mobiblogxx.com
 0.0.0.0 moihay.com
-0.0.0.0 mtbshop.ru
 0.0.0.0 mtruyen18.com
 0.0.0.0 mup.sex
 0.0.0.0 mupdep.net
@@ -11926,7 +11839,6 @@
 0.0.0.0 phim-heo.cc
 0.0.0.0 phim-heo.com
 0.0.0.0 phim-heo.pro
-0.0.0.0 phim-jav.vip
 0.0.0.0 phim-javhd.com
 0.0.0.0 phim-javhd.pro
 0.0.0.0 phim-sec.net
@@ -12021,6 +11933,7 @@
 0.0.0.0 phimmup.com
 0.0.0.0 phimnguoilon.biz
 0.0.0.0 phimnguoilon.info
+0.0.0.0 phimnguoilon.online
 0.0.0.0 phimnguoilon.top
 0.0.0.0 phimnguoilon.xyz
 0.0.0.0 phimolsex.pro
@@ -12082,6 +11995,7 @@
 0.0.0.0 phimsex99.org
 0.0.0.0 phimsexasian.net
 0.0.0.0 phimsexaumy.pro
+0.0.0.0 phimsexcap3.xyz
 0.0.0.0 phimsexchaua.com
 0.0.0.0 phimsexchaua.pro
 0.0.0.0 phimsexchauau.net
@@ -12174,7 +12088,6 @@
 0.0.0.0 phimsexkhongche.net
 0.0.0.0 phimsexkhongche.org
 0.0.0.0 phimsexkhongche.pro
-0.0.0.0 phimsexkoche.fun
 0.0.0.0 phimsexkoche.info
 0.0.0.0 phimsexkoche.me
 0.0.0.0 phimsexkoche.net
@@ -12475,7 +12388,6 @@
 0.0.0.0 sexgaixinh.biz
 0.0.0.0 sexgaixinh.org
 0.0.0.0 sexgaixinh.pro
-0.0.0.0 sexgaixinhhd.pro
 0.0.0.0 sexgiamdoc.com
 0.0.0.0 sexhai.com
 0.0.0.0 sexhang1.org
@@ -12558,7 +12470,6 @@
 0.0.0.0 sexnhanvien.com
 0.0.0.0 sexnhat.co
 0.0.0.0 sexnhatbankhongche.com
-0.0.0.0 sexnhatgaixinh.top
 0.0.0.0 sexnhathd.com
 0.0.0.0 sexnhathd.net
 0.0.0.0 sexnhathd.pro
@@ -12593,6 +12504,7 @@
 0.0.0.0 sexsub.one
 0.0.0.0 sexsub.tube
 0.0.0.0 sexsub.xyz
+0.0.0.0 sexsubjav.pro
 0.0.0.0 sexsubviet.pro
 0.0.0.0 sexthailan.com
 0.0.0.0 sexthaixhd.com
@@ -12631,6 +12543,7 @@
 0.0.0.0 sextrungquoc.co
 0.0.0.0 sextrungquoc.pro
 0.0.0.0 sextube3x.com
+0.0.0.0 sextubearea.com
 0.0.0.0 sextubefuck.pro
 0.0.0.0 sextusuong.com
 0.0.0.0 sextv.me
@@ -12660,9 +12573,7 @@
 0.0.0.0 sexviet69.xyz
 0.0.0.0 sexviet88.com
 0.0.0.0 sexviet88.info
-0.0.0.0 sexviet88.me
 0.0.0.0 sexviet88.net
-0.0.0.0 sexviet88.top
 0.0.0.0 sexviethay.com
 0.0.0.0 sexvietmoi.com
 0.0.0.0 sexvietmoi.info
@@ -12728,7 +12639,6 @@
 0.0.0.0 static.manhwa24hs.com
 0.0.0.0 static.thempho.tv
 0.0.0.0 subjav.live
-0.0.0.0 subjav.org
 0.0.0.0 subjav.sex
 0.0.0.0 subjavhd.net
 0.0.0.0 subjavz.com
@@ -12821,7 +12731,6 @@
 0.0.0.0 truyen18.mobi
 0.0.0.0 truyen18.xyz
 0.0.0.0 truyen321.net
-0.0.0.0 truyendam.org
 0.0.0.0 truyendu.com
 0.0.0.0 truyengihay.net
 0.0.0.0 truyengihotnay.com
@@ -12928,7 +12837,6 @@
 0.0.0.0 viet69.me
 0.0.0.0 viet69.moi
 0.0.0.0 viet69.mom
-0.0.0.0 viet69.net
 0.0.0.0 viet69.news
 0.0.0.0 viet69.nl
 0.0.0.0 viet69.online
@@ -12974,7 +12882,6 @@
 0.0.0.0 vl3x.cc
 0.0.0.0 vl3x.net
 0.0.0.0 vl4x.net
-0.0.0.0 vl69.pro
 0.0.0.0 vl88.pro
 0.0.0.0 vl9x.com
 0.0.0.0 vl9x.net
@@ -13145,7 +13052,6 @@
 0.0.0.0 xemphimsex.one
 0.0.0.0 xemphimsex.top
 0.0.0.0 xemphimsex.vip
-0.0.0.0 xemphimsex.xyz
 0.0.0.0 xemphimsex3s.net
 0.0.0.0 xemphimsexx.me
 0.0.0.0 xemphimsexx.xyz
@@ -13285,7 +13191,6 @@
 0.0.0.0 zanevski.ru
 0.0.0.0 zarabotokgroup.ru
 0.0.0.0 zhentai.tv
-0.0.0.0 zingsex.top
 0.0.0.0 zo3x.cc
 0.0.0.0 zohup.com
 0.0.0.0 zohup.net
@@ -13332,7 +13237,6 @@
 0.0.0.0 porn555.taxispyvideo.com
 0.0.0.0 porn555.teenshomeporn.com
 0.0.0.0 secure.indianhiddencams.com
-0.0.0.0 sexvideospornxxx.com
 0.0.0.0 thegay1.tombyronporn.com
 0.0.0.0 tns.bangtubevideos.com
 0.0.0.0 tour.indianhiddencams.com
@@ -13357,7 +13261,6 @@
 0.0.0.0 gayforsex.com
 0.0.0.0 indianxnxxtube.com
 0.0.0.0 indpaedia.com
-0.0.0.0 masala-desi.com
 0.0.0.0 p.love4porn.com
 0.0.0.0 sdk.a79h.cn
 0.0.0.0 thepornpic.com
@@ -13385,6 +13288,7 @@
 0.0.0.0 3ddaughter.club
 0.0.0.0 3dfuckhouse.com
 0.0.0.0 3dsextales.icu
+0.0.0.0 3dsilk.club
 0.0.0.0 3dtoonporn.xyz
 0.0.0.0 3javdaily.com
 0.0.0.0 3jicosplay.blog.fc2.com
@@ -13402,7 +13306,6 @@
 0.0.0.0 6chat.streamray.com
 0.0.0.0 6momporn.com
 0.0.0.0 6orc.com
-0.0.0.0 6xxxvideos.com
 0.0.0.0 7mmtv.tv
 0.0.0.0 8ksexmovie.com
 0.0.0.0 8maturepornmovies.com
@@ -13506,6 +13409,7 @@
 0.0.0.0 acdn17.xozilla.com
 0.0.0.0 acdn.18teenfuckmovie.com
 0.0.0.0 acompanhantesdoprazerevora.pt
+0.0.0.0 acompanhantesluxo.com
 0.0.0.0 acompanhantez.com
 0.0.0.0 actual-porn.org
 0.0.0.0 address.9hz.com
@@ -13594,7 +13498,6 @@
 0.0.0.0 allofx.com
 0.0.0.0 all-shemale-video.com
 0.0.0.0 allstarbabes.com
-0.0.0.0 allswingersclubs.org
 0.0.0.0 allvideos.us
 0.0.0.0 a-lot-of-nudes.ginandgyn.com
 0.0.0.0 alyssalynn.com
@@ -13878,7 +13781,6 @@
 0.0.0.0 best-porn-ever.net
 0.0.0.0 bestporngifs.com
 0.0.0.0 bestpornmenu.com
-0.0.0.0 bestpornsites.co.uk
 0.0.0.0 bestsexyporno.com
 0.0.0.0 bestshemalesex.com
 0.0.0.0 bestx.urlgalleries.net
@@ -14919,7 +14821,6 @@
 0.0.0.0 contenta.bustybloom.com
 0.0.0.0 contenta.glam0ur.com
 0.0.0.0 contentdef.com
-0.0.0.0 conviviocm.pt
 0.0.0.0 conviviox.com
 0.0.0.0 coole-app.com
 0.0.0.0 corbinfisher2.b-cdn.net
@@ -14964,7 +14865,6 @@
 0.0.0.0 cumdisgrace.com
 0.0.0.0 cumlouder.club
 0.0.0.0 cumlovers.net
-0.0.0.0 cumshotlist.com
 0.0.0.0 cumshotscenes.com
 0.0.0.0 cumshotsurprise.com
 0.0.0.0 cum-shows.net
@@ -15037,7 +14937,6 @@
 0.0.0.0 desiclipshuge.com
 0.0.0.0 desifuckvain.com
 0.0.0.0 design.betacash.com
-0.0.0.0 desipapa.xxx
 0.0.0.0 desire-xx.supertop-100.com
 0.0.0.0 desisexleft.com
 0.0.0.0 desitubehomely.com
@@ -15560,7 +15459,6 @@
 0.0.0.0 freepic8.freeadultporn.pro
 0.0.0.0 freepornbr.com
 0.0.0.0 freepornretro.com
-0.0.0.0 freepornsex.pro
 0.0.0.0 free-porn-teen.com
 0.0.0.0 free-porn-tube.pro
 0.0.0.0 free-porn-xnxx.net
@@ -15573,7 +15471,6 @@
 0.0.0.0 freshpornline.com
 0.0.0.0 freshxcdn.com
 0.0.0.0 freshxxxclips.com
-0.0.0.0 freshxxxtube.com
 0.0.0.0 friedricefuckers.com
 0.0.0.0 frutoproibido.eu
 0.0.0.0 frwebcams.com
@@ -15744,6 +15641,7 @@
 0.0.0.0 gravurehunter.com
 0.0.0.0 greatgirls.info
 0.0.0.0 greece.adultsearch.com
+0.0.0.0 greentoons.club
 0.0.0.0 gtaangels.net
 0.0.0.0 guam.adultsearch.com
 0.0.0.0 guardalaporno.com
@@ -17188,7 +17086,6 @@
 0.0.0.0 my.sweet-angels.net
 0.0.0.0 mynationporn.com
 0.0.0.0 mynaughtyalbum.letsdoeit.com
-0.0.0.0 mypantyhoseblog.com
 0.0.0.0 mypreggo.com
 0.0.0.0 myrealcams.com
 0.0.0.0 myveryfirsttimefan.com
@@ -17349,6 +17246,7 @@
 0.0.0.0 oldmaturemilf.com
 0.0.0.0 oldmaturepost.com
 0.0.0.0 oldnfat.com
+0.0.0.0 oldporn69.net
 0.0.0.0 olhares.sapo.pt
 0.0.0.0 olimptraffic.com
 0.0.0.0 om843se.txxx.com
@@ -18514,7 +18412,6 @@
 0.0.0.0 pimpparade.com
 0.0.0.0 pinayrare.net
 0.0.0.0 pinkcams.com
-0.0.0.0 pinkcherryaffiliate.com
 0.0.0.0 pink-pornstars.com
 0.0.0.0 pinkvelvetvault.com
 0.0.0.0 pinkworld.sexy
@@ -18625,7 +18522,6 @@
 0.0.0.0 porno-teens-free.com
 0.0.0.0 pornotrio.com
 0.0.0.0 pornovidio.biz.glxkzhe.ahcdn.com
-0.0.0.0 porno-vintage.com
 0.0.0.0 pornoxxbox.com
 0.0.0.0 pornoxxx.it
 0.0.0.0 pornperv.com
@@ -18766,7 +18662,6 @@
 0.0.0.0 reallygoodlink.extreme3d.games
 0.0.0.0 reallygoodlink.extremefreegames.com
 0.0.0.0 reallygoodlink.starwhoresgame.com
-0.0.0.0 real-mature-porn.com
 0.0.0.0 realmaturesfuck.com
 0.0.0.0 realnakedgfs.com
 0.0.0.0 realsexyamateurs.com
@@ -18907,7 +18802,6 @@
 0.0.0.0 sbupgrade.netlify.app
 0.0.0.0 scambistimaturi.letsdoeit.com
 0.0.0.0 scat.booru.org
-0.0.0.0 scatgirls.org
 0.0.0.0 scene-porn.com
 0.0.0.0 sdfasdf.vangangelt.info
 0.0.0.0 se.1cam.webcam
@@ -19000,7 +18894,6 @@
 0.0.0.0 sexy-girlfriends.net
 0.0.0.0 sexygorgeouswomen.com
 0.0.0.0 sexyindianpussy.com
-0.0.0.0 sexymassageoil.com
 0.0.0.0 sexy-naked-girls.org
 0.0.0.0 sexynudegirlsphotos.com
 0.0.0.0 sexyoldmoms.com
@@ -19360,9 +19253,9 @@
 0.0.0.0 teenboytwink.com
 0.0.0.0 teencutegirls.info
 0.0.0.0 teendaporn.com
-0.0.0.0 teenfuck.party
 0.0.0.0 teengirlphotos.com
 0.0.0.0 teenhdmovies.pro
+0.0.0.0 teenhooker.net
 0.0.0.0 teenieluvs.com
 0.0.0.0 teenieporn.com
 0.0.0.0 teenlesbianland.com
@@ -19550,7 +19443,6 @@
 0.0.0.0 trashdump.booru.org
 0.0.0.0 trendpornpics.com
 0.0.0.0 truepurenudism.com
-0.0.0.0 trupornolabs.org
 0.0.0.0 ts.videosz.com
 0.0.0.0 t-s-s-a.com
 0.0.0.0 tsvivian.com
@@ -19840,6 +19732,7 @@
 0.0.0.0 wackmymeat.com
 0.0.0.0 wam-girls.com
 0.0.0.0 wankflix.com
+0.0.0.0 wannafreeporn.com
 0.0.0.0 watcherswebstore.com
 0.0.0.0 watcherswebsupport.com
 0.0.0.0 watchfreeporn.pro
@@ -19897,7 +19790,6 @@
 0.0.0.0 women-pickup.com
 0.0.0.0 worlddatingforum.com
 0.0.0.0 worldwidewives.com
-0.0.0.0 wowindianporn.com
 0.0.0.0 wowmomsex.com
 0.0.0.0 wowstars.com
 0.0.0.0 wp.yourlustmedia.com
@@ -19986,7 +19878,6 @@
 0.0.0.0 xnxxnetwork.com
 0.0.0.0 xnxxporn.top
 0.0.0.0 xnxxtubes.com
-0.0.0.0 xnxxvideos.fun
 0.0.0.0 xonline.tv
 0.0.0.0 xporncams.eu
 0.0.0.0 xpornz.com
@@ -20036,10 +19927,8 @@
 0.0.0.0 xxxclub.net
 0.0.0.0 xxx-cosplay.com
 0.0.0.0 xxxcosplaypics.com
-0.0.0.0 xxxerotica.cc
 0.0.0.0 xxxfree.club
 0.0.0.0 xxxfreesex.xyz
-0.0.0.0 xxxfuckporn.com
 0.0.0.0 xxx-full-hd.com
 0.0.0.0 xxx-full-movie.com
 0.0.0.0 xxxgirlsimages.com
@@ -20096,7 +19985,6 @@
 0.0.0.0 ymk.us
 0.0.0.0 yoslut.com
 0.0.0.0 yotubesexo.com
-0.0.0.0 youassporn.com
 0.0.0.0 youfreeporntube.com
 0.0.0.0 youhdporno.com
 0.0.0.0 youjizz.icu
@@ -20124,6 +20012,7 @@
 0.0.0.0 youngnudegirls.pro
 0.0.0.0 youngnudelesbians.com
 0.0.0.0 youngporn.club
+0.0.0.0 young-porn.pro
 0.0.0.0 youngporn.su
 0.0.0.0 youngporn.video
 0.0.0.0 youngpornexposed.com

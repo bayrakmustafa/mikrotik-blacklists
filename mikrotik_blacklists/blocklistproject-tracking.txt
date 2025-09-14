@@ -345,6 +345,7 @@
 0.0.0.0 barranew.iol.pt
 0.0.0.0 bars.sapo.pt
 0.0.0.0 bcplayer.net
+0.0.0.0 beacon.groceries.asda.com
 0.0.0.0 behancemanage.com
 0.0.0.0 behavioralmailing.com
 0.0.0.0 benbengi.com
@@ -2891,7 +2892,6 @@
 0.0.0.0 track.mlsend3.com
 0.0.0.0 track.myaffnet.com
 0.0.0.0 track.neckermann.de
-0.0.0.0 track.o2online.de
 0.0.0.0 track.passionc.net
 0.0.0.0 track.platinum-giveaways.com
 0.0.0.0 track.prize-wave.com
@@ -3077,7 +3077,6 @@
 0.0.0.0 webanalyticsday.com
 0.0.0.0 webcollage.com
 0.0.0.0 webcounterfox.com
-0.0.0.0 webmasterprofitcenter.com
 0.0.0.0 webmd.com
 0.0.0.0 webrankresearch.com
 0.0.0.0 webrankresearch.net

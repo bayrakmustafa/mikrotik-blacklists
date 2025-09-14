@@ -622,7 +622,6 @@
 0.0.0.0 siteunblock.xyz
 0.0.0.0 siteunlock2you.com
 0.0.0.0 skyvpn.net
-0.0.0.0 slickvpn.com
 0.0.0.0 smartproxy.com
 0.0.0.0 smartydns.com
 0.0.0.0 snowproxy.com

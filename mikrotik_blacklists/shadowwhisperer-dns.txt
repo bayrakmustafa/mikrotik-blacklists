@@ -1,8 +1,8 @@
 #
 #    File: DNS
 #    Info: DNS Resolvers
-# Domains: 133
-# Updated: 4/8/2025  15:21 (3:21 PM CST)
+# Domains: 134
+# Updated: 9/10/2025  22:04 (10:04 PM CST)
 #
 0.0.0.0 doh.360.cn
 0.0.0.0 dot.360.cn
@@ -80,6 +80,7 @@
 0.0.0.0 dns.momou.ch
 0.0.0.0 dns.mullvad.net
 0.0.0.0 mypdns.cloud
+0.0.0.0 mypdns.org
 0.0.0.0 nawala.id
 0.0.0.0 doh.netweaver.uk
 0.0.0.0 nextdns.io

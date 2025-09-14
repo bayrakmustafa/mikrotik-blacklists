@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 5,657
-# Updated: 8/27/2025  01:52 (1:52 AM CST)
+# Domains: 5,659
+# Updated: 9/11/2025  09:59 (9:59 AM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -157,6 +157,7 @@
 0.0.0.0 4insurancejobs.com
 0.0.0.0 4ja.ai
 0.0.0.0 4l.shop
+0.0.0.0 4md.ir
 0.0.0.0 4or.de
 0.0.0.0 4qt.in
 0.0.0.0 4qzr.com
@@ -688,7 +689,6 @@
 0.0.0.0 bitlylinks.com
 0.0.0.0 bitly.mobi
 0.0.0.0 b-i-t-l-y.net
-0.0.0.0 bitly.net
 0.0.0.0 bitly.network
 0.0.0.0 bitly.pw
 0.0.0.0 bitly.team
@@ -825,6 +825,7 @@
 0.0.0.0 buka.wine
 0.0.0.0 bulink.co
 0.0.0.0 bulkurlshortener.com
+0.0.0.0 buly.kr
 0.0.0.0 bumpnt.com
 0.0.0.0 buprg.sbs
 0.0.0.0 burma123.life
@@ -2347,6 +2348,7 @@
 0.0.0.0 kulink.me
 0.0.0.0 kulturaff.info
 0.0.0.0 kuoo.life
+0.0.0.0 kurl.ru
 0.0.0.0 kurv.gr
 0.0.0.0 kurz.jetzt
 0.0.0.0 kuty.me
@@ -2452,6 +2454,7 @@
 0.0.0.0 linkaku.pro
 0.0.0.0 linka.li
 0.0.0.0 linkapp.click
+0.0.0.0 linkasd.com
 0.0.0.0 linkasli.pro
 0.0.0.0 linkbear.me
 0.0.0.0 linkb.ee
@@ -3946,7 +3949,6 @@
 0.0.0.0 shortenedlinks.com
 0.0.0.0 shortenedurl.me
 0.0.0.0 shortened.website
-0.0.0.0 shorten.ee
 0.0.0.0 shortenercs.com
 0.0.0.0 shortenerlab.com
 0.0.0.0 shortenerlink.net
@@ -4858,6 +4860,7 @@
 0.0.0.0 urldee.com
 0.0.0.0 urldn.com
 0.0.0.0 url.eefocus.com
+0.0.0.0 urle.me
 0.0.0.0 urlex.org
 0.0.0.0 urlexpander.org
 0.0.0.0 urlf.cc

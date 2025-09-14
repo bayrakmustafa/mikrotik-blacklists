@@ -39328,6 +39328,7 @@
 0.0.0.0 insatgram.com
 0.0.0.0 insdependent.co.uk
 0.0.0.0 insdiegogo.com
+0.0.0.0 insdtagram.com
 0.0.0.0 insependent.co.uk
 0.0.0.0 insetagram.com
 0.0.0.0 insfagram.com
@@ -55417,6 +55418,7 @@
 0.0.0.0 rebay.ca
 0.0.0.0 rebay.com
 0.0.0.0 rebay.co.uk
+0.0.0.0 rebay.it
 0.0.0.0 rebian.org
 0.0.0.0 recantha.c0.uk
 0.0.0.0 recddit.com
@@ -61368,7 +61370,6 @@
 0.0.0.0 steamopwered.com
 0.0.0.0 steam-owered.com
 0.0.0.0 steamp0owered.com
-0.0.0.0 steamp0wered.com
 0.0.0.0 steamp9owered.com
 0.0.0.0 steamp9wered.com
 0.0.0.0 steampawered.com
@@ -62293,7 +62294,6 @@
 0.0.0.0 taarget.com
 0.0.0.0 tabao.com
 0.0.0.0 taboao.com
-0.0.0.0 tacebook.com
 0.0.0.0 tackexchange.com
 0.0.0.0 tackoverflow.com
 0.0.0.0 tadget.com
@@ -62305,7 +62305,6 @@
 0.0.0.0 tafget.com
 0.0.0.0 tafrget.com
 0.0.0.0 tagbao.com
-0.0.0.0 taget.com
 0.0.0.0 tagget.com
 0.0.0.0 tagret.com
 0.0.0.0 tagrget.com

@@ -175,6 +175,7 @@
 0.0.0.0 visit.hepsiburada.com
 0.0.0.0 vitrinler3.com
 0.0.0.0 vxhrhnvtucv.com
+0.0.0.0 widget.boomads.com
 0.0.0.0 ww3.smartadserver.com
 0.0.0.0 ycreklam.com
 0.0.0.0 yedimedia.net

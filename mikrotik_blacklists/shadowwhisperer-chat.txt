@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes
-# Domains: 488
-# Updated: 8/21/2025  23:21 (11:21 PM CST)
+# Domains: 489
+# Updated: 9/9/2025  16:38 (4:38 PM CST)
 #
 0.0.0.0 accpi.org
 0.0.0.0 admaker.tech
@@ -92,6 +92,7 @@
 0.0.0.0 chatwebsbcm.sbdesignsquare.com
 0.0.0.0 chat-widget.stb.gov.sg
 0.0.0.0 chatwidget.woolworths.com.au
+0.0.0.0 chat.workingvpn.com
 0.0.0.0 chat.x-kom.pl
 0.0.0.0 chat.xsolla.com
 0.0.0.0 chat.ybsales.net

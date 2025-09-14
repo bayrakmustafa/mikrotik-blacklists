@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 01SEP25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 12SEP25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -1286,7 +1286,6 @@
 0.0.0.0 tr.qualityvehiclesurvey.com
 0.0.0.0 tr.toner-service.fr
 0.0.0.0 tr.toner-services.fr
-0.0.0.0 trustisimportant.fun
 0.0.0.0 try.popchart.family
 0.0.0.0 tsa.taxslayer.com
 0.0.0.0 txvoin.with2.net

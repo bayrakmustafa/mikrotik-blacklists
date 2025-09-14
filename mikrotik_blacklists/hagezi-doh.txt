@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 07 Sep 2025 12:18 UTC
-# Version: 2025.0907.1218.37
+# Last modified: 14 Sep 2025 09:26 UTC
+# Version: 2025.0914.0926.11
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1636
+# Number of entries: 1640
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -275,7 +275,6 @@
 0.0.0.0 opera.cloudflare-dns.com
 0.0.0.0 security.cloudflare-dns.com
 0.0.0.0 tor.cloudflare-dns.com
-0.0.0.0 cloudflare-gateway.com
 0.0.0.0 frd4wvnobp.cloudflare-gateway.com
 0.0.0.0 api.cloudflareclient.com
 0.0.0.0 cloudflareresolve.com
@@ -317,6 +316,7 @@
 0.0.0.0 router.comss.one
 0.0.0.0 dns1.conne.net
 0.0.0.0 dns.connect.fail
+0.0.0.0 dns.containerpi.com
 0.0.0.0 family.freedns.controld.com
 0.0.0.0 p0.freedns.controld.com
 0.0.0.0 p1.freedns.controld.com
@@ -339,7 +339,6 @@
 0.0.0.0 qual.cuprum.ru
 0.0.0.0 dns.cwlys.com
 0.0.0.0 dns.cybertonic.tech
-0.0.0.0 cynntex.fun
 0.0.0.0 dns.cynthialabs.net
 0.0.0.0 dns.d365.in
 0.0.0.0 dns.d4d.moe
@@ -356,12 +355,15 @@
 0.0.0.0 dns.david888.com
 0.0.0.0 dns.daw.dev
 0.0.0.0 httpdns.platform.dbankcloud.cn
+0.0.0.0 wec-httpdns-platform-dbankcloud-com-drcn.region.dbankedge.cn
+0.0.0.0 httpdns-platform-dbankcloud-com-dra.wec.dbankedge.cn
+0.0.0.0 httpdns-platform-dbankcloud-com-drcn.wec.dbankedge.cn
+0.0.0.0 httpdns-platform-dbankcloud-com-dre.wec.dbankedge.cn
 0.0.0.0 cloudflares.ddns.net
 0.0.0.0 jit.ddns.net
 0.0.0.0 dns.deadsec.net
 0.0.0.0 dns.decky.eu
 0.0.0.0 dns.decloudus.com
-0.0.0.0 deep-henchman-excuse.cfd
 0.0.0.0 doh.defaultroutes.de
 0.0.0.0 dns.dekedin.me
 0.0.0.0 adguard.dekonix.ru
@@ -518,6 +520,7 @@
 0.0.0.0 do.dnscrypt.uk
 0.0.0.0 doh.dnscrypt.uk
 0.0.0.0 v.dnscrypt.uk
+0.0.0.0 dnsenc.com
 0.0.0.0 dns-doh.dnsforfamily.com
 0.0.0.0 dns-doh-no-safe-search.dnsforfamily.com
 0.0.0.0 dns-dot.dnsforfamily.com
@@ -583,6 +586,7 @@
 0.0.0.0 jurre-home.duckdns.org
 0.0.0.0 krtekvpn.duckdns.org
 0.0.0.0 osefcorp.duckdns.org
+0.0.0.0 punono.duckdns.org
 0.0.0.0 tuandns.duckdns.org
 0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 dukun.de
@@ -640,6 +644,7 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
+0.0.0.0 dns.fizz.studio
 0.0.0.0 doh.flashstart.com
 0.0.0.0 dns.flatuslifir.is
 0.0.0.0 dns.flightspace.net
@@ -693,6 +698,7 @@
 0.0.0.0 dnsblock.grisumedia.de
 0.0.0.0 dns.grqu.de
 0.0.0.0 dns.guard.io
+0.0.0.0 dns.guardmydns.com
 0.0.0.0 dns2.guidocioni.it
 0.0.0.0 dns.gutwe.in
 0.0.0.0 gztech.me
@@ -807,7 +813,6 @@
 0.0.0.0 kavkaz.monster
 0.0.0.0 dns.kawa.tf
 0.0.0.0 dns.kebree.fr
-0.0.0.0 doh.kekew.info
 0.0.0.0 doh.kel.pe
 0.0.0.0 dns.kerekes.xyz
 0.0.0.0 dns.kernel-error.de
@@ -1136,6 +1141,7 @@
 0.0.0.0 dns.petqa.ru
 0.0.0.0 adguard.pggns.de
 0.0.0.0 dns.phillipjberry.net
+0.0.0.0 doh.centraleu.pi-dns.com
 0.0.0.0 dot.centraleu.pi-dns.com
 0.0.0.0 doh.pi-dns.com
 0.0.0.0 doh.eastas.pi-dns.com
@@ -1230,7 +1236,6 @@
 0.0.0.0 tiger.dns.qwer.pw
 0.0.0.0 resolver.r0cket.net
 0.0.0.0 r1bnc.com
-0.0.0.0 resolve2.r9x.cc
 0.0.0.0 dns.rabbitdns.org
 0.0.0.0 family.rabbitdns.org
 0.0.0.0 security.rabbitdns.org
@@ -1446,7 +1451,6 @@
 0.0.0.0 securedns.vendorvista.xyz
 0.0.0.0 dns.vinnyp.xyz
 0.0.0.0 dns.vinokurov.tk
-0.0.0.0 dns.vishalk.com
 0.0.0.0 dns.vod11.xyz
 0.0.0.0 vorlif.org
 0.0.0.0 vtcuong.site
