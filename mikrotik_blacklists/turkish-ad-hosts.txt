@@ -18,9 +18,11 @@
 0.0.0.0 amareklamizm.ml
 0.0.0.0 amareklamizm.gq
 0.0.0.0 analytics-dev.bettermeter.com
+0.0.0.0 anguishworst.com
 0.0.0.0 assosdiamond.revotas.com
 0.0.0.0 assospirlanta.revotas.com
 0.0.0.0 b-cdn.cnnturk.com
+0.0.0.0 b-cdn.hurriyet.com.tr
 0.0.0.0 bande2az.com
 0.0.0.0 bireysel-reklam-sayfamiz.tk
 0.0.0.0 bitcireklam.com
@@ -62,6 +64,7 @@
 0.0.0.0 kampanyadiyariherseyburda.xyz
 0.0.0.0 kaanatesoglu7.net
 0.0.0.0 kz.rebakeassets.com
+0.0.0.0 lephaush.net
 0.0.0.0 lh.limosiwooable.com
 0.0.0.0 lider90.com
 0.0.0.0 lovy.llykjmzqkzkyy.top
@@ -86,6 +89,7 @@
 0.0.0.0 platform-onlinereklam-vakif-com.tk
 0.0.0.0 polat-geldi-reklam-basvurusu-com.ml
 0.0.0.0 pornhdr.cf
+0.0.0.0 principlessilas.com
 0.0.0.0 punosy.top
 0.0.0.0 reklam-bimcell.tk
 0.0.0.0 reklam1.hizliindirimlial.online
@@ -137,5 +141,6 @@
 0.0.0.0 ww38.main.termux-mirror.ml
 0.0.0.0 ww5.w3xs.com
 0.0.0.0 xmtvreklam3d.com
+0.0.0.0 xngqoc.com
 0.0.0.0 zcode12.me
 0.0.0.0 zpbpenn.com

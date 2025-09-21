@@ -103,3 +103,5 @@
 0.0.0.0 e-zpass.com-
 0.0.0.0 irs.gov-
 0.0.0.0 pttavm.*.com.tr
+0.0.0.0 florida.revenue-*.net
+0.0.0.0 phila.revenue*.cc

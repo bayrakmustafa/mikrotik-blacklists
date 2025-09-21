@@ -39328,7 +39328,6 @@
 0.0.0.0 insatgram.com
 0.0.0.0 insdependent.co.uk
 0.0.0.0 insdiegogo.com
-0.0.0.0 insdtagram.com
 0.0.0.0 insependent.co.uk
 0.0.0.0 insetagram.com
 0.0.0.0 insfagram.com
@@ -58817,6 +58816,7 @@
 0.0.0.0 slatefarm.com
 0.0.0.0 sleamcommunity.com
 0.0.0.0 sleamcontent.com
+0.0.0.0 sleampowered.com
 0.0.0.0 sleedtest.net
 0.0.0.0 slekarnohatta-airport.co.id
 0.0.0.0 slibaba.com
@@ -66039,6 +66039,7 @@
 0.0.0.0 ubntt.com
 0.0.0.0 ubntu.com
 0.0.0.0 ubnty.com
+0.0.0.0 ubnuntu.com
 0.0.0.0 ubnutu.com
 0.0.0.0 ubny.com
 0.0.0.0 ubnyt.com

@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 23,365
-# Updated: 9/13/2025  17:46 (5:46 PM CST)
+# Domains: 23,401
+# Updated: 9/20/2025  12:00 (12:00 PM CST)
 #
 0.0.0.0 03ab2paradisecdn.com
 0.0.0.0 0p1ohj2f5f.ru
@@ -825,6 +825,7 @@
 0.0.0.0 spacetraveldin.com
 0.0.0.0 spe-roll.com
 0.0.0.0 splashnova.de
+0.0.0.0 spnut.com
 0.0.0.0 sportads.ge
 0.0.0.0 squinbested.com
 0.0.0.0 ssl2anyone2.com

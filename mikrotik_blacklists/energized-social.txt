@@ -22,10 +22,10 @@
 # License:       MIT
 # Format:        hosts
 # Entries:       14,163
-# Version:       0.100.a.25.257.14
+# Version:       0.100.a.25.264.14
 # Expires:       1 day (update frequency)
-# Releasae:      25.257.14
-# Last modified: 2025-09-14T14:02:59.808458 UTC
+# Releasae:      25.264.14
+# Last modified: 2025-09-21T14:03:06.521636 UTC
 # Source:        https://github/EnergizedProtection/block
 # Issue:         https://github/EnergizedProtection/block/issues
 # ----------------------------------------------------------------------------
@@ -13238,7 +13238,6 @@
 0.0.0.0 webcast5-open-lq.douyin.com
 0.0.0.0 webdav.facebook.com
 0.0.0.0 webform.tiktok.com
-0.0.0.0 weheartit.com
 0.0.0.0 welcome.joinclubhouse.com
 0.0.0.0 wh.reddit.com
 0.0.0.0 whatsapp-cdn-shv-01-arn2.fbcdn.net

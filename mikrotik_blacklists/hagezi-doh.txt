@@ -5,10 +5,10 @@
 # License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Expires: 1 day
-# Last modified: 14 Sep 2025 09:26 UTC
-# Version: 2025.0914.0926.11
+# Last modified: 21 Sep 2025 08:08 UTC
+# Version: 2025.0921.0808.59
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 1640
+# Number of entries: 1637
 #
 0.0.0.0 003153.xyz
 0.0.0.0 ns.00dani.me
@@ -99,7 +99,6 @@
 0.0.0.0 doh.pl.ahadns.net
 0.0.0.0 dot.pl.ahadns.net
 0.0.0.0 ahoj.email
-0.0.0.0 adguard.ajinga.net
 0.0.0.0 dns.akbxr.com
 0.0.0.0 dns.albony.xyz
 0.0.0.0 dnsnl.alekberg.net
@@ -153,6 +152,7 @@
 0.0.0.0 dns.b33.space
 0.0.0.0 dns.b612.me
 0.0.0.0 dns.b72.com
+0.0.0.0 httpdns.baidu.com
 0.0.0.0 dns.baishiyuan.cn
 0.0.0.0 fr-dns1.bancuh.com
 0.0.0.0 jp-dns1.bancuh.com
@@ -173,6 +173,7 @@
 0.0.0.0 ore-dns.bitdefender.net
 0.0.0.0 tky-dns.bitdefender.net
 0.0.0.0 dns.bitservices.io
+0.0.0.0 adguard.bitteeinbyte.de
 0.0.0.0 2.dnscrypt-cert.blahdns.com
 0.0.0.0 doh.blahdns.com
 0.0.0.0 doh-ch.blahdns.com
@@ -339,6 +340,7 @@
 0.0.0.0 qual.cuprum.ru
 0.0.0.0 dns.cwlys.com
 0.0.0.0 dns.cybertonic.tech
+0.0.0.0 cynntex.fun
 0.0.0.0 dns.cynthialabs.net
 0.0.0.0 dns.d365.in
 0.0.0.0 dns.d4d.moe
@@ -419,8 +421,6 @@
 0.0.0.0 us02.dns4me.net
 0.0.0.0 dns8.org
 0.0.0.0 dnsbunker.org
-0.0.0.0 alpha.dnsbunker.org
-0.0.0.0 bravo.dnsbunker.org
 0.0.0.0 ns1.recursive.dnsbycomodo.com
 0.0.0.0 ns2.recursive.dnsbycomodo.com
 0.0.0.0 2.dnscrypt-cert.shield-2.dnsbycomodo.com
@@ -520,7 +520,6 @@
 0.0.0.0 do.dnscrypt.uk
 0.0.0.0 doh.dnscrypt.uk
 0.0.0.0 v.dnscrypt.uk
-0.0.0.0 dnsenc.com
 0.0.0.0 dns-doh.dnsforfamily.com
 0.0.0.0 dns-doh-no-safe-search.dnsforfamily.com
 0.0.0.0 dns-dot.dnsforfamily.com
@@ -593,7 +592,6 @@
 0.0.0.0 dns.dyn1.de
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 resolver2.dyndnsinternetguide.com
-0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 dnscache.e-utp.net
 0.0.0.0 adguard.easez.net
@@ -644,10 +642,8 @@
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
 0.0.0.0 dns.filipccz.eu
-0.0.0.0 dns.fizz.studio
 0.0.0.0 doh.flashstart.com
 0.0.0.0 dns.flatuslifir.is
-0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
 0.0.0.0 ns1.flodns.net
 0.0.0.0 ns2.flodns.net
@@ -767,6 +763,7 @@
 0.0.0.0 qlf-doh.inria.fr
 0.0.0.0 dns.interhub.cc
 0.0.0.0 dns.iqiyi.com
+0.0.0.0 dns.qiyipic.iqiyi.com
 0.0.0.0 dns1.irumatech.com
 0.0.0.0 dns.is0mino.com
 0.0.0.0 mickedi.isgood.host
@@ -813,6 +810,7 @@
 0.0.0.0 kavkaz.monster
 0.0.0.0 dns.kawa.tf
 0.0.0.0 dns.kebree.fr
+0.0.0.0 doh.kekew.info
 0.0.0.0 doh.kel.pe
 0.0.0.0 dns.kerekes.xyz
 0.0.0.0 dns.kernel-error.de
@@ -853,7 +851,6 @@
 0.0.0.0 us1.dns.lavate.ch
 0.0.0.0 iterator.lazada.com
 0.0.0.0 adguard1.leadmon.net
-0.0.0.0 adguard.leadseason.eu
 0.0.0.0 adblock.leenit.kr
 0.0.0.0 yarp.lefolgoc.net
 0.0.0.0 br.servers.legat.ml
@@ -936,7 +933,6 @@
 0.0.0.0 doh.micronets.in
 0.0.0.0 dns.mihanentalpo.me
 0.0.0.0 dns.mikeliu.org
-0.0.0.0 mikezhang.xyz
 0.0.0.0 dns.milkpie.one
 0.0.0.0 netcup.mismat.ch
 0.0.0.0 doh.mmmalia.com
@@ -951,7 +947,6 @@
 0.0.0.0 morbitzer.de
 0.0.0.0 dns.mrkaran.dev
 0.0.0.0 msr177.com
-0.0.0.0 dns.msxnet.ru
 0.0.0.0 dns.mtoo.vip
 0.0.0.0 ns.mtsoln.com
 0.0.0.0 adblock.dns.mullvad.net
@@ -981,6 +976,7 @@
 0.0.0.0 blackhole.myon.lu
 0.0.0.0 area51.mywire.org
 0.0.0.0 fwgw.orangepipc.mywire.org
+0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
 0.0.0.0 dns.n23.io
 0.0.0.0 doh-ca.naftalie.net
@@ -1141,7 +1137,6 @@
 0.0.0.0 dns.petqa.ru
 0.0.0.0 adguard.pggns.de
 0.0.0.0 dns.phillipjberry.net
-0.0.0.0 doh.centraleu.pi-dns.com
 0.0.0.0 dot.centraleu.pi-dns.com
 0.0.0.0 doh.pi-dns.com
 0.0.0.0 doh.eastas.pi-dns.com
@@ -1195,9 +1190,13 @@
 0.0.0.0 princez.uk
 0.0.0.0 agh.printk.info
 0.0.0.0 hungary.privacy-dns.pw
+0.0.0.0 india.privacy-dns.pw
 0.0.0.0 las-vegas.privacy-dns.pw
 0.0.0.0 luxembourg.privacy-dns.pw
 0.0.0.0 romania.privacy-dns.pw
+0.0.0.0 sweden.privacy-dns.pw
+0.0.0.0 switzerland.privacy-dns.pw
+0.0.0.0 united-arab-emirates.privacy-dns.pw
 0.0.0.0 dns.privado.ovh
 0.0.0.0 orpi.privado.ovh
 0.0.0.0 de.dns.privex.io
@@ -1364,7 +1363,6 @@
 0.0.0.0 dns.surfsharkdns.com
 0.0.0.0 dns.sv-zauner.at
 0.0.0.0 dns.svoi.dev
-0.0.0.0 switch.ch
 0.0.0.0 dns.sy.st
 0.0.0.0 dns.syaifullah.com
 0.0.0.0 ihctw.synology.me

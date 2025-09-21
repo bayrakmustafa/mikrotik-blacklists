@@ -441,7 +441,6 @@
 0.0.0.0 brpx.io
 0.0.0.0 brvideosummit.com
 0.0.0.0 brvs.com
-0.0.0.0 brx.com
 0.0.0.0 brxvideosummit.com
 0.0.0.0 btrack.niceforward.com
 0.0.0.0 btrack.powermtapro.com
@@ -707,7 +706,6 @@
 0.0.0.0 d3oxtn1x3b8d7i.cloudfront.net
 0.0.0.0 d3ujids68p6xmp.cloudfront.net
 0.0.0.0 danuoyi.alicdn.com
-0.0.0.0 daphnecm.com
 0.0.0.0 databureau.com
 0.0.0.0 databureau.net
 0.0.0.0 databuro.com
@@ -2761,6 +2759,7 @@
 0.0.0.0 snaplytics.io
 0.0.0.0 snapsitemap.com
 0.0.0.0 snorkletech.com
+0.0.0.0 snt1.net
 0.0.0.0 snt2.net
 0.0.0.0 snt3.net
 0.0.0.0 snt4.net

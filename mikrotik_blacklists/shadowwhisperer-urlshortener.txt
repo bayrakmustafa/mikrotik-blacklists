@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 5,659
-# Updated: 9/11/2025  09:59 (9:59 AM CST)
+# Domains: 5,672
+# Updated: 9/20/2025  11:49 (11:49 AM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -269,6 +269,7 @@
 0.0.0.0 accessmy.tax
 0.0.0.0 accommodatingly.xyz
 0.0.0.0 acconpit.com
+0.0.0.0 accorcio.it
 0.0.0.0 account-verification-man-seeking-man-mps.live
 0.0.0.0 ace777hitamasik.site
 0.0.0.0 acessa.app
@@ -689,6 +690,7 @@
 0.0.0.0 bitlylinks.com
 0.0.0.0 bitly.mobi
 0.0.0.0 b-i-t-l-y.net
+0.0.0.0 bitly.net
 0.0.0.0 bitly.network
 0.0.0.0 bitly.pw
 0.0.0.0 bitly.team
@@ -1137,6 +1139,7 @@
 0.0.0.0 da.gd
 0.0.0.0 dajdam.rs
 0.0.0.0 dalinksavad.eu
+0.0.0.0 damoro.ro
 0.0.0.0 dandbsolutions.live
 0.0.0.0 dandy.dental
 0.0.0.0 datalisa.id
@@ -1351,6 +1354,7 @@
 0.0.0.0 eby.onl
 0.0.0.0 ecbk.top
 0.0.0.0 ecl-for-2026.live
+0.0.0.0 eclink.me
 0.0.0.0 eclip.se
 0.0.0.0 ecomstacking.com
 0.0.0.0 ecrane.link
@@ -1751,7 +1755,6 @@
 0.0.0.0 goly.me
 0.0.0.0 goninja.live
 0.0.0.0 goo2url.com
-0.0.0.0 goo.by
 0.0.0.0 goo.click
 0.0.0.0 goodnessokparaeke.live
 0.0.0.0 google-139382.com
@@ -1915,6 +1918,7 @@
 0.0.0.0 hoholah.xyz
 0.0.0.0 ho.io
 0.0.0.0 hoki108.shop
+0.0.0.0 hoki1dana.site
 0.0.0.0 hoki22crot.com
 0.0.0.0 hokidana.vip
 0.0.0.0 hokie.co
@@ -2269,6 +2273,7 @@
 0.0.0.0 kfqfh.com
 0.0.0.0 kgayz.org
 0.0.0.0 kgnog.sbs
+0.0.0.0 kgs88.co
 0.0.0.0 kgs.yt
 0.0.0.0 khan.co
 0.0.0.0 kharyona.info
@@ -2430,6 +2435,7 @@
 0.0.0.0 lillink.xyz
 0.0.0.0 lilllil.ru
 0.0.0.0 lil.so
+0.0.0.0 lil.vc
 0.0.0.0 lilyfreeonlyfans.live
 0.0.0.0 limiteds.live
 0.0.0.0 lincat.co
@@ -2775,6 +2781,7 @@
 0.0.0.0 mawar500.cc
 0.0.0.0 max4click.com
 0.0.0.0 maxiurl.com
+0.0.0.0 maxlink.lol
 0.0.0.0 maxlink.ly
 0.0.0.0 maxmoneyfinders.org
 0.0.0.0 maxurl.app
@@ -2989,6 +2996,7 @@
 0.0.0.0 music.yosa.org
 0.0.0.0 mute-fill-mood.life
 0.0.0.0 muth.io
+0.0.0.0 mv88.lat
 0.0.0.0 mvpmw.sbs
 0.0.0.0 mwueb.cyou
 0.0.0.0 mxccfs.com
@@ -3268,6 +3276,7 @@
 0.0.0.0 ops.consulting
 0.0.0.0 oqp.ru
 0.0.0.0 orb.fyi
+0.0.0.0 oriurl.com
 0.0.0.0 orjr.top
 0.0.0.0 orll.cc
 0.0.0.0 orp.io
@@ -3949,6 +3958,7 @@
 0.0.0.0 shortenedlinks.com
 0.0.0.0 shortenedurl.me
 0.0.0.0 shortened.website
+0.0.0.0 shorten.ee
 0.0.0.0 shortenercs.com
 0.0.0.0 shortenerlab.com
 0.0.0.0 shortenerlink.net
@@ -4319,6 +4329,7 @@
 0.0.0.0 strk12.link
 0.0.0.0 strms.ly
 0.0.0.0 ststus.store
+0.0.0.0 sua.me
 0.0.0.0 sub2unlock.net
 0.0.0.0 s.ub.ac.id
 0.0.0.0 sub-slave-28.info
@@ -4616,6 +4627,7 @@
 0.0.0.0 tny.xyz
 0.0.0.0 toclick.link
 0.0.0.0 tocnp.com
+0.0.0.0 togel123amp.xyz
 0.0.0.0 togel123.link
 0.0.0.0 tokogenie.online
 0.0.0.0 tokurlshortener.com
@@ -4662,6 +4674,7 @@
 0.0.0.0 trendingvideo.live
 0.0.0.0 trezurl.ir
 0.0.0.0 trieuview.life
+0.0.0.0 trim.cx
 0.0.0.0 trimlink.ai
 0.0.0.0 trimlink.co.uk
 0.0.0.0 trimlink.net
@@ -5149,6 +5162,7 @@
 0.0.0.0 wats.ir
 0.0.0.0 waveurl.net
 0.0.0.0 waysto.be
+0.0.0.0 wayurl.com
 0.0.0.0 waze.link
 0.0.0.0 wbduy.top
 0.0.0.0 w.big-appli.fr
@@ -5541,6 +5555,7 @@
 0.0.0.0 zrkte.ch
 0.0.0.0 zrlul.com
 0.0.0.0 zrpl.ir
+0.0.0.0 zrr.kr
 0.0.0.0 zshorten.com
 0.0.0.0 zshort.io
 0.0.0.0 zshortner.com
