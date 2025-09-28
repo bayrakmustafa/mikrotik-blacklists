@@ -109,6 +109,7 @@
 0.0.0.0 brazilproxy.com
 0.0.0.0 browsec.com
 0.0.0.0 bru-be.prcdn.net
+0.0.0.0 btguard.com
 0.0.0.0 bunkerbustervpn.com
 0.0.0.0 bypassable.com
 0.0.0.0 bytzvpn.com
@@ -325,6 +326,7 @@
 0.0.0.0 hit-proxy.com
 0.0.0.0 hmavpn.com
 0.0.0.0 holafreevpn.com
+0.0.0.0 hola.org
 0.0.0.0 hola-vpn.com
 0.0.0.0 holavpnextension.com
 0.0.0.0 holavpn.net
@@ -456,6 +458,7 @@
 0.0.0.0 onion.casa
 0.0.0.0 onion.direct
 0.0.0.0 onion.gq
+0.0.0.0 onion.link
 0.0.0.0 onion.pet
 0.0.0.0 onion.rip
 0.0.0.0 onion.sh
@@ -493,6 +496,7 @@
 0.0.0.0 piaproxy.net
 0.0.0.0 piraproxy.org
 0.0.0.0 pirataproxy.com
+0.0.0.0 plainproxies.com
 0.0.0.0 pointtoserver.com
 0.0.0.0 polandgrows.com
 0.0.0.0 polargrizzly.com
@@ -536,6 +540,7 @@
 0.0.0.0 proxyboost.net
 0.0.0.0 proxybox.ru
 0.0.0.0 proxybrowsing.com
+0.0.0.0 proxy-bypass.com
 0.0.0.0 proxycloyd.com
 0.0.0.0 proxyer.net
 0.0.0.0 proxyflows.com
@@ -718,6 +723,7 @@
 0.0.0.0 torguard.net
 0.0.0.0 torguard.org
 0.0.0.0 torproject.org
+0.0.0.0 torrentprivacy.com
 0.0.0.0 torrentproxy.net
 0.0.0.0 torvpn.com
 0.0.0.0 totallyacdn.com
@@ -929,6 +935,7 @@
 0.0.0.0 vpnproxymaster.com
 0.0.0.0 vpn-quick.com
 0.0.0.0 vpnreactor.net
+0.0.0.0 vpnrice.com
 0.0.0.0 vpns.best
 0.0.0.0 vpn-sd.ff.avast.com
 0.0.0.0 vpnsuper.app
@@ -967,6 +974,7 @@
 0.0.0.0 xcomvpn-7000b-default-rtdb.firebaseio.com
 0.0.0.0 xitesite.com
 0.0.0.0 xperienc.com
+0.0.0.0 xvbelink.com
 0.0.0.0 xvpn.io
 0.0.0.0 xxlproxy1.com
 0.0.0.0 xxlproxy3.com

@@ -539,6 +539,7 @@
 0.0.0.0 jambler.io
 0.0.0.0 japanopenchain.org
 0.0.0.0 jibl2.com
+0.0.0.0 jingniupool.com
 0.0.0.0 jjpool.fr
 0.0.0.0 joys.digital
 0.0.0.0 jup.ag
@@ -720,6 +721,7 @@
 0.0.0.0 okx.com
 0.0.0.0 omaxscan.com
 0.0.0.0 onebitco.com
+0.0.0.0 onehash.com
 0.0.0.0 oneworldchain.org
 0.0.0.0 onfascan.com
 0.0.0.0 openchains.info
@@ -885,6 +887,7 @@
 0.0.0.0 tanenbaum.io
 0.0.0.0 tazmining.ch
 0.0.0.0 tbdice.org
+0.0.0.0 tdcoincore.org
 0.0.0.0 tecracoin.io
 0.0.0.0 teepool.com
 0.0.0.0 terracoin.org
@@ -929,6 +932,7 @@
 0.0.0.0 ua-mining.com
 0.0.0.0 ukrpool.com
 0.0.0.0 ultimuspool.com
+0.0.0.0 ultranote.org
 0.0.0.0 unidex.exchange
 0.0.0.0 unipool.pro
 0.0.0.0 unique.network

@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 19SEP25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 26SEP25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -68,6 +68,7 @@
 0.0.0.0 aaxwall.com
 0.0.0.0 ablink.care.sanvello.com
 0.0.0.0 ablinkclicktest.prod.aws.skyscnr.com
+0.0.0.0 ablink.email.etsy.com
 0.0.0.0 ablink.e.sanvello.com
 0.0.0.0 ablink.hello.sanvello.com
 0.0.0.0 ablink.help.sanvello.com
@@ -124,6 +125,7 @@
 0.0.0.0 app.bekfood.de
 0.0.0.0 app.bettle.co
 0.0.0.0 app.budweisergardens.com
+0.0.0.0 app.business.westernunion.com
 0.0.0.0 app.cb.pnc.com
 0.0.0.0 app.citylink.ro
 0.0.0.0 app.cmnet.cf
@@ -417,6 +419,7 @@
 0.0.0.0 events.ingatlan.com
 0.0.0.0 events.interface.com
 0.0.0.0 events.ricoh.ch
+0.0.0.0 events.ubembed.com
 0.0.0.0 experience.limelight.com
 0.0.0.0 explore.landcentral.com
 0.0.0.0 f1tbit.com
@@ -508,6 +511,7 @@
 0.0.0.0 ibf.smrtp.link
 0.0.0.0 igexlg.weltbild.de
 0.0.0.0 image.kfw-formularsammlung.de
+0.0.0.0 images1.test.de
 0.0.0.0 images.brand.j2.com
 0.0.0.0 images.care.gundersenhealth.org
 0.0.0.0 images.comunicaciones.prosegur.es
@@ -586,6 +590,7 @@
 0.0.0.0 invites.nospace.app
 0.0.0.0 iopxiu.wingly.io
 0.0.0.0 ip.cliphunter.com
+0.0.0.0 i.posthog.com
 0.0.0.0 is.lg.com
 0.0.0.0 itservices.ricoh.ch
 0.0.0.0 itservices.ricoh.no
@@ -789,6 +794,7 @@
 0.0.0.0 metrics.tp.edu.sg
 0.0.0.0 metrics.usopen.org
 0.0.0.0 metrics.vodafone.com.tr
+0.0.0.0 met.vgwort.de
 0.0.0.0 mhauev.glasses.com
 0.0.0.0 mhnpec.nimaxi-online.com
 0.0.0.0 microfocus.qm-g.com
@@ -814,7 +820,6 @@
 0.0.0.0 nbcnews.black.news
 0.0.0.0 nbizzi.store.ferrari.com
 0.0.0.0 net.cadeautjes.nl
-0.0.0.0 net.jumia.com.eg
 0.0.0.0 newperspective.americanexpress.com
 0.0.0.0 news.income.com.sg
 0.0.0.0 ni8.lafuma-boutique.com
@@ -877,6 +882,7 @@
 0.0.0.0 p.cab.ua
 0.0.0.0 peards.zevvle.com
 0.0.0.0 pe.txbe.at
+0.0.0.0 pftk.temu.com
 0.0.0.0 p.ianmjones.com
 0.0.0.0 pine.nervecentral.com
 0.0.0.0 pingo.staticmoly.me
@@ -908,6 +914,8 @@
 0.0.0.0 pm.dailykos.com
 0.0.0.0 poll.pollinatepolls.com
 0.0.0.0 portal.krollontrack.co.uk
+0.0.0.0 prfct.co
+0.0.0.0 privacyfriendly.netlify.app
 0.0.0.0 pro.bizportal.co.il
 0.0.0.0 processusmetier.ricoh.fr
 0.0.0.0 productionprinting.ricoh.ch
@@ -924,6 +932,7 @@
 0.0.0.0 qvenxs.cash-piscines.com
 0.0.0.0 qymjpg.star-tex.ru
 0.0.0.0 qyn6.ofertastelecable.es
+0.0.0.0 ras.yahoo.com
 0.0.0.0 rb.groc.press
 0.0.0.0 r.blidzdeal.com
 0.0.0.0 r.cricbet.co
@@ -991,6 +1000,7 @@
 0.0.0.0 secure.yama1hove.com
 0.0.0.0 secure.yeld9auto.com
 0.0.0.0 selvi.viessmann.com.tr
+0.0.0.0 send.preply.com
 0.0.0.0 services.eclerx.com
 0.0.0.0 services.edc.ca
 0.0.0.0 service.vrp.com
@@ -1202,6 +1212,7 @@
 0.0.0.0 test.vast
 0.0.0.0 theroot.black.news
 0.0.0.0 thesource.black.news
+0.0.0.0 thtk.temu.com
 0.0.0.0 tk.klm.com
 0.0.0.0 tk.planete-oui.fr
 0.0.0.0 tmrhpl.nurse-agent.com
@@ -1286,6 +1297,7 @@
 0.0.0.0 tr.qualityvehiclesurvey.com
 0.0.0.0 tr.toner-service.fr
 0.0.0.0 tr.toner-services.fr
+0.0.0.0 trustisimportant.fun
 0.0.0.0 try.popchart.family
 0.0.0.0 tsa.taxslayer.com
 0.0.0.0 txvoin.with2.net
@@ -1342,6 +1354,7 @@
 0.0.0.0 xzwcng.vans.com.au
 0.0.0.0 yctjw54slxrwwlh.trybawaryjny.pl
 0.0.0.0 yh6u.dealeusedevoyages.com
+0.0.0.0 yjtag.yahoo.co.jp
 0.0.0.0 yknjjb.usaflex.com.br
 0.0.0.0 yo.inbots.online
 0.0.0.0 your.tmro.me

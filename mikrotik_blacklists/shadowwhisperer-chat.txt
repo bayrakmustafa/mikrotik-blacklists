@@ -32,8 +32,10 @@
 0.0.0.0 blueai.dk
 0.0.0.0 boost.ai
 0.0.0.0 botbanhang.vn
+0.0.0.0 botfuse.com
 0.0.0.0 bots.kore.ai
 0.0.0.0 botsnext.com
+0.0.0.0 botsonic.ai
 0.0.0.0 botsupply.ai
 0.0.0.0 bottap.ru
 0.0.0.0 broadly.com
@@ -48,7 +50,9 @@
 0.0.0.0 chatagents.compassion.com
 0.0.0.0 chat.api.autohome.com.cn
 0.0.0.0 chat-api.spartez-software.com
+0.0.0.0 chatbeacon.io
 0.0.0.0 chatbot.aisera.cloud
+0.0.0.0 chatbot-api.us-east-1.prod.mrc-sunrise.marketing.aws.dev
 0.0.0.0 chatbotbase.com
 0.0.0.0 chat-bot.contact-module.ibm.com
 0.0.0.0 chatbot.ds-ai.net
@@ -69,9 +73,12 @@
 0.0.0.0 chat.deepseek.com
 0.0.0.0 chat.dermstore.com
 0.0.0.0 chated.io
+0.0.0.0 chat.freshdesk.com
 0.0.0.0 chatgen.ai
 0.0.0.0 chatgen-cdn.azureedge.net
 0.0.0.0 chat.icedrive.net
+0.0.0.0 chatidcdn.com
+0.0.0.0 chatid.com
 0.0.0.0 chat.intertops.eu
 0.0.0.0 chatling.ai
 0.0.0.0 chat.modelcentro.com
@@ -81,10 +88,12 @@
 0.0.0.0 chatplus.jp
 0.0.0.0 chat.rumahweb.com
 0.0.0.0 chatservices.orders.com
+0.0.0.0 chat.sharpen.cx
 0.0.0.0 chat.smithville.com
 0.0.0.0 chat.stream-io-api.com
 0.0.0.0 chat.suncorp.com.au
 0.0.0.0 chatsupport.co
+0.0.0.0 chatsvc.getgobot.com
 0.0.0.0 chat.topbet.eu
 0.0.0.0 chat.us-east-1.prod.mrc-sunrise.marketing.aws.dev
 0.0.0.0 chatway.app
@@ -100,6 +109,7 @@
 0.0.0.0 click-chat.ru
 0.0.0.0 cliengo.com
 0.0.0.0 clients-liveguide01us.netop.com
+0.0.0.0 cobrowse.oraclecloud.com
 0.0.0.0 cometchat.com
 0.0.0.0 cometchat.io
 0.0.0.0 contrib.ai
@@ -127,6 +137,7 @@
 0.0.0.0 dealereprocesschat.com
 0.0.0.0 deepconverse.com
 0.0.0.0 directtalk.com.br
+0.0.0.0 direqt.ai
 0.0.0.0 dixa.com
 0.0.0.0 dixa.io
 0.0.0.0 dlnwzkim0wron.cloudfront.net
@@ -160,6 +171,7 @@
 0.0.0.0 gorgias.help
 0.0.0.0 gorgias.io
 0.0.0.0 gosimplr.com
+0.0.0.0 gotolstoy.com
 0.0.0.0 graph8.com
 0.0.0.0 greechat.com
 0.0.0.0 groovehq.com
@@ -203,16 +215,19 @@
 0.0.0.0 lg-chatbot.com
 0.0.0.0 libraria.dev
 0.0.0.0 lindy.ai
+0.0.0.0 live2support.com
 0.0.0.0 liveagent.se
 0.0.0.0 livechat.aoscdn.com
 0.0.0.0 livechat.com
 0.0.0.0 livechat.cyberfolks.pl
+0.0.0.0 livechatinc.net
 0.0.0.0 livechat.innoscale.net
 0.0.0.0 livechat.ivpn.net
 0.0.0.0 livechat.messagebird.com
 0.0.0.0 livechat.middle.host
 0.0.0.0 livechatoo.com
 0.0.0.0 livechat-static.com
+0.0.0.0 live-chat-static.sprinklr.com
 0.0.0.0 live-chat-tooling.api.dgs.ig.com
 0.0.0.0 livechat.zen.co.uk
 0.0.0.0 live.hammer-corp.com
@@ -237,6 +252,7 @@
 0.0.0.0 mymaisie.com
 0.0.0.0 nanorep.co
 0.0.0.0 neurologic.com.br
+0.0.0.0 ngageics.com
 0.0.0.0 ngagelive.com
 0.0.0.0 nice-incontact.com
 0.0.0.0 niceincontact.com
@@ -260,6 +276,8 @@
 0.0.0.0 podium.com
 0.0.0.0 powerfront.com
 0.0.0.0 proactive-chat-server-us.prod.aws.lcloud.com
+0.0.0.0 prod2-live-chat-mqtt.sprinklr.com
+0.0.0.0 prod2-live-chat.sprinklr.com
 0.0.0.0 prod-chat-configs.s3.eu-south-1.amazonaws.com
 0.0.0.0 prod-chatwoot-assets.s3.amazonaws.com
 0.0.0.0 productstrategymeanssayingno.com
@@ -268,6 +286,7 @@
 0.0.0.0 pypestream.com
 0.0.0.0 pype.tech
 0.0.0.0 quickcep.com
+0.0.0.0 quriobot.com
 0.0.0.0 rainbowred.com
 0.0.0.0 ramblechat.com
 0.0.0.0 raychat.io
@@ -319,6 +338,7 @@
 0.0.0.0 userbot.ai
 0.0.0.0 usrsprt.com
 0.0.0.0 vajra.ai
+0.0.0.0 va.justanswer.com
 0.0.0.0 var.uicdn.net
 0.0.0.0 va.tilde.com
 0.0.0.0 vchat.vn

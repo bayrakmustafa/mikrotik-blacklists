@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 23,401
-# Updated: 9/20/2025  12:00 (12:00 PM CST)
+# Domains: 23,446
+# Updated: 9/27/2025  01:12 (1:12 AM CST)
 #
 0.0.0.0 03ab2paradisecdn.com
 0.0.0.0 0p1ohj2f5f.ru
@@ -114,6 +114,7 @@
 0.0.0.0 ad-life.net
 0.0.0.0 ad-linx.com
 0.0.0.0 adlnk.net
+0.0.0.0 ad.logic-prod.viasat.io
 0.0.0.0 ad.logic.viasat.io
 0.0.0.0 admachina.ru
 0.0.0.0 admedia360.marketing
@@ -146,6 +147,7 @@
 0.0.0.0 adshort.live
 0.0.0.0 adshuge.com
 0.0.0.0 ads-kesselhaus.com
+0.0.0.0 ad.smartnews.net
 0.0.0.0 adspecs.co.nz
 0.0.0.0 ads-quantum.com
 0.0.0.0 adsraja.in
@@ -157,6 +159,7 @@
 0.0.0.0 adstk.net
 0.0.0.0 adstrackerfor.com
 0.0.0.0 adstripe.net
+0.0.0.0 ads.twitch.tv
 0.0.0.0 adsubon.com
 0.0.0.0 ads.valuelabs.net
 0.0.0.0 ads.videobridge.tv
@@ -174,6 +177,7 @@
 0.0.0.0 advertise-genius.com
 0.0.0.0 advertiseku.com
 0.0.0.0 advertisement.sk
+0.0.0.0 advertising.a2z.com
 0.0.0.0 advertising.to
 0.0.0.0 advert.partners
 0.0.0.0 advinapps.com
@@ -479,6 +483,8 @@
 0.0.0.0 instantpu.sh
 0.0.0.0 intra.click
 0.0.0.0 ionifty.de
+0.0.0.0 iople.com
+0.0.0.0 iosuppu.com
 0.0.0.0 ip219083135.ahcdn.com
 0.0.0.0 ip266637217.ahcdn.com
 0.0.0.0 ip-casual.com
@@ -707,6 +713,7 @@
 0.0.0.0 pozekate.com
 0.0.0.0 predictvideo.com
 0.0.0.0 prestanciatechnologies.com
+0.0.0.0 prisasd.com
 0.0.0.0 proofconvert.com
 0.0.0.0 proventusquantum.com
 0.0.0.0 provers.pro

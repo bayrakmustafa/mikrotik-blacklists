@@ -1,8 +1,8 @@
 #
 #    File: Dating
 #    Info: Dating Sites
-# Domains: 1,090
-# Updated: 9/18/2025  16:45 (4:45 PM CST)
+# Domains: 1,092
+# Updated: 9/25/2025  18:24 (6:24 PM CST)
 #
 0.0.0.0 1000-dating-sites.com
 0.0.0.0 10meilleurssitesderencontre.fr
@@ -73,8 +73,10 @@
 0.0.0.0 ata-rencontre.com
 0.0.0.0 australiadatingplanet.com
 0.0.0.0 b2d8.com
+0.0.0.0 babes2date.com
 0.0.0.0 badoocdn.com
 0.0.0.0 baltic-women.com
+0.0.0.0 bbpeoplemeet.com
 0.0.0.0 bbwcupid.com
 0.0.0.0 be2.at
 0.0.0.0 be2.com
@@ -87,7 +89,9 @@
 0.0.0.0 bez-kompleksov.com
 0.0.0.0 bildkontakte.de
 0.0.0.0 bisexualfling.com
+0.0.0.0 blackbabyboomermeet.com
 0.0.0.0 blacklesbianclub.com
+0.0.0.0 blackprofessionalpeoplemeet.com
 0.0.0.0 blackwhitedatingreviews.com
 0.0.0.0 blackwhite.singles
 0.0.0.0 bonplanrencontre.fr
@@ -108,11 +112,13 @@
 0.0.0.0 casual-fling.com
 0.0.0.0 casualxhookups.com
 0.0.0.0 catholicmates.com
+0.0.0.0 catholicpeoplemeet.com
 0.0.0.0 celibapatch.com
 0.0.0.0 celibouest.com
 0.0.0.0 celibparis.com
-0.0.0.0 charmdate.com
+0.0.0.0 chemistry.com
 0.0.0.0 chinesedating.co.nz
+0.0.0.0 chinesepeoplemeet.com
 0.0.0.0 chinesepersonals.ca
 0.0.0.0 christianamericansingles.com
 0.0.0.0 christiancafe.com
@@ -220,6 +226,7 @@
 0.0.0.0 datingzest.com
 0.0.0.0 deafdatingzone.com
 0.0.0.0 deailinks.com
+0.0.0.0 democraticpeoplemeet.com
 0.0.0.0 dfg.co.za
 0.0.0.0 dial01.fr
 0.0.0.0 dial02.fr
@@ -322,6 +329,7 @@
 0.0.0.0 disabledpassions.com
 0.0.0.0 disabledsinglesusa.com
 0.0.0.0 ditchordate.com
+0.0.0.0 divorcedpeoplemeet.com
 0.0.0.0 divorcedsingles.club
 0.0.0.0 dmpet.imgix.net
 0.0.0.0 dogdatingplanet.com
@@ -376,6 +384,7 @@
 0.0.0.0 freemeet.net
 0.0.0.0 friendscout24.es
 0.0.0.0 friendscout24.it
+0.0.0.0 frienifits.com
 0.0.0.0 fruitz.io
 0.0.0.0 frumster.com
 0.0.0.0 funkyfish-dating.com
@@ -416,6 +425,8 @@
 0.0.0.0 hiv-single.com
 0.0.0.0 hommepansement.com
 0.0.0.0 homodate.be
+0.0.0.0 hubpeople.ai
+0.0.0.0 hubpeople.com
 0.0.0.0 ichwilldichjetzt.com
 0.0.0.0 icouple.fr
 0.0.0.0 idate.co.uk
@@ -435,6 +446,7 @@
 0.0.0.0 incontrisugardaddy.it
 0.0.0.0 incontrixadulti.it
 0.0.0.0 indiadatingplanet.com
+0.0.0.0 indiamatch.com
 0.0.0.0 indian4love.com
 0.0.0.0 inter-mariage.com
 0.0.0.0 internationalcupid.com
@@ -445,6 +457,7 @@
 0.0.0.0 interracialism.com
 0.0.0.0 interracialmatcher.com
 0.0.0.0 i-rencontre.net
+0.0.0.0 italianpeoplemeet.com
 0.0.0.0 japancupid.com
 0.0.0.0 japandatingsite.com
 0.0.0.0 jasez.ca
@@ -479,6 +492,7 @@
 0.0.0.0 latinoswingers.com
 0.0.0.0 lavalife.com
 0.0.0.0 lavenderslove.com
+0.0.0.0 ldsplanet.com
 0.0.0.0 lekdate.no
 0.0.0.0 lesbianmatchmaker.com.au
 0.0.0.0 letsbond.com
@@ -494,6 +508,7 @@
 0.0.0.0 love2knowu.co.za
 0.0.0.0 loveandfriends.com
 0.0.0.0 loveandfriends.co.uk
+0.0.0.0 loveandseek.com
 0.0.0.0 lovearts.com
 0.0.0.0 loveawake.com
 0.0.0.0 love.cz
@@ -516,6 +531,7 @@
 0.0.0.0 manwoman.com.au
 0.0.0.0 mariadating.com
 0.0.0.0 marihuanadating.com
+0.0.0.0 marriagemindedpeoplemeet.com
 0.0.0.0 marriageservices.org
 0.0.0.0 marryy.me
 0.0.0.0 masochiste.org
@@ -606,6 +622,7 @@
 0.0.0.0 perfectdates.com.au
 0.0.0.0 petdatingplanet.com
 0.0.0.0 petloversdatelink.com
+0.0.0.0 petpeoplemeet.com
 0.0.0.0 planetrockdating.com
 0.0.0.0 polishdating.org
 0.0.0.0 posdating.club
@@ -739,6 +756,7 @@
 0.0.0.0 rencontres-toulouse.fr
 0.0.0.0 rencontre-strasbourg.fr
 0.0.0.0 rencontre-toulon.fr
+0.0.0.0 republicanpeoplemeet.com
 0.0.0.0 reseaucontact.com
 0.0.0.0 retrouve-moi.fr
 0.0.0.0 roastdating.com
@@ -760,6 +778,7 @@
 0.0.0.0 seekingcougars.com
 0.0.0.0 seeklovenet.s3.amazonaws.com
 0.0.0.0 sekscamera.nl
+0.0.0.0 seniorblackpeoplemeet.com
 0.0.0.0 seniorcasualdating.com
 0.0.0.0 seniordatelink.com
 0.0.0.0 seniordatingagency.net
@@ -775,6 +794,7 @@
 0.0.0.0 singlebikerscanada.ca
 0.0.0.0 singlemomsanddads.com
 0.0.0.0 singleparentmatch.net
+0.0.0.0 singleparentmeet.com
 0.0.0.0 singler.dk
 0.0.0.0 singles2meet.co.za
 0.0.0.0 singles.com

@@ -294,9 +294,6 @@
 0.0.0.0 zbb.bbb.*.pics
 0.0.0.0 fjuga.top
 0.0.0.0 ad*.on.cc
-0.0.0.0 caribanner.bid
-0.0.0.0 filebanner.com
-0.0.0.0 istana-impian2.com
 0.0.0.0 admicro*.vcmedia.vn
 0.0.0.0 log-*.epicdn.me
 0.0.0.0 log-*.zadn.vn

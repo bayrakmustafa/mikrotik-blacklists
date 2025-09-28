@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 5,672
-# Updated: 9/20/2025  11:49 (11:49 AM CST)
+# Domains: 5,685
+# Updated: 9/26/2025  16:21 (4:21 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -237,7 +237,6 @@
 0.0.0.0 9fx.org
 0.0.0.0 9jagistme.com.ng
 0.0.0.0 9k.gg
-0.0.0.0 9lick.me
 0.0.0.0 9o9.cc
 0.0.0.0 9oz.com
 0.0.0.0 9u9.de
@@ -245,6 +244,7 @@
 0.0.0.0 a11ypm.com
 0.0.0.0 a1b.team
 0.0.0.0 a368.co
+0.0.0.0 a4k.co
 0.0.0.0 a4r.at
 0.0.0.0 a.6mqw.org
 0.0.0.0 aaa.moda
@@ -310,6 +310,7 @@
 0.0.0.0 adrians-guzman-81.life
 0.0.0.0 adsclicks.life
 0.0.0.0 adsforfaucets.com
+0.0.0.0 adshort.co
 0.0.0.0 adshort-url.com
 0.0.0.0 adsmoker.com
 0.0.0.0 ads.so
@@ -472,6 +473,7 @@
 0.0.0.0 aqeq3te.com
 0.0.0.0 aqyne.com
 0.0.0.0 arab.news
+0.0.0.0 archrival.co
 0.0.0.0 arclight.live
 0.0.0.0 ardchk.me
 0.0.0.0 aresgacor.info
@@ -569,6 +571,7 @@
 0.0.0.0 b9d.me
 0.0.0.0 baas.kr
 0.0.0.0 baba.bio
+0.0.0.0 babblecase.com
 0.0.0.0 babyurl.net
 0.0.0.0 bacc666.mobi
 0.0.0.0 bafrv.top
@@ -758,6 +761,7 @@
 0.0.0.0 bola.mx
 0.0.0.0 bolstr.online
 0.0.0.0 bom.one
+0.0.0.0 bom.so
 0.0.0.0 bonai.re
 0.0.0.0 bonic.so
 0.0.0.0 bonsaifreespins.com
@@ -1027,6 +1031,7 @@
 0.0.0.0 coinreal-us.com
 0.0.0.0 coki.me
 0.0.0.0 coklat.vip
+0.0.0.0 come.ac
 0.0.0.0 comes.ee
 0.0.0.0 comphi.st
 0.0.0.0 compreaquikakspromobaby.live
@@ -1058,6 +1063,7 @@
 0.0.0.0 cr.ma
 0.0.0.0 crnw.uk
 0.0.0.0 croc.global
+0.0.0.0 cropped.xyz
 0.0.0.0 crvbd.com
 0.0.0.0 crvw.ru
 0.0.0.0 crypsante.com
@@ -1925,6 +1931,7 @@
 0.0.0.0 hola2.me
 0.0.0.0 hoo.gl
 0.0.0.0 hop2.page
+0.0.0.0 hopework.link
 0.0.0.0 hopla.to
 0.0.0.0 hopth.ru
 0.0.0.0 hostvt.com
@@ -2143,6 +2150,7 @@
 0.0.0.0 jbqdo.com
 0.0.0.0 jcjbi.com
 0.0.0.0 jddbo.com
+0.0.0.0 jdev.uk
 0.0.0.0 jdgak.sbs
 0.0.0.0 jdqf.info
 0.0.0.0 jdsounds.live
@@ -2457,6 +2465,7 @@
 0.0.0.0 linkable.to
 0.0.0.0 linkaff.com
 0.0.0.0 linkai.in
+0.0.0.0 linkaku.homes
 0.0.0.0 linkaku.pro
 0.0.0.0 linka.li
 0.0.0.0 linkapp.click
@@ -2577,6 +2586,7 @@
 0.0.0.0 linksy.io
 0.0.0.0 linktexas.info
 0.0.0.0 linktgd.com
+0.0.0.0 linktgd.net
 0.0.0.0 linkthis.link
 0.0.0.0 linkti.mx
 0.0.0.0 linkto.eu
@@ -2585,6 +2595,7 @@
 0.0.0.0 link-trim.in
 0.0.0.0 linkunshorten.com
 0.0.0.0 link.u-pov.ru
+0.0.0.0 linkurltiny.com
 0.0.0.0 linkvip88.org
 0.0.0.0 linkvp.com
 0.0.0.0 linky31.com
@@ -2721,6 +2732,7 @@
 0.0.0.0 m4rk.org
 0.0.0.0 m5.gs
 0.0.0.0 m5.lt
+0.0.0.0 macanplay.click
 0.0.0.0 macau123.link
 0.0.0.0 macrinaperez.live
 0.0.0.0 madondressokwanda2.life
@@ -2852,9 +2864,11 @@
 0.0.0.0 mi3s.one
 0.0.0.0 microbakery.ca
 0.0.0.0 microlinkfy.io
+0.0.0.0 microlink.ro
 0.0.0.0 microlinks.io
 0.0.0.0 microsoftaistories.com
 0.0.0.0 midiavip.com
+0.0.0.0 miffy.me
 0.0.0.0 mightyurl.mightyscripts.xyz
 0.0.0.0 miguelcastilloa59club.life
 0.0.0.0 miguel-castillo-a-59.life
@@ -3074,6 +3088,7 @@
 0.0.0.0 nagaaslicc.life
 0.0.0.0 nah.uy
 0.0.0.0 naik-terus.com
+0.0.0.0 nakama420.xyz
 0.0.0.0 nal.la
 0.0.0.0 nalo.life
 0.0.0.0 nanourl.org
@@ -3364,6 +3379,7 @@
 0.0.0.0 peercertification.wildalwhite.com
 0.0.0.0 peerwith.me
 0.0.0.0 pekcamke.link
+0.0.0.0 pencetdulu.com
 0.0.0.0 pendek.art
 0.0.0.0 peppy.link
 0.0.0.0 pes4ed.com
@@ -3573,6 +3589,7 @@
 0.0.0.0 qtn.co.il
 0.0.0.0 qtoit.com
 0.0.0.0 qton.top
+0.0.0.0 quainator.com
 0.0.0.0 quanturl.xyz
 0.0.0.0 quee.link
 0.0.0.0 queen-kelly.life
@@ -3615,6 +3632,7 @@
 0.0.0.0 ramcourier.live
 0.0.0.0 rankgenius.live
 0.0.0.0 rantenah.com
+0.0.0.0 ranvz.co
 0.0.0.0 ravshort.com
 0.0.0.0 raxpj.com
 0.0.0.0 raykiemery.com
@@ -4247,7 +4265,6 @@
 0.0.0.0 snipit.in
 0.0.0.0 snip.link
 0.0.0.0 snipp.dev
-0.0.0.0 snipqr.com
 0.0.0.0 snplink.com
 0.0.0.0 snpy.link
 0.0.0.0 snurl.dk
@@ -4721,6 +4738,7 @@
 0.0.0.0 ttt.name
 0.0.0.0 ttt.onl
 0.0.0.0 tu4.me
+0.0.0.0 tuasy.com
 0.0.0.0 tufts-medicine-transportation-hub.org
 0.0.0.0 tuhny.com
 0.0.0.0 tulinks.online
@@ -4918,6 +4936,7 @@
 0.0.0.0 url.prepo.io
 0.0.0.0 url.procreatebrushes.app
 0.0.0.0 url-qr.tk
+0.0.0.0 urlra.com
 0.0.0.0 url.reisen
 0.0.0.0 urlro.com
 0.0.0.0 ur-l.ru
@@ -5435,6 +5454,7 @@
 0.0.0.0 ylink.bid
 0.0.0.0 ymoizd.com
 0.0.0.0 ymsoy.com
+0.0.0.0 yoalizer.com
 0.0.0.0 yo.ma
 0.0.0.0 youlinks.org
 0.0.0.0 yourcs.us
@@ -5448,7 +5468,6 @@
 0.0.0.0 yourls.irex.aretex.ca
 0.0.0.0 yourls.org
 0.0.0.0 yourmovie.co
-0.0.0.0 yous.ee
 0.0.0.0 youtubeopener.app
 0.0.0.0 youtubu.us
 0.0.0.0 yozzc.com
@@ -5555,7 +5574,6 @@
 0.0.0.0 zrkte.ch
 0.0.0.0 zrlul.com
 0.0.0.0 zrpl.ir
-0.0.0.0 zrr.kr
 0.0.0.0 zshorten.com
 0.0.0.0 zshort.io
 0.0.0.0 zshortner.com

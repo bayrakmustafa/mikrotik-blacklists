@@ -57,8 +57,6 @@
 0.0.0.0 facture-pdf-secure-*.vercel.app
 0.0.0.0 msoftupdate.*.linodeobjects.com
 0.0.0.0 outloksupport*.glitch.me
-0.0.0.0 telegerasm.work
-0.0.0.0 telegeram.work
 0.0.0.0 telergctm.vip
 0.0.0.0 d*wsapp.icu
 0.0.0.0 informed.delivery*.top
@@ -105,3 +103,4 @@
 0.0.0.0 pttavm.*.com.tr
 0.0.0.0 florida.revenue-*.net
 0.0.0.0 phila.revenue*.cc
+0.0.0.0 client.*-blockfi.com

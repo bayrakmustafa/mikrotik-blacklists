@@ -2256,6 +2256,7 @@
 0.0.0.0 amazan.co.uk
 0.0.0.0 amazan.de
 0.0.0.0 amazan.fr
+0.0.0.0 amazaon.com
 0.0.0.0 amazaon.com.au
 0.0.0.0 amazaon.co.uk
 0.0.0.0 amazaon.de
@@ -8985,6 +8986,7 @@
 0.0.0.0 ateampowered.com
 0.0.0.0 atf.com
 0.0.0.0 atft.com
+0.0.0.0 atg.com
 0.0.0.0 atgt.com
 0.0.0.0 ath.com
 0.0.0.0 atht.com
@@ -19253,7 +19255,6 @@
 0.0.0.0 discorgd.com
 0.0.0.0 discorgd.media
 0.0.0.0 discor.media
-0.0.0.0 discorrapp.com
 0.0.0.0 discorr.com
 0.0.0.0 discorrdapp.com
 0.0.0.0 discorrd.media
@@ -23925,6 +23926,7 @@
 0.0.0.0 fglychicago.com
 0.0.0.0 fglydenver.com
 0.0.0.0 fglysfo.com
+0.0.0.0 fgmail.com
 0.0.0.0 fgodaddy.com
 0.0.0.0 fgofundme.com
 0.0.0.0 fgoldmansachs.com
@@ -27971,7 +27973,6 @@
 0.0.0.0 gloogle.sm
 0.0.0.0 gloogleusercontent.com
 0.0.0.0 gloomberg.com
-0.0.0.0 glthub.com
 0.0.0.0 gly2houston.com
 0.0.0.0 glychicago.com
 0.0.0.0 glydenver.com
@@ -27991,12 +27992,15 @@
 0.0.0.0 gmaiil.com
 0.0.0.0 gmaij.com
 0.0.0.0 gmaijl.com
+0.0.0.0 gmaik.com
 0.0.0.0 gmaikl.com
 0.0.0.0 gmail.cm
 0.0.0.0 gmail.co
+0.0.0.0 gmailc.om
 0.0.0.0 gmail-com.com
 0.0.0.0 gmailcom.com
 0.0.0.0 gmailk.com
+0.0.0.0 gmaill.com
 0.0.0.0 gmailo.com
 0.0.0.0 gmail.om
 0.0.0.0 gmailp.com
@@ -28013,6 +28017,7 @@
 0.0.0.0 gmal.com
 0.0.0.0 gmali.com
 0.0.0.0 gmalil.com
+0.0.0.0 gmall.com
 0.0.0.0 gmaoil.com
 0.0.0.0 gmaol.com
 0.0.0.0 gmaqil.com
@@ -31616,6 +31621,7 @@
 0.0.0.0 googl.nl
 0.0.0.0 googl.no
 0.0.0.0 googloe.ca
+0.0.0.0 googloe.com
 0.0.0.0 googloe.com.au
 0.0.0.0 googloe.co.uk
 0.0.0.0 googloe.de
@@ -44960,6 +44966,7 @@
 0.0.0.0 malwareby6tes.com
 0.0.0.0 malwareby7tes.com
 0.0.0.0 malwarebyees.com
+0.0.0.0 malwarebyes.com
 0.0.0.0 malwarebyes.org
 0.0.0.0 malwarebyets.com
 0.0.0.0 malwarebyets.org
@@ -50083,6 +50090,7 @@
 0.0.0.0 norytonlifelock.com
 0.0.0.0 notionalgeographic.com
 0.0.0.0 notionwide.com
+0.0.0.0 notmail.com
 0.0.0.0 noton.com
 0.0.0.0 notonlifelock.com
 0.0.0.0 notron.com
@@ -61075,7 +61083,6 @@
 0.0.0.0 steamc9ntent.com
 0.0.0.0 steamc9ommunity.com
 0.0.0.0 steamc9ontent.com
-0.0.0.0 steamcammunity.com
 0.0.0.0 steamcantent.com
 0.0.0.0 steamccommunity.com
 0.0.0.0 steamccontent.com
@@ -61190,7 +61197,6 @@
 0.0.0.0 steamcommunitjy.com
 0.0.0.0 steamcommunitry.com
 0.0.0.0 steamcommunitt.com
-0.0.0.0 steamcommunitty.com
 0.0.0.0 steamcommunitu.com
 0.0.0.0 steamcommunituy.com
 0.0.0.0 steamcommunity6.com
@@ -69000,6 +69006,7 @@
 0.0.0.0 whafsapp.com
 0.0.0.0 whaftsapp.com
 0.0.0.0 whagsapp.com
+0.0.0.0 whagtsapp.com
 0.0.0.0 whahsapp.com
 0.0.0.0 whahtsapp.com
 0.0.0.0 whaismyip.com
@@ -72334,6 +72341,7 @@
 0.0.0.0 yaho9.com
 0.0.0.0 yaho9o.com
 0.0.0.0 yahoa.com
+0.0.0.0 yaho.com
 0.0.0.0 yahog.com
 0.0.0.0 yahoi.com
 0.0.0.0 yahoio.com
@@ -72360,6 +72368,7 @@
 0.0.0.0 yahpoo.com
 0.0.0.0 yahpp.com
 0.0.0.0 yahuoo.com
+0.0.0.0 yahyoo.com
 0.0.0.0 yaie.edu
 0.0.0.0 yaje.edu
 0.0.0.0 yajhoo.com
@@ -73150,6 +73159,7 @@
 0.0.0.0 youtubskids.com
 0.0.0.0 youtubve.com
 0.0.0.0 youtubvekids.com
+0.0.0.0 youtubw.com
 0.0.0.0 youtubwe.com
 0.0.0.0 youtubwekids.com
 0.0.0.0 youtubwkids.com
