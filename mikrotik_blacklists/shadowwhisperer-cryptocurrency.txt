@@ -1,8 +1,8 @@
 #
 #    File: Cryptocurrency
 #    Info: Bitcoin, Ethereum, Mining, etc
-# Domains: 1,260
-# Updated: 9/11/2025  23:40 (11:40 PM CST)
+# Domains: 1,261
+# Updated: 10/1/2025  00:47 (12:47 AM CST)
 #
 0.0.0.0 0slot.trade
 0.0.0.0 10102.io
@@ -145,6 +145,7 @@
 0.0.0.0 bitkub.com
 0.0.0.0 bitmain.com
 0.0.0.0 bitmaintech.com
+0.0.0.0 bitnasdaq.io
 0.0.0.0 bitoreum.org
 0.0.0.0 bitpapa.com
 0.0.0.0 bitpay.com

@@ -31,7 +31,6 @@
 0.0.0.0 1.b406929acabac9b095f124c81bdfcf57f.com
 0.0.0.0 1.c81358859121583b7adf2ace89cb39f44.com
 0.0.0.0 1.cjcp.cn
-0.0.0.0 1.datadog.pool.ntp.org
 0.0.0.0 1.envato.market
 0.0.0.0 1.i1766.com
 0.0.0.0 1.iqeq.com.cn
@@ -188,6 +187,7 @@
 0.0.0.0 1891408184.rsc.cdn77.org
 0.0.0.0 1894269931.rsc.cdn77.org
 0.0.0.0 189smarthome.com
+0.0.0.0 18av.mm-cg.co
 0.0.0.0 18f-cloud.com
 0.0.0.0 18tzx.com
 0.0.0.0 1900780057.rsc.cdn77.org
@@ -259,8 +259,6 @@
 0.0.0.0 1ynsm7483ffp2lc5j5rs4bu13mm-wpengine.netdna-ssl.com
 0.0.0.0 1ypfazc0twx431e6w2jik5nw-wpengine.netdna-ssl.com
 0.0.0.0 1z1euk35x7oy36s8we4dr6lo-wpengine.netdna-ssl.com
-0.0.0.0 2.5aigushi.com
-0.0.0.0 2.datadog.pool.ntp.org
 0.0.0.0 2.heiyange.com
 0.0.0.0 2.mobixs.cn
 0.0.0.0 2.win7china.com
@@ -309,7 +307,6 @@
 0.0.0.0 25purb1qs9y91rvlxr44yeeg-wpengine.netdna-ssl.com
 0.0.0.0 25udam187zpf2mzghz28ihhs-wpengine.netdna-ssl.com
 0.0.0.0 265.com
-0.0.0.0 268mob.cn
 0.0.0.0 26n9kh1905s2j9i8k1dddift-wpengine.netdna-ssl.com
 0.0.0.0 270degrees.io
 0.0.0.0 272xb.com
@@ -369,7 +366,6 @@
 0.0.0.0 2vynjo3oi9ijs29xb3fmjtn1-wpengine.netdna-ssl.com
 0.0.0.0 2xx.jp
 0.0.0.0 2z8vf4sffcb1alvv140hxsv1-wpengine.netdna-ssl.com
-0.0.0.0 3.datadog.pool.ntp.org
 0.0.0.0 3.guidaye.com
 0.0.0.0 3.ly
 0.0.0.0 300624.com
@@ -501,6 +497,7 @@
 0.0.0.0 4fpnph3j8bls2w9fqo3k4xd5-wpengine.netdna-ssl.com
 0.0.0.0 4fsl4b2ha2841x0gnm21onox40a-wpengine.netdna-ssl.com
 0.0.0.0 4ggww.com
+0.0.0.0 4hfchest5kdnfnut.com
 0.0.0.0 4kfinder.com
 0.0.0.0 4lj9m6e.x.incapdns.net
 0.0.0.0 4pcdn.de
@@ -738,7 +735,6 @@
 0.0.0.0 a.sellpoint.com
 0.0.0.0 a.sellpoint.net
 0.0.0.0 a.shuoshuodaquan.net
-0.0.0.0 a.solarmovie.is
 0.0.0.0 a.solo.to
 0.0.0.0 a.storyblok.com
 0.0.0.0 a.suitsupplycdn.com
@@ -1414,6 +1410,7 @@
 0.0.0.0 alikunlun.com
 0.0.0.0 aliqqjd.cn
 0.0.0.0 alissl.ucdl.pp.uc.cn
+0.0.0.0 alitianxia168.com
 0.0.0.0 alitui.weibo.com.cn
 0.0.0.0 aliunion.cn.yahoo.com
 0.0.0.0 alive.github.com
@@ -1594,6 +1591,7 @@
 0.0.0.0 anime-ultime.net
 0.0.0.0 anioscp.com
 0.0.0.0 anivi.xyz
+0.0.0.0 ann5.net
 0.0.0.0 annefrank.containers.piwik.pro
 0.0.0.0 announcekit.app
 0.0.0.0 announcem.xyz
@@ -2250,7 +2248,6 @@
 0.0.0.0 banners.vliegtickets.nl
 0.0.0.0 bannerstartpagina.nl
 0.0.0.0 baqend.com
-0.0.0.0 baradoot.com
 0.0.0.0 barbmerchant.com
 0.0.0.0 barilliance.com
 0.0.0.0 barmasou.com
@@ -2983,6 +2980,7 @@
 0.0.0.0 carvertical.com
 0.0.0.0 cas.avalon.perfdrive.com
 0.0.0.0 cascadedubonheur.fr
+0.0.0.0 cashewsforlife208.com
 0.0.0.0 cashimashi.com
 0.0.0.0 cashino.info
 0.0.0.0 cashpoint.dk
@@ -3412,7 +3410,6 @@
 0.0.0.0 chooinkya.com
 0.0.0.0 chromatec.ru
 0.0.0.0 chronopost-relivraison.fr
-0.0.0.0 chtbl.com
 0.0.0.0 churchrez.org
 0.0.0.0 chushywoce.com
 0.0.0.0 ci.csefaazc.net
@@ -3691,6 +3688,7 @@
 0.0.0.0 coincap.io
 0.0.0.0 coinerblog.com
 0.0.0.0 coingecko.com
+0.0.0.0 coinhive-manager.com
 0.0.0.0 coinmarketcap.com
 0.0.0.0 coinmedia.tk
 0.0.0.0 coinside.ru
@@ -4597,6 +4595,7 @@
 0.0.0.0 databuddy.cc
 0.0.0.0 datacoll.nl
 0.0.0.0 datacompany.co.za
+0.0.0.0 datadog.pool.ntp.org
 0.0.0.0 datadome.co
 0.0.0.0 datadome.monster.com
 0.0.0.0 datadyno.co.uk
@@ -4781,6 +4780,7 @@
 0.0.0.0 dfp.microsoft.com
 0.0.0.0 dfp6rglgjqszk.cloudfront.net
 0.0.0.0 dgpfe1xgdia62.cloudfront.net
+0.0.0.0 dgpzx.com
 0.0.0.0 dgtcdn.net
 0.0.0.0 dh.holaworld.cn
 0.0.0.0 dh0i9ryzlewh.cloudfront.net
@@ -5561,6 +5561,7 @@
 0.0.0.0 fbthirdpartypixel.org
 0.0.0.0 fcb-sd.com
 0.0.0.0 fcp.codes
+0.0.0.0 fcsass.org.cn
 0.0.0.0 fcu.edu.tw
 0.0.0.0 fd.anzhi.com
 0.0.0.0 fd.api.iris.microsoft.com
@@ -5895,6 +5896,7 @@
 0.0.0.0 gaana.com
 0.0.0.0 gad.kugou.com
 0.0.0.0 gadgets.buienradar.nl
+0.0.0.0 gadwhy.com
 0.0.0.0 gagdonkey.net
 0.0.0.0 gaggle.net
 0.0.0.0 gaia-oasis.com
@@ -6276,7 +6278,6 @@
 0.0.0.0 guduopu.com
 0.0.0.0 guenther.de
 0.0.0.0 gug.ku6cdn.com
-0.0.0.0 gugulonger.cn
 0.0.0.0 guidashu.com
 0.0.0.0 guide-piscine.fr
 0.0.0.0 guidelines.lt.acemlna.com
@@ -6316,6 +6317,7 @@
 0.0.0.0 haohaowan8.com
 0.0.0.0 haolew.com
 0.0.0.0 hap.io
+0.0.0.0 hapic1.jhkxwl.com
 0.0.0.0 happierleads.com
 0.0.0.0 happinessmeter.gov.ae
 0.0.0.0 happy-entertainment-llc.com
@@ -6509,6 +6511,7 @@
 0.0.0.0 hpqxznpb.bid
 0.0.0.0 hpybet.de
 0.0.0.0 hqgjcm.com
+0.0.0.0 hr41.cn
 0.0.0.0 hrdantwerp.com
 0.0.0.0 href.li
 0.0.0.0 hrs.althoffhotels.com
@@ -6807,6 +6810,7 @@
 0.0.0.0 idservice.hm.com
 0.0.0.0 iebar.baidu.com
 0.0.0.0 iezway.com
+0.0.0.0 if1512.com
 0.0.0.0 iframe.ly
 0.0.0.0 iframe.travel.yahoo.com
 0.0.0.0 igaccountfinder.com
@@ -7073,6 +7077,7 @@
 0.0.0.0 invite.duolingo.com
 0.0.0.0 invkvk.nl
 0.0.0.0 invt.io
+0.0.0.0 inx.lv
 0.0.0.0 io.io
 0.0.0.0 ioactive.com
 0.0.0.0 ioresearch.nl
@@ -7237,6 +7242,7 @@
 0.0.0.0 jiyou2014.com
 0.0.0.0 jk939.com
 0.0.0.0 jkjjkj.top
+0.0.0.0 jl027.com
 0.0.0.0 jlssbz.com
 0.0.0.0 jmailroute.net
 0.0.0.0 jmdev.ca
@@ -7304,6 +7310,7 @@
 0.0.0.0 jsfk3d43.netvisualizer.com
 0.0.0.0 jsid76api.buildyourdata.com
 0.0.0.0 jsj8sd9nf.randomlane.net
+0.0.0.0 jskrnekewe.mofans.net
 0.0.0.0 jsm.9939.com
 0.0.0.0 jsm3zsn5kewlmk9q.dns-analytics.com
 0.0.0.0 jsonapi2.linksnew.info
@@ -7332,7 +7339,6 @@
 0.0.0.0 jvh.nl
 0.0.0.0 jwplayer.com
 0.0.0.0 jwqj.net
-0.0.0.0 jxbjt.com
 0.0.0.0 jxfxsw.com
 0.0.0.0 jxlog.istreamsche.com
 0.0.0.0 jxlqgs.com
@@ -7450,6 +7456,8 @@
 0.0.0.0 klantenvertellen.nl
 0.0.0.0 klantnr804920.ddns.net
 0.0.0.0 klassiekehomeopathieharen.nl
+0.0.0.0 kld666.com
+0.0.0.0 kldmm.com
 0.0.0.0 klear.com
 0.0.0.0 kleecks-stats.com
 0.0.0.0 klenty.com
@@ -8553,7 +8561,6 @@
 0.0.0.0 motohelpr.com
 0.0.0.0 mounbeam.network
 0.0.0.0 moupdate10332052.wps.cn
-0.0.0.0 moutaihotel.cn
 0.0.0.0 movable-ink-344.com
 0.0.0.0 moveaws.com
 0.0.0.0 movexm.com
@@ -9851,6 +9858,7 @@
 0.0.0.0 ptag.liveperson.net
 0.0.0.0 ptkhy.com
 0.0.0.0 ptools.com
+0.0.0.0 ptw.la
 0.0.0.0 ptwebsites.s3.amazonaws.com
 0.0.0.0 pub-fc17c95a9ac8407abefe7fcd500dd0d6.r2.dev
 0.0.0.0 pub.betclick.com
@@ -9942,7 +9950,6 @@
 0.0.0.0 pypip36z19.myfundsdns.com
 0.0.0.0 pythonunited.com
 0.0.0.0 pyze.com
-0.0.0.0 pyzkk.com
 0.0.0.0 pzs.kr
 0.0.0.0 pzz.io
 0.0.0.0 q42stats.ew.r.appspot.com
@@ -9956,7 +9963,6 @@
 0.0.0.0 qcloud.com
 0.0.0.0 qd.dhzw.org
 0.0.0.0 qd.wanjuanba.com
-0.0.0.0 qdchunyu.com
 0.0.0.0 qgss8.com
 0.0.0.0 qiailm.com
 0.0.0.0 qicm.aexp-static.com
@@ -10235,6 +10241,7 @@
 0.0.0.0 rgom10-en.url.trendmicro.com
 0.0.0.0 rgpd-smartclip.com
 0.0.0.0 rhetorik.com
+0.0.0.0 rhgyg.com
 0.0.0.0 rhlshipping.com
 0.0.0.0 ri7.biz
 0.0.0.0 richcall.io
@@ -10631,6 +10638,7 @@
 0.0.0.0 selectionrocambolesque.fr
 0.0.0.0 selezioneunica.it
 0.0.0.0 self.events.data.microsoft.com
+0.0.0.0 sell1.etlong.com
 0.0.0.0 sellerlabs.com
 0.0.0.0 sellpoint.com
 0.0.0.0 semanticlocation-pa.googleapis.com
@@ -11381,7 +11389,6 @@
 0.0.0.0 stm.orf.at
 0.0.0.0 stm.suitsupply.com
 0.0.0.0 stmg-prod.mirror.co.uk
-0.0.0.0 stn88.com
 0.0.0.0 stocksbsc.com
 0.0.0.0 storage.com
 0.0.0.0 store.axelspringer.es
@@ -11483,7 +11490,6 @@
 0.0.0.0 switchy.io
 0.0.0.0 swogo.net
 0.0.0.0 swx.0.0.0.0.cn
-0.0.0.0 sxbhzs.net
 0.0.0.0 sxjxhg.com
 0.0.0.0 sygic.com
 0.0.0.0 syilm.net
@@ -11909,6 +11915,7 @@
 0.0.0.0 townmail.nl
 0.0.0.0 townmanagementsgc.com
 0.0.0.0 tp.multiview.com
+0.0.0.0 tpe163.com
 0.0.0.0 tpsc-frc.doubleverify.com
 0.0.0.0 tr.ifeeder.com
 0.0.0.0 tr.jumpcloud.com
@@ -12303,7 +12310,6 @@
 0.0.0.0 vegasslots.net
 0.0.0.0 vegasslotsonline.com
 0.0.0.0 vegaswinner.de
-0.0.0.0 vegent.cn
 0.0.0.0 velocidi.com
 0.0.0.0 veloxity.net
 0.0.0.0 velthuysemulder.nl
@@ -12736,7 +12742,6 @@
 0.0.0.0 ws.pubble.nl
 0.0.0.0 ws.pusherapp.com
 0.0.0.0 ws.zoominfo.com
-0.0.0.0 ws341.com
 0.0.0.0 ws7j.com
 0.0.0.0 wsa1.byside.com
 0.0.0.0 wsdk.rokt.com
@@ -12964,7 +12969,6 @@
 0.0.0.0 zedge.net
 0.0.0.0 zend-apps.com
 0.0.0.0 zendrive.com
-0.0.0.0 zephr.com
 0.0.0.0 zetaglobal.com
 0.0.0.0 zeturf.nl
 0.0.0.0 zeus.qj.net

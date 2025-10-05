@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 26SEP25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 03OCT25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -820,6 +820,7 @@
 0.0.0.0 nbcnews.black.news
 0.0.0.0 nbizzi.store.ferrari.com
 0.0.0.0 net.cadeautjes.nl
+0.0.0.0 net.jumia.com.eg
 0.0.0.0 newperspective.americanexpress.com
 0.0.0.0 news.income.com.sg
 0.0.0.0 ni8.lafuma-boutique.com

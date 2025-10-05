@@ -28919,6 +28919,7 @@
 0.0.0.0 goigle.ie
 0.0.0.0 goigle.iq
 0.0.0.0 goigle.is
+0.0.0.0 goigle.it
 0.0.0.0 goigle.jo
 0.0.0.0 goigle.kz
 0.0.0.0 goigle.li
@@ -29888,6 +29889,7 @@
 0.0.0.0 googel.es
 0.0.0.0 googel.fr
 0.0.0.0 googe.li
+0.0.0.0 googel.it
 0.0.0.0 googe.lk
 0.0.0.0 googel.nl
 0.0.0.0 googel.no
@@ -61234,6 +61236,7 @@
 0.0.0.0 steamcomrnunity.com
 0.0.0.0 steamcomtent.com
 0.0.0.0 steamcomumnity.com
+0.0.0.0 steamcomunity.com
 0.0.0.0 steamcon5ent.com
 0.0.0.0 steamcon5tent.com
 0.0.0.0 steamcon6ent.com

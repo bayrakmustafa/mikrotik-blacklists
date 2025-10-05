@@ -12,6 +12,7 @@
 0.0.0.0 prebid-*.rubiconproject.com
 0.0.0.0 pijama.*.elasticbeanstalk.com
 0.0.0.0 s*.skencituer.com
+0.0.0.0 vexilufkyoty.com
 0.0.0.0 *.libaishuo.com
 0.0.0.0 adv0*.msa.cdn.mediaset.net
 0.0.0.0 ads*-normal*.zijieapi.com
@@ -83,6 +84,8 @@
 0.0.0.0 query*.petametrics.com
 0.0.0.0 sock*-goguardian.pusher.com
 0.0.0.0 tccd.douglas.
+0.0.0.0 mon*.tiktokv.us
+0.0.0.0 orderana*.spankbang.com
 0.0.0.0 logstash-*.radio-canada.ca
 0.0.0.0 beehiiv-adnetwork-production.s*.amazonaws.com
 0.0.0.0 telemetry.*.pvp.net

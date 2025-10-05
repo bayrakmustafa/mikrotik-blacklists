@@ -44,7 +44,6 @@
 0.0.0.0 demo.criteo.com
 0.0.0.0 denizfirsatlarimbasvuru.xyz
 0.0.0.0 digital-vakifbank-reklam-web.tk
-0.0.0.0 directory.cookieyes.com
 0.0.0.0 duyuru-geldi-reklam-basvuru-com.ml
 0.0.0.0 ebncbasvuru.com
 0.0.0.0 edge-sentry-box.otelz.com

@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes
-# Domains: 489
-# Updated: 9/9/2025  16:38 (4:38 PM CST)
+# Domains: 490
+# Updated: 10/1/2025  10:05 (10:05 AM CST)
 #
 0.0.0.0 accpi.org
 0.0.0.0 admaker.tech
@@ -54,6 +54,7 @@
 0.0.0.0 chatbot.aisera.cloud
 0.0.0.0 chatbot-api.us-east-1.prod.mrc-sunrise.marketing.aws.dev
 0.0.0.0 chatbotbase.com
+0.0.0.0 chatbot.childrenshospital.org
 0.0.0.0 chat-bot.contact-module.ibm.com
 0.0.0.0 chatbot.ds-ai.net
 0.0.0.0 chatbot.ds-p.biz

@@ -1,8 +1,8 @@
 #
 #    File: Gambling
 #    Info: Casino, gambling, poker, etc.
-# Domains: 9,102
-# Updated: 9/25/2025  16:47 (4:47 PM CST)
+# Domains: 9,107
+# Updated: 10/2/2025  20:11 (8:11 PM CST)
 #
 0.0.0.0 0009casino.com
 0.0.0.0 000-online-casino.biz
@@ -493,6 +493,7 @@
 0.0.0.0 alaskalottery.us
 0.0.0.0 albrechts-casino.de
 0.0.0.0 alderneygambling.com
+0.0.0.0 alev-vip777.com
 0.0.0.0 alexandercasino.com
 0.0.0.0 alexandercasino-france.com
 0.0.0.0 alfacasino.com
@@ -651,6 +652,7 @@
 0.0.0.0 atlantiswins.com
 0.0.0.0 atlassteakandfish.com
 0.0.0.0 attirecasino.xyz
+0.0.0.0 au1xbet.ru
 0.0.0.0 aufcasino.biz
 0.0.0.0 aufcasino.club
 0.0.0.0 auf-casino.com
@@ -1061,6 +1063,7 @@
 0.0.0.0 betroad8002.com
 0.0.0.0 betroad8003.com
 0.0.0.0 betroll.co.uk
+0.0.0.0 bet.rotowire.com
 0.0.0.0 bets10.io
 0.0.0.0 betsafe.lv
 0.0.0.0 betsafesports.com
@@ -3535,6 +3538,7 @@
 0.0.0.0 flessoycasino.xyz
 0.0.0.0 flopcasino.com
 0.0.0.0 flush-casino-france.com
+0.0.0.0 foggybet.com
 0.0.0.0 fontan-casino21.com
 0.0.0.0 fontan-casino24.com
 0.0.0.0 footballlok.com
@@ -7104,6 +7108,7 @@
 0.0.0.0 ruletadecasinoonline.com
 0.0.0.0 rusgambling.com
 0.0.0.0 rustcasino.com
+0.0.0.0 s1xbet.ru
 0.0.0.0 s5casino.ph
 0.0.0.0 sacasino168.net
 0.0.0.0 sacasinogames.org

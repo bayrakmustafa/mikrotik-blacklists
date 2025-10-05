@@ -22,10 +22,10 @@
 # License:       MIT
 # Format:        hosts
 # Entries:       14,163
-# Version:       0.100.a.25.271.16
+# Version:       0.100.a.25.278.14
 # Expires:       1 day (update frequency)
-# Releasae:      25.271.16
-# Last modified: 2025-09-28T16:03:01.040397 UTC
+# Releasae:      25.278.14
+# Last modified: 2025-10-05T14:03:00.404199 UTC
 # Source:        https://github/EnergizedProtection/block
 # Issue:         https://github/EnergizedProtection/block/issues
 # ----------------------------------------------------------------------------
@@ -7581,7 +7581,6 @@
 0.0.0.0 p0-tiktok-dm-private-va.tiktokv.com
 0.0.0.0 p1-tt-ipv6.byteimg.com
 0.0.0.0 p1-tt.byteimg.com
-0.0.0.0 p16-ad-sg.tiktokcdn.com
 0.0.0.0 p16-amd-va.tiktokcdn.com
 0.0.0.0 p16-cc-sg.tiktokcdn.com
 0.0.0.0 p16-cc-sign-sg.tiktokcdn.com

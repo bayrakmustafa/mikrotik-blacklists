@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 5,685
-# Updated: 9/26/2025  16:21 (4:21 PM CST)
+# Domains: 5,696
+# Updated: 10/1/2025  23:29 (11:29 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -38,6 +38,7 @@
 0.0.0.0 123l.pro
 0.0.0.0 124.video
 0.0.0.0 12p.eu
+0.0.0.0 138beo.site
 0.0.0.0 13k.nz
 0.0.0.0 15.tn
 0.0.0.0 166.lv
@@ -693,7 +694,6 @@
 0.0.0.0 bitlylinks.com
 0.0.0.0 bitly.mobi
 0.0.0.0 b-i-t-l-y.net
-0.0.0.0 bitly.net
 0.0.0.0 bitly.network
 0.0.0.0 bitly.pw
 0.0.0.0 bitly.team
@@ -750,7 +750,6 @@
 0.0.0.0 bmr.li
 0.0.0.0 bn8.us
 0.0.0.0 bnetk.sbs
-0.0.0.0 bnidigital.com
 0.0.0.0 bnpam.sbs
 0.0.0.0 boa5s.life
 0.0.0.0 boeo.info
@@ -984,6 +983,7 @@
 0.0.0.0 clic.ae
 0.0.0.0 click-goo.com
 0.0.0.0 clickhub.cc
+0.0.0.0 click-myl.ink
 0.0.0.0 clickthru.ca
 0.0.0.0 clicktosee.live
 0.0.0.0 clicktracker.net
@@ -1761,8 +1761,10 @@
 0.0.0.0 goly.me
 0.0.0.0 goninja.live
 0.0.0.0 goo2url.com
+0.0.0.0 goo.by
 0.0.0.0 goo.click
 0.0.0.0 goodnessokparaeke.live
+0.0.0.0 goodwinlink.com
 0.0.0.0 google-139382.com
 0.0.0.0 googleidmaps.live
 0.0.0.0 google-meet-join-live-video-chat-invites.live
@@ -1976,6 +1978,7 @@
 0.0.0.0 hyperlinker.io
 0.0.0.0 hyperly.co
 0.0.0.0 i7i.co
+0.0.0.0 i8.ae
 0.0.0.0 i-am-here.live
 0.0.0.0 iamsrikrung.com
 0.0.0.0 iapdw.com
@@ -2646,6 +2649,7 @@
 0.0.0.0 lnkit.de
 0.0.0.0 lnkiy.com
 0.0.0.0 lnk.jo
+0.0.0.0 lnkly.click
 0.0.0.0 ln-k.me
 0.0.0.0 lnks.ai
 0.0.0.0 lnks.es
@@ -3530,6 +3534,7 @@
 0.0.0.0 pxicz.com
 0.0.0.0 pxlcrv.co
 0.0.0.0 pxlfy.me
+0.0.0.0 pxs.cl
 0.0.0.0 pygy.co
 0.0.0.0 pylwm.sbs
 0.0.0.0 py.md
@@ -3972,6 +3977,7 @@
 0.0.0.0 shortclient.top
 0.0.0.0 short.cm
 0.0.0.0 shortcm.li
+0.0.0.0 short.com.vn
 0.0.0.0 shorted.biz
 0.0.0.0 shortenedlinks.com
 0.0.0.0 shortenedurl.me
@@ -4036,6 +4042,7 @@
 0.0.0.0 shortlink.com.au
 0.0.0.0 shortlink.co.za
 0.0.0.0 shortlinkgenerator.com
+0.0.0.0 shortlink.gr
 0.0.0.0 shortlinkid.live
 0.0.0.0 shortlink.is
 0.0.0.0 short-link.me
@@ -4043,6 +4050,7 @@
 0.0.0.0 shortlinkpanel.com
 0.0.0.0 shortlinksakti.xyz
 0.0.0.0 shortlink.sbs
+0.0.0.0 shortlinkurl.id
 0.0.0.0 shortlk.com
 0.0.0.0 shortll.com
 0.0.0.0 shortl.net
@@ -4201,6 +4209,7 @@
 0.0.0.0 sjev.info
 0.0.0.0 skiplinko.com
 0.0.0.0 skiplinks.net
+0.0.0.0 skippy.online
 0.0.0.0 skladovaokna.cz
 0.0.0.0 sk.news
 0.0.0.0 sknrd.us
@@ -4366,6 +4375,7 @@
 0.0.0.0 supurlman.com
 0.0.0.0 suqrv.com
 0.0.0.0 sura.pw
+0.0.0.0 surkali.me
 0.0.0.0 surl.be
 0.0.0.0 surlgo.com
 0.0.0.0 surl.li
@@ -4391,6 +4401,7 @@
 0.0.0.0 swsupt.com
 0.0.0.0 sxfy.info
 0.0.0.0 sxzlj.top
+0.0.0.0 sydflames.com
 0.0.0.0 sydkings.com
 0.0.0.0 syl83otk.live
 0.0.0.0 syr.us
