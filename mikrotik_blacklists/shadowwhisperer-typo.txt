@@ -19203,6 +19203,7 @@
 0.0.0.0 discordappcom.com
 0.0.0.0 discordappl.com
 0.0.0.0 discordappo.com
+0.0.0.0 discordappp.com
 0.0.0.0 discordaqpp.com
 0.0.0.0 discordaspp.com
 0.0.0.0 discordawpp.com
@@ -29889,7 +29890,6 @@
 0.0.0.0 googel.es
 0.0.0.0 googel.fr
 0.0.0.0 googe.li
-0.0.0.0 googel.it
 0.0.0.0 googe.lk
 0.0.0.0 googel.nl
 0.0.0.0 googel.no
@@ -61236,7 +61236,6 @@
 0.0.0.0 steamcomrnunity.com
 0.0.0.0 steamcomtent.com
 0.0.0.0 steamcomumnity.com
-0.0.0.0 steamcomunity.com
 0.0.0.0 steamcon5ent.com
 0.0.0.0 steamcon5tent.com
 0.0.0.0 steamcon6ent.com
@@ -61379,6 +61378,7 @@
 0.0.0.0 steamopwered.com
 0.0.0.0 steam-owered.com
 0.0.0.0 steamp0owered.com
+0.0.0.0 steamp0wered.com
 0.0.0.0 steamp9owered.com
 0.0.0.0 steamp9wered.com
 0.0.0.0 steampawered.com

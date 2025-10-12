@@ -261,6 +261,7 @@
 0.0.0.0 1z1euk35x7oy36s8we4dr6lo-wpengine.netdna-ssl.com
 0.0.0.0 2.heiyange.com
 0.0.0.0 2.mobixs.cn
+0.0.0.0 2.rengshu.com
 0.0.0.0 2.win7china.com
 0.0.0.0 201071.com
 0.0.0.0 2012ui.com
@@ -1016,7 +1017,6 @@
 0.0.0.0 acuityscheduling.com
 0.0.0.0 acupunctuurrotterdam.nu
 0.0.0.0 acwebconnecting.com
-0.0.0.0 acwgf.com
 0.0.0.0 ad-alliance.de
 0.0.0.0 ad-cdn-endpoint.azureedge.net
 0.0.0.0 ad-cdn.name
@@ -1590,6 +1590,7 @@
 0.0.0.0 animalz.co
 0.0.0.0 anime-ultime.net
 0.0.0.0 anioscp.com
+0.0.0.0 aniru.org
 0.0.0.0 anivi.xyz
 0.0.0.0 ann5.net
 0.0.0.0 annefrank.containers.piwik.pro
@@ -4872,6 +4873,7 @@
 0.0.0.0 dl906josmvu2y.cloudfront.net
 0.0.0.0 dleke.com
 0.0.0.0 dload.qd.qingting.fm
+0.0.0.0 dlpifu.com
 0.0.0.0 dlrijiaele.com
 0.0.0.0 dlsw.baidu.com
 0.0.0.0 dlsw.br.baidu.com
@@ -5826,6 +5828,7 @@
 0.0.0.0 ft.pnop.com
 0.0.0.0 fta.digital.nuance.com
 0.0.0.0 ftel-livechat.fpt.ai
+0.0.0.0 fthcz.com
 0.0.0.0 ftrperf80.com
 0.0.0.0 fugu-it.com
 0.0.0.0 full-house.nl
@@ -5867,6 +5870,7 @@
 0.0.0.0 fz863.com
 0.0.0.0 g-fiber.co.id
 0.0.0.0 g.brothersoft.com
+0.0.0.0 g.chuiyao.com
 0.0.0.0 g.corp.163.com
 0.0.0.0 g.live.com
 0.0.0.0 g.msn.com.nsatc.net
@@ -6523,6 +6527,7 @@
 0.0.0.0 hstx.eu
 0.0.0.0 ht.sogou.com
 0.0.0.0 htfmbt.com
+0.0.0.0 htjsk.com
 0.0.0.0 htmlstats.net
 0.0.0.0 htms.hema.nl
 0.0.0.0 http-inputs-itv.splunkcloud.com
@@ -7077,7 +7082,6 @@
 0.0.0.0 invite.duolingo.com
 0.0.0.0 invkvk.nl
 0.0.0.0 invt.io
-0.0.0.0 inx.lv
 0.0.0.0 io.io
 0.0.0.0 ioactive.com
 0.0.0.0 ioresearch.nl
@@ -7242,7 +7246,6 @@
 0.0.0.0 jiyou2014.com
 0.0.0.0 jk939.com
 0.0.0.0 jkjjkj.top
-0.0.0.0 jl027.com
 0.0.0.0 jlssbz.com
 0.0.0.0 jmailroute.net
 0.0.0.0 jmdev.ca
@@ -7310,7 +7313,6 @@
 0.0.0.0 jsfk3d43.netvisualizer.com
 0.0.0.0 jsid76api.buildyourdata.com
 0.0.0.0 jsj8sd9nf.randomlane.net
-0.0.0.0 jskrnekewe.mofans.net
 0.0.0.0 jsm.9939.com
 0.0.0.0 jsm3zsn5kewlmk9q.dns-analytics.com
 0.0.0.0 jsonapi2.linksnew.info
@@ -7456,7 +7458,6 @@
 0.0.0.0 klantenvertellen.nl
 0.0.0.0 klantnr804920.ddns.net
 0.0.0.0 klassiekehomeopathieharen.nl
-0.0.0.0 kld666.com
 0.0.0.0 kldmm.com
 0.0.0.0 klear.com
 0.0.0.0 kleecks-stats.com
@@ -8675,6 +8676,7 @@
 0.0.0.0 myqcloud.com
 0.0.0.0 mytoday.com
 0.0.0.0 mytraffic.io
+0.0.0.0 mytzdhz.cn
 0.0.0.0 myycrw.com
 0.0.0.0 myzk1.com
 0.0.0.0 n.a.mosenni.com
@@ -12883,6 +12885,7 @@
 0.0.0.0 yes1.feng.com
 0.0.0.0 yesbeby.whies.info
 0.0.0.0 yext.com
+0.0.0.0 yf898.com
 0.0.0.0 yfcode.m.gxwztv.com
 0.0.0.0 yfxpcode.m.gxwztv.com
 0.0.0.0 yhtcd.com
@@ -13023,6 +13026,7 @@
 0.0.0.0 zte.home
 0.0.0.0 ztedevices.com
 0.0.0.0 zteusa.com
+0.0.0.0 ztidu.com
 0.0.0.0 ztxbd.com
 0.0.0.0 zuaq4uywadlj75qqkfns3bmoom0xpaiz.lambda-url.us-east-1.on.aws
 0.0.0.0 zuko.io

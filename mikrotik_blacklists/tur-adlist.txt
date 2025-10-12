@@ -155,7 +155,6 @@
 0.0.0.0 r.reklam3.com
 0.0.0.0 r.reklam4.com
 0.0.0.0 r.reklam5.com
-0.0.0.0 r.tooplay.com
 0.0.0.0 rainstar.gen.tf
 0.0.0.0 rdrtr.com
 0.0.0.0 rebrand.ly

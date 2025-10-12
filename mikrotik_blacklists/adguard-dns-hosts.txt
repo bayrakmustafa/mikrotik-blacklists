@@ -1,5 +1,5 @@
 # AdguardDNS, parsed and mirrored by https://firebog.net
-# Updated 03OCT25 from https://filters.adtidy.org/extension/chromium/filters/15.txt
+# Updated 10OCT25 from https://filters.adtidy.org/extension/chromium/filters/15.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -497,7 +497,6 @@
 0.0.0.0 cb49836.click
 0.0.0.0 cbfor49836.click
 0.0.0.0 cc.xiaodapei.com
-0.0.0.0 cdn2.auditude.com
 0.0.0.0 cdn93d99x0e.23bei.com
 0.0.0.0 cdn.czx5eyk0exbhwp43ya.biz
 0.0.0.0 cdnjs.z-face.cn
@@ -3645,6 +3644,7 @@
 0.0.0.0 veitgov.cc
 0.0.0.0 vemaybaynhatviet.com
 0.0.0.0 verifytech.click
+0.0.0.0 vexilufkyoty.com
 0.0.0.0 vgiao.hangtietkiem.com
 0.0.0.0 vgo.vegaoo.de
 0.0.0.0 vhcmc2.xyz
@@ -4137,7 +4137,6 @@
 0.0.0.0 wenxue.weimeifan.net
 0.0.0.0 westgarybank.com
 0.0.0.0 wew.dushiwenxue.net
-0.0.0.0 whoami.akamai.net.iberostar.com
 0.0.0.0 widget.utinet.ru
 0.0.0.0 wietcombank.com
 0.0.0.0 winmomo.com

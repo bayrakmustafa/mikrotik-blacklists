@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 23,508
-# Updated: 10/4/2025  15:40 (3:40 PM CST)
+# Domains: 23,585
+# Updated: 10/10/2025  12:44 (12:44 PM CST)
 #
 0.0.0.0 03ab2paradisecdn.com
 0.0.0.0 0p1ohj2f5f.ru

@@ -1,3 +1,4 @@
+0.0.0.0 viruswarning*.web.core.windows.net
 0.0.0.0 foundations-x2024.cloud
 0.0.0.0 vnote-*.myqcloud.com
 0.0.0.0 testra*-covid.weebly.com
@@ -22,6 +23,7 @@
 0.0.0.0 messagerie*.wixsite.com
 0.0.0.0 messagerie*.yolasite.com
 0.0.0.0 payer-ma-acture-*.mystrikingly.com
+0.0.0.0 orange-connexion*.godaddysites.com
 0.0.0.0 attonlineservice*.wixstudio.com
 0.0.0.0 currentlyatt*.weebly.com
 0.0.0.0 currentlymail*.weebly.com

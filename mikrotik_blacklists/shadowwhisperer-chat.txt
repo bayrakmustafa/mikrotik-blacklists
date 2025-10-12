@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes
-# Domains: 490
-# Updated: 10/1/2025  10:05 (10:05 AM CST)
+# Domains: 491
+# Updated: 10/10/2025  08:14 (8:14 AM CST)
 #
 0.0.0.0 accpi.org
 0.0.0.0 admaker.tech
@@ -340,6 +340,7 @@
 0.0.0.0 usrsprt.com
 0.0.0.0 vajra.ai
 0.0.0.0 va.justanswer.com
+0.0.0.0 vanchat.app
 0.0.0.0 var.uicdn.net
 0.0.0.0 va.tilde.com
 0.0.0.0 vchat.vn

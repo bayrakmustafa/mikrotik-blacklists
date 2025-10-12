@@ -4511,7 +4511,6 @@
 0.0.0.0 4450000.fls.doubleclick.net
 0.0.0.0 4453.api.swrve.com
 0.0.0.0 4453.content.swrve.com
-0.0.0.0 4454367.fls.doubleclick.net
 0.0.0.0 4457442.fls.doubleclick.net
 0.0.0.0 4458400.fls.doubleclick.net
 0.0.0.0 446-ref-821.mktoresp.com
@@ -6613,7 +6612,6 @@
 0.0.0.0 7hrpx.voluumtrk.com
 0.0.0.0 7hu8e1u001.com
 0.0.0.0 7ih35.voluumtrk.com
-0.0.0.0 7insight.com
 0.0.0.0 7ix.ru
 0.0.0.0 7iytk.voluumtrk.com
 0.0.0.0 7jftl.voluumtrk.com
@@ -21677,7 +21675,6 @@
 0.0.0.0 ad.smsmovies.se
 0.0.0.0 ad.soft365.com
 0.0.0.0 ad.spielothek.so
-0.0.0.0 ad.sponsoreo.com
 0.0.0.0 ad.spreaker.com
 0.0.0.0 ad.stadtplan.net
 0.0.0.0 ad.stat.4u.pl
@@ -26163,6 +26160,7 @@
 0.0.0.0 adsiplytmedia.indiatimes.com
 0.0.0.0 adsister.com
 0.0.0.0 adsjudo.com
+0.0.0.0 adsk2.co
 0.0.0.0 adskimomedia.adk2.co
 0.0.0.0 adskimomedia.adk2x.com
 0.0.0.0 adsl-71-138-149-62.dsl.pltn13.pacbell.net
@@ -26196,6 +26194,7 @@
 0.0.0.0 adsnetworkserver.com
 0.0.0.0 adsnext.net
 0.0.0.0 adsoftheworld.com
+0.0.0.0 adsolutions.yp.com
 0.0.0.0 adsolvix.go2cloud.org
 0.0.0.0 adsomega.com
 0.0.0.0 adsomi.com
@@ -27318,6 +27317,7 @@
 0.0.0.0 africal.info
 0.0.0.0 africandevelopmentbank.com
 0.0.0.0 africanstools.com
+0.0.0.0 afriflatry.co
 0.0.0.0 afrigale.co
 0.0.0.0 afrika-travel.de.intellitxt.com
 0.0.0.0 afrikaroman.de.intellitxt.com
@@ -29120,6 +29120,7 @@
 0.0.0.0 api.crowdtangle.com
 0.0.0.0 api.crowdtwist.com
 0.0.0.0 api.dans-parsley-change-test.env.sandbox53.localytics.com
+0.0.0.0 api.data-monitor.info
 0.0.0.0 api.data.360safe.com
 0.0.0.0 api.data.beautyplus.com
 0.0.0.0 api.data.ensighten.com
@@ -31246,6 +31247,7 @@
 0.0.0.0 azxsd.pro
 0.0.0.0 azzpbn.com
 0.0.0.0 azzvkcavtgwp.com
+0.0.0.0 b-1st.com
 0.0.0.0 b-aws.huffingtonpost.com
 0.0.0.0 b-endpoint-elb-307841411.adomik.com
 0.0.0.0 b-eu.simility.com
@@ -36538,7 +36540,6 @@
 0.0.0.0 c.predictvideo.com
 0.0.0.0 c.pubguard.com
 0.0.0.0 c.quantserve.com
-0.0.0.0 c.rhapsody.com
 0.0.0.0 c.richmetrics.com
 0.0.0.0 c.rigelink.com
 0.0.0.0 c.rmgserving.com
@@ -38250,6 +38251,7 @@
 0.0.0.0 cdn2.adexprt.com
 0.0.0.0 cdn2.adnium.com
 0.0.0.0 cdn2.ads.contentabc.com
+0.0.0.0 cdn2.auditude.com
 0.0.0.0 cdn2.bad-credit-cdn.com
 0.0.0.0 cdn2.contentabc.com
 0.0.0.0 cdn2.cpmstar.com
@@ -39161,6 +39163,7 @@
 0.0.0.0 ciscolearningnetwork.tt.omtrdc.net
 0.0.0.0 ciscosystemsinc.tt.omtrdc.net
 0.0.0.0 cisfjtamphuqt.com
+0.0.0.0 cision.com
 0.0.0.0 cistcrrhqfm.bid
 0.0.0.0 cistycsoyceif.download
 0.0.0.0 citi.bridgetrack.com.21936.9128.302br.net
@@ -44915,7 +44918,6 @@
 0.0.0.0 dc.js.stats.g.doubleclick.net
 0.0.0.0 dc.kaffnet.com
 0.0.0.0 dc.log.kaffnet.com
-0.0.0.0 dc.plussizetech.com
 0.0.0.0 dc.pxl.ace.advertising.com
 0.0.0.0 dc.railgun.works
 0.0.0.0 dc.solocpm.com
@@ -56578,6 +56580,7 @@
 0.0.0.0 hdpass.link
 0.0.0.0 hdplayer-download.com
 0.0.0.0 hdplayer.li
+0.0.0.0 hdporn.to
 0.0.0.0 hdrinc.co1.qualtrics.com
 0.0.0.0 hdscout.com
 0.0.0.0 hdslnhmjga.com
@@ -58860,6 +58863,7 @@
 0.0.0.0 idqzpnea.com
 0.0.0.0 idrambler.afisha.ru
 0.0.0.0 idrdmyixk.com
+0.0.0.0 idregie.com
 0.0.0.0 idritracker.com
 0.0.0.0 idsearch.ucnews.ucweb.com
 0.0.0.0 idstat.taboola.com
@@ -66339,6 +66343,7 @@
 0.0.0.0 lokalfed.gq
 0.0.0.0 lokalfed.ml
 0.0.0.0 lokalfed.tk
+0.0.0.0 lokhlp.com
 0.0.0.0 lokipodi.com
 0.0.0.0 lokspeedarma.com
 0.0.0.0 lokvel.ru
@@ -66408,7 +66413,6 @@
 0.0.0.0 lootcrate.go2cloud.org
 0.0.0.0 lootltd-homepage.t.domdex.com
 0.0.0.0 loozz.lyfd2xzauti9d8p.bapb.gdn
-0.0.0.0 lop.com
 0.0.0.0 lopdogmltbnbc.com
 0.0.0.0 lopiner.ru
 0.0.0.0 lopireto.com
@@ -67553,6 +67557,7 @@
 0.0.0.0 mango.offerstrack.net
 0.0.0.0 mangoforex.com
 0.0.0.0 manhattan.leadforensics.com
+0.0.0.0 manifest.auditude.com
 0.0.0.0 manifest.da2.auditude.com
 0.0.0.0 manifest.or1.auditude.com
 0.0.0.0 manifest.pcw1.auditude.com
@@ -68786,6 +68791,7 @@
 0.0.0.0 metalliselwgtj.download
 0.0.0.0 metalmulisha.7eer.net
 0.0.0.0 metapelite.com
+0.0.0.0 metaresolver.com
 0.0.0.0 metartmoney.met-art.com
 0.0.0.0 metatas.adswizz.com
 0.0.0.0 metavertizer.com
@@ -73313,6 +73319,7 @@
 0.0.0.0 nvxzjmowusg.com
 0.0.0.0 nvy.sharesix.com
 0.0.0.0 nvztwdkbldp.com
+0.0.0.0 nwave.de
 0.0.0.0 nwazehtl.com
 0.0.0.0 nwciowa.co1.qualtrics.com
 0.0.0.0 nwcqntzx5i.com
@@ -78725,6 +78732,7 @@
 0.0.0.0 pop-up.rtb.adx1.com
 0.0.0.0 pop-up.xml.adx1.com
 0.0.0.0 pop.adcocktail.com
+0.0.0.0 pop.bid
 0.0.0.0 pop.billionuploads.com
 0.0.0.0 pop.blockadblock.com
 0.0.0.0 pop.dnparking.com
@@ -85730,6 +85738,7 @@
 0.0.0.0 sepyqhipq.com
 0.0.0.0 sepyw.top
 0.0.0.0 serating.ru
+0.0.0.0 serbapromo.com
 0.0.0.0 sere.hiido.com
 0.0.0.0 serenky.ru
 0.0.0.0 sergey-mavrodi-mmm.net
@@ -86216,7 +86225,6 @@
 0.0.0.0 shacupwelhehqc.com
 0.0.0.0 shadow.cloud.fyber.com
 0.0.0.0 shadu.duba.net
-0.0.0.0 shakesea.com
 0.0.0.0 shakesmobi.com
 0.0.0.0 shakespeare.online
 0.0.0.0 shakytaste.com
@@ -90567,7 +90575,6 @@
 0.0.0.0 sunmcre.com
 0.0.0.0 sunmedia.net
 0.0.0.0 sunnssgybqn.download
-0.0.0.0 sunny99.cholerik.cz
 0.0.0.0 sunnysmedia.com
 0.0.0.0 sunnysportstracksdk.optimove.net
 0.0.0.0 sunrise.inq.com
@@ -94656,6 +94663,7 @@
 0.0.0.0 trafficfabrik-delivery2.ed3b.edgecastdns.net
 0.0.0.0 trafficfile.com
 0.0.0.0 trafficformoney.com
+0.0.0.0 trafficgrowth.com
 0.0.0.0 traffichold.com
 0.0.0.0 traffichome.de
 0.0.0.0 trafficima.g2afse.com

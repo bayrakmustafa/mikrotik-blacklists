@@ -3,9 +3,9 @@
 # This hosts file is a merged collection of hosts from reputable sources,
 # with a dash of crowd sourcing via GitHub
 #
-# Date: 04 October 2025 17:13:07 (UTC)
+# Date: 09 October 2025 00:38:24 (UTC)
 # Extensions added to this file: fakenews, gambling, porn
-# Number of unique domains: 165,805
+# Number of unique domains: 165,753
 #
 # Fetch the latest version of this file: https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/fakenews-gambling-porn/hosts
 # Project home page: https://github.com/StevenBlack/hosts
@@ -2035,17 +2035,17 @@
 0.0.0.0 zgarniij_vouchher.skroc.pl
 #@ >>>>>>>> https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety.txt + https://raw.githubusercontent.com/FiltersHeroes/KAD/master/sections/przekrety_CERT.txt => hosts
 0.0.0.0 0d10.netlify.app
+0.0.0.0 3htw6nr1tabi.netlify.app
 0.0.0.0 6aa9.netlify.app
 0.0.0.0 7bzd7r5kxpbh.netlify.app
 0.0.0.0 7l5slxcygk36.netlify.app
 0.0.0.0 9drphyeejakh.netlify.app
 0.0.0.0 68bebbe4a96b3608d8d1b545--admirable-sopapillas-597168.netlify.app
-0.0.0.0 77b4.netlify.app
 0.0.0.0 123mopie.nwsautodaily.com
 0.0.0.0 123randkujemy.pl
-0.0.0.0 a180.netlify.app
 0.0.0.0 accountcenter-enactment-gfb505091931.netlify.app
 0.0.0.0 accountcenter-explanira-tgb13093th.netlify.app
+0.0.0.0 accountcenter-governexx-gfd410vc.netlify.app
 0.0.0.0 accountcenter-rulestorez-bgr0809vcb.netlify.app
 0.0.0.0 adastra2019onlinezalukajfilm.wordpress.com
 0.0.0.0 af0f5.netlify.app
@@ -2053,7 +2053,6 @@
 0.0.0.0 bloodwritten.pl
 0.0.0.0 bright-begonia-151eea.netlify.app
 0.0.0.0 c6dd.netlify.app
-0.0.0.0 cb9c.netlify.app
 0.0.0.0 cdaflix.pl
 0.0.0.0 cdpa.pl
 0.0.0.0 certo-kancelaria.pl
@@ -2063,6 +2062,7 @@
 0.0.0.0 creative-crostata-4430a9.netlify.app
 0.0.0.0 curious-mousse-0ba155.netlify.app
 0.0.0.0 danubefuture.eu
+0.0.0.0 deft-llama-64e5aa.netlify.app
 0.0.0.0 ebookeo.pl
 0.0.0.0 eclectic-mooncake-4a51d3.netlify.app
 0.0.0.0 elaborate-churros-3043a4.netlify.app
@@ -2084,6 +2084,7 @@
 0.0.0.0 ggbet-gry.pl
 0.0.0.0 go.thehoth.com
 0.0.0.0 holsmal-konta.com
+0.0.0.0 illustrious-froyo-58920f.netlify.app
 0.0.0.0 inwestycje-orlen.pl
 0.0.0.0 jacob-jones.club
 0.0.0.0 jocular-chaja-90ea6e.netlify.app
@@ -2116,6 +2117,7 @@
 0.0.0.0 szybcyiwscielki7.wordpress.com
 0.0.0.0 t2rgr8im2ewb.netlify.app
 0.0.0.0 telewizja-internetowa24.pl
+0.0.0.0 tmy8ery6b51v.netlify.app
 0.0.0.0 torrentu.pl
 0.0.0.0 twojdlug.pl
 0.0.0.0 unlock-fanpage25351.netlify.app
@@ -2124,7 +2126,6 @@
 0.0.0.0 w1dzien-gotowka.pl
 0.0.0.0 wolyncalyfilm.wordpress.com
 0.0.0.0 zdroweszpitale.pl
-0.0.0.0 zimbra-9da5-7022a1b05633-416aca-webos.netlify.app
 #@ >>>>>>>> hostsplus + hostsplus-cert => hosts
 0.0.0.0 az2.expensivesurvey.click
 0.0.0.0 dlaczegoomega3.natural.pl
@@ -10322,6 +10323,7 @@
 0.0.0.0 buomdep.pro
 0.0.0.0 buomhay.com
 0.0.0.0 buomngon.com
+0.0.0.0 buomsex.com
 0.0.0.0 buomxinh.org
 0.0.0.0 bupbetinhduc.co
 0.0.0.0 bupnhau.com
@@ -10511,11 +10513,14 @@
 0.0.0.0 gaidam3x.com
 0.0.0.0 gaidanang.click
 0.0.0.0 gaidepvn.xyz
+0.0.0.0 gaigoi.homes
 0.0.0.0 gaigoi.icu
 0.0.0.0 gaigoi.id
 0.0.0.0 gaigoi.link
+0.0.0.0 gaigoi.live
 0.0.0.0 gaigoi.mom
 0.0.0.0 gaigoi.network
+0.0.0.0 gaigoi.win
 0.0.0.0 gaigoi.ws
 0.0.0.0 gaigoi18.site
 0.0.0.0 gaigoi33.xyz
@@ -10524,6 +10529,7 @@
 0.0.0.0 gaigoicantho.info
 0.0.0.0 gaigoicaocap.pro
 0.0.0.0 gaigoicave.pro
+0.0.0.0 gaigoicave.xyz
 0.0.0.0 gaigoidalat.xyz
 0.0.0.0 gaigoidanang.info
 0.0.0.0 gaigoidanang.net
@@ -10641,6 +10647,7 @@
 0.0.0.0 gaixinhonline.com
 0.0.0.0 gaixinhthudam.net
 0.0.0.0 gay3x.top
+0.0.0.0 genzsex.today
 0.0.0.0 ggvn.xyz
 0.0.0.0 ghepdoi.site
 0.0.0.0 girl3x.xyz
@@ -10817,7 +10824,6 @@
 0.0.0.0 javhay.org
 0.0.0.0 javhay.site
 0.0.0.0 javhay.store
-0.0.0.0 javhay.to
 0.0.0.0 javhay.vip
 0.0.0.0 javhay1.com
 0.0.0.0 javhayz.cc
@@ -10826,7 +10832,6 @@
 0.0.0.0 javhd-vn.xyz
 0.0.0.0 javhd.best
 0.0.0.0 javhd.lol
-0.0.0.0 javhd.moe
 0.0.0.0 javhd.video
 0.0.0.0 javhd.ws
 0.0.0.0 javhdhay.city
@@ -11009,6 +11014,7 @@
 0.0.0.0 mobiblogxx.com
 0.0.0.0 moihay.com
 0.0.0.0 mtruyen18.com
+0.0.0.0 muadam.net
 0.0.0.0 mup.sex
 0.0.0.0 mupdep.net
 0.0.0.0 myhotlive.tv
@@ -11179,7 +11185,6 @@
 0.0.0.0 phimsex18a.net
 0.0.0.0 phimsex18tv.net
 0.0.0.0 phimsex18z.net
-0.0.0.0 phimsex1z.net
 0.0.0.0 phimsex2024.net
 0.0.0.0 phimsex2k.biz
 0.0.0.0 phimsex2k.pro
@@ -11194,7 +11199,6 @@
 0.0.0.0 phimsex69.org
 0.0.0.0 phimsex69.pro
 0.0.0.0 phimsex69.top
-0.0.0.0 phimsex888.com
 0.0.0.0 phimsex99.net
 0.0.0.0 phimsex99.org
 0.0.0.0 phimsexasian.net
@@ -11277,7 +11281,6 @@
 0.0.0.0 phimsexhot.xyz
 0.0.0.0 phimsexjapan.me
 0.0.0.0 phimsexjav.club
-0.0.0.0 phimsexjav.info
 0.0.0.0 phimsexjav.org
 0.0.0.0 phimsexjavhd.biz
 0.0.0.0 phimsexjavhd.net
@@ -11291,10 +11294,10 @@
 0.0.0.0 phimsexkhongche.net
 0.0.0.0 phimsexkhongche.org
 0.0.0.0 phimsexkhongche.pro
+0.0.0.0 phimsexkoche.fun
 0.0.0.0 phimsexkoche.info
 0.0.0.0 phimsexkoche.me
 0.0.0.0 phimsexkoche.net
-0.0.0.0 phimsexkorea.com
 0.0.0.0 phimsexlauxanh.pro
 0.0.0.0 phimsexll.me
 0.0.0.0 phimsexloanluan.biz
@@ -11311,6 +11314,7 @@
 0.0.0.0 phimsexmoi69.net
 0.0.0.0 phimsexmy.biz
 0.0.0.0 phimsexmy.club
+0.0.0.0 phimsexmy.link
 0.0.0.0 phimsexmy.one
 0.0.0.0 phimsexmy99.com
 0.0.0.0 phimsexmyhd.me
@@ -11366,7 +11370,6 @@
 0.0.0.0 phimsexvietmoi.net
 0.0.0.0 phimsexvietnam.live
 0.0.0.0 phimsexvietnam.me
-0.0.0.0 phimsexvietnam.org
 0.0.0.0 phimsexvietnam.vip
 0.0.0.0 phimsexvietsub.asia
 0.0.0.0 phimsexvietsub.club
@@ -11376,6 +11379,7 @@
 0.0.0.0 phimsexvip.pro
 0.0.0.0 phimsexvip.vip
 0.0.0.0 phimsexvkl.biz
+0.0.0.0 phimsexvkl.xyz
 0.0.0.0 phimsexvlxx.com
 0.0.0.0 phimsexvlxx.org
 0.0.0.0 phimsexvlxx.pro
@@ -11391,7 +11395,6 @@
 0.0.0.0 phimsexxnxx.net
 0.0.0.0 phimsexxsub.biz
 0.0.0.0 phimsexxsub.info
-0.0.0.0 phimsexxx.pro
 0.0.0.0 phimsexy.info
 0.0.0.0 phimsexy.org
 0.0.0.0 phimsexy.pro
@@ -11423,7 +11426,6 @@
 0.0.0.0 phimxxx.kim
 0.0.0.0 phimxxx.link
 0.0.0.0 phimxxx.live
-0.0.0.0 phimxxx.lol
 0.0.0.0 phimxxx.top
 0.0.0.0 phimxxx.tube
 0.0.0.0 phimxxx.us
@@ -11444,6 +11446,7 @@
 0.0.0.0 phunucodon.cc
 0.0.0.0 phym18.com
 0.0.0.0 phymsex.pro
+0.0.0.0 pimsex.pro
 0.0.0.0 play3x.xyz
 0.0.0.0 playvdphe3x.xyz
 0.0.0.0 porn-vn.com
@@ -11535,7 +11538,6 @@
 0.0.0.0 sexanime.pro
 0.0.0.0 sexau.xyz
 0.0.0.0 sexaumy.com
-0.0.0.0 sexbaophe.pro
 0.0.0.0 sexbattu.com
 0.0.0.0 sexbulon.pro
 0.0.0.0 sexcap3.net
@@ -11574,7 +11576,6 @@
 0.0.0.0 sexdotz.com
 0.0.0.0 sexdu.net
 0.0.0.0 sexdunhau.com
-0.0.0.0 sexfree.club
 0.0.0.0 sexgai.pro
 0.0.0.0 sexgai.us
 0.0.0.0 sexgaidam.com
@@ -11586,6 +11587,7 @@
 0.0.0.0 sexgaixinh.biz
 0.0.0.0 sexgaixinh.org
 0.0.0.0 sexgaixinh.pro
+0.0.0.0 sexgaixinh.site
 0.0.0.0 sexgiamdoc.com
 0.0.0.0 sexhai.com
 0.0.0.0 sexhang1.org
@@ -11639,16 +11641,13 @@
 0.0.0.0 sexkoche.org
 0.0.0.0 sexlauxanh.net
 0.0.0.0 sexlen.com
-0.0.0.0 sexlenlut.com
 0.0.0.0 sexlenlut.pro
 0.0.0.0 sexlo.net
 0.0.0.0 sexloanluan.cc
 0.0.0.0 sexlol.me
 0.0.0.0 sexlon.xyz
-0.0.0.0 sexmbbg.org
 0.0.0.0 sexmienphi.net
 0.0.0.0 sexmoi.co
-0.0.0.0 sexmoi.live
 0.0.0.0 sexmoi.online
 0.0.0.0 sexmoi.pro
 0.0.0.0 sexmoi3x.net
@@ -11756,6 +11755,7 @@
 0.0.0.0 sexviet.fun
 0.0.0.0 sexviet.mobi
 0.0.0.0 sexviet.net
+0.0.0.0 sexviet.online
 0.0.0.0 sexviet.sex
 0.0.0.0 sexviet.store
 0.0.0.0 sexviet.uk
@@ -11770,7 +11770,6 @@
 0.0.0.0 sexviet69.net
 0.0.0.0 sexviet69.xyz
 0.0.0.0 sexviet88.com
-0.0.0.0 sexviet88.dev
 0.0.0.0 sexviet88.info
 0.0.0.0 sexviet88.net
 0.0.0.0 sexviethay.com
@@ -11781,13 +11780,13 @@
 0.0.0.0 sexvietnam.biz
 0.0.0.0 sexvietnam.ink
 0.0.0.0 sexvietnam.sex
-0.0.0.0 sexvietnam.site
 0.0.0.0 sexvietnam.wtf
 0.0.0.0 sexvietnamhd.net
 0.0.0.0 sexvietnamxx.net
 0.0.0.0 sexvietonline.org
 0.0.0.0 sexvietsub.mobi
 0.0.0.0 sexvietsub.net
+0.0.0.0 sexvietsub123.com
 0.0.0.0 sexvietsub1s.net
 0.0.0.0 sexvietsub247.com
 0.0.0.0 sexvietsubs1.com
@@ -12100,10 +12099,13 @@
 0.0.0.0 vlxx.bio
 0.0.0.0 vlxx.blue
 0.0.0.0 vlxx.buzz
+0.0.0.0 vlxx.cc
+0.0.0.0 vlxx.cfd
 0.0.0.0 vlxx.city
 0.0.0.0 vlxx.club
 0.0.0.0 vlxx.com.co
 0.0.0.0 vlxx.contact
+0.0.0.0 vlxx.day
 0.0.0.0 vlxx.fan
 0.0.0.0 vlxx.fun
 0.0.0.0 vlxx.gold
@@ -12120,7 +12122,6 @@
 0.0.0.0 vlxx.pet
 0.0.0.0 vlxx.pw
 0.0.0.0 vlxx.run
-0.0.0.0 vlxx.sbs
 0.0.0.0 vlxx.social
 0.0.0.0 vlxx.space
 0.0.0.0 vlxx.store
@@ -12193,6 +12194,7 @@
 0.0.0.0 vnxxx.pro
 0.0.0.0 vnzb8.com
 0.0.0.0 vphimsex.net
+0.0.0.0 vuasex.club
 0.0.0.0 vui3x.cc
 0.0.0.0 vuianime.tv
 0.0.0.0 vuighe.net
@@ -12249,7 +12251,6 @@
 0.0.0.0 xemphimsex.live
 0.0.0.0 xemphimsex.one
 0.0.0.0 xemphimsex.top
-0.0.0.0 xemphimsex.vip
 0.0.0.0 xemphimsex1s.net
 0.0.0.0 xemphimsex3s.net
 0.0.0.0 xemphimsexx.me
@@ -12538,6 +12539,7 @@
 0.0.0.0 85tube.net
 0.0.0.0 91jav.com
 0.0.0.0 100bestpornsites.com
+0.0.0.0 100nonude.biz
 0.0.0.0 100oj.booru.org
 0.0.0.0 101sexsecret.com
 0.0.0.0 101top.biz
@@ -12679,7 +12681,6 @@
 0.0.0.0 ags.hobby.porn
 0.0.0.0 ahhttp.porndig.com
 0.0.0.0 ahjav.com
-0.0.0.0 ahporntube.com
 0.0.0.0 akiba-web.com
 0.0.0.0 alabonnepipe.com
 0.0.0.0 alfamatureporn.com
@@ -12843,7 +12844,6 @@
 0.0.0.0 asianporn.sexy
 0.0.0.0 asiansex.pics
 0.0.0.0 asiansex.sexy
-0.0.0.0 asiantube.porn
 0.0.0.0 asiantubesex.com
 0.0.0.0 asiapornvids.com
 0.0.0.0 asiaxxxvideo.com
@@ -12903,6 +12903,7 @@
 0.0.0.0 b.javbucks.com
 0.0.0.0 b.xd-cdn.com
 0.0.0.0 babeglam.com
+0.0.0.0 babe-lounge.com
 0.0.0.0 babes.coolios.net
 0.0.0.0 babes.ideal-teens.com
 0.0.0.0 babesdaily.com
@@ -13007,7 +13008,6 @@
 0.0.0.0 bikiniporn.pics
 0.0.0.0 bimbo.cam
 0.0.0.0 biqle.ru
-0.0.0.0 bisexualdave.com
 0.0.0.0 bitchesabroad.letsdoeit.com
 0.0.0.0 bitshare.com
 0.0.0.0 bizarremania.com
@@ -13864,6 +13864,7 @@
 0.0.0.0 chicashumedas.com
 0.0.0.0 chicasloca.letsdoeit.com
 0.0.0.0 christianmar762userxbooru.booru.org
+0.0.0.0 chubbyloving.com
 0.0.0.0 chubbyparade.com
 0.0.0.0 chubby-teen.com
 0.0.0.0 chubbyworlds.com
@@ -14406,7 +14407,6 @@
 0.0.0.0 eroticast.net
 0.0.0.0 erotic-blog.com
 0.0.0.0 eroticdreams.info
-0.0.0.0 eroticglamourteens.pics
 0.0.0.0 erotichdwalls.com
 0.0.0.0 eroticmovies.xyz
 0.0.0.0 eroticproviderguide.com
@@ -14635,6 +14635,7 @@
 0.0.0.0 freebestsexstories.com
 0.0.0.0 freebook.clgalleries.net
 0.0.0.0 freefuckbuddytonight.com
+0.0.0.0 freefuckmovies.pro
 0.0.0.0 free-girls.net
 0.0.0.0 freehindisexstories.com
 0.0.0.0 freejpgseries.com
@@ -14909,6 +14910,7 @@
 0.0.0.0 hotgaylist.xxx
 0.0.0.0 hotgirlies4u.com
 0.0.0.0 hotmalepics.com
+0.0.0.0 hotmaturetube.com
 0.0.0.0 hotmodelsusa.net
 0.0.0.0 hotmomfree.com
 0.0.0.0 hotnudegirlsclips.com
@@ -14918,6 +14920,7 @@
 0.0.0.0 hotsaunababes.info
 0.0.0.0 hotscopes.to
 0.0.0.0 hotsouthindiansex.com
+0.0.0.0 hot-teens-movies.mobi
 0.0.0.0 hottest-blondes.com
 0.0.0.0 hotyoungnude.com
 0.0.0.0 hotyoungteen.pro
@@ -15638,6 +15641,7 @@
 0.0.0.0 itzmx.com
 0.0.0.0 iwank.icu
 0.0.0.0 iwantmature.b-cdn.net
+0.0.0.0 ixxxclips.com
 0.0.0.0 j0.wlmediahub.com
 0.0.0.0 j.nozomi.la
 0.0.0.0 ja.biguz.net
@@ -15655,7 +15659,6 @@
 0.0.0.0 javengsub.com
 0.0.0.0 javfree.biz
 0.0.0.0 javhd.run
-0.0.0.0 javhd.vip
 0.0.0.0 javhdmovies.com
 0.0.0.0 javjack.com
 0.0.0.0 javout.net
@@ -15831,6 +15834,7 @@
 0.0.0.0 lesbianfacesitters.com
 0.0.0.0 lesbianlove.urlgalleries.net
 0.0.0.0 letmejerk.asia
+0.0.0.0 lewd.ninja
 0.0.0.0 lewdgamer.com
 0.0.0.0 lexnai.com
 0.0.0.0 lg.eropics.org
@@ -16437,6 +16441,7 @@
 0.0.0.0 oldmaturepost.com
 0.0.0.0 oldnfat.com
 0.0.0.0 oldporn69.net
+0.0.0.0 oldspunkers.com
 0.0.0.0 olhares.sapo.pt
 0.0.0.0 olimptraffic.com
 0.0.0.0 om843se.txxx.com
@@ -17549,7 +17554,6 @@
 0.0.0.0 pegasproductions.nsecb.com
 0.0.0.0 penis.booru.org
 0.0.0.0 peppersextube.com
-0.0.0.0 pepsaga.com
 0.0.0.0 pervertedfantasy.net
 0.0.0.0 pervygames.com
 0.0.0.0 petiteballerinasfucked.xxx
@@ -17669,6 +17673,7 @@
 0.0.0.0 porndude.xyz
 0.0.0.0 porneskimo.com
 0.0.0.0 pornforwomen.org.uk
+0.0.0.0 pornfreemovies.pro
 0.0.0.0 porngays.pro
 0.0.0.0 pornheed.online
 0.0.0.0 pornhub.com.do
@@ -17843,7 +17848,6 @@
 0.0.0.0 realfatgirls.net
 0.0.0.0 realfeet.booru.org
 0.0.0.0 realfloridaamateurs.com
-0.0.0.0 real-homemade-movies.com
 0.0.0.0 realhomesex.net
 0.0.0.0 realjapanesepornvideos.com
 0.0.0.0 reallesbianexposed.com
@@ -18640,6 +18644,7 @@
 0.0.0.0 tube.smoder.com
 0.0.0.0 tubegalore.fun
 0.0.0.0 tubegalore.rocks
+0.0.0.0 tubemovies8k.com
 0.0.0.0 tubeporn8k.com
 0.0.0.0 tubesimple.com
 0.0.0.0 tubething.com
@@ -18895,6 +18900,7 @@
 0.0.0.0 virtuangels.com
 0.0.0.0 viximporn.org
 0.0.0.0 vjav0.ahcdn.com
+0.0.0.0 voayeurs.com
 0.0.0.0 vod.hotmoviesforher.com
 0.0.0.0 voktel.com
 0.0.0.0 voyeurpornsex.com
@@ -18976,6 +18982,7 @@
 0.0.0.0 women-pickup.com
 0.0.0.0 worlddatingforum.com
 0.0.0.0 worldwidewives.com
+0.0.0.0 wowindianporn.com
 0.0.0.0 wowmomsex.com
 0.0.0.0 wowstars.com
 0.0.0.0 wp.yourlustmedia.com
@@ -19056,7 +19063,6 @@
 0.0.0.0 xnxx.report
 0.0.0.0 xnxx.sexy
 0.0.0.0 xnxx.wareporn.com
-0.0.0.0 xnxx-best.com
 0.0.0.0 xnxxcdn.hotnudegirlsclips.com
 0.0.0.0 xnxxhdporn.com
 0.0.0.0 xnxx-love.com
@@ -19064,6 +19070,7 @@
 0.0.0.0 xnxxnetwork.com
 0.0.0.0 xnxxporn.top
 0.0.0.0 xnxxtubes.com
+0.0.0.0 xnxxvideos.fun
 0.0.0.0 xonline.tv
 0.0.0.0 xporncams.eu
 0.0.0.0 xpornz.com
@@ -24609,6 +24616,7 @@
 0.0.0.0 live.fc2.com
 0.0.0.0 lolip.org
 0.0.0.0 magopro2.ero-spo.com
+0.0.0.0 mankist.com
 0.0.0.0 marrion-av.com
 0.0.0.0 mother-av.com
 0.0.0.0 mutekiya.net

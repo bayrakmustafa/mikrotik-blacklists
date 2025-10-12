@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 03OCT25 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 10OCT25 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -1337,6 +1337,7 @@
 0.0.0.0 web.slimjoy.ro
 0.0.0.0 web.slimjoy.se
 0.0.0.0 westevents.presidio.com
+0.0.0.0 whoami.akamai.net.iberostar.com
 0.0.0.0 wiz.empowerhearing.com
 0.0.0.0 wlxhzn.godfreys.com.au
 0.0.0.0 woodstock.viessmann.com.au

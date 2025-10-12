@@ -12,9 +12,9 @@
 0.0.0.0 prebid-*.rubiconproject.com
 0.0.0.0 pijama.*.elasticbeanstalk.com
 0.0.0.0 s*.skencituer.com
-0.0.0.0 vexilufkyoty.com
 0.0.0.0 *.libaishuo.com
 0.0.0.0 adv0*.msa.cdn.mediaset.net
+0.0.0.0 nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi
 0.0.0.0 ads*-normal*.zijieapi.com
 0.0.0.0 ad*.zonaplus.tv
 0.0.0.0 api16-access-ttp*.tiktokpangle-b.us
