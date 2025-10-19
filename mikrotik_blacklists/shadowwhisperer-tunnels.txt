@@ -17,6 +17,7 @@
 0.0.0.0 123free.info
 0.0.0.0 123fr.info
 0.0.0.0 123goproxy.com
+0.0.0.0 123hideip.com
 0.0.0.0 123inside.net
 0.0.0.0 123li.me
 0.0.0.0 123me.net
@@ -627,6 +628,7 @@
 0.0.0.0 siteunblock.xyz
 0.0.0.0 siteunlock2you.com
 0.0.0.0 skyvpn.net
+0.0.0.0 slickvpn.com
 0.0.0.0 smartproxy.com
 0.0.0.0 smartydns.com
 0.0.0.0 snowproxy.com
@@ -832,6 +834,7 @@
 0.0.0.0 unblockit.app
 0.0.0.0 unblockit.club
 0.0.0.0 unblock-it.com
+0.0.0.0 unblockit.foo
 0.0.0.0 unblockit.link
 0.0.0.0 unblockit.ltd
 0.0.0.0 unblockit.meme
@@ -966,6 +969,7 @@
 0.0.0.0 wireguard.com
 0.0.0.0 wirevpn.app
 0.0.0.0 wirevpn.cc
+0.0.0.0 wiseghostapp.com
 0.0.0.0 wlvpn.com
 0.0.0.0 workingvpn.com
 0.0.0.0 workproxy.net

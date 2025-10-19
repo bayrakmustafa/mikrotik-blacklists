@@ -38,6 +38,7 @@
 0.0.0.0 83912.ru
 0.0.0.0 8hacks.com
 0.0.0.0 8millimeters.com
+0.0.0.0 a2zapk.com
 0.0.0.0 a2zcrack.com
 0.0.0.0 abandon5000.com
 0.0.0.0 abv-media.ru
@@ -52,6 +53,7 @@
 0.0.0.0 alex-warez.ru
 0.0.0.0 alivedownload.com
 0.0.0.0 all-office-soft.com
+0.0.0.0 allfreesoftware.org
 0.0.0.0 allmyvideos.net
 0.0.0.0 allseek.info
 0.0.0.0 amerikasimperialism.2ya.com
@@ -152,6 +154,7 @@
 0.0.0.0 crackcrew.com
 0.0.0.0 crackedme.com
 0.0.0.0 crackedmine.com
+0.0.0.0 crackedpc.org
 0.0.0.0 crackedreal.com
 0.0.0.0 crackevo.com
 0.0.0.0 crackfind.com
@@ -160,6 +163,7 @@
 0.0.0.0 crackloader.com
 0.0.0.0 crackmykey.com
 0.0.0.0 crackpcsoftware.com
+0.0.0.0 cracks.me.uk
 0.0.0.0 cracks.thebugs.ws
 0.0.0.0 cracks007.blogspot.com
 0.0.0.0 cracks007.blogspot.in
@@ -316,6 +320,7 @@
 0.0.0.0 freecracksoftwares.net
 0.0.0.0 freecrackzone.com
 0.0.0.0 freedownloadable.info
+0.0.0.0 freegames4pc.com
 0.0.0.0 freemariogameszone.com
 0.0.0.0 freemoviedownloads3.com
 0.0.0.0 freemp3.fm
@@ -352,6 +357,7 @@
 0.0.0.0 gamegear.nl
 0.0.0.0 gamerzneeds.net
 0.0.0.0 gamesfreecheat.com
+0.0.0.0 gamezlinks.net
 0.0.0.0 game-2u.com
 0.0.0.0 gamingstreet.org
 0.0.0.0 garaje.ya.com
@@ -395,6 +401,7 @@
 0.0.0.0 hexari.com
 0.0.0.0 hfleaks.org
 0.0.0.0 hikkoshi2.com
+0.0.0.0 hit2k.com
 0.0.0.0 hit4k.com
 0.0.0.0 hlusoe.info
 0.0.0.0 hollabackonline.com
@@ -442,6 +449,7 @@
 0.0.0.0 kayadownload.com
 0.0.0.0 kdownload14.usa.cc
 0.0.0.0 keygen.us
+0.0.0.0 keygenguru.com
 0.0.0.0 keygens.pro
 0.0.0.0 keyscity.net
 0.0.0.0 keysfull.com
@@ -571,6 +579,7 @@
 0.0.0.0 niktu.com
 0.0.0.0 nmuca.org
 0.0.0.0 nnm-club.ru
+0.0.0.0 nnm.ru
 0.0.0.0 nod32key.eu
 0.0.0.0 nod32sky.com
 0.0.0.0 nokia-6120c.ru
@@ -697,6 +706,7 @@
 0.0.0.0 patchsoftwares.com
 0.0.0.0 pavv.ru
 0.0.0.0 pbcrew.info
+0.0.0.0 pc-software.ru
 0.0.0.0 pckeysoft.com
 0.0.0.0 pcsoftncrack.com
 0.0.0.0 pcsoftpro.com
@@ -777,6 +787,7 @@
 0.0.0.0 rth77.ru
 0.0.0.0 run-ricky-run.com
 0.0.0.0 rune-server.org
+0.0.0.0 s-telecharger.com
 0.0.0.0 s0ft4pc.com
 0.0.0.0 s10.4files.net
 0.0.0.0 s11.4files.net
@@ -878,6 +889,7 @@
 0.0.0.0 softsclub.com
 0.0.0.0 software-free.net
 0.0.0.0 softwarebits.net
+0.0.0.0 softwarecrackworks.com
 0.0.0.0 solidsoftwaretools.com
 0.0.0.0 sonidavison.com
 0.0.0.0 speedshare.info
@@ -960,6 +972,7 @@
 0.0.0.0 torengine.com
 0.0.0.0 torfinder.net
 0.0.0.0 tormov.com
+0.0.0.0 torrentgalaxy.to
 0.0.0.0 torrents-game.net
 0.0.0.0 torrpeda.org
 0.0.0.0 tracker.0day.kiev.ua
@@ -1105,6 +1118,7 @@
 0.0.0.0 xdownloads69.usa.cc
 0.0.0.0 xdownloads880.gq
 0.0.0.0 xenu.ws
+0.0.0.0 xforce-cracks.com
 0.0.0.0 xn--80a4b.com
 0.0.0.0 xn--80aejjrnhcji.4files.net
 0.0.0.0 xn--80aeugjdc1b.com
@@ -1120,6 +1134,7 @@
 0.0.0.0 yoadobehekku.com
 0.0.0.0 youhaveavirus.com
 0.0.0.0 youronlinemovies.net
+0.0.0.0 youwatch.org
 0.0.0.0 yts.ag
 0.0.0.0 yts.la
 0.0.0.0 yts.mx
@@ -1144,6 +1159,7 @@
 0.0.0.0 zonawarez.net
 0.0.0.0 zoomtorrents.com
 0.0.0.0 zoozle.org
+0.0.0.0 free4pc.org
 0.0.0.0 piratepc.me
 0.0.0.0 crackedversion.com
 0.0.0.0 greencracks.com

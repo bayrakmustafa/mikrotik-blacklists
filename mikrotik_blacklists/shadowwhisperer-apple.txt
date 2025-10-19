@@ -92,6 +92,7 @@
 0.0.0.0 origin.guzzoni-apple.com.akadns.net
 0.0.0.0 p01-swscan.apple.com.akadns.net
 0.0.0.0 p26-btmmdns.icloud.com
+0.0.0.0 partiality.itunes.apple.com
 0.0.0.0 pba0.apple.com
 0.0.0.0 pba.apple.com
 0.0.0.0 pcr.apple.com

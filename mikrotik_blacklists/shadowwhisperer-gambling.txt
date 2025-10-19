@@ -1,8 +1,8 @@
 #
 #    File: Gambling
 #    Info: Casino, gambling, poker, etc.
-# Domains: 9,167
-# Updated: 10/10/2025  12:44 (12:44 PM CST)
+# Domains: 9,195
+# Updated: 10/17/2025  11:43 (11:43 AM CST)
 #
 0.0.0.0 0009casino.com
 0.0.0.0 000-online-casino.biz
@@ -403,6 +403,7 @@
 0.0.0.0 a1casinos.net
 0.0.0.0 a1gamblingjournal.com
 0.0.0.0 a1slots.net
+0.0.0.0 a1xbet.ru
 0.0.0.0 aaacasino.net
 0.0.0.0 aaacasinos.net
 0.0.0.0 aaagambling.net
@@ -1096,6 +1097,7 @@
 0.0.0.0 betivocasino.com
 0.0.0.0 betmgm.com
 0.0.0.0 betmgmpartners.com
+0.0.0.0 bet-on-red-casino.fr
 0.0.0.0 bet-on-red-casino.pl
 0.0.0.0 betovis464.com
 0.0.0.0 betpawacasino.co.tz
@@ -1115,7 +1117,11 @@
 0.0.0.0 betsafe.lv
 0.0.0.0 betsafesports.com
 0.0.0.0 betsala11.com
+0.0.0.0 betsamigo.com
 0.0.0.0 betsandreascasino.com
+0.0.0.0 betsbunny14.io
+0.0.0.0 betsbunny24.io
+0.0.0.0 betsbunny.io
 0.0.0.0 betsoftonlinecasinos.com
 0.0.0.0 betsrv.com
 0.0.0.0 betsson-casino.click
@@ -1141,6 +1147,7 @@
 0.0.0.0 betwinner-playx.ru
 0.0.0.0 betwinnerr.in
 0.0.0.0 betxline.com
+0.0.0.0 betxsure.com
 0.0.0.0 betzino-casino-france.com
 0.0.0.0 bezoekcasino.com
 0.0.0.0 bharatbet11.co
@@ -1214,6 +1221,9 @@
 0.0.0.0 bizzocasinopokies.com
 0.0.0.0 bizzocasino.website
 0.0.0.0 bizzoocasino4.com
+0.0.0.0 bk1win.ru
+0.0.0.0 bk-1win-zerkalo.ru
+0.0.0.0 bk-1xbet.ru
 0.0.0.0 blackberrybonuscasino.com
 0.0.0.0 blackcasino.co
 0.0.0.0 blackjack-01.com
@@ -1269,6 +1279,7 @@
 0.0.0.0 blackjack-online.ca
 0.0.0.0 blackjackonlineforrealmoney46.com
 0.0.0.0 blackjack-on-line.it
+0.0.0.0 blackjackonline.org.uk
 0.0.0.0 blackjackpalace.net
 0.0.0.0 blackjackpersonalities.com
 0.0.0.0 blackjackpizza.com
@@ -3115,6 +3126,7 @@
 0.0.0.0 cookiecasino.biz
 0.0.0.0 cookiecasinobonus.de
 0.0.0.0 cookiecasino.com
+0.0.0.0 cookiecasino.online
 0.0.0.0 cookie-casino.top
 0.0.0.0 cookiescasino.nl
 0.0.0.0 coolcasinooffers.com
@@ -3132,6 +3144,7 @@
 0.0.0.0 crazyslots.eu
 0.0.0.0 crazyslotsonlinecasino.com
 0.0.0.0 crazystar-casino.com
+0.0.0.0 crazy-win-casino.com
 0.0.0.0 credit-card-casinos.net
 0.0.0.0 cresus-casino-france.com
 0.0.0.0 cresus-online-casino.com
@@ -3212,6 +3225,7 @@
 0.0.0.0 daddycasinosplay.ru
 0.0.0.0 daddy-casino-zerkaloo.ru
 0.0.0.0 dadycasino.com
+0.0.0.0 dadywin777.com
 0.0.0.0 dafabet247.club
 0.0.0.0 dallascasinoevent.com
 0.0.0.0 dama-casinos.com
@@ -3871,6 +3885,7 @@
 0.0.0.0 gamentio.com
 0.0.0.0 gamerscasino.info
 0.0.0.0 games247.pro
+0.0.0.0 games4fun.info
 0.0.0.0 games4slots.com
 0.0.0.0 games-casino95.win
 0.0.0.0 gameswin365.com
@@ -3967,6 +3982,7 @@
 0.0.0.0 girpasacasino.com
 0.0.0.0 gjcasinogames.com
 0.0.0.0 globalcasinogamble.com
+0.0.0.0 global-casino-gaming.com
 0.0.0.0 globalcasino.online
 0.0.0.0 global-casinox269.ru
 0.0.0.0 globalgamblingindustry.com
@@ -4110,6 +4126,7 @@
 0.0.0.0 gotoponlinecasinos.com
 0.0.0.0 goxbetcasino.info
 0.0.0.0 grafcasino.com
+0.0.0.0 grand-casino.com
 0.0.0.0 grandcasino.email
 0.0.0.0 grandcasino.pro
 0.0.0.0 grandcasino.store
@@ -4203,6 +4220,7 @@
 0.0.0.0 haz-casino.top
 0.0.0.0 hellogacor.com
 0.0.0.0 hell-spincasino.top
+0.0.0.0 herbiceps.com
 0.0.0.0 hiboardwalk.com
 0.0.0.0 hiddencasino.id
 0.0.0.0 hideawaycasino.xyz
@@ -4726,6 +4744,7 @@
 0.0.0.0 kazino-casinox667.ru
 0.0.0.0 kbrbook247.com
 0.0.0.0 kcasino.org
+0.0.0.0 kent370.com
 0.0.0.0 kentcasino-159.top
 0.0.0.0 kentcasinobiz.com
 0.0.0.0 kentcasino.cc
@@ -4770,8 +4789,10 @@
 0.0.0.0 kentuckygamblinglaws.com
 0.0.0.0 kenya-online-casinos.com
 0.0.0.0 khailagai247.com
+0.0.0.0 kilobet.com
 0.0.0.0 kimsacasino.click
 0.0.0.0 king777casino.ph
+0.0.0.0 kingbillycasino.com
 0.0.0.0 kingbillycasinopokies.com
 0.0.0.0 kingbilly-casinos.com
 0.0.0.0 kingbook7.com
@@ -5161,6 +5182,9 @@
 0.0.0.0 luckystarcasino.site
 0.0.0.0 luckytiger-casino.org
 0.0.0.0 luckytigercasinopokies.com
+0.0.0.0 luckytrunk.io
+0.0.0.0 luckywands24.io
+0.0.0.0 luckywands34.io
 0.0.0.0 luckywavecasino.com
 0.0.0.0 lukkly3.com
 0.0.0.0 lukkly4.com
@@ -5169,6 +5193,7 @@
 0.0.0.0 lukscasino20.com
 0.0.0.0 lukscasino3.com
 0.0.0.0 lumicasino.com
+0.0.0.0 lunarspins.io
 0.0.0.0 lupincasino.com
 0.0.0.0 lux-casino.club
 0.0.0.0 luxcasino.live
@@ -5350,6 +5375,7 @@
 0.0.0.0 mejorescasinos-online.com
 0.0.0.0 mejores-casinos.pe
 0.0.0.0 mejorescriptocasinos.com
+0.0.0.0 melbet-122.ru
 0.0.0.0 melbet-casino.art
 0.0.0.0 melbet-casino.cam
 0.0.0.0 melbet-casino.ink
@@ -5365,6 +5391,7 @@
 0.0.0.0 melbet-casino.win
 0.0.0.0 melbet-casino.work
 0.0.0.0 melbet.com
+0.0.0.0 melbet-x63.ru
 0.0.0.0 melhorcasinosonline.com
 0.0.0.0 mellowcasinoonline.com
 0.0.0.0 memperolehbola.com
@@ -5486,6 +5513,7 @@
 0.0.0.0 mlifewineclub.com
 0.0.0.0 mlifewinestore.com
 0.0.0.0 mmbet.in
+0.0.0.0 mo1xbet.ru
 0.0.0.0 mobilacasinospel.se
 0.0.0.0 mobilbahis.us
 0.0.0.0 mobilcasinolistesi.com
@@ -5711,6 +5739,7 @@
 0.0.0.0 mycasinoblackjack.com
 0.0.0.0 mycasino.id
 0.0.0.0 mycasinoknowledge.com
+0.0.0.0 my-casino-now.com
 0.0.0.0 mycasinous.com
 0.0.0.0 mycasino-vavada.ru
 0.0.0.0 myclubrewards.ca
@@ -5720,6 +5749,7 @@
 0.0.0.0 myexcaliburoffers.com
 0.0.0.0 myfavouritecasinos.com
 0.0.0.0 myjackpotcasino.de
+0.0.0.0 myjackpot-casino.fr
 0.0.0.0 myjoykasino.ru
 0.0.0.0 mylotus365.com
 0.0.0.0 mylotus365.in
@@ -5834,6 +5864,7 @@
 0.0.0.0 nieuwcasinonederland.com
 0.0.0.0 nightbirdcasino.com
 0.0.0.0 nikecasino.sk
+0.0.0.0 ninecasino2.fr
 0.0.0.0 ninecasinoapp.com
 0.0.0.0 ninecasino.com.br
 0.0.0.0 ninecasino-de.com
@@ -5939,12 +5970,14 @@
 0.0.0.0 oceanbluecasino.com
 0.0.0.0 oceanbreezecasino.es
 0.0.0.0 oceanbreezecasino.nl
+0.0.0.0 oculus-casino.de
 0.0.0.0 odds-betting-server.nola.com
 0.0.0.0 odencasino.net
 0.0.0.0 oesterreichcasinos.com
 0.0.0.0 oesterreichischecasinos.at
 0.0.0.0 offical-eldorado-casino.com
 0.0.0.0 officialworldseriesofpoker.us
+0.0.0.0 official-xbet.ru
 0.0.0.0 offshorepokersites.com
 0.0.0.0 ogcasino.online
 0.0.0.0 okbet-casino.com.ph
@@ -6207,6 +6240,7 @@
 0.0.0.0 opinionscasinos.com
 0.0.0.0 orca88casino.net
 0.0.0.0 oriental-online-casino-guide.com
+0.0.0.0 original-1xslots148.ru
 0.0.0.0 original777casino.fun
 0.0.0.0 original777casino.net
 0.0.0.0 orocasino.es
@@ -6905,6 +6939,8 @@
 0.0.0.0 qdf777casino.site
 0.0.0.0 qqjilicasino.com
 0.0.0.0 qualitybingo.com
+0.0.0.0 r7casino30.com
+0.0.0.0 r7casino40.com
 0.0.0.0 r7casinoamp1.ru
 0.0.0.0 r7casinoamp.ru
 0.0.0.0 r7-casino.biz
@@ -7218,6 +7254,7 @@
 0.0.0.0 scatterwincasino.com
 0.0.0.0 schweizcasino.online
 0.0.0.0 sdcasinos.com
+0.0.0.0 secret-casino-site.com
 0.0.0.0 sector777casino7.com
 0.0.0.0 sector777casino.com
 0.0.0.0 secureaucasinosonline.com
@@ -7290,6 +7327,7 @@
 0.0.0.0 singbingo.com
 0.0.0.0 sisportsbook.com
 0.0.0.0 sistercasinos.org
+0.0.0.0 site-bk-1xbet.ru
 0.0.0.0 site-de-blackjack.fr
 0.0.0.0 site-grand-casino.online
 0.0.0.0 situspokeranda.com
@@ -7668,6 +7706,7 @@
 0.0.0.0 svensklivecasino.com
 0.0.0.0 svensktonlinecasino.se
 0.0.0.0 sverige-casino-online.se
+0.0.0.0 sverigeonlinecasino34.com
 0.0.0.0 sverigescasinoguide.com
 0.0.0.0 sverigescasinon.com
 0.0.0.0 sverigescasinosajter.net
@@ -7879,6 +7918,7 @@
 0.0.0.0 topgamblingcasino.com
 0.0.0.0 topgamblinggirls.com
 0.0.0.0 topgamblingpros.com
+0.0.0.0 top-gambling-spot.com
 0.0.0.0 topgolindah.com
 0.0.0.0 tophatcasinos.com
 0.0.0.0 topigambleslot.cc
@@ -7967,6 +8007,7 @@
 0.0.0.0 trustlycasino-uk.top
 0.0.0.0 trustofcasinos.shop
 0.0.0.0 ttr-casino-online.com
+0.0.0.0 tucasinojoker.com
 0.0.0.0 turbocasinos.ru
 0.0.0.0 turbopoker88.me
 0.0.0.0 turbopoker88.one
@@ -8059,6 +8100,7 @@
 0.0.0.0 utahcasinos.com
 0.0.0.0 utansvensklicenscasino.com
 0.0.0.0 uusicasinorank.com
+0.0.0.0 v1xbet.ru
 0.0.0.0 v24casino.com
 0.0.0.0 v777casino.com
 0.0.0.0 vacationtolasvegas.com
@@ -8108,6 +8150,7 @@
 0.0.0.0 velvetbingo.com
 0.0.0.0 velvetspincasino1.com
 0.0.0.0 verajohncasino.com
+0.0.0.0 verdecasino-offers.com
 0.0.0.0 verde-casino.org.pl
 0.0.0.0 verdecasinopro.com
 0.0.0.0 versus-odds-casinos-list.com
@@ -8654,10 +8697,13 @@
 0.0.0.0 vullkanbet.net
 0.0.0.0 vullkanbet.org
 0.0.0.0 vwincasino88.com
+0.0.0.0 w1xbet.ru
 0.0.0.0 waeokham.com
 0.0.0.0 waeokhun.com
 0.0.0.0 waeokrong.com
 0.0.0.0 waeopluk.com
+0.0.0.0 wagibet931.com
+0.0.0.0 wallacebet.com
 0.0.0.0 wanted-win-casino.com
 0.0.0.0 warungmenonton.com
 0.0.0.0 washingtongamblinglaws.com
@@ -8821,6 +8867,7 @@
 0.0.0.0 woo-casino.app
 0.0.0.0 woocasinoau2.com
 0.0.0.0 woocasinoau.net
+0.0.0.0 woocasino.com
 0.0.0.0 woo-casino.org
 0.0.0.0 woo-casino.top
 0.0.0.0 woomcasino.fr
@@ -8897,6 +8944,7 @@
 0.0.0.0 xn--utlndskacasino-7hb.co
 0.0.0.0 xn--utlndskacasino-7hb.io
 0.0.0.0 xn--utlndskacasinos-2kb.se
+0.0.0.0 xxxbetcasino.com
 0.0.0.0 xyzonlinegambling.com
 0.0.0.0 ya888yacasino.org
 0.0.0.0 yaasscasino.es
@@ -8919,6 +8967,7 @@
 0.0.0.0 yongcasino.kr
 0.0.0.0 yonibet-casino-france.com
 0.0.0.0 yourcasinotr.com
+0.0.0.0 your-online-casino.com
 0.0.0.0 youronlinecasinoguide.com
 0.0.0.0 yourvegasbeat.com
 0.0.0.0 yuemphap.com

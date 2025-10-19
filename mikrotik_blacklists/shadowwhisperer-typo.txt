@@ -2038,6 +2038,7 @@
 0.0.0.0 allstrate.com
 0.0.0.0 allstsate.com
 0.0.0.0 allstste.com
+0.0.0.0 allsttae.com
 0.0.0.0 allsttate.com
 0.0.0.0 allstte.com
 0.0.0.0 allstwate.com
@@ -2325,6 +2326,7 @@
 0.0.0.0 amazobn.com.au
 0.0.0.0 amazobn.co.uk
 0.0.0.0 amazobn.de
+0.0.0.0 amazobn.fr
 0.0.0.0 amazo.com
 0.0.0.0 amazo.com.au
 0.0.0.0 amazo.co.uk
@@ -2393,6 +2395,7 @@
 0.0.0.0 amazonh.com.au
 0.0.0.0 amazonh.co.uk
 0.0.0.0 amazonh.de
+0.0.0.0 amazonh.fr
 0.0.0.0 amazonj.com
 0.0.0.0 amazonj.com.au
 0.0.0.0 amazonj.co.uk
@@ -7770,6 +7773,7 @@
 0.0.0.0 ammericanairlines.jp
 0.0.0.0 ammericanexpress.com
 0.0.0.0 ammfam.com
+0.0.0.0 ammica.com
 0.0.0.0 amnazon.com
 0.0.0.0 amnazon.com.au
 0.0.0.0 amnazon.co.uk
@@ -8441,6 +8445,7 @@
 0.0.0.0 aple-dns.net
 0.0.0.0 aplibaba.com
 0.0.0.0 apliexpress.com
+0.0.0.0 aplle.com
 0.0.0.0 aplle-dns.net
 0.0.0.0 apllstate.com
 0.0.0.0 aplpe.com
@@ -8721,6 +8726,7 @@
 0.0.0.0 archivee.org
 0.0.0.0 archivef.org
 0.0.0.0 archiver.org
+0.0.0.0 archives.org
 0.0.0.0 archivew.org
 0.0.0.0 archivfe.org
 0.0.0.0 archivf.org
@@ -9260,6 +9266,7 @@
 0.0.0.0 avfira.com
 0.0.0.0 avfira.de
 0.0.0.0 avgb.com
+0.0.0.0 avg.cm
 0.0.0.0 avg.co
 0.0.0.0 avgc.om
 0.0.0.0 avg-com.com
@@ -9308,6 +9315,7 @@
 0.0.0.0 avigra.com
 0.0.0.0 avigra.de
 0.0.0.0 aviira.com
+0.0.0.0 aviira.de
 0.0.0.0 avijra.com
 0.0.0.0 avijra.de
 0.0.0.0 avikra.com
@@ -9401,6 +9409,7 @@
 0.0.0.0 avp0dcast.c0.uk
 0.0.0.0 avp0dcast.co.uk
 0.0.0.0 avra.com
+0.0.0.0 avra.de
 0.0.0.0 avr.com
 0.0.0.0 avria.com
 0.0.0.0 avria.de
@@ -11280,6 +11289,7 @@
 0.0.0.0 bestbuj.com
 0.0.0.0 bestbujy.com
 0.0.0.0 bestbuky.com
+0.0.0.0 bestbut.com
 0.0.0.0 bestbuty.com
 0.0.0.0 bestbuu.com
 0.0.0.0 bestbuuy.com
@@ -15851,6 +15861,7 @@
 0.0.0.0 cloudrflare.com
 0.0.0.0 cloudrlare.com
 0.0.0.0 cloudsflare.com
+0.0.0.0 cloudtflare.com
 0.0.0.0 cloudtlare.com
 0.0.0.0 cloudvflare.com
 0.0.0.0 cloudvlare.com
@@ -16587,6 +16598,7 @@
 0.0.0.0 craigs11st.com
 0.0.0.0 craigs1ist.com
 0.0.0.0 craigsalist.com
+0.0.0.0 craigsdlist.com
 0.0.0.0 craigselist.com
 0.0.0.0 craigsiist.com
 0.0.0.0 craigsilst.com
@@ -16745,6 +16757,7 @@
 0.0.0.0 cred9itonebank.com
 0.0.0.0 cred9tonebank.com
 0.0.0.0 credcitonebank.com
+0.0.0.0 credditonebank.com
 0.0.0.0 credeitonebank.com
 0.0.0.0 credfitonebank.com
 0.0.0.0 credi5onebank.com
@@ -17354,6 +17367,7 @@
 0.0.0.0 d1gitalworldz.co.uk
 0.0.0.0 d1sc0gs.com
 0.0.0.0 d1sc0rdapp.com
+0.0.0.0 d1sc0rd.com
 0.0.0.0 d1sc0rd.media
 0.0.0.0 d1sc0vercard.com
 0.0.0.0 d1sc0ver.com
@@ -17831,6 +17845,7 @@
 0.0.0.0 ddictionary.com
 0.0.0.0 ddiscogs.com
 0.0.0.0 ddiscordapp.com
+0.0.0.0 ddiscord.com
 0.0.0.0 ddiscord.media
 0.0.0.0 ddiscovercard.com
 0.0.0.0 ddiscover.com
@@ -17876,10 +17891,12 @@
 0.0.0.0 deb8ian.org
 0.0.0.0 deb9an.org
 0.0.0.0 deb9ian.org
+0.0.0.0 debain.org
 0.0.0.0 deban.org
 0.0.0.0 debay.ca
 0.0.0.0 debay.com
 0.0.0.0 debay.co.uk
+0.0.0.0 debay.it
 0.0.0.0 debbian.org
 0.0.0.0 debgian.org
 0.0.0.0 debhian.org
@@ -18510,6 +18527,7 @@
 0.0.0.0 di9strowatch.com
 0.0.0.0 diacogs.com
 0.0.0.0 diacordapp.com
+0.0.0.0 diacord.com
 0.0.0.0 diacord.media
 0.0.0.0 diacovercard.com
 0.0.0.0 diacover.com
@@ -18521,6 +18539,7 @@
 0.0.0.0 dianeyworld.com
 0.0.0.0 diascogs.com
 0.0.0.0 diascordapp.com
+0.0.0.0 diascord.com
 0.0.0.0 diascord.media
 0.0.0.0 diascovercard.com
 0.0.0.0 diascover.com
@@ -18549,6 +18568,7 @@
 0.0.0.0 dickduckgo.com
 0.0.0.0 diclionary.com
 0.0.0.0 dicogs.com
+0.0.0.0 dicordapp.com
 0.0.0.0 dicord.com
 0.0.0.0 dicord.media
 0.0.0.0 dicovercard.com
@@ -18629,6 +18649,7 @@
 0.0.0.0 dictionardy.com
 0.0.0.0 dictionarey.com
 0.0.0.0 dictionarfy.com
+0.0.0.0 dictionarg.com
 0.0.0.0 dictionargy.com
 0.0.0.0 dictionarh.com
 0.0.0.0 dictionarhy.com
@@ -18717,6 +18738,7 @@
 0.0.0.0 didneyworld.com
 0.0.0.0 didscogs.com
 0.0.0.0 didscordapp.com
+0.0.0.0 didscord.com
 0.0.0.0 didscord.media
 0.0.0.0 didscovercard.com
 0.0.0.0 didscover.com
@@ -18791,6 +18813,7 @@
 0.0.0.0 diictionary.com
 0.0.0.0 diiscogs.com
 0.0.0.0 diiscordapp.com
+0.0.0.0 diiscord.com
 0.0.0.0 diiscord.media
 0.0.0.0 diiscovercard.com
 0.0.0.0 diiscover.com
@@ -18887,6 +18910,7 @@
 0.0.0.0 dis6trowatch.com
 0.0.0.0 disacogs.com
 0.0.0.0 disacordapp.com
+0.0.0.0 disacord.com
 0.0.0.0 disacord.media
 0.0.0.0 disacovercard.com
 0.0.0.0 disacover.com
@@ -18941,6 +18965,7 @@
 0.0.0.0 discavery.com
 0.0.0.0 disccogs.com
 0.0.0.0 disccordapp.com
+0.0.0.0 disccord.com
 0.0.0.0 disccord.media
 0.0.0.0 disccovercard.com
 0.0.0.0 disccover.com
@@ -18999,6 +19024,7 @@
 0.0.0.0 disclgs.com
 0.0.0.0 disclogs.com
 0.0.0.0 disclordapp.com
+0.0.0.0 disclord.com
 0.0.0.0 disclord.media
 0.0.0.0 disclovercard.com
 0.0.0.0 disclover.com
@@ -19050,8 +19076,10 @@
 0.0.0.0 discocvercard.com
 0.0.0.0 discocver.com
 0.0.0.0 discocvery.com
+0.0.0.0 discodapp.com
 0.0.0.0 discod.com
 0.0.0.0 discoddapp.com
+0.0.0.0 discodd.com
 0.0.0.0 discodd.media
 0.0.0.0 discod.media
 0.0.0.0 discodrapp.com
@@ -19066,12 +19094,14 @@
 0.0.0.0 discoercard.com
 0.0.0.0 discoer.com
 0.0.0.0 discoerdapp.com
+0.0.0.0 discoerd.com
 0.0.0.0 discoerd.media
 0.0.0.0 discoery.com
 0.0.0.0 discoevrcard.com
 0.0.0.0 discoevr.com
 0.0.0.0 discoevry.com
 0.0.0.0 discofdapp.com
+0.0.0.0 discofd.com
 0.0.0.0 discofd.media
 0.0.0.0 discofercard.com
 0.0.0.0 discofer.com
@@ -19177,7 +19207,9 @@
 0.0.0.0 discoradpp.com
 0.0.0.0 discorapp.com
 0.0.0.0 discorcapp.com
+0.0.0.0 discorc.com
 0.0.0.0 discorcdapp.com
+0.0.0.0 discorcd.com
 0.0.0.0 discorcd.media
 0.0.0.0 discorc.media
 0.0.0.0 discor.com
@@ -19191,12 +19223,14 @@
 0.0.0.0 discordap0.com
 0.0.0.0 discordap0p.com
 0.0.0.0 discorda-p.com
+0.0.0.0 discordap.com
 0.0.0.0 discordapl.com
 0.0.0.0 discordaplp.com
 0.0.0.0 discordapo.com
 0.0.0.0 discordapop.com
 0.0.0.0 discordapp0.com
 0.0.0.0 discordapp.cm
+0.0.0.0 discordapp.co
 0.0.0.0 discorda-pp.com
 0.0.0.0 discordap-p.com
 0.0.0.0 discordapp-com.com
@@ -19210,20 +19244,26 @@
 0.0.0.0 discordaxpp.com
 0.0.0.0 discordazpp.com
 0.0.0.0 discordcapp.com
+0.0.0.0 discordc.com
+0.0.0.0 discord.cm
 0.0.0.0 discordc.media
 0.0.0.0 discord.co
 0.0.0.0 discordc.om
 0.0.0.0 discord-com.com
 0.0.0.0 discordcom.com
 0.0.0.0 discorddapp.com
+0.0.0.0 discordd.com
 0.0.0.0 discordd.media
 0.0.0.0 discordeapp.com
+0.0.0.0 discorde.com
 0.0.0.0 discorde.media
 0.0.0.0 discordfapp.com
+0.0.0.0 discordf.com
 0.0.0.0 discordf.media
 0.0.0.0 discord.om
 0.0.0.0 discordopp.com
 0.0.0.0 discordpap.com
+0.0.0.0 discordpp.com
 0.0.0.0 discordqapp.com
 0.0.0.0 discordqpp.com
 0.0.0.0 discordrapp.com
@@ -19250,19 +19290,23 @@
 0.0.0.0 discorfapp.com
 0.0.0.0 discorf.com
 0.0.0.0 discorfdapp.com
+0.0.0.0 discorfd.com
 0.0.0.0 discorfd.media
 0.0.0.0 discorf.media
 0.0.0.0 discorgdapp.com
 0.0.0.0 discorgd.com
 0.0.0.0 discorgd.media
 0.0.0.0 discor.media
+0.0.0.0 discorrapp.com
 0.0.0.0 discorr.com
 0.0.0.0 discorrdapp.com
+0.0.0.0 discorrd.com
 0.0.0.0 discorrd.media
 0.0.0.0 discorr.media
 0.0.0.0 discorsapp.com
 0.0.0.0 discors.com
 0.0.0.0 discorsdapp.com
+0.0.0.0 discorsd.com
 0.0.0.0 discorsd.media
 0.0.0.0 discors.media
 0.0.0.0 discortdapp.com
@@ -19558,11 +19602,16 @@
 0.0.0.0 discpover.com
 0.0.0.0 discpovery.com
 0.0.0.0 discprdapp.com
+0.0.0.0 discprd.com
 0.0.0.0 discprd.media
 0.0.0.0 discpvercard.com
 0.0.0.0 discpver.com
 0.0.0.0 discpvery.com
+0.0.0.0 discrdapp.com
+0.0.0.0 discrd.com
 0.0.0.0 discrd.media
+0.0.0.0 discrodapp.com
+0.0.0.0 discrod.com
 0.0.0.0 discrode.media
 0.0.0.0 discvercard.com
 0.0.0.0 discver.com
@@ -20166,6 +20215,7 @@
 0.0.0.0 disnyworld.com
 0.0.0.0 disocgs.com
 0.0.0.0 disocrdapp.com
+0.0.0.0 disocrd.com
 0.0.0.0 disocrd.media
 0.0.0.0 disocvercard.com
 0.0.0.0 disocver.com
@@ -20183,6 +20233,7 @@
 0.0.0.0 disrtrowatch.com
 0.0.0.0 disscogs.com
 0.0.0.0 disscordapp.com
+0.0.0.0 disscord.com
 0.0.0.0 disscord.media
 0.0.0.0 disscovercard.com
 0.0.0.0 disscover.com
@@ -20206,6 +20257,7 @@
 0.0.0.0 distgowatch.com
 0.0.0.0 distgrowatch.com
 0.0.0.0 disthrowatch.com
+0.0.0.0 distorwatch.com
 0.0.0.0 distowatch.com
 0.0.0.0 distr0owatch.com
 0.0.0.0 distr0watch.com
@@ -20375,6 +20427,7 @@
 0.0.0.0 diswtrowatch.com
 0.0.0.0 disxcogs.com
 0.0.0.0 disxcordapp.com
+0.0.0.0 disxcord.com
 0.0.0.0 disxcord.media
 0.0.0.0 disxcovercard.com
 0.0.0.0 disxcover.com
@@ -20385,6 +20438,7 @@
 0.0.0.0 disxneyworld.com
 0.0.0.0 disxogs.com
 0.0.0.0 disxordapp.com
+0.0.0.0 disxord.com
 0.0.0.0 disxord.media
 0.0.0.0 disxovercard.com
 0.0.0.0 disxover.com
@@ -20431,6 +20485,7 @@
 0.0.0.0 divtionary.com
 0.0.0.0 diwcogs.com
 0.0.0.0 diwcordapp.com
+0.0.0.0 diwcord.com
 0.0.0.0 diwcord.media
 0.0.0.0 diwcovercard.com
 0.0.0.0 diwcover.com
@@ -20454,6 +20509,7 @@
 0.0.0.0 diwtrowatch.com
 0.0.0.0 dixcogs.com
 0.0.0.0 dixcordapp.com
+0.0.0.0 dixcord.com
 0.0.0.0 dixcord.media
 0.0.0.0 dixcovercard.com
 0.0.0.0 dixcover.com
@@ -20479,6 +20535,7 @@
 0.0.0.0 dixtrowatch.com
 0.0.0.0 dizcogs.com
 0.0.0.0 dizcordapp.com
+0.0.0.0 dizcord.com
 0.0.0.0 dizcord.media
 0.0.0.0 dizcovercard.com
 0.0.0.0 dizcover.com
@@ -20518,6 +20575,7 @@
 0.0.0.0 djistrowatch.com
 0.0.0.0 djscogs.com
 0.0.0.0 djscordapp.com
+0.0.0.0 djscord.com
 0.0.0.0 djscord.media
 0.0.0.0 djscovercard.com
 0.0.0.0 djscover.com
@@ -20549,6 +20607,7 @@
 0.0.0.0 dkohahamadairport.com
 0.0.0.0 dkscogs.com
 0.0.0.0 dkscordapp.com
+0.0.0.0 dkscord.com
 0.0.0.0 dkscord.media
 0.0.0.0 dkscovercard.com
 0.0.0.0 dkscover.com
@@ -20568,6 +20627,7 @@
 0.0.0.0 dlictionary.com
 0.0.0.0 dliscogs.com
 0.0.0.0 dliscordapp.com
+0.0.0.0 dliscord.com
 0.0.0.0 dliscord.media
 0.0.0.0 dliscovercard.com
 0.0.0.0 dliscover.com
@@ -20581,6 +20641,8 @@
 0.0.0.0 dlohahamadairport.com
 0.0.0.0 dloudflare.com
 0.0.0.0 dlscogs.com
+0.0.0.0 dlscordapp.com
+0.0.0.0 dlscord.com
 0.0.0.0 dlscord.media
 0.0.0.0 dlscovercard.com
 0.0.0.0 dlscover.com
@@ -20908,6 +20970,8 @@
 0.0.0.0 dord.com
 0.0.0.0 dorpbox.com
 0.0.0.0 doscogs.com
+0.0.0.0 doscordapp.com
+0.0.0.0 doscord.com
 0.0.0.0 doscord.media
 0.0.0.0 doscovercard.com
 0.0.0.0 doscover.com
@@ -21062,6 +21126,7 @@
 0.0.0.0 dropgox.com
 0.0.0.0 drophbox.com
 0.0.0.0 drophox.com
+0.0.0.0 droplbox.com
 0.0.0.0 dropnbox.com
 0.0.0.0 dropnox.com
 0.0.0.0 dropobox.com
@@ -21123,6 +21188,7 @@
 0.0.0.0 dsineyworld.com
 0.0.0.0 dsiscogs.com
 0.0.0.0 dsiscordapp.com
+0.0.0.0 dsiscord.com
 0.0.0.0 dsiscord.media
 0.0.0.0 dsiscovercard.com
 0.0.0.0 dsiscover.com
@@ -21138,6 +21204,7 @@
 0.0.0.0 dsll.com
 0.0.0.0 dsnapchat.com
 0.0.0.0 dsney.com
+0.0.0.0 dsneyland.com
 0.0.0.0 dsneyplus.com
 0.0.0.0 dsneyworld.com
 0.0.0.0 dsoekarnohatta-airport.co.id
@@ -21586,6 +21653,7 @@
 0.0.0.0 duictionary.com
 0.0.0.0 duiscogs.com
 0.0.0.0 duiscordapp.com
+0.0.0.0 duiscord.com
 0.0.0.0 duiscord.media
 0.0.0.0 duiscovercard.com
 0.0.0.0 duiscover.com
@@ -21606,6 +21674,7 @@
 0.0.0.0 dunbaiairports.ae
 0.0.0.0 duscogs.com
 0.0.0.0 duscordapp.com
+0.0.0.0 duscord.com
 0.0.0.0 duscord.media
 0.0.0.0 duscovercard.com
 0.0.0.0 duscover.com
@@ -21772,6 +21841,7 @@
 0.0.0.0 ebaay.ca
 0.0.0.0 ebaay.com
 0.0.0.0 ebaay.co.uk
+0.0.0.0 ebaay.it
 0.0.0.0 eba.ca
 0.0.0.0 eba.com
 0.0.0.0 eba.co.uk
@@ -21809,6 +21879,7 @@
 0.0.0.0 ebasy.co.uk
 0.0.0.0 ebasy.it
 0.0.0.0 ebat.ca
+0.0.0.0 ebat.com
 0.0.0.0 ebat.co.uk
 0.0.0.0 ebat.it
 0.0.0.0 ebaty.ca
@@ -21916,6 +21987,7 @@
 0.0.0.0 ebsy.ca
 0.0.0.0 ebsy.com
 0.0.0.0 ebsy.co.uk
+0.0.0.0 ebsy.it
 0.0.0.0 ebvay.ca
 0.0.0.0 ebvay.com
 0.0.0.0 ebvay.co.uk
@@ -22240,6 +22312,7 @@
 0.0.0.0 egbay.ca
 0.0.0.0 egbay.com
 0.0.0.0 egbay.co.uk
+0.0.0.0 egbay.it
 0.0.0.0 egico.com
 0.0.0.0 egnadget.com
 0.0.0.0 egtfedora.org
@@ -22318,6 +22391,7 @@
 0.0.0.0 enay.ca
 0.0.0.0 enay.com
 0.0.0.0 enay.co.uk
+0.0.0.0 enay.it
 0.0.0.0 enbadget.com
 0.0.0.0 enbay.ca
 0.0.0.0 enbay.com
@@ -23325,12 +23399,14 @@
 0.0.0.0 face3book.com
 0.0.0.0 face4book.com
 0.0.0.0 face8ook.com
+0.0.0.0 faceb0ok.com
 0.0.0.0 faceb0ook.com
 0.0.0.0 faceb9ok.com
 0.0.0.0 faceb9ook.com
 0.0.0.0 facebaok.com
 0.0.0.0 facebbook.com
 0.0.0.0 facebgok.com
+0.0.0.0 facebgook.com
 0.0.0.0 facebhook.com
 0.0.0.0 facebiok.com
 0.0.0.0 facebiook.com
@@ -23359,8 +23435,10 @@
 0.0.0.0 facebooc.com
 0.0.0.0 faceboo.com
 0.0.0.0 facebooi.com
+0.0.0.0 facebooik.com
 0.0.0.0 facebooj.com
 0.0.0.0 faceboojk.com
+0.0.0.0 facebook.co
 0.0.0.0 facebookc.om
 0.0.0.0 facebook-com.com
 0.0.0.0 facebookcom.com
@@ -23381,9 +23459,11 @@
 0.0.0.0 faceboopk.com
 0.0.0.0 faceboou.com
 0.0.0.0 facebopk.com
+0.0.0.0 facebopok.com
 0.0.0.0 facebpok.com
 0.0.0.0 facebpook.com
 0.0.0.0 facebvook.com
+0.0.0.0 facedbook.com
 0.0.0.0 faceebook.com
 0.0.0.0 facefbook.com
 0.0.0.0 facegbook.com
@@ -23693,12 +23773,14 @@
 0.0.0.0 fasrmers.com
 0.0.0.0 fatmers.com
 0.0.0.0 fatrmers.com
+0.0.0.0 favcebook.com
 0.0.0.0 favebook.com
 0.0.0.0 fawcebook.com
 0.0.0.0 fawnart.tv
 0.0.0.0 fawndom.com
 0.0.0.0 fawrmers.com
 0.0.0.0 faxcebook.com
+0.0.0.0 faxebook.com
 0.0.0.0 faxnart.tv
 0.0.0.0 faxndom.com
 0.0.0.0 faxnews.com
@@ -23773,6 +23855,7 @@
 0.0.0.0 fdirefox.com
 0.0.0.0 fdiscogs.com
 0.0.0.0 fdiscordapp.com
+0.0.0.0 fdiscord.com
 0.0.0.0 fdiscord.media
 0.0.0.0 fdiscovercard.com
 0.0.0.0 fdiscover.com
@@ -23809,6 +23892,7 @@
 0.0.0.0 febay.it
 0.0.0.0 febian.org
 0.0.0.0 fecdex.com
+0.0.0.0 fecebook.com
 0.0.0.0 fecex.com
 0.0.0.0 fechradar.com
 0.0.0.0 fed3ex.com
@@ -23938,6 +24022,7 @@
 0.0.0.0 fgoogle.de
 0.0.0.0 fgoogle.es
 0.0.0.0 fgoogle.fr
+0.0.0.0 fgoogle.it
 0.0.0.0 fgoogle.nl
 0.0.0.0 fgoogle.no
 0.0.0.0 fgoogle.pl
@@ -24112,6 +24197,7 @@
 0.0.0.0 fisco.com
 0.0.0.0 fiscogs.com
 0.0.0.0 fiscordapp.com
+0.0.0.0 fiscord.com
 0.0.0.0 fiscord.media
 0.0.0.0 fiscovercard.com
 0.0.0.0 fiscover.com
@@ -25209,6 +25295,7 @@
 0.0.0.0 fracebook.com
 0.0.0.0 frahkfurt-airport.com
 0.0.0.0 frahnkfurt-airport.com
+0.0.0.0 fraigslist.com
 0.0.0.0 frajkfurt-airport.com
 0.0.0.0 frajnkfurt-airport.com
 0.0.0.0 frakfurt-airport.com
@@ -27012,6 +27099,7 @@
 0.0.0.0 gginnellmutual.com
 0.0.0.0 ggithub.com
 0.0.0.0 ggldmansachs.com
+0.0.0.0 ggmail.com
 0.0.0.0 ggodaddy.com
 0.0.0.0 ggofundme.com
 0.0.0.0 ggogle.ae
@@ -27248,6 +27336,7 @@
 0.0.0.0 ghoogle.de
 0.0.0.0 ghoogle.es
 0.0.0.0 ghoogle.fr
+0.0.0.0 ghoogle.it
 0.0.0.0 ghoogle.nl
 0.0.0.0 ghoogle.no
 0.0.0.0 ghoogle.pl
@@ -27564,6 +27653,7 @@
 0.0.0.0 giogle.ie
 0.0.0.0 giogle.iq
 0.0.0.0 giogle.is
+0.0.0.0 giogle.it
 0.0.0.0 giogle.jo
 0.0.0.0 giogle.kz
 0.0.0.0 giogle.li
@@ -27589,6 +27679,7 @@
 0.0.0.0 giogleusercontent.com
 0.0.0.0 gioldmansachs.com
 0.0.0.0 gioogle.ca
+0.0.0.0 gioogle.com
 0.0.0.0 gioogle.com.au
 0.0.0.0 gioogle.co.uk
 0.0.0.0 gioogle.de
@@ -27610,6 +27701,7 @@
 0.0.0.0 giothub.com
 0.0.0.0 girefox.com
 0.0.0.0 girftcardmall.com
+0.0.0.0 girhub.com
 0.0.0.0 girnnellmutual.com
 0.0.0.0 girtcardmall.com
 0.0.0.0 girthub.com
@@ -27655,7 +27747,11 @@
 0.0.0.0 githubh.com
 0.0.0.0 githubn.com
 0.0.0.0 github.om
+0.0.0.0 githubu.com
+0.0.0.0 githubus.com
+0.0.0.0 githubuser.com
 0.0.0.0 githubv.com
+0.0.0.0 githu.com
 0.0.0.0 githugb.com
 0.0.0.0 githug.com
 0.0.0.0 githuhb.com
@@ -27974,6 +28070,7 @@
 0.0.0.0 gloogle.sm
 0.0.0.0 gloogleusercontent.com
 0.0.0.0 gloomberg.com
+0.0.0.0 glthub.com
 0.0.0.0 gly2houston.com
 0.0.0.0 glychicago.com
 0.0.0.0 glydenver.com
@@ -28030,7 +28127,9 @@
 0.0.0.0 gmaxil.com
 0.0.0.0 gmazil.com
 0.0.0.0 gmestop.com
+0.0.0.0 gmil.com
 0.0.0.0 gmjail.com
+0.0.0.0 gmkail.com
 0.0.0.0 gmmail.com
 0.0.0.0 gmnail.com
 0.0.0.0 gmogleusercontent.com
@@ -28952,6 +29051,7 @@
 0.0.0.0 goiogle.de
 0.0.0.0 goiogle.es
 0.0.0.0 goiogle.fr
+0.0.0.0 goiogle.it
 0.0.0.0 goiogle.nl
 0.0.0.0 goiogle.no
 0.0.0.0 goiogle.pl
@@ -29325,6 +29425,7 @@
 0.0.0.0 golgle.ee
 0.0.0.0 golgle.es
 0.0.0.0 golgle.fi
+0.0.0.0 golgle.fr
 0.0.0.0 golgle.ge
 0.0.0.0 golgle.gl
 0.0.0.0 golgle.gr
@@ -29648,6 +29749,7 @@
 0.0.0.0 goofle.ee
 0.0.0.0 goofle.es
 0.0.0.0 goofle.fi
+0.0.0.0 goofle.fr
 0.0.0.0 goofle.ge
 0.0.0.0 goofle.gl
 0.0.0.0 goofle.gr
@@ -29821,6 +29923,7 @@
 0.0.0.0 googe.co.jp
 0.0.0.0 googe.co.ke
 0.0.0.0 googe.co.kr
+0.0.0.0 googe.com
 0.0.0.0 googe.co.ma
 0.0.0.0 googe.com.ar
 0.0.0.0 googe.com.au
@@ -29890,6 +29993,7 @@
 0.0.0.0 googel.es
 0.0.0.0 googel.fr
 0.0.0.0 googe.li
+0.0.0.0 googel.it
 0.0.0.0 googe.lk
 0.0.0.0 googel.nl
 0.0.0.0 googel.no
@@ -30048,6 +30152,7 @@
 0.0.0.0 googhle.co.uk
 0.0.0.0 googhle.de
 0.0.0.0 googhle.es
+0.0.0.0 googhle.fr
 0.0.0.0 googhle.it
 0.0.0.0 googhle.nl
 0.0.0.0 googhle.no
@@ -30478,6 +30583,7 @@
 0.0.0.0 googl3e.sm
 0.0.0.0 googl3eusercontent.com
 0.0.0.0 googl3.fi
+0.0.0.0 googl3.fr
 0.0.0.0 googl3.ge
 0.0.0.0 googl3.gl
 0.0.0.0 googl3.gr
@@ -30782,6 +30888,7 @@
 0.0.0.0 googlde.sm
 0.0.0.0 googldeusercontent.com
 0.0.0.0 googld.fi
+0.0.0.0 googld.fr
 0.0.0.0 googld.ge
 0.0.0.0 googld.gl
 0.0.0.0 googld.gr
@@ -30870,6 +30977,7 @@
 0.0.0.0 googleco.jp
 0.0.0.0 googleco.ke
 0.0.0.0 googleco.kr
+0.0.0.0 googlec.om
 0.0.0.0 googleco.ma
 0.0.0.0 googlecom.ar
 0.0.0.0 googlecom.au
@@ -30920,6 +31028,7 @@
 0.0.0.0 googled.de
 0.0.0.0 googled.es
 0.0.0.0 googled.fr
+0.0.0.0 googled.it
 0.0.0.0 googled.nl
 0.0.0.0 googled.no
 0.0.0.0 google-docs.com
@@ -31002,6 +31111,7 @@
 0.0.0.0 googlee.ee
 0.0.0.0 googlee.es
 0.0.0.0 googlee.fi
+0.0.0.0 googlee.fr
 0.0.0.0 googlee.ge
 0.0.0.0 googlee.gl
 0.0.0.0 googlee.gr
@@ -31040,6 +31150,7 @@
 0.0.0.0 googlef.co.uk
 0.0.0.0 googlef.de
 0.0.0.0 googlef.es
+0.0.0.0 googlef.fr
 0.0.0.0 googlef.it
 0.0.0.0 googlef.nl
 0.0.0.0 googlef.no
@@ -31070,6 +31181,8 @@
 0.0.0.0 googler.co.uk
 0.0.0.0 googler.de
 0.0.0.0 googler.es
+0.0.0.0 googler.fr
+0.0.0.0 googler.it
 0.0.0.0 googler.nl
 0.0.0.0 googler.no
 0.0.0.0 googler.pl
@@ -31091,6 +31204,7 @@
 0.0.0.0 googlesercontent.com
 0.0.0.0 googles.es
 0.0.0.0 googles.fr
+0.0.0.0 googles.it
 0.0.0.0 googles.nl
 0.0.0.0 googles.no
 0.0.0.0 googles.pl
@@ -31378,6 +31492,7 @@
 0.0.0.0 googlf.co.jp
 0.0.0.0 googlf.co.ke
 0.0.0.0 googlf.co.kr
+0.0.0.0 googlf.com
 0.0.0.0 googlf.co.ma
 0.0.0.0 googlf.com.ar
 0.0.0.0 googlf.com.au
@@ -31499,6 +31614,7 @@
 0.0.0.0 googlke.co.uk
 0.0.0.0 googlke.de
 0.0.0.0 googlke.es
+0.0.0.0 googlke.fr
 0.0.0.0 googlke.it
 0.0.0.0 googlke.nl
 0.0.0.0 googlke.no
@@ -31581,6 +31697,7 @@
 0.0.0.0 googlle.ee
 0.0.0.0 googlle.es
 0.0.0.0 googlle.fi
+0.0.0.0 googlle.fr
 0.0.0.0 googlle.ge
 0.0.0.0 googlle.gl
 0.0.0.0 googlle.gr
@@ -31629,6 +31746,7 @@
 0.0.0.0 googloe.de
 0.0.0.0 googloe.es
 0.0.0.0 googloe.fr
+0.0.0.0 googloe.it
 0.0.0.0 googloe.nl
 0.0.0.0 googloe.no
 0.0.0.0 googloe.pl
@@ -31735,6 +31853,7 @@
 0.0.0.0 googlr.ee
 0.0.0.0 googlre.es
 0.0.0.0 googlre.fr
+0.0.0.0 googlre.it
 0.0.0.0 googlre.nl
 0.0.0.0 googlre.no
 0.0.0.0 googlre.pl
@@ -31987,6 +32106,7 @@
 0.0.0.0 googlw.ee
 0.0.0.0 googlwe.es
 0.0.0.0 googlwe.fr
+0.0.0.0 googlwe.it
 0.0.0.0 googlwe.nl
 0.0.0.0 googlwe.no
 0.0.0.0 googlwe.pl
@@ -32144,6 +32264,7 @@
 0.0.0.0 googole.de
 0.0.0.0 googole.es
 0.0.0.0 googole.fr
+0.0.0.0 googole.it
 0.0.0.0 googole.nl
 0.0.0.0 googole.no
 0.0.0.0 googole.pl
@@ -32224,6 +32345,7 @@
 0.0.0.0 googpe.ee
 0.0.0.0 googpe.es
 0.0.0.0 googpe.fi
+0.0.0.0 googpe.fr
 0.0.0.0 googpe.ge
 0.0.0.0 googpe.gl
 0.0.0.0 googpe.gr
@@ -32534,6 +32656,7 @@
 0.0.0.0 goohle.ie
 0.0.0.0 goohle.iq
 0.0.0.0 goohle.is
+0.0.0.0 goohle.it
 0.0.0.0 goohle.jo
 0.0.0.0 goohle.kz
 0.0.0.0 goohle.li
@@ -32652,6 +32775,7 @@
 0.0.0.0 goole.com.tr
 0.0.0.0 goole.com.tw
 0.0.0.0 goole.com.ua
+0.0.0.0 goole.com.vn
 0.0.0.0 goole.co.nz
 0.0.0.0 goole.co.th
 0.0.0.0 goole.co.uk
@@ -32942,6 +33066,7 @@
 0.0.0.0 gooole.tn
 0.0.0.0 goooleusercontent.com
 0.0.0.0 goopgle.ca
+0.0.0.0 goopgle.com
 0.0.0.0 goopgle.com.au
 0.0.0.0 goopgle.co.uk
 0.0.0.0 goopgle.de
@@ -33158,6 +33283,7 @@
 0.0.0.0 gootle.ie
 0.0.0.0 gootle.iq
 0.0.0.0 gootle.is
+0.0.0.0 gootle.it
 0.0.0.0 gootle.jo
 0.0.0.0 gootle.kz
 0.0.0.0 gootle.li
@@ -33278,6 +33404,7 @@
 0.0.0.0 goovle.ie
 0.0.0.0 goovle.iq
 0.0.0.0 goovle.is
+0.0.0.0 goovle.it
 0.0.0.0 goovle.jo
 0.0.0.0 goovle.kz
 0.0.0.0 goovle.li
@@ -33503,6 +33630,7 @@
 0.0.0.0 gopgle.ie
 0.0.0.0 gopgle.iq
 0.0.0.0 gopgle.is
+0.0.0.0 gopgle.it
 0.0.0.0 gopgle.jo
 0.0.0.0 gopgle.kz
 0.0.0.0 gopgle.li
@@ -33658,6 +33786,7 @@
 0.0.0.0 gpogle.ie
 0.0.0.0 gpogle.iq
 0.0.0.0 gpogle.is
+0.0.0.0 gpogle.it
 0.0.0.0 gpogle.jo
 0.0.0.0 gpogle.kz
 0.0.0.0 gpogle.li
@@ -34048,6 +34177,7 @@
 0.0.0.0 gsmarwena.com
 0.0.0.0 gsmarwna.com
 0.0.0.0 gsmasrena.com
+0.0.0.0 gsmatena.com
 0.0.0.0 gsmatrena.com
 0.0.0.0 gsmawrena.com
 0.0.0.0 gsmaxrena.com
@@ -35339,6 +35469,8 @@
 0.0.0.0 hgoogle.co.uk
 0.0.0.0 hgoogle.de
 0.0.0.0 hgoogle.es
+0.0.0.0 hgoogle.fr
+0.0.0.0 hgoogle.it
 0.0.0.0 hgoogle.nl
 0.0.0.0 hgoogle.no
 0.0.0.0 hgoogle.pl
@@ -36106,6 +36238,7 @@
 0.0.0.0 hoogle.ie
 0.0.0.0 hoogle.iq
 0.0.0.0 hoogle.is
+0.0.0.0 hoogle.it
 0.0.0.0 hoogle.jo
 0.0.0.0 hoogle.kz
 0.0.0.0 hoogle.li
@@ -36161,12 +36294,14 @@
 0.0.0.0 hotjmail.com
 0.0.0.0 hotkail.com
 0.0.0.0 hotkmail.com
+0.0.0.0 hotma11.com
 0.0.0.0 hotma1l.com
 0.0.0.0 hotma8il.com
 0.0.0.0 hotma8l.com
 0.0.0.0 hotma9il.com
 0.0.0.0 hotma9l.com
 0.0.0.0 hotmaail.com
+0.0.0.0 hotmai1.com
 0.0.0.0 hotmai8l.com
 0.0.0.0 hotmai9l.com
 0.0.0.0 hotmai.com
@@ -38143,6 +38278,7 @@
 0.0.0.0 i6tunes.com
 0.0.0.0 i6unes.com
 0.0.0.0 i8cicibank.com
+0.0.0.0 i8cloud.com
 0.0.0.0 i8kea.com
 0.0.0.0 i8mdb.com
 0.0.0.0 i8ndependent.co.uk
@@ -38415,6 +38551,7 @@
 0.0.0.0 icloux.com
 0.0.0.0 iclouxd.com
 0.0.0.0 iclouyd.com
+0.0.0.0 iclovd.com
 0.0.0.0 icloyd.com
 0.0.0.0 icloyud.com
 0.0.0.0 iclpoud.com
@@ -38765,6 +38902,7 @@
 0.0.0.0 inbdiegogo.com
 0.0.0.0 inbgrammicro.com
 0.0.0.0 inbrammicro.com
+0.0.0.0 inbstagram.com
 0.0.0.0 inbtel.com
 0.0.0.0 inbtuit.com
 0.0.0.0 incdependent.co.uk
@@ -39336,6 +39474,7 @@
 0.0.0.0 insatgram.com
 0.0.0.0 insdependent.co.uk
 0.0.0.0 insdiegogo.com
+0.0.0.0 insdtagram.com
 0.0.0.0 insependent.co.uk
 0.0.0.0 insetagram.com
 0.0.0.0 insfagram.com
@@ -39348,6 +39487,7 @@
 0.0.0.0 inslagram.com
 0.0.0.0 insragram.com
 0.0.0.0 insrtagram.com
+0.0.0.0 insstagram.com
 0.0.0.0 inst5agram.com
 0.0.0.0 inst6agram.com
 0.0.0.0 instaagram.com
@@ -39380,6 +39520,7 @@
 0.0.0.0 instagrak.com
 0.0.0.0 instagrakm.com
 0.0.0.0 instagram.cm
+0.0.0.0 instagram.co
 0.0.0.0 instagramc.om
 0.0.0.0 instagram-com.com
 0.0.0.0 instagramcom.com
@@ -39402,6 +39543,7 @@
 0.0.0.0 instagrgam.com
 0.0.0.0 instagrma.com
 0.0.0.0 instagrm.com
+0.0.0.0 instagrom.com
 0.0.0.0 instagrqam.com
 0.0.0.0 instagrqm.com
 0.0.0.0 instagrram.com
@@ -39425,6 +39567,7 @@
 0.0.0.0 instaram.com
 0.0.0.0 instargam.com
 0.0.0.0 instarram.com
+0.0.0.0 instasgram.com
 0.0.0.0 instatgram.com
 0.0.0.0 instatram.com
 0.0.0.0 instavgram.com
@@ -39456,6 +39599,7 @@
 0.0.0.0 inswtagram.com
 0.0.0.0 insxtagram.com
 0.0.0.0 insyagram.com
+0.0.0.0 insytagram.com
 0.0.0.0 insztagram.com
 0.0.0.0 int0l.com
 0.0.0.0 int3el.com
@@ -40461,6 +40605,7 @@
 0.0.0.0 itunres.com
 0.0.0.0 itunrs.com
 0.0.0.0 ituns.com
+0.0.0.0 itunse.com
 0.0.0.0 itunses.com
 0.0.0.0 itunss.com
 0.0.0.0 itunwes.com
@@ -40590,6 +40735,7 @@
 0.0.0.0 jcpenhney.com
 0.0.0.0 jcpenjey.com
 0.0.0.0 jcpenjney.com
+0.0.0.0 jcpenmey.com
 0.0.0.0 jcpenmney.com
 0.0.0.0 jcpenn3ey.com
 0.0.0.0 jcpenn3y.com
@@ -43738,6 +43884,7 @@
 0.0.0.0 linkedxin.com
 0.0.0.0 linkeedin.com
 0.0.0.0 linkeein.com
+0.0.0.0 linkefdin.com
 0.0.0.0 linkefin.com
 0.0.0.0 linkeidn.com
 0.0.0.0 linkein.com
@@ -43997,6 +44144,7 @@
 0.0.0.0 lnikedin.com
 0.0.0.0 lnkedin.com
 0.0.0.0 lnlinesbi.com
+0.0.0.0 lnstagram.com
 0.0.0.0 lntel.com
 0.0.0.0 lntuit.com
 0.0.0.0 lo0gitech.com
@@ -44216,6 +44364,7 @@
 0.0.0.0 lowdes.com
 0.0.0.0 lowds.com
 0.0.0.0 lowe3s.com
+0.0.0.0 lowe4s.com
 0.0.0.0 lowe5.com
 0.0.0.0 lowea.com
 0.0.0.0 loweas.com
@@ -49876,6 +50025,7 @@
 0.0.0.0 nortoblifelock.com
 0.0.0.0 nortobn.com
 0.0.0.0 nortobnlifelock.com
+0.0.0.0 norto.com
 0.0.0.0 nortoh.com
 0.0.0.0 nortohlifelock.com
 0.0.0.0 nortohn.com
@@ -50806,6 +50956,7 @@
 0.0.0.0 offlce365.com
 0.0.0.0 offlce.com
 0.0.0.0 offlce.net
+0.0.0.0 offlice365.com
 0.0.0.0 offlice.com
 0.0.0.0 offlice.net
 0.0.0.0 offoce365.com
@@ -50962,6 +51113,7 @@
 0.0.0.0 ojlinesbi.com
 0.0.0.0 ojnlinesbi.com
 0.0.0.0 ojtlook.com
+0.0.0.0 ojutlook.com
 0.0.0.0 okaiserpermanente.org
 0.0.0.0 okansai-airport.or.jp
 0.0.0.0 okaspersky.com
@@ -51315,6 +51467,7 @@
 0.0.0.0 oogle.ie
 0.0.0.0 oogle.iq
 0.0.0.0 oogle.is
+0.0.0.0 oogle.it
 0.0.0.0 oogle.jo
 0.0.0.0 oogle.kz
 0.0.0.0 oogle.li
@@ -52612,6 +52765,7 @@
 0.0.0.0 ouktlook.com
 0.0.0.0 oullook.com
 0.0.0.0 oulook.com
+0.0.0.0 oultook.com
 0.0.0.0 ounbroker.com
 0.0.0.0 oundcloud.com
 0.0.0.0 ounter-strike.net
@@ -52647,6 +52801,7 @@
 0.0.0.0 outloak.com
 0.0.0.0 outlogk.com
 0.0.0.0 outloik.com
+0.0.0.0 outloiok.com
 0.0.0.0 outlok.com
 0.0.0.0 outlokk.com
 0.0.0.0 outloko.com
@@ -52695,6 +52850,7 @@
 0.0.0.0 outrlook.com
 0.0.0.0 outtlook.com
 0.0.0.0 outtook.com
+0.0.0.0 outube.com
 0.0.0.0 outubekids.com
 0.0.0.0 outylook.com
 0.0.0.0 ouutlook.com
@@ -53287,6 +53443,7 @@
 0.0.0.0 payoal.com
 0.0.0.0 payopal.com
 0.0.0.0 payp0al.com
+0.0.0.0 paypa1.com
 0.0.0.0 paypaal.com
 0.0.0.0 paypa.com
 0.0.0.0 paypai.com
@@ -53720,6 +53877,7 @@
 0.0.0.0 platimes.com
 0.0.0.0 platstation.com
 0.0.0.0 platystation.com
+0.0.0.0 plaustation.com
 0.0.0.0 plauystation.com
 0.0.0.0 plawystation.com
 0.0.0.0 plaxystation.com
@@ -54006,6 +54164,7 @@
 0.0.0.0 pornprosn0twork.com
 0.0.0.0 pornprosnetworkc.om
 0.0.0.0 pornprosnetwork.om
+0.0.0.0 pornxub.com
 0.0.0.0 porogressive.com
 0.0.0.0 porotonmail.com
 0.0.0.0 porrseattle.org
@@ -54564,6 +54723,7 @@
 0.0.0.0 progr0ssive.com
 0.0.0.0 progr3essive.com
 0.0.0.0 progr3ssive.com
+0.0.0.0 progr4essive.com
 0.0.0.0 progr4ssive.com
 0.0.0.0 progr5essive.com
 0.0.0.0 progrdessive.com
@@ -54679,6 +54839,7 @@
 0.0.0.0 progrexsive.com
 0.0.0.0 progrexssive.com
 0.0.0.0 progrezsive.com
+0.0.0.0 progrezssive.com
 0.0.0.0 progrfessive.com
 0.0.0.0 progrfssive.com
 0.0.0.0 progrgessive.com
@@ -55305,6 +55466,7 @@
 0.0.0.0 r0ddit.com
 0.0.0.0 r0dtub0.com
 0.0.0.0 r0dtube.com
+0.0.0.0 r0ku.com
 0.0.0.0 r0oblox.com
 0.0.0.0 r0ockstargames.com
 0.0.0.0 r0oku.com
@@ -55375,6 +55537,7 @@
 0.0.0.0 rbay.ca
 0.0.0.0 rbay.com
 0.0.0.0 rbay.co.uk
+0.0.0.0 rbay.it
 0.0.0.0 rbitannica.com
 0.0.0.0 rblox.com
 0.0.0.0 rboadcastify.com
@@ -55587,6 +55750,7 @@
 0.0.0.0 rgckstargames.com
 0.0.0.0 rgeddit.com
 0.0.0.0 rginnellmutual.com
+0.0.0.0 rgithub.com
 0.0.0.0 rgku.com
 0.0.0.0 rgoblox.com
 0.0.0.0 rgockstargames.com
@@ -55918,6 +56082,7 @@
 0.0.0.0 rockstargqames.com
 0.0.0.0 rockstargqmes.com
 0.0.0.0 rockstargsames.com
+0.0.0.0 rockstargsmes.com
 0.0.0.0 rockstargtames.com
 0.0.0.0 rockstargvames.com
 0.0.0.0 rockstargwames.com
@@ -56847,6 +57012,7 @@
 0.0.0.0 samfam.com
 0.0.0.0 samfung.com
 0.0.0.0 samica.com
+0.0.0.0 samjsung.com
 0.0.0.0 samksung.com
 0.0.0.0 sammsung.com
 0.0.0.0 samnsung.com
@@ -57326,6 +57492,7 @@
 0.0.0.0 sdictionary.com
 0.0.0.0 sdiscogs.com
 0.0.0.0 sdiscordapp.com
+0.0.0.0 sdiscord.com
 0.0.0.0 sdiscord.media
 0.0.0.0 sdiscovercard.com
 0.0.0.0 sdiscover.com
@@ -58926,6 +59093,7 @@
 0.0.0.0 snapchast.com
 0.0.0.0 snapchat5.com
 0.0.0.0 snapchat6.com
+0.0.0.0 snapchat.cm
 0.0.0.0 snapchat.co
 0.0.0.0 sna-pchat.com
 0.0.0.0 snap-chat.com
@@ -59788,6 +59956,7 @@
 0.0.0.0 sparoasse.de
 0.0.0.0 sparrkasse.de
 0.0.0.0 sparuasse.de
+0.0.0.0 spatify.com
 0.0.0.0 spatkasse.de
 0.0.0.0 spdedtest.net
 0.0.0.0 spdeedtest.net
@@ -60080,6 +60249,7 @@
 0.0.0.0 spwedtest.net
 0.0.0.0 spweedtest.net
 0.0.0.0 spwrkasse.de
+0.0.0.0 spyboot.com
 0.0.0.0 spzrkasse.de
 0.0.0.0 sqamsung.com
 0.0.0.0 sqmsung.com
@@ -60093,7 +60263,9 @@
 0.0.0.0 srarbucks.com
 0.0.0.0 sratefarm.com
 0.0.0.0 srchive.org
+0.0.0.0 sreamcommunity.com
 0.0.0.0 sreamcontent.com
+0.0.0.0 sreampowered.com
 0.0.0.0 srfairport.com
 0.0.0.0 sropbox.com
 0.0.0.0 srtackexchange.com
@@ -60135,7 +60307,9 @@
 0.0.0.0 sstaples.com
 0.0.0.0 sstarbucks.com
 0.0.0.0 sstatefarm.com
+0.0.0.0 ssteamcommunity.com
 0.0.0.0 ssteamcontent.com
+0.0.0.0 ssteampowered.com
 0.0.0.0 sstudentaid.gov
 0.0.0.0 ssurance.com
 0.0.0.0 ssus.com
@@ -60574,7 +60748,9 @@
 0.0.0.0 stadrbucks.com
 0.0.0.0 staebucks.com
 0.0.0.0 staefarm.com
+0.0.0.0 staemcommunity.com
 0.0.0.0 staemcontent.com
+0.0.0.0 staempowered.com
 0.0.0.0 staerbucks.com
 0.0.0.0 staetfarm.com
 0.0.0.0 stafbucks.com
@@ -60614,6 +60790,7 @@
 0.0.0.0 stamcontent.com
 0.0.0.0 stamford.edu
 0.0.0.0 stamnford.edu
+0.0.0.0 stampowered.com
 0.0.0.0 stanbford.edu
 0.0.0.0 stancford.edu
 0.0.0.0 stancord.edu
@@ -61060,7 +61237,9 @@
 0.0.0.0 steaamcommunity.com
 0.0.0.0 steaamcontent.com
 0.0.0.0 steaampowered.com
+0.0.0.0 steacmommunity.com
 0.0.0.0 steacmontent.com
+0.0.0.0 steacommunity.com
 0.0.0.0 steacontent.com
 0.0.0.0 steajcommunity.com
 0.0.0.0 steajcontent.com
@@ -61085,6 +61264,7 @@
 0.0.0.0 steamc9ntent.com
 0.0.0.0 steamc9ommunity.com
 0.0.0.0 steamc9ontent.com
+0.0.0.0 steamcammunity.com
 0.0.0.0 steamcantent.com
 0.0.0.0 steamccommunity.com
 0.0.0.0 steamccontent.com
@@ -61139,12 +61319,14 @@
 0.0.0.0 steamcomm8unity.com
 0.0.0.0 steamcommhnity.com
 0.0.0.0 steamcommhunity.com
+0.0.0.0 steamcomminity.com
 0.0.0.0 steamcommiunity.com
 0.0.0.0 steamcommjnity.com
 0.0.0.0 steamcommjunity.com
 0.0.0.0 steamcommknity.com
 0.0.0.0 steamcommkunity.com
 0.0.0.0 steamcommmunity.com
+0.0.0.0 steamcommnity.com
 0.0.0.0 steamcommnuity.com
 0.0.0.0 steamcommnunity.com
 0.0.0.0 steamcommu7nity.com
@@ -61153,10 +61335,13 @@
 0.0.0.0 steamcommubnity.com
 0.0.0.0 steamcommuhity.com
 0.0.0.0 steamcommuhnity.com
+0.0.0.0 steamcommuinity.com
 0.0.0.0 steamcommuinty.com
+0.0.0.0 steamcommuity.com
 0.0.0.0 steamcommujity.com
 0.0.0.0 steamcommujnity.com
 0.0.0.0 steamcommuknity.com
+0.0.0.0 steamcommumity.com
 0.0.0.0 steamcommumnity.com
 0.0.0.0 steamcommun1ty.com
 0.0.0.0 steamcommun8ity.com
@@ -61191,6 +61376,7 @@
 0.0.0.0 steamcommunit7.com
 0.0.0.0 steamcommunit7y.com
 0.0.0.0 steamcommunit.com
+0.0.0.0 steamcommunitfy.com
 0.0.0.0 steamcommunitg.com
 0.0.0.0 steamcommunitgy.com
 0.0.0.0 steamcommunith.com
@@ -61199,11 +61385,13 @@
 0.0.0.0 steamcommunitjy.com
 0.0.0.0 steamcommunitry.com
 0.0.0.0 steamcommunitt.com
+0.0.0.0 steamcommunitty.com
 0.0.0.0 steamcommunitu.com
 0.0.0.0 steamcommunituy.com
 0.0.0.0 steamcommunity6.com
 0.0.0.0 steamcommunity7.com
 0.0.0.0 steamcommunity.cm
+0.0.0.0 steamcommunity.co
 0.0.0.0 steamcommunity-com.com
 0.0.0.0 steamcommunitycom.com
 0.0.0.0 steamcommunityg.com
@@ -61214,6 +61402,7 @@
 0.0.0.0 steamcommunityy.com
 0.0.0.0 steamcommuniuty.com
 0.0.0.0 steamcommuniy.com
+0.0.0.0 steamcommuniyt.com
 0.0.0.0 steamcommuniyty.com
 0.0.0.0 steamcommuniyy.com
 0.0.0.0 steamcommunjity.com
@@ -61223,19 +61412,25 @@
 0.0.0.0 steamcommunlity.com
 0.0.0.0 steamcommunlty.com
 0.0.0.0 steamcommunmity.com
+0.0.0.0 steamcommunnity.com
 0.0.0.0 steamcommunoity.com
 0.0.0.0 steamcommunoty.com
+0.0.0.0 steamcommuntiy.com
+0.0.0.0 steamcommunty.com
 0.0.0.0 steamcommunuity.com
 0.0.0.0 steamcommunuty.com
 0.0.0.0 steamcommuunity.com
 0.0.0.0 steamcommuynity.com
 0.0.0.0 steamcommvnity.com
+0.0.0.0 steamcommynity.com
 0.0.0.0 steamcommyunity.com
 0.0.0.0 steamcomnmunity.com
 0.0.0.0 steamcomntent.com
+0.0.0.0 steamcomnunity.com
 0.0.0.0 steamcomrnunity.com
 0.0.0.0 steamcomtent.com
 0.0.0.0 steamcomumnity.com
+0.0.0.0 steamcomunity.com
 0.0.0.0 steamcon5ent.com
 0.0.0.0 steamcon5tent.com
 0.0.0.0 steamcon6ent.com
@@ -61253,6 +61448,7 @@
 0.0.0.0 steamconlent.com
 0.0.0.0 steamconmmunity.com
 0.0.0.0 steamconmtent.com
+0.0.0.0 steamconmunity.com
 0.0.0.0 steamconntent.com
 0.0.0.0 steamconrent.com
 0.0.0.0 steamconrtent.com
@@ -61349,6 +61545,7 @@
 0.0.0.0 steamcxontent.com
 0.0.0.0 steamdcommunity.com
 0.0.0.0 steamdcontent.com
+0.0.0.0 steamdommunity.com
 0.0.0.0 steamdontent.com
 0.0.0.0 steamfcommunity.com
 0.0.0.0 steamfcontent.com
@@ -61364,6 +61561,7 @@
 0.0.0.0 steamkpowered.com
 0.0.0.0 steamlowered.com
 0.0.0.0 steamlpowered.com
+0.0.0.0 steammcommunity.com
 0.0.0.0 steammcontent.com
 0.0.0.0 steammpowered.com
 0.0.0.0 steamncommunity.com
@@ -61377,6 +61575,7 @@
 0.0.0.0 steamopowered.com
 0.0.0.0 steamopwered.com
 0.0.0.0 steam-owered.com
+0.0.0.0 steamowered.com
 0.0.0.0 steamp0owered.com
 0.0.0.0 steamp0wered.com
 0.0.0.0 steamp9owered.com
@@ -61384,6 +61583,7 @@
 0.0.0.0 steampawered.com
 0.0.0.0 steampgwered.com
 0.0.0.0 steampiowered.com
+0.0.0.0 steampiwered.com
 0.0.0.0 steampkowered.com
 0.0.0.0 steampkwered.com
 0.0.0.0 steamplowered.com
@@ -61401,9 +61601,11 @@
 0.0.0.0 steampoeered.com
 0.0.0.0 steampoered.com
 0.0.0.0 steampoewered.com
+0.0.0.0 steampoewred.com
 0.0.0.0 steampoiwered.com
 0.0.0.0 steampokwered.com
 0.0.0.0 steampolwered.com
+0.0.0.0 steampoowered.com
 0.0.0.0 steampopwered.com
 0.0.0.0 steampoqered.com
 0.0.0.0 steampoqwered.com
@@ -61439,11 +61641,15 @@
 0.0.0.0 steampower4d.com
 0.0.0.0 steampower4ed.com
 0.0.0.0 steampower5ed.com
+0.0.0.0 steampowerd.com
 0.0.0.0 steampowerdd.com
+0.0.0.0 steampowerde.com
+0.0.0.0 steampowerded.com
 0.0.0.0 steampowere3d.com
 0.0.0.0 steampowere4d.com
 0.0.0.0 steampowerec.com
 0.0.0.0 steampowerecd.com
+0.0.0.0 steampowere.com
 0.0.0.0 steampoweredc.com
 0.0.0.0 steampowered.cm
 0.0.0.0 steampowered.co
@@ -61452,6 +61658,7 @@
 0.0.0.0 steampoweredc.om
 0.0.0.0 steampowered-com.com
 0.0.0.0 steampoweredcom.com
+0.0.0.0 steampoweredd.com
 0.0.0.0 steampowerede.com
 0.0.0.0 steampoweredf.com
 0.0.0.0 steampowered.om
@@ -61459,21 +61666,26 @@
 0.0.0.0 steampowereds.com
 0.0.0.0 steampoweredx.com
 0.0.0.0 steampoweree.com
+0.0.0.0 steampowereed.com
 0.0.0.0 steampoweref.com
 0.0.0.0 steampowerefd.com
 0.0.0.0 steampowerer.com
+0.0.0.0 steampowererd.com
 0.0.0.0 steampoweres.com
 0.0.0.0 steampoweresd.com
 0.0.0.0 steampowerew.com
+0.0.0.0 steampowerewd.com
 0.0.0.0 steampowerex.com
 0.0.0.0 steampowerexd.com
 0.0.0.0 steampowerfd.com
 0.0.0.0 steampowerfed.com
 0.0.0.0 steampowerged.com
 0.0.0.0 steampowerrd.com
+0.0.0.0 steampowerred.com
 0.0.0.0 steampowersd.com
 0.0.0.0 steampowersed.com
 0.0.0.0 steampowerted.com
+0.0.0.0 steampowerwd.com
 0.0.0.0 steampowerwed.com
 0.0.0.0 steampowesred.com
 0.0.0.0 steampoweted.com
@@ -61488,8 +61700,12 @@
 0.0.0.0 steampowrred.com
 0.0.0.0 steampowsered.com
 0.0.0.0 steampowsred.com
+0.0.0.0 steampowwered.com
+0.0.0.0 steampowwred.com
 0.0.0.0 steamppowered.com
 0.0.0.0 steamppwered.com
+0.0.0.0 steampwered.com
+0.0.0.0 steampwoered.com
 0.0.0.0 steamvcommunity.com
 0.0.0.0 steamvcontent.com
 0.0.0.0 steamvommunity.com
@@ -61498,12 +61714,14 @@
 0.0.0.0 steamxcontent.com
 0.0.0.0 steamxommunity.com
 0.0.0.0 steamxontent.com
+0.0.0.0 steancommunity.com
 0.0.0.0 steancontent.com
 0.0.0.0 steanmcommunity.com
 0.0.0.0 steanmcontent.com
 0.0.0.0 steanmpowered.com
 0.0.0.0 steanpowered.com
 0.0.0.0 steapmowered.com
+0.0.0.0 steapowered.com
 0.0.0.0 steaqmcommunity.com
 0.0.0.0 steaqmcontent.com
 0.0.0.0 steaqmpowered.com
@@ -61531,7 +61749,9 @@
 0.0.0.0 stefamcommunity.com
 0.0.0.0 stefamcontent.com
 0.0.0.0 stefampowered.com
+0.0.0.0 stemacommunity.com
 0.0.0.0 stemacontent.com
+0.0.0.0 stemapowered.com
 0.0.0.0 stemcommunity.com
 0.0.0.0 stemcontent.com
 0.0.0.0 stempowered.com
@@ -62081,6 +62301,7 @@
 0.0.0.0 symant5ec.com
 0.0.0.0 symant6ec.com
 0.0.0.0 symantc.com
+0.0.0.0 symantce.com
 0.0.0.0 symantdc.com
 0.0.0.0 symantdec.com
 0.0.0.0 symante3c.com
@@ -62303,6 +62524,7 @@
 0.0.0.0 taarget.com
 0.0.0.0 tabao.com
 0.0.0.0 taboao.com
+0.0.0.0 tacebook.com
 0.0.0.0 tackexchange.com
 0.0.0.0 tackoverflow.com
 0.0.0.0 tadget.com
@@ -62314,6 +62536,7 @@
 0.0.0.0 tafget.com
 0.0.0.0 tafrget.com
 0.0.0.0 tagbao.com
+0.0.0.0 taget.com
 0.0.0.0 tagget.com
 0.0.0.0 tagret.com
 0.0.0.0 tagrget.com
@@ -63219,6 +63442,7 @@
 0.0.0.0 tgoogle.co.uk
 0.0.0.0 tgoogle.de
 0.0.0.0 tgoogle.es
+0.0.0.0 tgoogle.fr
 0.0.0.0 tgoogle.it
 0.0.0.0 tgoogle.nl
 0.0.0.0 tgoogle.no
@@ -63560,6 +63784,7 @@
 0.0.0.0 theguardjian.com
 0.0.0.0 theguardkan.com
 0.0.0.0 theguardkian.com
+0.0.0.0 theguardlan.com
 0.0.0.0 theguardlian.com
 0.0.0.0 theguardoan.com
 0.0.0.0 theguardoian.com
@@ -63689,6 +63914,7 @@
 0.0.0.0 thesauru7s.com
 0.0.0.0 thesauru8s.com
 0.0.0.0 thesaurua.com
+0.0.0.0 thesauruas.com
 0.0.0.0 thesauru.com
 0.0.0.0 thesaurud.com
 0.0.0.0 thesauruds.com
@@ -64147,6 +64373,7 @@
 0.0.0.0 ticketmastesr.com
 0.0.0.0 ticketmastet.com
 0.0.0.0 ticketmastetr.com
+0.0.0.0 ticketmastewr.com
 0.0.0.0 ticketmastfer.com
 0.0.0.0 ticketmastfr.com
 0.0.0.0 ticketmastger.com
@@ -64197,6 +64424,7 @@
 0.0.0.0 ticketrnaster.com
 0.0.0.0 tickettmaster.com
 0.0.0.0 ticketymaster.com
+0.0.0.0 tickewtmaster.com
 0.0.0.0 tickeymaster.com
 0.0.0.0 tickeytmaster.com
 0.0.0.0 tickfetmaster.com
@@ -64679,6 +64907,7 @@
 0.0.0.0 toogle.co.jp
 0.0.0.0 toogle.co.ke
 0.0.0.0 toogle.co.kr
+0.0.0.0 toogle.com
 0.0.0.0 toogle.co.ma
 0.0.0.0 toogle.com.ar
 0.0.0.0 toogle.com.au
@@ -65577,6 +65806,7 @@
 0.0.0.0 tvvitch.tv
 0.0.0.0 tvvitter.com
 0.0.0.0 tw1tch.tv
+0.0.0.0 tw1tter.com
 0.0.0.0 tw2itch.tv
 0.0.0.0 tw2itter.com
 0.0.0.0 tw3itch.tv
@@ -65600,6 +65830,7 @@
 0.0.0.0 twditter.com
 0.0.0.0 twechradar.com
 0.0.0.0 tweitch.tv
+0.0.0.0 tweitter.com
 0.0.0.0 twi5ch.tv
 0.0.0.0 twi5tch.tv
 0.0.0.0 twi5ter.com
@@ -65677,6 +65908,7 @@
 0.0.0.0 twitdch.tv
 0.0.0.0 twitdh.tv
 0.0.0.0 twitech.tv
+0.0.0.0 twiter.com
 0.0.0.0 twitetr.com
 0.0.0.0 twitfch.tv
 0.0.0.0 twitfer.com
@@ -65721,6 +65953,7 @@
 0.0.0.0 twittegr.com
 0.0.0.0 twitter4.com
 0.0.0.0 twitter5.com
+0.0.0.0 twitter.co
 0.0.0.0 twitterc.om
 0.0.0.0 twitter-com.com
 0.0.0.0 twittercom.com
@@ -65754,6 +65987,7 @@
 0.0.0.0 twitxh.tv
 0.0.0.0 twitych.tv
 0.0.0.0 twityer.com
+0.0.0.0 twityter.com
 0.0.0.0 twiutch.tv
 0.0.0.0 twiutter.com
 0.0.0.0 twiych.tv
@@ -65773,6 +66007,7 @@
 0.0.0.0 twlitch.tv
 0.0.0.0 twlitter.com
 0.0.0.0 twltch.tv
+0.0.0.0 twltter.com
 0.0.0.0 twobao.com
 0.0.0.0 twoitch.tv
 0.0.0.0 twoitter.com
@@ -65792,6 +66027,7 @@
 0.0.0.0 twutch.tv
 0.0.0.0 twutter.com
 0.0.0.0 twwitch.tv
+0.0.0.0 twwitter.com
 0.0.0.0 txameritrade.com
 0.0.0.0 txaobao.com
 0.0.0.0 txarget.com
@@ -67162,6 +67398,7 @@
 0.0.0.0 uyellowpages.com
 0.0.0.0 uyelp.com
 0.0.0.0 uynitedhealthgroup.com
+0.0.0.0 uyoutube.com
 0.0.0.0 uyoutubekids.com
 0.0.0.0 uyrbandictionary.com
 0.0.0.0 uysatoday.com
@@ -67367,6 +67604,7 @@
 0.0.0.0 vgoogle.de
 0.0.0.0 vgoogle.es
 0.0.0.0 vgoogle.fr
+0.0.0.0 vgoogle.it
 0.0.0.0 vgoogle.nl
 0.0.0.0 vgoogle.no
 0.0.0.0 vgoogle.pl
@@ -68174,6 +68412,7 @@
 0.0.0.0 washingtohnpost.com
 0.0.0.0 washingtohpost.com
 0.0.0.0 washingtoinexaminer.com
+0.0.0.0 washingtoinpost.com
 0.0.0.0 washingtojexaminer.com
 0.0.0.0 washingtojnexaminer.com
 0.0.0.0 washingtojnpost.com
@@ -68578,6 +68817,7 @@
 0.0.0.0 wbatsapp.com
 0.0.0.0 wbay.ca
 0.0.0.0 wbay.co.uk
+0.0.0.0 wbay.it
 0.0.0.0 wbemd.com
 0.0.0.0 wbhatsapp.com
 0.0.0.0 wbhitepages.com
@@ -68669,6 +68909,7 @@
 0.0.0.0 weathegr.com
 0.0.0.0 weather4.com
 0.0.0.0 weather5.com
+0.0.0.0 weather.cm
 0.0.0.0 weather.co
 0.0.0.0 weatherc.om
 0.0.0.0 weather-com.com
@@ -69073,6 +69314,7 @@
 0.0.0.0 whatseapp.com
 0.0.0.0 whatsopp.com
 0.0.0.0 whatspap.com
+0.0.0.0 whatspp.com
 0.0.0.0 whatsqapp.com
 0.0.0.0 whatsqpp.com
 0.0.0.0 whatssapp.com
@@ -69849,6 +70091,7 @@
 0.0.0.0 wisneyplus.com
 0.0.0.0 wisneyworld.com
 0.0.0.0 wistrowatch.com
+0.0.0.0 witch.tv
 0.0.0.0 wited.com
 0.0.0.0 wited.co.uk
 0.0.0.0 witepages.com
@@ -71189,6 +71432,7 @@
 0.0.0.0 wwwavgcom.com
 0.0.0.0 wwwavira.com
 0.0.0.0 wwwaviracom.com
+0.0.0.0 wwwavira.de
 0.0.0.0 wwwbaidu.com
 0.0.0.0 wwwbaiducom.com
 0.0.0.0 wwwbangkokairportonline.com
@@ -71849,6 +72093,7 @@
 0.0.0.0 wwwyellowpagescom.com
 0.0.0.0 wwwyelp.com
 0.0.0.0 wwwyelpcom.com
+0.0.0.0 wwwyoutube.com
 0.0.0.0 wwwyoutubecom.com
 0.0.0.0 wwwyoutubekids.com
 0.0.0.0 wwwyoutubekidscom.com
@@ -72020,6 +72265,7 @@
 0.0.0.0 xdictionary.com
 0.0.0.0 xdiscogs.com
 0.0.0.0 xdiscordapp.com
+0.0.0.0 xdiscord.com
 0.0.0.0 xdiscord.media
 0.0.0.0 xdiscovercard.com
 0.0.0.0 xdiscover.com
@@ -72427,6 +72673,7 @@
 0.0.0.0 yatoo.com
 0.0.0.0 yauhoo.com
 0.0.0.0 yauoo.com
+0.0.0.0 yautube.com
 0.0.0.0 yautubekids.com
 0.0.0.0 yawhoo.com
 0.0.0.0 yawle.edu
@@ -72760,6 +73007,7 @@
 0.0.0.0 yioutube.com
 0.0.0.0 yioutubekids.com
 0.0.0.0 yithub.com
+0.0.0.0 yiutube.com
 0.0.0.0 yiutubekids.com
 0.0.0.0 yjahoo.com
 0.0.0.0 yjale.edu
@@ -72767,6 +73015,7 @@
 0.0.0.0 yjelp.com
 0.0.0.0 yjoutube.com
 0.0.0.0 yjoutubekids.com
+0.0.0.0 ykoutube.com
 0.0.0.0 ykoutubekids.com
 0.0.0.0 ykutube.com
 0.0.0.0 ykutubekids.com
@@ -72805,6 +73054,7 @@
 0.0.0.0 yohtubekids.com
 0.0.0.0 yohutube.com
 0.0.0.0 yohutubekids.com
+0.0.0.0 yoitube.com
 0.0.0.0 yoitubekids.com
 0.0.0.0 yoiutube.com
 0.0.0.0 yoiutubekids.com
@@ -72971,6 +73221,7 @@
 0.0.0.0 yourtube.com
 0.0.0.0 yourtubekids.com
 0.0.0.0 youru.be
+0.0.0.0 yourube.com
 0.0.0.0 yourubekids.com
 0.0.0.0 youse.gov
 0.0.0.0 yout5ube.com
@@ -73048,6 +73299,7 @@
 0.0.0.0 youtubecom.com
 0.0.0.0 youtubed.com
 0.0.0.0 youtubedkids.com
+0.0.0.0 youtubee.com
 0.0.0.0 youtubeekids.com
 0.0.0.0 youtubef.com
 0.0.0.0 youtubefkids.com
@@ -73134,6 +73386,7 @@
 0.0.0.0 youtubeoids.com
 0.0.0.0 youtubeokids.com
 0.0.0.0 youtube.om
+0.0.0.0 youtuber.com
 0.0.0.0 youtuberkids.com
 0.0.0.0 youtubes.com
 0.0.0.0 youtubeskids.com
@@ -73183,6 +73436,7 @@
 0.0.0.0 youtujbekids.com
 0.0.0.0 youtukbe.com
 0.0.0.0 youtukbekids.com
+0.0.0.0 youtunbe.com
 0.0.0.0 youtunbekids.com
 0.0.0.0 youtune.com
 0.0.0.0 youtunekids.com
@@ -73205,6 +73459,7 @@
 0.0.0.0 youubekids.com
 0.0.0.0 youutbe.com
 0.0.0.0 youutbekids.com
+0.0.0.0 youutube.com
 0.0.0.0 youutubekids.com
 0.0.0.0 youytube.com
 0.0.0.0 youytubekids.com
@@ -73318,6 +73573,7 @@
 0.0.0.0 yyale.edu
 0.0.0.0 yyellowpages.com
 0.0.0.0 yyelp.com
+0.0.0.0 yyoutube.com
 0.0.0.0 yyoutubekids.com
 0.0.0.0 yzahoo.com
 0.0.0.0 yzale.edu

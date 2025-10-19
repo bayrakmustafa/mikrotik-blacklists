@@ -12,6 +12,10 @@
 0.0.0.0 prebid-*.rubiconproject.com
 0.0.0.0 pijama.*.elasticbeanstalk.com
 0.0.0.0 s*.skencituer.com
+0.0.0.0 015ea24446.com
+0.0.0.0 bhtdgciwso.com
+0.0.0.0 c84c10fe3d.com
+0.0.0.0 iqdxmngrgvp.com
 0.0.0.0 *.libaishuo.com
 0.0.0.0 adv0*.msa.cdn.mediaset.net
 0.0.0.0 nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi
@@ -50,6 +54,8 @@
 0.0.0.0 mediate-ios-*.hyprmx.com
 0.0.0.0 production-adserver-*.amazonaws.com
 0.0.0.0 rtbimp-loadbalancer-*.amazonaws.com
+0.0.0.0 *-default-cn.rum.aliyuncs.com
+0.0.0.0 *-sdk.rum.aliyuncs.com
 0.0.0.0 ecommerce-events*.adscale.com
 0.0.0.0 install*.zonastat.com
 0.0.0.0 log*.zijieapi.com
@@ -279,6 +285,7 @@
 0.0.0.0 q*-publick.club
 0.0.0.0 v.tzbox*.xyz
 0.0.0.0 cdn*.swaxis.com
+0.0.0.0 almosto.com
 0.0.0.0 iphone-caviar.ru*entranceId
 0.0.0.0 rb*.design.ru
 0.0.0.0 real*traf.ru
@@ -297,6 +304,7 @@
 0.0.0.0 zbb.bbb.*.pics
 0.0.0.0 fjuga.top
 0.0.0.0 ad*.on.cc
+0.0.0.0 h3v9p8x2q1r7-agckaeh6g2ehcaes.*.azurewebsites.net
 0.0.0.0 admicro*.vcmedia.vn
 0.0.0.0 log-*.epicdn.me
 0.0.0.0 log-*.zadn.vn
