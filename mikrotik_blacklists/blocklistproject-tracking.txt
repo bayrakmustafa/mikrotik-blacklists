@@ -1225,6 +1225,7 @@
 0.0.0.0 grapeshotkeywords.com
 0.0.0.0 grapeshotkeywords.net
 0.0.0.0 graphiq.com
+0.0.0.0 gravity.com
 0.0.0.0 greatdealmachine.com
 0.0.0.0 greatestoldupgrading.review
 0.0.0.0 greenleavegroup.com

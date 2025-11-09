@@ -2,7 +2,7 @@
 #    File: Chat
 #    Info: Chat Dialog Boxes
 # Domains: 492
-# Updated: 10/13/2025  22:14 (10:14 PM CST)
+# Updated: 11/5/2025  17:41 (5:41 PM CST)
 #
 0.0.0.0 accpi.org
 0.0.0.0 admaker.tech
@@ -75,7 +75,6 @@
 0.0.0.0 chat.convertfox.com
 0.0.0.0 chat-dardenhomepage.orders.com
 0.0.0.0 chatdealer.jp
-0.0.0.0 chat.deepseek.com
 0.0.0.0 chat.dermstore.com
 0.0.0.0 chated.io
 0.0.0.0 chat.freshdesk.com
@@ -160,6 +159,7 @@
 0.0.0.0 effect.com
 0.0.0.0 elev.io
 0.0.0.0 engagement.ai.cdn.cloudflare.net
+0.0.0.0 envolvetech.com
 0.0.0.0 exceed.ai
 0.0.0.0 faqbot.ai
 0.0.0.0 faqbot.nz
@@ -300,7 +300,6 @@
 0.0.0.0 purechatcdn.com
 0.0.0.0 pypestream.com
 0.0.0.0 pype.tech
-0.0.0.0 quickcep.com
 0.0.0.0 quriobot.com
 0.0.0.0 rainbowred.com
 0.0.0.0 ramblechat.com
@@ -377,8 +376,6 @@
 0.0.0.0 widget-ami-pro.mapfre.es
 0.0.0.0 wotnot.io
 0.0.0.0 writesonic.com
-0.0.0.0 yellow.ai
-0.0.0.0 yellowmessenger.com
 0.0.0.0 zammad.nic.cl
 0.0.0.0 zammo.ai
 0.0.0.0 zipchat.ai

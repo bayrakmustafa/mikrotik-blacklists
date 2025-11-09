@@ -47,7 +47,6 @@
 0.0.0.0 beelert.com
 0.0.0.0 cdn.bispd.com
 0.0.0.0 cdn.cdndp.com
-0.0.0.0 cdn.dpdownload.com
 0.0.0.0 cdn.file2desktop.com
 0.0.0.0 cdn.goateastcach.us
 0.0.0.0 cdn.guttastatdk.us
@@ -104,14 +103,14 @@
 0.0.0.0 p.d.1enm.com
 0.0.0.0 p.milliyet.com.tr
 0.0.0.0 partnersapi.bilio.com
-0.0.0.0 predatasrv.com
+0.0.0.0 pnsdkapi.turktelekom.com.tr
 0.0.0.0 ptreklam.com
 0.0.0.0 ptreklam.com.tr
 0.0.0.0 ptreklamcrv.com.tr
 0.0.0.0 ptreklamssp.com.tr
 0.0.0.0 r.reklam1.com
+0.0.0.0 r.reklam3.com
 0.0.0.0 r.reklam4.com
-0.0.0.0 rainstar.gen.tf
 0.0.0.0 rdrtr.com
 0.0.0.0 rebrand.ly
 0.0.0.0 regadsgx.com

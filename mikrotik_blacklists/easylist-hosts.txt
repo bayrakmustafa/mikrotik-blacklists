@@ -1,5 +1,5 @@
 # Easylist, parsed and mirrored by https://firebog.net
-# Updated 17OCT25 from https://easylist.to/easylist/easylist.txt
+# Updated 07NOV25 from https://easylist.to/easylist/easylist.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7,7 +7,6 @@
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://github.com/easylist/easylist#list-issues
 
-0.0.0.0 aaprhbdlqstrob.net
 0.0.0.0 a.crazyporn.xxx
 0.0.0.0 ad.animehub.ac
 0.0.0.0 adf.uhn.cx
@@ -55,39 +54,37 @@
 0.0.0.0 brick.xhamster3.com
 0.0.0.0 buyeasy.by
 0.0.0.0 b.w3techs.com
+0.0.0.0 byvqahxces.com
 0.0.0.0 cams.imgtaxi.com
 0.0.0.0 cdn.hamwo.cloud
 0.0.0.0 cdn.manga9.co
 0.0.0.0 centent.stemplay.cc
-0.0.0.0 chekmakfrosk.click
 0.0.0.0 cluster.xhspot.com
 0.0.0.0 cpm.appocean.media
+0.0.0.0 creative.homejavlive.com
 0.0.0.0 creative.live.missav.com
 0.0.0.0 creative.thefaplive.com
 0.0.0.0 creative.upskirtlive.com
 0.0.0.0 creative.yesporn.cam
+0.0.0.0 crwthurling.click
 0.0.0.0 dl.4kporn.xxx
-0.0.0.0 dulerboxiest.shop
 0.0.0.0 dyn.tnaflix.com
 0.0.0.0 dyn.varsity.co.uk
 0.0.0.0 dywolfer.de
 0.0.0.0 earth.cointelegraph.com
 0.0.0.0 eas.etherscan.com
 0.0.0.0 e.cdngeek.com
-0.0.0.0 edgxfgit.com
 0.0.0.0 eentent.streampiay.me
+0.0.0.0 elatersand.rest
 0.0.0.0 engagesrvr.filefactory.com
 0.0.0.0 engine.eroge.com
 0.0.0.0 engine.fxempire.com
 0.0.0.0 engine.laweekly.com
-0.0.0.0 ewhaisaidor.com
-0.0.0.0 exemplaryladder.pro
 0.0.0.0 f5w.prettytube.net
 0.0.0.0 fentent.streampiay.me
-0.0.0.0 foldclankcelery.com
+0.0.0.0 fpnjanyoehweo.online
 0.0.0.0 gamer.mmohuts.com
-0.0.0.0 gardeningremovalcontrary.com
-0.0.0.0 gdueranugik.com
+0.0.0.0 gamgkcshehyvm.online
 0.0.0.0 gentent.stre4mplay.one
 0.0.0.0 go.bloxplay.com
 0.0.0.0 go.celebjihad.live
@@ -95,37 +92,36 @@
 0.0.0.0 go.strpjmp.com
 0.0.0.0 hentent.stre4mplay.one
 0.0.0.0 html-load.cc
-0.0.0.0 ieglcoaqlzesp.store
 0.0.0.0 ientent.stre4mplay.one
 0.0.0.0 imasdk.googleapis.com
 0.0.0.0 imp.accesstra.de
 0.0.0.0 imp.pixiv.net
+0.0.0.0 intoxicatescrape.com
 0.0.0.0 japfg-trending-content.uc.r.appspot.com
-0.0.0.0 jbttqajifzhhl.store
-0.0.0.0 jervinapop.qpon
 0.0.0.0 js.mangajp.top
-0.0.0.0 jyozavobzrojl.top
 0.0.0.0 keen-eyed.dotabuff.com
 0.0.0.0 kentent.stre4mplay.one
+0.0.0.0 kkdgwavpabkgk.space
 0.0.0.0 kta.etherscan.com
-0.0.0.0 leptashegetz.click
 0.0.0.0 link.link.ru
 0.0.0.0 loadercdn.com
 0.0.0.0 loader.crosswordsolver.com
 0.0.0.0 loader.the-crossword-solver.com
 0.0.0.0 loader.word-grabber.com
 0.0.0.0 loader.worldhistory.org
+0.0.0.0 loofasrosary.click
+0.0.0.0 lrvttzvsdgywx.online
 0.0.0.0 lw.musictarget.com
 0.0.0.0 mafvertizing.crazygames.com
 0.0.0.0 marine.xhamster2.com
 0.0.0.0 monetag.com
 0.0.0.0 mweb-hb.presage.io
-0.0.0.0 mzauocweuauvd.store
 0.0.0.0 n.gemini.yahoo.com
 0.0.0.0 n.hnntube.com
-0.0.0.0 notchergrillee.shop
+0.0.0.0 noblestonemes.click
 0.0.0.0 outlookads.live.com
 0.0.0.0 pafvertizing.crazygames.com
+0.0.0.0 peezoapsiglouk.net
 0.0.0.0 pips.taboola.com
 0.0.0.0 pirogad.tophosting101.com
 0.0.0.0 play.springboardplatform.com
@@ -133,13 +129,13 @@
 0.0.0.0 plx.tik.porn
 0.0.0.0 port7.xhamster2.com
 0.0.0.0 port7.xhamster3.com
-0.0.0.0 pphgmgofwamjtk.com
 0.0.0.0 prebid.cwi.re
 0.0.0.0 prebid-server.newsbreak.com
 0.0.0.0 prod-sponsoredads.mkt.zappos.com
 0.0.0.0 proto2ad.durasite.net
+0.0.0.0 psyllasunfoil.help
 0.0.0.0 pubsrv.devhints.io
-0.0.0.0 qdzsdexngdbff.online
+0.0.0.0 qztrtybe.com
 0.0.0.0 rafvertizing.crazygames.com
 0.0.0.0 red-shell.speedrun.com
 0.0.0.0 rev.frankspeech.com
@@ -152,21 +148,23 @@
 0.0.0.0 rtb-1.xcafe.com
 0.0.0.0 rtb-3.xgroovy.com
 0.0.0.0 sasinator.realestate.com.au
+0.0.0.0 sdgrpwleihxjm.space
 0.0.0.0 shield.knowt.com
 0.0.0.0 sli.crazyporn.xxx
-0.0.0.0 snoopyabroad.pro
+0.0.0.0 slwljkcbbizxv.website
 0.0.0.0 socket.streamable.com
 0.0.0.0 spike-plant.valorbuff.com
 0.0.0.0 sponsors.vuejs.org
 0.0.0.0 srv.tunefindforfans.com
 0.0.0.0 static.ad.libimseti.cz
+0.0.0.0 stirksubarea.cyou
 0.0.0.0 store-api.mumuglobal.com
 0.0.0.0 support.streamjav.top
 0.0.0.0 targeting.vdo.ai
-0.0.0.0 thimblestrangearchitect.com
+0.0.0.0 tltlgghlqjuxm.store
+0.0.0.0 toxoafteeshato.com
 0.0.0.0 t.police1.com
 0.0.0.0 tracking.police1.com
-0.0.0.0 uniteevery.cyou
 0.0.0.0 unpin.hothomefuck.com
 0.0.0.0 vi1.prettytube.net
 0.0.0.0 videoplaza.tv
@@ -176,8 +174,8 @@
 0.0.0.0 wall.vgr.com
 0.0.0.0 wpnrtnmrewunrtok.xyz
 0.0.0.0 ww.hoes.tube
+0.0.0.0 www8.upload-pics.com
 0.0.0.0 x.castanet.net
+0.0.0.0 xduegcjooe.com
 0.0.0.0 xis.vipergirls.to
 0.0.0.0 x.xxxbp.tv
-0.0.0.0 zlmzvqoishrcb.store
-0.0.0.0 zwvprsvxlpzfi.space

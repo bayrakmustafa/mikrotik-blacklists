@@ -8,14 +8,16 @@
 0.0.0.0 mf*.advantage.as
 0.0.0.0 hub.fghtem.com
 0.0.0.0 *.exaapi.com
+0.0.0.0 *two-gun-volley.pages.dev
 0.0.0.0 advert*.livesportmedia.eu
 0.0.0.0 prebid-*.rubiconproject.com
 0.0.0.0 pijama.*.elasticbeanstalk.com
+0.0.0.0 pl.ua
 0.0.0.0 s*.skencituer.com
-0.0.0.0 015ea24446.com
-0.0.0.0 bhtdgciwso.com
-0.0.0.0 c84c10fe3d.com
-0.0.0.0 iqdxmngrgvp.com
+0.0.0.0 lsplmxmfy.com
+0.0.0.0 vgicymktilknwt.com
+0.0.0.0 xnaimycryngvb.site
+0.0.0.0 zeqbfcbuyfnyz.website
 0.0.0.0 *.libaishuo.com
 0.0.0.0 adv0*.msa.cdn.mediaset.net
 0.0.0.0 nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi
@@ -54,6 +56,7 @@
 0.0.0.0 mediate-ios-*.hyprmx.com
 0.0.0.0 production-adserver-*.amazonaws.com
 0.0.0.0 rtbimp-loadbalancer-*.amazonaws.com
+0.0.0.0 matomo-demo-*.amazonaws.com
 0.0.0.0 *-default-cn.rum.aliyuncs.com
 0.0.0.0 *-sdk.rum.aliyuncs.com
 0.0.0.0 ecommerce-events*.adscale.com
@@ -90,6 +93,8 @@
 0.0.0.0 query*.petametrics.com
 0.0.0.0 sock*-goguardian.pusher.com
 0.0.0.0 tccd.douglas.
+0.0.0.0 touch.yesim.
+0.0.0.0 data-track*.yingxiong.com
 0.0.0.0 mon*.tiktokv.us
 0.0.0.0 orderana*.spankbang.com
 0.0.0.0 logstash-*.radio-canada.ca
@@ -214,6 +219,8 @@
 0.0.0.0 use-trk*.bluevoox.com
 0.0.0.0 t*.playdigo.live
 0.0.0.0 tnc*.tiktokv.us
+0.0.0.0 tnc*.tiktokv.com
+0.0.0.0 log*-normal-*.tiktokv.com
 0.0.0.0 ulog*.kwai-pro.com
 0.0.0.0 tnc-va*.capcutapi.com
 0.0.0.0 mon-va*.capcutapi.com
@@ -348,6 +355,7 @@
 0.0.0.0 uc*.atobo.com
 0.0.0.0 union*.365inews.com
 0.0.0.0 ysdm*.ys137.com.cn
+0.0.0.0 get*bannerads-6egeg2u34q-du.a.run.app
 0.0.0.0 pangolin*.sgsnssdk.com
 0.0.0.0 ad.*.doubleclick.net
 0.0.0.0 cdn-adn-*.rayjump.com

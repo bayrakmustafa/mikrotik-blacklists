@@ -1,8 +1,8 @@
 #
 #    File: Gambling
 #    Info: Casino, gambling, poker, etc.
-# Domains: 9,195
-# Updated: 10/17/2025  11:43 (11:43 AM CST)
+# Domains: 9,220
+# Updated: 11/7/2025  16:04 (4:04 PM CST)
 #
 0.0.0.0 0009casino.com
 0.0.0.0 000-online-casino.biz
@@ -314,6 +314,7 @@
 0.0.0.0 7bitcoincasino.com
 0.0.0.0 7casino.team
 0.0.0.0 7jlcasino.ph
+0.0.0.0 7k676.casino
 0.0.0.0 7k-casino-020.ru
 0.0.0.0 7kcasino10.com
 0.0.0.0 7k-casino11.com
@@ -541,6 +542,12 @@
 0.0.0.0 alaskalottery.us
 0.0.0.0 albrechts-casino.de
 0.0.0.0 alderneygambling.com
+0.0.0.0 alevcasino481.com
+0.0.0.0 alevcasino570.com
+0.0.0.0 alevcasino578.com
+0.0.0.0 alevcasino849.com
+0.0.0.0 alevcasino902.com
+0.0.0.0 alevcasino991.com
 0.0.0.0 alev-vip777.com
 0.0.0.0 alexandercasino.com
 0.0.0.0 alexandercasino-france.com
@@ -766,7 +773,6 @@
 0.0.0.0 aw8phcasino.com
 0.0.0.0 awarecasino.info
 0.0.0.0 awesomecasinos.net
-0.0.0.0 axecasino1.com
 0.0.0.0 axecasino.top
 0.0.0.0 ayucasino88.fun
 0.0.0.0 ayucasino88.one
@@ -3704,7 +3710,10 @@
 0.0.0.0 friendlycasinos.io
 0.0.0.0 friends-casino-game.com
 0.0.0.0 friendscasino.name
+0.0.0.0 froggybet13.io
+0.0.0.0 froggybet.io
 0.0.0.0 frostcasino.xyz
+0.0.0.0 frostybet24.com
 0.0.0.0 fr-topcasinolist.com
 0.0.0.0 fruitcocktailslots.app
 0.0.0.0 fruitycasinos.com
@@ -3723,7 +3732,17 @@
 0.0.0.0 gala-casino-uk.com
 0.0.0.0 galaksino.com
 0.0.0.0 galottery.org
+0.0.0.0 gamacasino10.com
+0.0.0.0 gamacasino20.com
+0.0.0.0 gamacasino30.com
+0.0.0.0 gamacasino318.com
+0.0.0.0 gamacasino40.com
+0.0.0.0 gamacasino498.com
+0.0.0.0 gamacasino544.com
+0.0.0.0 gamacasino569.com
+0.0.0.0 gamacasino678.com
 0.0.0.0 gamacasino730.com
+0.0.0.0 gamacasino856.com
 0.0.0.0 gama-casino-blt.buzz
 0.0.0.0 gama-casino.co
 0.0.0.0 gama-casino-evd.buzz
@@ -4302,6 +4321,7 @@
 0.0.0.0 hypebet.live
 0.0.0.0 hypecasino24.net
 0.0.0.0 hype-casino.org
+0.0.0.0 i9bet319.com
 0.0.0.0 ialotteryblog.com
 0.0.0.0 ialotteryvip.com
 0.0.0.0 icaesar.com
@@ -5051,6 +5071,7 @@
 0.0.0.0 liverpool-lottery.com
 0.0.0.0 livescore.in
 0.0.0.0 livesocialcasinodom.com
+0.0.0.0 livewinz25.com
 0.0.0.0 lnwcasino.club
 0.0.0.0 lockcasino.com
 0.0.0.0 locowincasino1.fr
@@ -6906,6 +6927,7 @@
 0.0.0.0 prensbet258.com
 0.0.0.0 prepaidcardgambling.com
 0.0.0.0 prettywins.com
+0.0.0.0 pri-catcasino40.com
 0.0.0.0 primaplaycasinopokies.com
 0.0.0.0 primecasinosusa.com
 0.0.0.0 princealicasino-france.com
@@ -7819,6 +7841,7 @@
 0.0.0.0 theonly-casino.com
 0.0.0.0 thepokiesonlinecasino.net
 0.0.0.0 therealnyny.com
+0.0.0.0 theredlioncasino.co
 0.0.0.0 theresidencesatmgm.com
 0.0.0.0 theresidencesatmgmgrand.com
 0.0.0.0 the-rox-casino.org
@@ -8106,6 +8129,7 @@
 0.0.0.0 vacationtolasvegas.com
 0.0.0.0 vaksin99bola.com
 0.0.0.0 valangacasino.com
+0.0.0.0 valhallawins.com
 0.0.0.0 vanessa-casino.com
 0.0.0.0 vardaan.vip
 0.0.0.0 vavadacasinocom.ru
