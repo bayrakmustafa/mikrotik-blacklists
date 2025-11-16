@@ -6140,7 +6140,6 @@
 0.0.0.0 data.moori.net
 0.0.0.0 data.neuroxmedia.com
 0.0.0.0 data.paddle.com
-0.0.0.0 data.pendo.io
 0.0.0.0 data.qvc.de
 0.0.0.0 data.reachplc.com
 0.0.0.0 data.sendpulse.com
@@ -13509,6 +13508,7 @@
 0.0.0.0 refr.cc
 0.0.0.0 reg.tiscali.cz
 0.0.0.0 region1.app-measurement.com
+0.0.0.0 regionalserver.com
 0.0.0.0 reglement-info-netflix.com
 0.0.0.0 reignn.com
 0.0.0.0 rejoiner.com
@@ -15406,7 +15406,6 @@
 0.0.0.0 taggrs.io
 0.0.0.0 taggstar.com
 0.0.0.0 taginspector.com
-0.0.0.0 tagmanager.becop.nl
 0.0.0.0 tagmanager.google.com
 0.0.0.0 tagmanager.top
 0.0.0.0 tags.adnuntius.com
@@ -15881,6 +15880,7 @@
 0.0.0.0 trackingmail.gls-netherlands.com
 0.0.0.0 trackingmore.net
 0.0.0.0 trackingplan.com
+0.0.0.0 trackjs.com
 0.0.0.0 trackles.com
 0.0.0.0 trackmaven.com
 0.0.0.0 trackonomics.net
@@ -17160,7 +17160,6 @@
 0.0.0.0 xxxlutz.de
 0.0.0.0 xxyzwtsylw.com
 0.0.0.0 xy.com
-0.0.0.0 xy.fbcdn.net
 0.0.0.0 xycnz.com
 0.0.0.0 xyimg.net
 0.0.0.0 xyly2016.com
@@ -17171,7 +17170,6 @@
 0.0.0.0 xyssp.com
 0.0.0.0 xytom.com
 0.0.0.0 xyxy01.com
-0.0.0.0 xz.fbcdn.net
 0.0.0.0 xztms.com
 0.0.0.0 xzyituo.com
 0.0.0.0 xzzyi.com

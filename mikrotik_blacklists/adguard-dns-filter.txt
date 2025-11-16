@@ -14,10 +14,6 @@
 0.0.0.0 pijama.*.elasticbeanstalk.com
 0.0.0.0 pl.ua
 0.0.0.0 s*.skencituer.com
-0.0.0.0 lsplmxmfy.com
-0.0.0.0 vgicymktilknwt.com
-0.0.0.0 xnaimycryngvb.site
-0.0.0.0 zeqbfcbuyfnyz.website
 0.0.0.0 *.libaishuo.com
 0.0.0.0 adv0*.msa.cdn.mediaset.net
 0.0.0.0 nelonenmedia-pmd-ads-*.nm-stream.nelonenmedia.fi
@@ -205,6 +201,7 @@
 0.0.0.0 auth-*.hismarttv.com
 0.0.0.0 tracking.*.miui.com
 0.0.0.0 datacollector-*.dt.hicloud.com
+0.0.0.0 sdk.fra-*.braze.eu
 0.0.0.0 attr-logs.*.amazonaws.com
 0.0.0.0 event.*.karrotmarket.com
 0.0.0.0 mon*-misc.fqnovel.com

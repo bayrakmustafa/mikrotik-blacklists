@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 09 Nov 2025 18:35 UTC
-# Version: 2025.1109.1835.27
+# Last modified: 16 Nov 2025 14:35 UTC
+# Version: 2025.1116.1435.45
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3863
+# Number of entries: 3849
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -113,7 +113,6 @@
 0.0.0.0 dns.5ososea.com
 0.0.0.0 family.5ososea.com
 0.0.0.0 kids.5ososea.com
-0.0.0.0 dns.688447.xyz
 0.0.0.0 dns.6level.net
 0.0.0.0 agh.710523.xyz
 0.0.0.0 ayman-dns.731my.com
@@ -244,6 +243,7 @@
 0.0.0.0 doh.aipps.vip
 0.0.0.0 dns.airmaxcloud.uk
 0.0.0.0 dns.airns.net
+0.0.0.0 adguard.ajinga.net
 0.0.0.0 rdjdns.ajraspi.xyz
 0.0.0.0 dns.akbxr.com
 0.0.0.0 dns.alanpearce.eu
@@ -740,7 +740,6 @@
 0.0.0.0 lothuscorp.com.br
 0.0.0.0 dns.netraptor.com.au
 0.0.0.0 dns.oceanprint.com.br
-0.0.0.0 dns02.oceanprint.com.br
 0.0.0.0 dns.polatarasan.com.tr
 0.0.0.0 dns.redhosting.com.ar
 0.0.0.0 host94.rheingold.com.ua
@@ -802,7 +801,6 @@
 0.0.0.0 dns.curser.dev
 0.0.0.0 dns.cwlys.com
 0.0.0.0 gc.cyberbeta.cn
-0.0.0.0 nanopi.cybergroove.net
 0.0.0.0 dns2.cybrespace.net
 0.0.0.0 dns.cynthialabs.net
 0.0.0.0 dns.d365.in
@@ -1400,7 +1398,6 @@
 0.0.0.0 beautifulthings.eu.org
 0.0.0.0 jp.dns.bliod.eu.org
 0.0.0.0 clic.eu.org
-0.0.0.0 resolver.dns.eban.eu.org
 0.0.0.0 doh.excdn.eu.org
 0.0.0.0 doh.greenwood.eu.org
 0.0.0.0 sweethome.in.eu.org
@@ -1558,7 +1555,6 @@
 0.0.0.0 dns.beta.gandi.net
 0.0.0.0 adguard.gattow.com
 0.0.0.0 gclouddns.com
-0.0.0.0 dns1.gdie.top
 0.0.0.0 adg.geili.me
 0.0.0.0 genscorp.es
 0.0.0.0 adguard.georgev22.com
@@ -1663,14 +1659,11 @@
 0.0.0.0 dns.hanmey.de
 0.0.0.0 dns.hannielzhang.com
 0.0.0.0 d.hansj.cc
-0.0.0.0 dns.haoxuan.me
 0.0.0.0 happy365.me
 0.0.0.0 resolver.haringstad.com
 0.0.0.0 resolver-eu.haringstad.com
 0.0.0.0 adguard.hartley.cloud
 0.0.0.0 cn-dns.hashtable.io
-0.0.0.0 hayadns.online
-0.0.0.0 hayadns.site
 0.0.0.0 gw1.dns.haynetwork.id
 0.0.0.0 mq.hd440.de
 0.0.0.0 s.hd440.de
@@ -1688,6 +1681,7 @@
 0.0.0.0 dns.msk.hexagon1736.com
 0.0.0.0 hexxitcompany.com
 0.0.0.0 httpdns.ocloud.heytapmobi.com
+0.0.0.0 hfgx.shop
 0.0.0.0 hg8.asia
 0.0.0.0 hgrps.eu
 0.0.0.0 dns.sgp.hicn.site
@@ -1738,7 +1732,6 @@
 0.0.0.0 adg.hostingab.ru
 0.0.0.0 dns.hostingim.com
 0.0.0.0 dns.hotta.page
-0.0.0.0 doh.hottis.de
 0.0.0.0 dns.housedenolf.be
 0.0.0.0 hshh.org
 0.0.0.0 ns2.hshh.org
@@ -1752,7 +1745,6 @@
 0.0.0.0 dns.huizegunsing.nl
 0.0.0.0 dns.huizhechi.com
 0.0.0.0 dns.hujiayucc.cn
-0.0.0.0 ads.hunga1k47.com
 0.0.0.0 huntllcx.cn
 0.0.0.0 doth.huque.com
 0.0.0.0 dns.huseynov.work
@@ -1864,7 +1856,6 @@
 0.0.0.0 ikarosalpha.xyz
 0.0.0.0 dns.ikataruto.com
 0.0.0.0 ilinhy.com
-0.0.0.0 dns.imaicool.com
 0.0.0.0 noads.imbuffering.com
 0.0.0.0 dns.imchristian.de
 0.0.0.0 dns1.imkvq.com
@@ -1978,7 +1969,6 @@
 0.0.0.0 samsung.dns.joey01245.nl
 0.0.0.0 adguard.johanliebert.top
 0.0.0.0 dns.johndave.me
-0.0.0.0 johneldenring.lol
 0.0.0.0 adguard.johnnypatras.org
 0.0.0.0 child.joindns4.eu
 0.0.0.0 child-noads.joindns4.eu
@@ -2009,10 +1999,8 @@
 0.0.0.0 sgs03.just-a-web.com
 0.0.0.0 dns.justinnetworkingsolutions.com
 0.0.0.0 adguard.k-likhachev.ru
-0.0.0.0 dns.k1vzx.com
 0.0.0.0 k3n.pw
 0.0.0.0 dns.k3nny.fr
-0.0.0.0 k3rnel-pan1c.online
 0.0.0.0 kaandikec.com
 0.0.0.0 kaiwu.xyz
 0.0.0.0 adguard.kalyanmudumby.com
@@ -2244,7 +2232,6 @@
 0.0.0.0 adguard.manmademagic.com
 0.0.0.0 dns.maolaohei.xyz
 0.0.0.0 adguard.mapor.co
-0.0.0.0 maqgie.xyz
 0.0.0.0 dns.marasov.id
 0.0.0.0 multi.dns.marbledfennec.net
 0.0.0.0 dns.marcbond.uk
@@ -2286,7 +2273,6 @@
 0.0.0.0 meganerd.nl
 0.0.0.0 dns.megaong.com
 0.0.0.0 v2202405224322270920.megasrv.de
-0.0.0.0 ovhcloud.mehmetarikan.tech
 0.0.0.0 httpdnsmultiapi.meituan.com
 0.0.0.0 httpdnsmultiapivip.meituan.com
 0.0.0.0 httpdnsvip.meituan.com
@@ -2400,7 +2386,6 @@
 0.0.0.0 math.netlab.my.id
 0.0.0.0 dns.pnh.my.id
 0.0.0.0 dns.ramsky.my.id
-0.0.0.0 dns.repinger.my.id
 0.0.0.0 agh-jkt.santainetwork.my.id
 0.0.0.0 agh1.server.my.id
 0.0.0.0 agh2.server.my.id
@@ -3258,6 +3243,7 @@
 0.0.0.0 dns1.tardishost.ru
 0.0.0.0 adguard.taufner.net
 0.0.0.0 dns.tb4.me
+0.0.0.0 httpdns.danuoyi.tbcache.com
 0.0.0.0 dns.tbs6920.sbs
 0.0.0.0 adguard.tcpu.io
 0.0.0.0 dns.teaminfo.fr

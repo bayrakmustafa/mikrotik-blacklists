@@ -28902,6 +28902,7 @@
 0.0.0.0 adxpower.com
 0.0.0.0 adxprts.co
 0.0.0.0 adxprts.com
+0.0.0.0 adxprtz.com
 0.0.0.0 adxregie.com
 0.0.0.0 adxrtb-as.tribalfusion.com
 0.0.0.0 adxrtb-eu.tribalfusion.com
@@ -29414,6 +29415,7 @@
 0.0.0.0 ag.travelocity.com.edgesuite.net
 0.0.0.0 ag2hqdyt.site
 0.0.0.0 agaadex.adk2x.com
+0.0.0.0 agafurretor.com
 0.0.0.0 agahi.naz.ir
 0.0.0.0 againclence.com
 0.0.0.0 againscan.com
@@ -30279,6 +30281,7 @@
 0.0.0.0 amp.nz.igexin.com
 0.0.0.0 amp.nz4.igexin.com
 0.0.0.0 amp.polarmobile.com
+0.0.0.0 amp.services
 0.0.0.0 amp.smi2.ru
 0.0.0.0 amp.teads.tv
 0.0.0.0 ampa3eolu38u.c.richmetrics.com
@@ -31999,7 +32002,6 @@
 0.0.0.0 appcloud.ironbeast.io
 0.0.0.0 appcloud.ksmobile.com
 0.0.0.0 appcontent.boostmobile.com
-0.0.0.0 appcpi.net
 0.0.0.0 appdevised.g2afse.com
 0.0.0.0 appdigitals.offerstrack.net
 0.0.0.0 appdistapi.scloud.le.com
@@ -39742,7 +39744,6 @@
 0.0.0.0 captive-web.t.domdex.com
 0.0.0.0 captora.com
 0.0.0.0 captur-forum.de.intellitxt.com
-0.0.0.0 capture.trackjs.com
 0.0.0.0 capturemedia.network
 0.0.0.0 caqh.co1.qualtrics.com
 0.0.0.0 car-domain.t.domdex.com
@@ -39919,6 +39920,7 @@
 0.0.0.0 cashtraff.com
 0.0.0.0 cashuniversity.go2cloud.org
 0.0.0.0 cashworld.biz
+0.0.0.0 casino-zilla.com
 0.0.0.0 casino.betsson.com
 0.0.0.0 casinoadviser.net
 0.0.0.0 casinoborgatatracksdk.optimove.net
@@ -47844,6 +47846,7 @@
 0.0.0.0 dbaof.com
 0.0.0.0 dbbaners.com
 0.0.0.0 dbbru.voluumtrk.com
+0.0.0.0 dbclix.com
 0.0.0.0 dbcontrol.doubleclick.net
 0.0.0.0 dbcxaicjyt.com
 0.0.0.0 dbdndssvyxaltf.bid
@@ -53166,6 +53169,7 @@
 0.0.0.0 excas04.tf-net.tribalfusion.com
 0.0.0.0 excel-fsm.pxf.io
 0.0.0.0 excelate.rtb.adx1.com
+0.0.0.0 excellenceads.com
 0.0.0.0 excelpractic.justclick.ru
 0.0.0.0 excelqjmtypxbd.download
 # 0.0.0.0 excelvba.ru #1022
@@ -54861,6 +54865,7 @@
 0.0.0.0 ficaroni.com
 0.0.0.0 ficcionaliza.angelcities.com
 0.0.0.0 fickads.net
+0.0.0.0 ficusoid.xyz
 0.0.0.0 fid01.webtrekk.net
 0.0.0.0 fideismmbertleo.download
 0.0.0.0 fidel.to
@@ -65347,6 +65352,7 @@
 0.0.0.0 isonomia.com.ar
 0.0.0.0 isp.data.cnzz.com
 0.0.0.0 ispaagigjygd.com
+0.0.0.0 isparkmedia.com
 0.0.0.0 ispe.co1.qualtrics.com
 0.0.0.0 ispeakvideo.com
 0.0.0.0 ispyveemlvygba.com
@@ -68100,6 +68106,7 @@
 0.0.0.0 kovadat.ru
 0.0.0.0 kovglrrlpqum.com
 0.0.0.0 koviovius.com
+0.0.0.0 kovla.com
 0.0.0.0 kovykpybtuylq.bid
 0.0.0.0 kozloiczght.com
 0.0.0.0 kozly.mirtesen.ru
@@ -72867,6 +72874,7 @@
 0.0.0.0 melfljypjydxta.com
 0.0.0.0 mellowtin.com
 0.0.0.0 melnikfreezeman.xyz
+0.0.0.0 meloads.com
 0.0.0.0 melodyrun.music.s.xoxknct.com
 0.0.0.0 melonmail.melon.com.au
 0.0.0.0 melqdjqiekcv.com
@@ -79838,6 +79846,7 @@
 0.0.0.0 otfquqgqvsjof.com
 0.0.0.0 oth.mgid.com
 0.0.0.0 othepbuttit.com
+0.0.0.0 other.appcpi.net
 0.0.0.0 other.chartboosts.com
 0.0.0.0 othere.info
 0.0.0.0 otherelis.info
@@ -84978,6 +84987,7 @@
 0.0.0.0 pullcdn.top
 0.0.0.0 pulleymarketing.com
 0.0.0.0 pulp.media.net
+0.0.0.0 pulpix.com
 0.0.0.0 pulsar-forum.de.intellitxt.com
 0.0.0.0 pulsarads.go2affise.com
 0.0.0.0 pulse-demo.videoplaza.tv
@@ -87368,6 +87378,7 @@
 0.0.0.0 relnocyyxhpjb.com
 0.0.0.0 relytec.com
 0.0.0.0 rem.go2cloud.org
+0.0.0.0 remain.appcpi.net
 0.0.0.0 remarket.clicktripz.com
 0.0.0.0 remarketing.doubleclick.net
 0.0.0.0 remedyhealth.evergage.com
@@ -95696,6 +95707,7 @@
 0.0.0.0 stcounter.com
 0.0.0.0 std1.hit.gemius.pl
 0.0.0.0 steakafka.pro
+0.0.0.0 stealthlockers.com
 0.0.0.0 steamac.com
 0.0.0.0 steamcoast.com
 0.0.0.0 steamsecretary.com
@@ -98336,6 +98348,7 @@
 0.0.0.0 thngw.doubleclick.net
 0.0.0.0 thngw1.doubleclick.net
 0.0.0.0 thngw2.doubleclick.net
+0.0.0.0 thnqemehtyfe.com
 0.0.0.0 thnslhajvfmd.com
 0.0.0.0 thogethoffic.co
 0.0.0.0 thomascook.btttag.com

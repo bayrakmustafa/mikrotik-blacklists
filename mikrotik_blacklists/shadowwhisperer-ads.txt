@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 24,924
-# Updated: 11/9/2025  13:03 (1:03 PM CST)
+# Domains: 25,030
+# Updated: 11/14/2025  14:01 (2:01 PM CST)
 #
 0.0.0.0 0063450bb8e5e3369ef8c167a463d15c01527283b79bd266bb19b23e.com
 0.0.0.0 03ab2paradisecdn.com
@@ -416,6 +416,7 @@
 0.0.0.0 9167x.com
 0.0.0.0 91836731671.com
 0.0.0.0 9191919199.com
+0.0.0.0 91voda.com
 0.0.0.0 91ymdl.site
 0.0.0.0 9323tp.vip
 0.0.0.0 93261587768.com
@@ -433,6 +434,7 @@
 0.0.0.0 99adverts.com
 0.0.0.0 99gt7.com
 0.0.0.0 9a6cds03.com
+0.0.0.0 9alb.com
 0.0.0.0 9d2f5063ef584031341b48895ba0605aeb70d4c8a683a838968635eb.com
 0.0.0.0 9gj21.de
 0.0.0.0 9grcfpjg.de
@@ -653,6 +655,7 @@
 0.0.0.0 aca.network
 0.0.0.0 accelamarketing.com
 0.0.0.0 acceleratedad.com
+0.0.0.0 accelerationpartners.com
 0.0.0.0 acceleratorinc.biz
 0.0.0.0 accengage.net
 0.0.0.0 accent-technologies.com
@@ -941,6 +944,7 @@
 0.0.0.0 adbundle.empowerlocal.co
 0.0.0.0 adbureau.de
 0.0.0.0 adbustersagency.com
+0.0.0.0 adbustr.trk2afse.com
 0.0.0.0 adbutler-alion.com
 0.0.0.0 adbutler-boson.com
 0.0.0.0 adbutler-chargino.com
@@ -4741,6 +4745,7 @@
 0.0.0.0 affilynx.com
 0.0.0.0 aff-images.dxlive.com
 0.0.0.0 affinitivadvertising.com
+0.0.0.0 affitrck2.com
 0.0.0.0 affiz.com
 0.0.0.0 affliate-api.hindustantimes.com
 0.0.0.0 afflip.site
@@ -4781,6 +4786,7 @@
 0.0.0.0 agcdn.divcom.com
 0.0.0.0 agcs.works
 0.0.0.0 ag.divcom.com
+0.0.0.0 aged-grass.com
 0.0.0.0 a.gegori.xyz
 0.0.0.0 agence-adverti.fr
 0.0.0.0 agencialanave.com
@@ -4945,6 +4951,7 @@
 0.0.0.0 aj3054.bid
 0.0.0.0 aj3067.bid
 0.0.0.0 a.jamez.site
+0.0.0.0 ajar-gather.pro
 0.0.0.0 ajawl.com
 0.0.0.0 a.jeniz.xyz
 0.0.0.0 a.jenoga.xyz
@@ -6038,6 +6045,7 @@
 0.0.0.0 boffoads.com
 0.0.0.0 boilingpointmedia.com
 0.0.0.0 boingomedia.com
+0.0.0.0 bojel.com
 0.0.0.0 bolderlouder.com
 0.0.0.0 bolditem.pro
 0.0.0.0 bolt.dropbox.com
@@ -7425,6 +7433,7 @@
 0.0.0.0 deqwas.co.jp
 0.0.0.0 derangeddollars.com
 0.0.0.0 derg.de
+0.0.0.0 dervalio.com
 0.0.0.0 desabrator.com
 0.0.0.0 designaccent.in
 0.0.0.0 designcomm.in
@@ -7644,7 +7653,9 @@
 0.0.0.0 dpclk.com
 0.0.0.0 dppad.com
 0.0.0.0 dprandco.com
+0.0.0.0 dr1.piczlabs.com
 0.0.0.0 dr2.yandex.net
+0.0.0.0 dr3.piczlabs.com
 0.0.0.0 dragonparking.com
 0.0.0.0 dragonstatic.com
 0.0.0.0 drakecooper.com
@@ -7688,6 +7699,7 @@
 0.0.0.0 dsp.smartbee.az
 0.0.0.0 dsp.thebreathedot.com
 0.0.0.0 dsp.utopiamedia-group.co
+0.0.0.0 dsw3rw.com
 0.0.0.0 dtcbarre.com
 0.0.0.0 dth.org.ng
 0.0.0.0 dticash.com
@@ -8460,6 +8472,8 @@
 0.0.0.0 gdprcdn.b-cdn.net
 0.0.0.0 gdpr-legal-cookie.beeclever.app
 0.0.0.0 gdprpage.com
+0.0.0.0 ge6.getfto.com
+0.0.0.0 ge8.getfto.com
 0.0.0.0 gecdwmkee.com
 0.0.0.0 gedeg.online
 0.0.0.0 geekactive.com
@@ -8474,6 +8488,10 @@
 0.0.0.0 genmedia.in
 0.0.0.0 gentlemoonlight.com
 0.0.0.0 gentleship.pro
+0.0.0.0 geocities.be
+0.0.0.0 geocities.co.in
+0.0.0.0 geocities.eu
+0.0.0.0 geocities.nl
 0.0.0.0 geoscape.com
 0.0.0.0 gepediwhi.pro
 0.0.0.0 gepuma.newstank.fr
@@ -8580,6 +8598,7 @@
 0.0.0.0 gmiads.com
 0.0.0.0 gmo-am.jp
 0.0.0.0 gmq7324trk.com
+0.0.0.0 gnashesfanfare.com
 0.0.0.0 gndrz.com
 0.0.0.0 gnetrtb.com
 0.0.0.0 gng.net
@@ -8661,6 +8680,7 @@
 0.0.0.0 gp12ptrk.com
 0.0.0.0 gpartner.com.pl
 0.0.0.0 gprhe.com
+0.0.0.0 gqckjiewg.com
 0.0.0.0 gr8services.ae
 0.0.0.0 gracefulcloset.pro
 0.0.0.0 gracefullisten.pro
@@ -8773,7 +8793,6 @@
 0.0.0.0 gxmedia-ads.com
 0.0.0.0 gyanwave.com
 0.0.0.0 gygy.online
-0.0.0.0 gyimie.womaametoto.xyz
 0.0.0.0 gysa-roi.space
 0.0.0.0 gzglmoczfzf.com
 0.0.0.0 gzidfr.com
@@ -8967,6 +8986,7 @@
 0.0.0.0 hotloader.net.in
 0.0.0.0 hot-mob.co.jp
 0.0.0.0 hotplay.games
+0.0.0.0 hot-silver.pro
 0.0.0.0 hotteaadvertising.com
 0.0.0.0 houseofpubs.com
 0.0.0.0 howboxmab.site
@@ -9149,6 +9169,7 @@
 0.0.0.0 imm.com
 0.0.0.0 immediatebedroom.pro
 0.0.0.0 immediate-divide.pro
+0.0.0.0 immediatepurpose.com
 0.0.0.0 immensehell.pro
 0.0.0.0 im.morningstar.com
 0.0.0.0 immotionstudios.com
@@ -9356,6 +9377,7 @@
 0.0.0.0 ividence.com
 0.0.0.0 ivisionx.com
 0.0.0.0 ivrnumara.com
+0.0.0.0 ivyayqdpwv.com
 0.0.0.0 iw-adserver.com
 0.0.0.0 iwadserver.com
 0.0.0.0 iw-advertising.com
@@ -9409,6 +9431,8 @@
 0.0.0.0 jetadv.net
 0.0.0.0 jetswap.com
 0.0.0.0 jewishadnetwork.com
+0.0.0.0 jg1.trypicz.com
+0.0.0.0 jg3.trypicz.com
 0.0.0.0 jgjg.online
 0.0.0.0 jhdnntmkom.com
 0.0.0.0 jiaads.com
@@ -9442,6 +9466,7 @@
 0.0.0.0 joinsafelyonline.com
 0.0.0.0 jointag.com
 0.0.0.0 joinzeropark.com
+0.0.0.0 jollyspite.pro
 0.0.0.0 jottdigital.com
 0.0.0.0 jotterads.com
 0.0.0.0 journey.wired.com
@@ -9501,8 +9526,10 @@
 0.0.0.0 jyh88802.cc
 0.0.0.0 jzz.pcauto.com.cn
 0.0.0.0 k0r2eokjm6.ru
+0.0.0.0 k10.usefto.com
 0.0.0.0 k2digitalsolution.com
 0.0.0.0 k4digitalmarketing.com
+0.0.0.0 k8.usefto.com
 0.0.0.0 ka2.javbuzz.com
 0.0.0.0 kadxin.net
 0.0.0.0 kafaxojo.pro
@@ -9856,6 +9883,7 @@
 0.0.0.0 loadpays.com
 0.0.0.0 loathsome-weakness.pro
 0.0.0.0 localad.homedepot.com
+0.0.0.0 localamericaonline.com
 0.0.0.0 localbiz.maps.me
 0.0.0.0 localiq.com
 0.0.0.0 local.metropolistribune.com
@@ -10814,6 +10842,7 @@
 0.0.0.0 nftadnetwork.com
 0.0.0.0 nfthoos.io
 0.0.0.0 nfztms.com
+0.0.0.0 ngccdcrdgskjpl.com
 0.0.0.0 ngcj589s.de
 0.0.0.0 ngffn.online
 0.0.0.0 ngjzmt.com
@@ -10896,6 +10925,7 @@
 0.0.0.0 notify.dev
 0.0.0.0 notify.hindustantimes.com
 0.0.0.0 notifyon.com
+0.0.0.0 notiksio.com
 0.0.0.0 notix.co
 0.0.0.0 notorious.ro
 0.0.0.0 nots.app
@@ -11212,6 +11242,7 @@
 0.0.0.0 orangepublicite.fr
 0.0.0.0 orawmstc.com
 0.0.0.0 orcatraffic.com
+0.0.0.0 orchidia.me
 0.0.0.0 orci.com
 0.0.0.0 orderlylimit.pro
 0.0.0.0 organic-improvement.pro
@@ -11315,6 +11346,7 @@
 0.0.0.0 palmads.mobi
 0.0.0.0 palmeradagency.com
 0.0.0.0 palmer-advertising.com
+0.0.0.0 paloczfud.com
 0.0.0.0 pamspringadvertising.com
 0.0.0.0 panadvert.com
 0.0.0.0 panamads.net
@@ -11443,6 +11475,7 @@
 0.0.0.0 pegaworld.com
 0.0.0.0 pegocash.com
 0.0.0.0 pelisloadtop.com
+0.0.0.0 pell8.com
 0.0.0.0 pencilhousegroup.com
 0.0.0.0 pencilvent.com
 0.0.0.0 pengenanu.files.im
@@ -11584,6 +11617,7 @@
 0.0.0.0 phyron.com
 0.0.0.0 physicaltransition.pro
 0.0.0.0 phywifupta.com
+0.0.0.0 pi4.piczhq.com
 0.0.0.0 piads.vn
 0.0.0.0 p.ianjumb.com
 0.0.0.0 piau.in
@@ -11641,6 +11675,7 @@
 0.0.0.0 p.jandaqwe.com
 0.0.0.0 p.jeckear.com
 0.0.0.0 p.jhoncj.com
+0.0.0.0 pjjpp.com
 0.0.0.0 p.jodl.cloud
 0.0.0.0 p.juslxp.com
 0.0.0.0 p.karpatzi.com
@@ -12107,6 +12142,7 @@
 0.0.0.0 pub.livepoker.fr
 0.0.0.0 publizitatea.eragin.com
 0.0.0.0 publy.com
+0.0.0.0 pubmnet.com
 0.0.0.0 puboise.com
 0.0.0.0 pub.olyrix.com
 0.0.0.0 pub.oumma.com
@@ -12298,6 +12334,7 @@
 0.0.0.0 push.trade
 0.0.0.0 pushtr.com
 0.0.0.0 pushtry.com
+0.0.0.0 push-v1.taobao.com
 0.0.0.0 pushva.com
 0.0.0.0 pushvault.com
 0.0.0.0 push.webandname.com
@@ -12381,6 +12418,7 @@
 0.0.0.0 qqlwx.com
 0.0.0.0 qrex.media
 0.0.0.0 qrushaffiliate.com
+0.0.0.0 qsdr.mysunnylawn.com
 0.0.0.0 qtaplabs.com
 0.0.0.0 qt.media
 0.0.0.0 qtuzld.com
@@ -12422,6 +12460,7 @@
 0.0.0.0 qwqw.online
 0.0.0.0 qyxwfe.com
 0.0.0.0 qzppd.com
+0.0.0.0 r0ckeet.com
 0.0.0.0 r0wa9z6t8t.ru
 0.0.0.0 r16kff9ug2.com
 0.0.0.0 r2gdigital.com
@@ -12830,6 +12869,7 @@
 0.0.0.0 rockriverag.o.bushelsites.com
 0.0.0.0 rockyou.com
 0.0.0.0 rocoads.net
+0.0.0.0 roeye.com
 0.0.0.0 rogersmedia.com
 0.0.0.0 rogersmediasales.com
 0.0.0.0 rogerssportsandmedia.com
@@ -13393,6 +13433,7 @@
 0.0.0.0 s.dsb68d.com
 0.0.0.0 s.dseel9.com
 0.0.0.0 s.dss1bi.com
+0.0.0.0 s.dswgzk.com
 0.0.0.0 s.dsxmn0.com
 0.0.0.0 seagulladvertising.com
 0.0.0.0 seal-abilene.bbb.org
@@ -13704,6 +13745,7 @@
 0.0.0.0 shrillinstance.pro
 0.0.0.0 shrillwife.pro
 0.0.0.0 shrinkads.com
+0.0.0.0 s.huklop.com
 0.0.0.0 shurooqmedia.com
 0.0.0.0 shutter-events.com
 0.0.0.0 shyheglasy.com
@@ -14643,6 +14685,7 @@
 0.0.0.0 trafficadv.com
 0.0.0.0 trafficadzy.com
 0.0.0.0 trafficbets.com
+0.0.0.0 trafficboostnow.com
 0.0.0.0 traffic-buchen.de
 0.0.0.0 trafficbull.com
 0.0.0.0 trafficcertify.com
@@ -14660,6 +14703,7 @@
 0.0.0.0 trafficnomads.com
 0.0.0.0 trafficox.com
 0.0.0.0 trafficportsrv.com
+0.0.0.0 trafficpowerhouse.com
 0.0.0.0 trafficput.com
 0.0.0.0 trafficreps.com
 0.0.0.0 trafficroots.com
@@ -15720,6 +15764,7 @@
 0.0.0.0 xad.js.org
 0.0.0.0 xads.one
 0.0.0.0 x.amain.com
+0.0.0.0 xandr-g-geo.trafficmanager.net
 0.0.0.0 xaprio.com
 0.0.0.0 xb.lc
 0.0.0.0 xcdmedia.com
@@ -15739,6 +15784,7 @@
 0.0.0.0 xfjfyb.com
 0.0.0.0 xgrowthdigital.com
 0.0.0.0 xiaopay.net
+0.0.0.0 xidisc.com
 0.0.0.0 xi-gy-wai.space
 0.0.0.0 xingu-ad.com
 0.0.0.0 xiod.xyz
@@ -15850,6 +15896,7 @@
 0.0.0.0 ybz1jsblbv.com
 0.0.0.0 ychrpd.com
 0.0.0.0 yeah1media.vn
+0.0.0.0 yeahtargeter.com
 0.0.0.0 yearads.com
 0.0.0.0 yellowbrickadvertising.com
 0.0.0.0 yellowishmixture.pro
