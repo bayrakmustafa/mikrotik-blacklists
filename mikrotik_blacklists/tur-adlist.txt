@@ -38,6 +38,7 @@
 0.0.0.0 api.opencandy.com
 0.0.0.0 api.recommendedsw.com
 0.0.0.0 api.rubic.com.tr
+0.0.0.0 areabet.net
 0.0.0.0 b.cdn.md
 0.0.0.0 basvformu1.xyz
 0.0.0.0 basvformu2.xyz
@@ -57,7 +58,6 @@
 0.0.0.0 cdn.riceateastcach.us
 0.0.0.0 cdn.shyapotato.us
 0.0.0.0 cdn.solimba.com
-0.0.0.0 cdn.tuto4pc.com
 0.0.0.0 cdn.visualbee.net
 0.0.0.0 ceviz.pw
 0.0.0.0 code.createjs.com

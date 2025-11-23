@@ -201,6 +201,8 @@
 0.0.0.0 auth-*.hismarttv.com
 0.0.0.0 tracking.*.miui.com
 0.0.0.0 datacollector-*.dt.hicloud.com
+0.0.0.0 stats.*.ronghub.com
+0.0.0.0 stats.*.rongnav.com
 0.0.0.0 sdk.fra-*.braze.eu
 0.0.0.0 attr-logs.*.amazonaws.com
 0.0.0.0 event.*.karrotmarket.com
@@ -293,6 +295,7 @@
 0.0.0.0 iphone-caviar.ru*entranceId
 0.0.0.0 rb*.design.ru
 0.0.0.0 real*traf.ru
+0.0.0.0 tiz.neosmi.ru
 0.0.0.0 u*.takru.com
 0.0.0.0 v.newsportal*.ru
 0.0.0.0 w*statistics.info

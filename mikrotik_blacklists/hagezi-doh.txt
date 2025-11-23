@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 16 Nov 2025 14:35 UTC
-# Version: 2025.1116.1435.45
+# Last modified: 23 Nov 2025 02:33 UTC
+# Version: 2025.1123.0233.04
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3849
+# Number of entries: 3830
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1263,7 +1263,6 @@
 0.0.0.0 ad1guard.duckdns.org
 0.0.0.0 adgrm.duckdns.org
 0.0.0.0 adguardpi.duckdns.org
-0.0.0.0 aduma15.duckdns.org
 0.0.0.0 andryk111.duckdns.org
 0.0.0.0 armm.duckdns.org
 0.0.0.0 blamb.duckdns.org
@@ -1303,8 +1302,6 @@
 0.0.0.0 wired-guardian.duckdns.org
 0.0.0.0 wisehomeguard.duckdns.org
 0.0.0.0 workcavestl.duckdns.org
-0.0.0.0 x-o-x.duckdns.org
-0.0.0.0 x861g.duckdns.org
 0.0.0.0 test.zkwg.duckdns.org
 0.0.0.0 duii.de
 0.0.0.0 dukun.de
@@ -1317,7 +1314,6 @@
 0.0.0.0 akhilkalwakurthy.dyndns.org
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 roucious.dyndns-remote.com
-0.0.0.0 resolver2.dyndnsinternetguide.com
 0.0.0.0 rafi.dynns.com
 0.0.0.0 ccadguard.dynu.net
 0.0.0.0 adguard.ekhozie.dynu.net
@@ -1573,6 +1569,7 @@
 0.0.0.0 lamdtl.giize.com
 0.0.0.0 dns.ginovs.nl
 0.0.0.0 dns.girino.org
+0.0.0.0 doh.ptqy.gitv.tv
 0.0.0.0 h.gjrick.tw
 0.0.0.0 sdns22.gkonuralp.com
 0.0.0.0 glacius.top
@@ -2390,6 +2387,7 @@
 0.0.0.0 agh1.server.my.id
 0.0.0.0 agh2.server.my.id
 0.0.0.0 agh3.server.my.id
+0.0.0.0 dns1.server.my.id
 0.0.0.0 dns.velyn.my.id
 0.0.0.0 dns.vmath.my.id
 0.0.0.0 vds2380673.my-ihor.ru
@@ -2603,7 +2601,6 @@
 0.0.0.0 xpen.ns01.info
 0.0.0.0 x.ns1net.com
 0.0.0.0 ns3.com
-0.0.0.0 ns3.link
 0.0.0.0 dnscache0.ns71.net
 0.0.0.0 dns.ntr.lol
 0.0.0.0 ntwrkh.pro
@@ -2627,7 +2624,6 @@
 0.0.0.0 oculta.me
 0.0.0.0 vpn.odeccit.com
 0.0.0.0 dns.odinpl.com
-0.0.0.0 dns.odirf.de
 0.0.0.0 adguard.odysseusnetwork.com
 0.0.0.0 dns.ofdoom.net
 0.0.0.0 adguard.ohmhv57.org
@@ -2741,7 +2737,6 @@
 0.0.0.0 dns.phillipjberry.net
 0.0.0.0 philqoo.com
 0.0.0.0 dns.philqoo.com
-0.0.0.0 adg.pidns.de
 0.0.0.0 adguard.piekacz.pl
 0.0.0.0 dns.pierzchlewicz.pl
 0.0.0.0 dns.pieterdherde.com
@@ -2777,7 +2772,6 @@
 0.0.0.0 polisitogel.diy
 0.0.0.0 polisitogel.green
 0.0.0.0 polisitogel.hair
-0.0.0.0 polisitogel.limo
 0.0.0.0 polisitogel.living
 0.0.0.0 polisitogel.luxe
 0.0.0.0 polisitogel.show
@@ -2799,18 +2793,12 @@
 0.0.0.0 lindung.pp.ua
 0.0.0.0 pad3w.pp.ua
 0.0.0.0 reskah.pp.ua
-0.0.0.0 dns01.sdu.pp.ua
 0.0.0.0 sundalandia.pp.ua
 0.0.0.0 syre.pp.ua
 0.0.0.0 virga.pp.ua
 0.0.0.0 dns.xxxxxxxx.pp.ua
 0.0.0.0 zxcvb.pp.ua
 0.0.0.0 adguard.ppfeufer.de
-0.0.0.0 dns.pragmasec.nl
-0.0.0.0 mail.pragmasec.nl
-0.0.0.0 new.pragmasec.nl
-0.0.0.0 server.pragmasec.nl
-0.0.0.0 webmeel.pragmasec.nl
 0.0.0.0 dns2.prima-solusindo.com
 0.0.0.0 princez.uk
 0.0.0.0 agh.printk.info
@@ -3002,7 +2990,6 @@
 0.0.0.0 safeservedns.com
 0.0.0.0 doh.safesurfer.io
 0.0.0.0 dns.safko.eu
-0.0.0.0 ag.sageton.pl
 0.0.0.0 dns.sainternet.xyz
 0.0.0.0 safe.dns.sainternet.xyz
 0.0.0.0 unfiltered.dns.sainternet.xyz
@@ -3011,8 +2998,6 @@
 0.0.0.0 cloud.samutz.com
 0.0.0.0 dns.saneaki.com
 0.0.0.0 router.sapib.ca
-0.0.0.0 adb-dns.sapient.cyou
-0.0.0.0 hetz.sapient.cyou
 0.0.0.0 dns.sarak.as
 0.0.0.0 dns1.sarak.as
 0.0.0.0 dns2.sarak.as
@@ -3306,7 +3291,6 @@
 0.0.0.0 doh.tiarap.org
 0.0.0.0 jp.tiarap.org
 0.0.0.0 adguard.tigrex.net
-0.0.0.0 tigrons.ru
 0.0.0.0 dns.timboeh.me
 0.0.0.0 timedns.net
 0.0.0.0 ad.timefine.org
@@ -3490,7 +3474,6 @@
 0.0.0.0 dns.warma.me
 0.0.0.0 dns.warpnine.de
 0.0.0.0 dns.warrior.fr
-0.0.0.0 waters888.com
 0.0.0.0 domeq.waw.pl
 0.0.0.0 waydnes.ru
 0.0.0.0 dns.wdnts.eu

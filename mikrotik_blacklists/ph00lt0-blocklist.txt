@@ -1889,7 +1889,6 @@
 0.0.0.0 adshow.58.com
 0.0.0.0 adshownew.it168.com
 0.0.0.0 adsinc.com
-0.0.0.0 adsmediabox.com
 0.0.0.0 adsmind.apdcdn.tc.qq.com
 0.0.0.0 adsmind.tc.qq.com
 0.0.0.0 adsninja.club
@@ -2932,6 +2931,7 @@
 0.0.0.0 astatic.org
 0.0.0.0 asteriresearch.com
 0.0.0.0 astionserts.gay
+0.0.0.0 astralis-7.com
 0.0.0.0 astro-selections.com
 0.0.0.0 astrokam.com
 0.0.0.0 astucieuxrue.fr
@@ -3038,6 +3038,10 @@
 0.0.0.0 authorize.net
 0.0.0.0 authorized.by
 0.0.0.0 autience.com
+0.0.0.0 autobegan17.com
+0.0.0.0 autobegan18.com
+0.0.0.0 autobegan21.com
+0.0.0.0 autobegan30.com
 0.0.0.0 autobild.com.mx
 0.0.0.0 autoclicker.org
 0.0.0.0 autocommerce.io
@@ -4343,7 +4347,6 @@
 0.0.0.0 cdn.clear.link
 0.0.0.0 cdn.clkmc.com
 0.0.0.0 cdn.cnetcontent.com
-0.0.0.0 cdn.connectif.cloud
 0.0.0.0 cdn.consentmanager.net
 0.0.0.0 cdn.conversant.mgr.consensu.org
 0.0.0.0 cdn.conversationalsdevelopment.nl
@@ -4534,6 +4537,7 @@
 0.0.0.0 cegedim.cloud
 0.0.0.0 cellebrite.com
 0.0.0.0 celtraidentity.com
+0.0.0.0 cemcostruzioni.net
 0.0.0.0 cengage.com
 0.0.0.0 censia.com
 0.0.0.0 census-app.scorecardresearch.com
@@ -4848,6 +4852,7 @@
 0.0.0.0 clicks.beap.bc.yahoo.com
 0.0.0.0 clicks.benu.nl
 0.0.0.0 clicks.careerbits.com
+0.0.0.0 clicks.jumbo.com
 0.0.0.0 clicks.mlsend.com
 0.0.0.0 clicks.mlsend2.com
 0.0.0.0 clicks.re
@@ -5207,6 +5212,7 @@
 0.0.0.0 connectadrealtime.com
 0.0.0.0 connecthings.com
 0.0.0.0 connectif.ai
+0.0.0.0 connectif.cloud
 0.0.0.0 connections.edge.bamgrid.com
 0.0.0.0 connectivityassistant.com
 0.0.0.0 connectme.tool-box.online
@@ -6749,6 +6755,7 @@
 0.0.0.0 dynamics365commerce.ms
 0.0.0.0 dynamicyield.com
 0.0.0.0 dynamiteduweb.fr
+0.0.0.0 dynamoagency1984.com
 0.0.0.0 dynataprivacy.com
 0.0.0.0 dynatrace.com
 0.0.0.0 dynatrace.schwarz
@@ -7014,6 +7021,7 @@
 0.0.0.0 embluemail.com
 0.0.0.0 emercury.net
 0.0.0.0 emetriq.com
+0.0.0.0 emg.io
 0.0.0.0 emizexpi.today
 0.0.0.0 emlmkt.com
 0.0.0.0 emlnk.com
@@ -7241,7 +7249,6 @@
 0.0.0.0 exchangeratesapi.io
 0.0.0.0 exclusiefmoment.nl
 0.0.0.0 execs.com
-0.0.0.0 execute-api.us-east-1.amazonaws.com
 0.0.0.0 exepto.ru
 0.0.0.0 exit.macandbumble.com
 0.0.0.0 exo-ring.msedge.net
@@ -7400,7 +7407,6 @@
 0.0.0.0 fdyn.pubwise.io
 0.0.0.0 feature-app.io
 0.0.0.0 fecdn.user1st.info
-0.0.0.0 federatedcompute-pa.googleapis.com
 0.0.0.0 federatedmedia.net
 0.0.0.0 federatedml-pa.googleapis.com
 0.0.0.0 feed.baidu.com
@@ -7480,6 +7486,7 @@
 0.0.0.0 files.adform.net
 0.0.0.0 files.cdn.leadfamly.com
 0.0.0.0 files2.sogou.com
+0.0.0.0 filetozip.com
 0.0.0.0 filetransit.com
 0.0.0.0 filmbase.com
 0.0.0.0 filosofie.nl
@@ -7748,7 +7755,6 @@
 0.0.0.0 fus.lenovomm.com
 0.0.0.0 fuseclick.com
 0.0.0.0 fusedeck.com
-0.0.0.0 fusetracking.com
 0.0.0.0 fushionstyle.store
 0.0.0.0 futureinterest.org
 0.0.0.0 futuresimple.com
@@ -8195,7 +8201,6 @@
 0.0.0.0 goldrummel.de
 0.0.0.0 goldruncasino.nl
 0.0.0.0 goleads.com
-0.0.0.0 golnkz.com
 0.0.0.0 gomarketplan.io
 0.0.0.0 gomfactory.com
 0.0.0.0 gonamod.com
@@ -8672,6 +8677,7 @@
 0.0.0.0 hulkapps.com
 0.0.0.0 hulkprod.anm.co.uk
 0.0.0.0 human-id.org
+0.0.0.0 humandetect.digital
 0.0.0.0 humanding.com
 0.0.0.0 humb.apple.com
 0.0.0.0 hunantv.com
@@ -9274,7 +9280,6 @@
 0.0.0.0 inesclusivaoggi.it
 0.0.0.0 inetpro.io
 0.0.0.0 inference.location.live.net
-0.0.0.0 infinario.com
 0.0.0.0 infiniamobile.com
 0.0.0.0 infinigrow.com
 0.0.0.0 infinitedata-pa.googleapis.com
@@ -9378,6 +9383,7 @@
 0.0.0.0 insites-consulting.com
 0.0.0.0 inskin.vo.llnwd.net
 0.0.0.0 inspera.com
+0.0.0.0 inspiratie.jumbo.com
 0.0.0.0 inspiration.org
 0.0.0.0 inspirationclan.com
 0.0.0.0 inst.360safe.com
@@ -10146,6 +10152,7 @@
 0.0.0.0 lasmaravillasdelweb.es
 0.0.0.0 lasmegas.de
 0.0.0.0 lasteventf-tm.everesttech.net
+0.0.0.0 latestdatabase.com
 0.0.0.0 latoiledoree.com
 0.0.0.0 lattice.com
 0.0.0.0 latuachance.it
@@ -10174,6 +10181,7 @@
 0.0.0.0 lcscards-klantnr-49289182.com
 0.0.0.0 ld.kuaigames.com
 0.0.0.0 ld.paddle.com
+0.0.0.0 ldf-df.com
 0.0.0.0 lds.lenovomm.com
 0.0.0.0 lds.zui.com
 0.0.0.0 lead-alliance.net
@@ -10668,6 +10676,7 @@
 0.0.0.0 ludoking.com
 0.0.0.0 lufax.com
 0.0.0.0 luikenkarstens.nl
+0.0.0.0 lumiforge-6.com
 0.0.0.0 lumtest.com
 0.0.0.0 lunamedia.io
 0.0.0.0 lunaslots.de
@@ -10805,6 +10814,7 @@
 0.0.0.0 mailjet.com
 0.0.0.0 maillist-manage.com
 0.0.0.0 maillist-manage.eu
+0.0.0.0 mailmeisters.nl
 0.0.0.0 mailmunch.co
 0.0.0.0 mailmunch.com
 0.0.0.0 mailperformance.com
@@ -10812,6 +10822,7 @@
 0.0.0.0 mailrabobank.email
 0.0.0.0 mailspice.com
 0.0.0.0 mailssenders.com
+0.0.0.0 mailsuite.com
 0.0.0.0 mailuserskyc.com
 0.0.0.0 mailws.zoho.eu
 0.0.0.0 mailzgbaag.mail.webpower.eu
@@ -11556,6 +11567,7 @@
 0.0.0.0 mypursuit.shop
 0.0.0.0 mypython.xyz
 0.0.0.0 myqcloud.com
+0.0.0.0 myrton20.com
 0.0.0.0 mytanwan.com
 0.0.0.0 mytoday.com
 0.0.0.0 mytraffic.io
@@ -11711,6 +11723,7 @@
 0.0.0.0 newwhatsapp.com
 0.0.0.0 newyearawards.cloud
 0.0.0.0 newyork-company.com
+0.0.0.0 nex-bridge3.com
 0.0.0.0 nex.corp.163.com
 0.0.0.0 nexd.com
 0.0.0.0 nextcps.com
@@ -12633,6 +12646,7 @@
 0.0.0.0 pingshetrip.com
 0.0.0.0 pingstart.com
 0.0.0.0 pingvp.com
+0.0.0.0 pinnacleservices4673.com
 0.0.0.0 pinpoint.us-east-1.amazonaws.com
 0.0.0.0 pinpoll.com
 0.0.0.0 pioggiadiofferte.it
@@ -13673,6 +13687,7 @@
 0.0.0.0 rlwy.net
 0.0.0.0 rm.ra.icast.cn
 0.0.0.0 rm.sina.com.cn
+0.0.0.0 rmailroute.net
 0.0.0.0 rmcxw.cn
 0.0.0.0 rms.de
 0.0.0.0 rmtx.ra.icast.cn
@@ -14849,6 +14864,7 @@
 0.0.0.0 sscefsol.com.cn
 0.0.0.0 sscict.piwik.prisma-it.com
 0.0.0.0 ssdaili.com
+0.0.0.0 ssdiam.in
 0.0.0.0 ssisurveys.com
 0.0.0.0 ssjpx.com
 0.0.0.0 ssjy168.com
@@ -16493,6 +16509,7 @@
 0.0.0.0 vincentnijman.nl
 0.0.0.0 vindercasino.dk
 0.0.0.0 vindstort.dk
+0.0.0.0 vinodelikatess.se
 0.0.0.0 vionservices.com
 0.0.0.0 vip.51.la
 0.0.0.0 vipads.cn
@@ -16964,6 +16981,7 @@
 0.0.0.0 wownow.nl
 0.0.0.0 woxo.tech
 0.0.0.0 woyke.nkl.de
+0.0.0.0 wp-renewal.com
 0.0.0.0 wp.hit.gemius.pl
 0.0.0.0 wpa.b.qq.com
 0.0.0.0 wpad.belkin
@@ -17367,6 +17385,7 @@
 0.0.0.0 zebet.nl
 0.0.0.0 zebrawin.de
 0.0.0.0 zedge.net
+0.0.0.0 zedrox.app
 0.0.0.0 zeit.met.vgwort.de
 0.0.0.0 zend-apps.com
 0.0.0.0 zendrive.com

@@ -11,6 +11,7 @@
 0.0.0.0 adsreklamizm.tk
 0.0.0.0 affiliate.migros.com.tr
 0.0.0.0 ak.hauchiwu.com
+0.0.0.0 ak.oalsauwy.net
 0.0.0.0 aksamreklami.net
 0.0.0.0 aksamvaktireklam.com
 0.0.0.0 aksamvaktimreklamsx.net

@@ -1,8 +1,8 @@
 #
 #    File: Dating
 #    Info: Dating Sites
-# Domains: 1,271
-# Updated: 11/5/2025  17:41 (5:41 PM CST)
+# Domains: 1,274
+# Updated: 11/18/2025  10:25 (10:25 AM CST)
 #
 0.0.0.0 1000-dating-sites.com
 0.0.0.0 100-best-dating-sites.com
@@ -48,6 +48,7 @@
 0.0.0.0 alena-marriage-agency.com
 0.0.0.0 allianceinter.com
 0.0.0.0 alompartner.com
+0.0.0.0 alovoa.com
 0.0.0.0 ambiancematchmaking.com
 0.0.0.0 ameety.fr
 0.0.0.0 amelie-agence.com
@@ -562,6 +563,7 @@
 0.0.0.0 hasimausi.de
 0.0.0.0 heavenly-match.com
 0.0.0.0 heliumdating.com
+0.0.0.0 herkert.name
 0.0.0.0 hickeyapp.com
 0.0.0.0 hily.com
 0.0.0.0 hinge.co
@@ -657,6 +659,7 @@
 0.0.0.0 lesbianasenmexico.com
 0.0.0.0 lesbianchatonline.com
 0.0.0.0 lesbianmatchmaker.com.au
+0.0.0.0 lesbians-in-america.com
 0.0.0.0 lesbians-in-canada.com
 0.0.0.0 lesbian.singles
 0.0.0.0 lesbidating.com
