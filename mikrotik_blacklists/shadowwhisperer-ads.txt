@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 25,135
-# Updated: 11/21/2025  08:31 (8:31 AM CST)
+# Domains: 25,142
+# Updated: 11/27/2025  23:49 (11:49 PM CST)
 #
 0.0.0.0 0063450bb8e5e3369ef8c167a463d15c01527283b79bd266bb19b23e.com
 0.0.0.0 03ab2paradisecdn.com
@@ -280,7 +280,6 @@
 0.0.0.0 3iadvertising.com
 0.0.0.0 3kbktygzr5.ru
 0.0.0.0 3lanemarketing.com
-0.0.0.0 3mads.com
 0.0.0.0 3marketeers.com
 0.0.0.0 3mc.agency
 0.0.0.0 3mnhfoqm.ru
@@ -489,6 +488,7 @@
 0.0.0.0 a2m.agency
 0.0.0.0 a2.news.cn
 0.0.0.0 a2.zdg.de
+0.0.0.0 a314.gameloft.com
 0.0.0.0 a3.zdg.de
 0.0.0.0 a4alticeadvertising.com
 0.0.0.0 a4bbd.com
@@ -6827,6 +6827,7 @@
 0.0.0.0 convertadv.com
 0.0.0.0 convertifier.com
 0.0.0.0 convertise.io
+0.0.0.0 convertzoom.com
 0.0.0.0 cooins.mobi
 0.0.0.0 cookiebanner.phusion.nl
 0.0.0.0 cookie-bar.conversionbear.com
@@ -8279,6 +8280,7 @@
 0.0.0.0 flofactory.it
 0.0.0.0 flourishagency.net
 0.0.0.0 flow.caivdata.com
+0.0.0.0 flowclicks.com
 0.0.0.0 flowdow1.com
 0.0.0.0 flowmedia.nz
 0.0.0.0 fluencyinc.co
@@ -8300,7 +8302,6 @@
 0.0.0.0 fonaso.eu
 0.0.0.0 fond-wealth.pro
 0.0.0.0 fontlike.com
-0.0.0.0 fontserif.com
 0.0.0.0 foolishcounty.pro
 0.0.0.0 foottraffik.co
 0.0.0.0 forads.pro
@@ -8440,7 +8441,6 @@
 0.0.0.0 fytch.com
 0.0.0.0 g13media.com
 0.0.0.0 g4s.nfss.my.id
-0.0.0.0 g594253006.co
 0.0.0.0 g6j.cupidonmedia.com
 0.0.0.0 g7a556lf.de
 0.0.0.0 g8ads.com
@@ -9060,6 +9060,7 @@
 0.0.0.0 hysb.360.cymru
 0.0.0.0 hzpixel.ie
 0.0.0.0 hzqcqbmbhzjjbw.com
+0.0.0.0 i1i.heyaiii111iidsfsdbfjb132222ffco.xyz
 0.0.0.0 i279709.net
 0.0.0.0 i2w.io
 0.0.0.0 i3lanat.alfajertv.com
@@ -9522,6 +9523,7 @@
 0.0.0.0 jskypro.com
 0.0.0.0 js.linkfast.de
 0.0.0.0 js.linkurl.de
+0.0.0.0 js.mangajp.top
 0.0.0.0 js.mangapro.top
 0.0.0.0 jubace.com
 0.0.0.0 jubileeplumbinginc.com
@@ -10355,6 +10357,7 @@
 0.0.0.0 merch-img.scdn.co
 0.0.0.0 mercury.dl.playstation.net
 0.0.0.0 mergetraffic.com
+0.0.0.0 meritmile.com
 0.0.0.0 merkelsdienstwagen.de
 0.0.0.0 merry-hearing.pro
 0.0.0.0 mertzrentacar.com
@@ -12534,6 +12537,7 @@
 0.0.0.0 quickadsmedia.com
 0.0.0.0 quickalert.org
 0.0.0.0 quicklaunch.com
+0.0.0.0 quicklixads.com
 0.0.0.0 quickpanel.in
 0.0.0.0 quicksilver.scdn.co
 0.0.0.0 quickwest.pro
@@ -13773,6 +13777,7 @@
 0.0.0.0 service.bv-aff-trx.com
 0.0.0.0 service-cookie-sync.clusters.pluto.tv
 0.0.0.0 servicedirect.com
+0.0.0.0 service.goadnow.com
 0.0.0.0 services.freizeitalpin.at
 0.0.0.0 services-tags-prod.fubo.tv
 0.0.0.0 serving-hecity.com
@@ -14147,6 +14152,7 @@
 0.0.0.0 sponsors.localcityplaces.com
 0.0.0.0 sponsortag.com
 0.0.0.0 spoods.de
+0.0.0.0 spoods.io
 0.0.0.0 s.pornhammer.co
 0.0.0.0 s.pornoshub.site
 0.0.0.0 s.pornworld.pro
@@ -14575,7 +14581,6 @@
 0.0.0.0 tenxads.com
 0.0.0.0 teotelecom.com
 0.0.0.0 tepofrutfreigboom.store
-0.0.0.0 termsfeed.com
 0.0.0.0 terriblemall.pro
 0.0.0.0 terrificdiamond.com
 0.0.0.0 terwheelchywonders.world
@@ -14584,6 +14589,7 @@
 0.0.0.0 tespray-dicity.com
 0.0.0.0 test2.maxx.ddac.ru
 0.0.0.0 testfcm.com
+0.0.0.0 test-gateway.instagram.com
 0.0.0.0 testpublisher009.com
 0.0.0.0 testsite34.com
 0.0.0.0 testyschedule.pro
