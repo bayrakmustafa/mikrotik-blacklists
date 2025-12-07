@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 28 Nov 2025 10:31 UTC
-# Version: 2025.1128.1031.57
+# Last modified: 07 Dec 2025 14:40 UTC
+# Version: 2025.1207.1440.11
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3869
+# Number of entries: 3823
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -20,6 +20,8 @@
 0.0.0.0 adblock.0815cloud.de
 0.0.0.0 passwordsafe.0815cloud.de
 0.0.0.0 wlan.0815cloud.de
+0.0.0.0 0ms.dev
+0.0.0.0 cdn.0ms.dev
 0.0.0.0 dns.0ooo.icu
 0.0.0.0 1.0rz.space
 0.0.0.0 2.0rz.space
@@ -53,7 +55,6 @@
 0.0.0.0 adguard.19151120.xyz
 0.0.0.0 vps.19790307.xyz
 0.0.0.0 cloud.198.games
-0.0.0.0 guard.19kom.de
 0.0.0.0 1and1-dns.de
 0.0.0.0 1ee.top
 0.0.0.0 vpn.1xtrm.com
@@ -78,9 +79,7 @@
 0.0.0.0 dns.2t9.de
 0.0.0.0 doh.30x.me
 0.0.0.0 dns.320888.xyz
-0.0.0.0 dnstr.3300000.xyz
 0.0.0.0 dnstw.3300000.xyz
-0.0.0.0 dnsyg.3300000.xyz
 0.0.0.0 oracle001.330k.biz
 0.0.0.0 n.3363.net
 0.0.0.0 dhlifeus-micro1.dns.3456.kr
@@ -238,7 +237,6 @@
 0.0.0.0 ahcek.com
 0.0.0.0 dns.ahmgam.com
 0.0.0.0 ahoj.email
-0.0.0.0 dns.ahyxluo.ltd
 0.0.0.0 router.ahzol.com
 0.0.0.0 aicx99.shop
 0.0.0.0 adb.aiec.vn
@@ -358,6 +356,7 @@
 0.0.0.0 adguardhome.atakorah.com
 0.0.0.0 next.atomix.in
 0.0.0.0 vps.atomix.in
+0.0.0.0 atris.cyou
 0.0.0.0 atsilva.link
 0.0.0.0 dns.atsilva.link
 0.0.0.0 atsssgo.xyz
@@ -381,7 +380,6 @@
 0.0.0.0 dns.azcom.dev
 0.0.0.0 dns.azfar.my
 0.0.0.0 doh.azoris.ovh
-0.0.0.0 dns.azsopro.net
 0.0.0.0 sradg.eastus.cloudapp.azure.com
 0.0.0.0 sradg2.eastus.cloudapp.azure.com
 0.0.0.0 kawpad.southeastasia.cloudapp.azure.com
@@ -395,7 +393,6 @@
 0.0.0.0 dns.b72.com
 0.0.0.0 b9c7dc4e-7dde-4903-935b-fd6ea59ca4fb.space
 0.0.0.0 filter.badbotdev.xyz
-0.0.0.0 safe-guard.badbotdev.xyz
 0.0.0.0 dns.bai0012.com
 0.0.0.0 dnscdn.bai0012.com
 0.0.0.0 httpdns.baidu.com
@@ -524,10 +521,8 @@
 0.0.0.0 dns.cahlen.com
 0.0.0.0 aduhai.caksono.com
 0.0.0.0 dns.caliph.dev
-0.0.0.0 callies-online.site
 0.0.0.0 adguard.camn.uk
 0.0.0.0 2.dnscrypt-cert.captnemo.in
-0.0.0.0 d.carilagi.id
 0.0.0.0 unifi.carioka.com
 0.0.0.0 dns.carson-family.com
 0.0.0.0 dns.caspervk.net
@@ -957,7 +952,6 @@
 0.0.0.0 doh.dns.sb
 0.0.0.0 fargos2.dns.army
 0.0.0.0 guigu.dns.army
-0.0.0.0 homec92.dns.army
 0.0.0.0 public-dns-a.dns.sb
 0.0.0.0 public-dns-b.dns.sb
 0.0.0.0 dns.dns-53.com
@@ -1254,8 +1248,6 @@
 0.0.0.0 gpanel.drahonn.pro
 0.0.0.0 lanyard.drahonn.pro
 0.0.0.0 mail.drahonn.pro
-0.0.0.0 mc.drahonn.pro
-0.0.0.0 musicbot.drahonn.pro
 0.0.0.0 othernj.drahonn.pro
 0.0.0.0 sinusbot.drahonn.pro
 0.0.0.0 spotifyobs.drahonn.pro
@@ -1379,7 +1371,6 @@
 0.0.0.0 dns01.enginyring.com
 0.0.0.0 dns02.enginyring.com
 0.0.0.0 home.enjoymylife.net
-0.0.0.0 dns.enzonix.com
 0.0.0.0 adguard.eoghan-net.com
 0.0.0.0 dns.epcot.fr
 0.0.0.0 dns.epic.st
@@ -1396,7 +1387,6 @@
 0.0.0.0 handy-matthias.dns.internal.espresso-tasse.de
 0.0.0.0 handy-nils.dns.internal.espresso-tasse.de
 0.0.0.0 tablet-matthias.dns.internal.espresso-tasse.de
-0.0.0.0 essentiallyjay.com
 0.0.0.0 ns.etalk.ai
 0.0.0.0 eth.link
 0.0.0.0 opennic1.eth-services.de
@@ -1714,7 +1704,6 @@
 0.0.0.0 ns2.hjk.me
 0.0.0.0 jpdns.hker.me
 0.0.0.0 dd.hlm.ovh
-0.0.0.0 dns.ho.al
 0.0.0.0 adguard.hoangcongchuc.com
 0.0.0.0 pihole1.hoerli.net
 0.0.0.0 pihole2.hoerli.net
@@ -1881,7 +1870,6 @@
 0.0.0.0 doh.immerda.ch
 0.0.0.0 http-dns.imoim.net
 0.0.0.0 imperio.top
-0.0.0.0 hk.imtsui.com
 0.0.0.0 host8.248.cloudhost.in.th
 0.0.0.0 adguard.dbase.in.rs
 0.0.0.0 dns1.in-berlin.de
@@ -1971,7 +1959,6 @@
 0.0.0.0 srv5.jiripocta.cz
 0.0.0.0 dns.jiyi.eu
 0.0.0.0 jkdns.me
-0.0.0.0 dns.jluo.app
 0.0.0.0 vps.jmarkin.ru
 0.0.0.0 adg.jnorton.us
 0.0.0.0 jnprd.com
@@ -2068,7 +2055,6 @@
 0.0.0.0 doh.killtw.im
 0.0.0.0 blog.kimiblock.top
 0.0.0.0 noad.kipp.cool
-0.0.0.0 nimeserver.kirjakast.eu
 0.0.0.0 dns.kisnet.id
 0.0.0.0 adguard.kitakitsune.xyz
 0.0.0.0 kjmserwis.pl
@@ -2107,7 +2093,6 @@
 0.0.0.0 dns.kriswerry.nl
 0.0.0.0 xray.krnl.eu
 0.0.0.0 dns.krol.cloud
-0.0.0.0 ksedns.ru
 0.0.0.0 kstdownload.com
 0.0.0.0 dns.kugoapps.com
 0.0.0.0 adguard.kujoe.com
@@ -2195,7 +2180,6 @@
 0.0.0.0 doh.phdns3.lonet.org
 0.0.0.0 doh.phdns4.lonet.org
 0.0.0.0 doh.phdns5.lonet.org
-0.0.0.0 dns.loony-tech.de
 0.0.0.0 deweerd.loseyourip.com
 0.0.0.0 ddd.loukky.com
 0.0.0.0 lovekers.cn
@@ -2324,7 +2308,6 @@
 0.0.0.0 mikezhang.xyz
 0.0.0.0 dns.mikopono.nl
 0.0.0.0 rwkdwpwsyv48.mikopono.nl
-0.0.0.0 ukns.milangas2.top
 0.0.0.0 dns.milkpie.one
 0.0.0.0 aitkcrev.minhduc.pw
 0.0.0.0 minilla.store
@@ -2449,7 +2432,6 @@
 0.0.0.0 dns.n23.io
 0.0.0.0 n8nmegapixar.online
 0.0.0.0 doh-ca.naftalie.net
-0.0.0.0 najiakeji.top
 0.0.0.0 dns.nako.kr
 0.0.0.0 chungocoai.name.vn
 0.0.0.0 adguard.quydang.name.vn
@@ -2486,7 +2468,6 @@
 0.0.0.0 ro-buc-w-f-1.nashkan.net
 0.0.0.0 ro-buc-w-p-1.nashkan.net
 0.0.0.0 sg-w-f-1.nashkan.net
-0.0.0.0 sg-w-f-2.nashkan.net
 0.0.0.0 sg-w-p-1.nashkan.net
 0.0.0.0 tr-ist-w-p-2.nashkan.net
 0.0.0.0 us-ash-w-f-1.nashkan.net
@@ -2790,15 +2771,6 @@
 0.0.0.0 dns.pmxu.link
 0.0.0.0 muppy.pnamae.com
 0.0.0.0 dns.pointless.chat
-0.0.0.0 polisitogel.beauty
-0.0.0.0 polisitogel.builders
-0.0.0.0 polisitogel.contractors
-0.0.0.0 polisitogel.cruises
-0.0.0.0 polisitogel.diy
-0.0.0.0 polisitogel.green
-0.0.0.0 polisitogel.hair
-0.0.0.0 polisitogel.living
-0.0.0.0 polisitogel.luxe
 0.0.0.0 polisitogel.show
 0.0.0.0 polisitogel.webcam
 0.0.0.0 vps.poly-tank.jp
@@ -2879,7 +2851,6 @@
 0.0.0.0 dns2.qpt.one
 0.0.0.0 paydns.weixin.qq.com
 0.0.0.0 udns.weixin.qq.com
-0.0.0.0 qqmcfw.tech
 0.0.0.0 ns1.qquack.org
 0.0.0.0 log.qrsoft.ru
 0.0.0.0 dns.qrtz.club
@@ -2920,8 +2891,6 @@
 0.0.0.0 raj.pw
 0.0.0.0 ns.ral9005.org
 0.0.0.0 dns.ramansarda.com
-0.0.0.0 randn.ru
-0.0.0.0 adguard.randn.ru
 0.0.0.0 doh.rasmusminde.dk
 0.0.0.0 emby.rasp.tv
 0.0.0.0 dns.rayanbab.com
@@ -3037,7 +3006,6 @@
 0.0.0.0 dns.homenet.saschagaspar.net
 0.0.0.0 vpn.satadru.dev
 0.0.0.0 dns.sbstructure.ir
-0.0.0.0 defsnldns01.sc-hosting.info
 0.0.0.0 ns1.sc-lezhi.com
 0.0.0.0 us.sc92.cn
 0.0.0.0 dns.scarx.net
@@ -3080,11 +3048,9 @@
 0.0.0.0 servis4u.top
 0.0.0.0 dns.servizimv.it
 0.0.0.0 alidns.session.pub
-0.0.0.0 dns.sethost.de
 0.0.0.0 dns.sev.monster
 0.0.0.0 pates.services.sfr.fr.casepp.sfr.fr
 0.0.0.0 sgdns.site
-0.0.0.0 d2.shabi.icu
 0.0.0.0 shadowart.online
 0.0.0.0 s1.s2.shahramv1.site
 0.0.0.0 shakdns.cc
@@ -3113,8 +3079,6 @@
 0.0.0.0 dns.simplylinux.ch
 0.0.0.0 dns.sindominio.net
 0.0.0.0 dns.sineone.icu
-0.0.0.0 dnsovertls2.sinodun.com
-0.0.0.0 dnsovertls3.sinodun.com
 0.0.0.0 sitdns.com
 0.0.0.0 dns.sitdns.com
 0.0.0.0 moto.adg.siudzinski.net
@@ -3128,7 +3092,6 @@
 0.0.0.0 dns.skrep.eu
 0.0.0.0 dns.skrep.in
 0.0.0.0 gr.skrsteam.info
-0.0.0.0 dns.skrzypiec.pl
 0.0.0.0 skydragoness.com
 0.0.0.0 dns.sledge.cc
 0.0.0.0 homeguard.sleziona.org
@@ -3161,7 +3124,6 @@
 0.0.0.0 adguard.spaceindex.net
 0.0.0.0 lomoff.spb.ru
 0.0.0.0 wifrousl.spdns.de
-0.0.0.0 speeddns.top
 0.0.0.0 dns.spirio.fr
 0.0.0.0 squidmall.vip
 0.0.0.0 s1.srch.top
@@ -3223,7 +3185,6 @@
 0.0.0.0 dns.surobe.com
 0.0.0.0 surt.ovh
 0.0.0.0 dns.sv-zauner.at
-0.0.0.0 adguard.sverzhe.com
 0.0.0.0 svg33.eu
 0.0.0.0 dns2.svip.one
 0.0.0.0 dns.svoi.dev
@@ -3256,6 +3217,7 @@
 0.0.0.0 dns1.tardishost.ru
 0.0.0.0 adguard.taufner.net
 0.0.0.0 dns.tb4.me
+0.0.0.0 httpdns.danuoyi.tbcache.com
 0.0.0.0 dns.tbs6920.sbs
 0.0.0.0 adguard.tcpu.io
 0.0.0.0 dns.teaminfo.fr
@@ -3455,7 +3417,6 @@
 0.0.0.0 dns.virtual-qr.ir
 0.0.0.0 ad.visbran.fr
 0.0.0.0 dns.vk09.ru
-0.0.0.0 dns.vkhudyakov.ru
 0.0.0.0 vladpro.ru
 0.0.0.0 dns.vladpro.ru
 0.0.0.0 family.dns.vladpro.ru
@@ -3471,7 +3432,6 @@
 0.0.0.0 vorlif.org
 0.0.0.0 dns.voronin.uk
 0.0.0.0 vpn.vosjes.cloud
-0.0.0.0 dns.voyager2.space
 0.0.0.0 adguard.vozersky.com
 0.0.0.0 killads.vpms.xyz
 0.0.0.0 vpnhellings.nl
@@ -3623,7 +3583,6 @@
 0.0.0.0 lion.yazilimatolye.com
 0.0.0.0 ychen.cf
 0.0.0.0 ychen.gq
-0.0.0.0 adsfysdfgiuy.ydns.eu
 0.0.0.0 vdska-pl.ydns.eu
 0.0.0.0 sg.yepdns.com
 0.0.0.0 yeralin.net

@@ -22,7 +22,6 @@
 0.0.0.0 sonvupload.xyz
 0.0.0.0 stupdownloadf.com
 0.0.0.0 haxsoft.com
-0.0.0.0 video-watch1.com
 0.0.0.0 gghut.com
 0.0.0.0 007itshop.com
 0.0.0.0 my-bitbank.cc
@@ -175,7 +174,6 @@
 0.0.0.0 nhantienquocte*.vercel.app
 0.0.0.0 amazouo9.com
 0.0.0.0 amz-dropshipping.com
-0.0.0.0 vietchinhphux.com
 0.0.0.0 cucanninhmang24h.com
 0.0.0.0 westernunion*.wixsite.com
 0.0.0.0 marketplace-item-*.000.pe
@@ -192,7 +190,6 @@
 0.0.0.0 verification-module-v*.b-cdn.net
 0.0.0.0 verifyyourself-*system.b-cdn.net
 0.0.0.0 weoidnet*.b-cdn.net
-0.0.0.0 chromeupdates.com
 0.0.0.0 zofuk9jvv080425aq6.cfd
 0.0.0.0 infinityvvallet.io
 0.0.0.0 gr93.sbs
@@ -203,6 +200,7 @@
 0.0.0.0 staticfonts.com
 0.0.0.0 tobias-neller.link
 0.0.0.0 ncloud.icu
+0.0.0.0 saocloud.icu
 0.0.0.0 teams-live.com
 0.0.0.0 deepseeklogin.com
 0.0.0.0 deepseekapk.download
@@ -270,6 +268,7 @@
 0.0.0.0 elkendinsc.com
 0.0.0.0 blocchecker*.pages.dev
 0.0.0.0 xblocklist*.pages.dev
+0.0.0.0 xsuki*.pages.dev
 0.0.0.0 passkeysetup.com
 0.0.0.0 eslpromasters.com
 0.0.0.0 eslplayers.com

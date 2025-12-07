@@ -39613,6 +39613,7 @@
 0.0.0.0 calvin.co1.qualtrics.com
 0.0.0.0 calvinklein.adlegend.com
 0.0.0.0 calvinklein.btttag.com
+0.0.0.0 cam4tracking.com
 0.0.0.0 camakaroda.com
 0.0.0.0 camalbbuy.online
 0.0.0.0 camance.offerstrack.net
@@ -65314,6 +65315,7 @@
 0.0.0.0 irs1.4sqi.net
 0.0.0.0 irtula.ru
 0.0.0.0 irtxsagfqrg.com
+0.0.0.0 irtye.com
 0.0.0.0 irubao01.webtrekk.net
 0.0.0.0 irun.org
 0.0.0.0 irvelcchuvsis.com
@@ -73103,6 +73105,7 @@
 0.0.0.0 metrics.expressen.se
 0.0.0.0 metrics.feedroom.com
 0.0.0.0 metrics.fitanalytics.com
+0.0.0.0 metrics.fnac.es
 0.0.0.0 metrics.gclb.brightcove.com
 0.0.0.0 metrics.hb.omtrdc.net
 0.0.0.0 metrics.hirebridge.com.re.getclicky.com
@@ -73134,6 +73137,7 @@
 0.0.0.0 metrics.winsupersite.com
 0.0.0.0 metrics.wpm.neustar.biz
 0.0.0.0 metrics.yoc.com
+0.0.0.0 metrics.zales.com
 0.0.0.0 metricskey.net
 0.0.0.0 metricsupdater.adswizz.com
 0.0.0.0 metrika.lookmovie.ag
@@ -77193,6 +77197,7 @@
 0.0.0.0 notebookreview.us.intellitxt.com
 0.0.0.0 notebooksbilliger02.webtrekk.net
 0.0.0.0 notebookservisru.161.com1.ru
+0.0.0.0 notenpartner.de
 0.0.0.0 noteupgrade.themainplacesetnowforcontentsgo.win
 0.0.0.0 nothing-but-value.com
 0.0.0.0 noticiasftpsrv.com
@@ -92898,7 +92903,6 @@
 0.0.0.0 snap.adsrvr.org
 0.0.0.0 snapdeal.biz
 0.0.0.0 snapdo.com
-0.0.0.0 snapengage.com
 0.0.0.0 snapfish.ch.102.112.2o7.net
 0.0.0.0 snapfish.com.au.102.112.2o7.net
 0.0.0.0 snapfish.evyy.net
@@ -114674,6 +114678,7 @@
 0.0.0.0 zillow.go2cloud.org
 0.0.0.0 zilogora.com
 0.0.0.0 zilzolachi.com
+0.0.0.0 zim-zim-zam.com
 0.0.0.0 zimbra.adacts.com
 0.0.0.0 zimbra.corp.appnexus.com
 0.0.0.0 zina.flurry.com
@@ -115111,6 +115116,7 @@
 0.0.0.0 zukabota.com
 0.0.0.0 zukbmxbrv.com
 0.0.0.0 zukipoayrlh.com
+0.0.0.0 zukxd6fkxqn.com
 0.0.0.0 zulip.dynamicyield.com
 0.0.0.0 zulu.go2cloud.org
 0.0.0.0 zulu0.rtb.appier.net

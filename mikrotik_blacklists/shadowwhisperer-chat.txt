@@ -176,7 +176,6 @@
 0.0.0.0 globalchatinc.com
 0.0.0.0 goftino.com
 0.0.0.0 gomoment.com
-0.0.0.0 gorgias.help
 0.0.0.0 gorgias.io
 0.0.0.0 gosimplr.com
 0.0.0.0 gotolstoy.com
