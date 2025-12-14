@@ -1135,6 +1135,7 @@
 0.0.0.0 abrtp2-cdn.marketo.com
 0.0.0.0 abrye.com
 0.0.0.0 abschied.b-cdn.net
+0.0.0.0 abservinean.com
 0.0.0.0 absoluteroute.com
 0.0.0.0 abstractapi.com
 0.0.0.0 abtesting.ai
@@ -6194,7 +6195,6 @@
 0.0.0.0 data-4ede7e9c86.faz.net
 0.0.0.0 data-56b1bc19e7.autobild.de
 0.0.0.0 data-62650cd9a5.golem.de
-0.0.0.0 data-79b61f918a.mittelbayerische.de
 0.0.0.0 data-analytics.wearetriple.com
 0.0.0.0 data-api.connectivityassistant.com
 0.0.0.0 data-c0c484e9be.tvdigital.de
@@ -6783,6 +6783,7 @@
 0.0.0.0 ds-pc.admsger.com
 0.0.0.0 ds.independer.nl
 0.0.0.0 ds.jlbksy.com
+0.0.0.0 ds3.biz
 0.0.0.0 ds360.co
 0.0.0.0 dshrx.com
 0.0.0.0 dslreports.com
@@ -14903,6 +14904,7 @@
 0.0.0.0 showing.hardwareheaven.com
 0.0.0.0 showmypc.com
 0.0.0.0 shows.21cn.com
+0.0.0.0 shrill-definition.com
 0.0.0.0 shucaihangjia.com
 0.0.0.0 shuiguo.com
 0.0.0.0 shushijiameng123.com

@@ -1,11 +1,13 @@
 #
 #    File: DNS
 #    Info: DNS Resolvers
-# Domains: 135
-# Updated: 9/23/2025  23:43 (11:43 PM CST)
+# Domains: 138
+# Updated: 12/11/2025  22:36 (10:36 PM CST)
 #
 0.0.0.0 doh.360.cn
 0.0.0.0 dot.360.cn
+0.0.0.0 dns.aa.net.uk
+0.0.0.0 adfilter.net
 0.0.0.0 adguard.com
 0.0.0.0 adguard-dns.com
 0.0.0.0 adguard-dns.io
@@ -45,6 +47,7 @@
 0.0.0.0 dandelionsprout.asuscomm.com
 0.0.0.0 decloudus.com
 0.0.0.0 digitale-gesellschaft.ch
+0.0.0.0 dns4all.eu
 0.0.0.0 dnsbunker.org
 0.0.0.0 dns.sb
 0.0.0.0 dns-oarc.net

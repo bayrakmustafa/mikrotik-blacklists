@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Dec 2025 14:40 UTC
-# Version: 2025.1207.1440.11
+# Last modified: 14 Dec 2025 14:59 UTC
+# Version: 2025.1214.1459.06
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3823
+# Number of entries: 3844
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -88,7 +88,6 @@
 0.0.0.0 dns.3dcapitaltrust.net
 0.0.0.0 3dcosas.xyz
 0.0.0.0 3dns.eu
-0.0.0.0 3jjxxl.tech
 0.0.0.0 adg.3k.work
 0.0.0.0 dns.3wv.de
 0.0.0.0 dns.4-the.win
@@ -99,9 +98,7 @@
 0.0.0.0 51576162.ru
 0.0.0.0 adh.51st.top
 0.0.0.0 alidns.51top.info
-0.0.0.0 520ily.cn
 0.0.0.0 dns.52306.org
-0.0.0.0 dns-hk.524228.xyz
 0.0.0.0 adguard2.546413.xyz
 0.0.0.0 bwg.559299366.xyz
 0.0.0.0 dc39.559299366.xyz
@@ -265,6 +262,7 @@
 0.0.0.0 dns.aliyun.com
 0.0.0.0 resolvers-cn.httpdns.aliyuncs.com
 0.0.0.0 httpdns-api.aliyuncs.com
+0.0.0.0 aliyunhttpdns.com
 0.0.0.0 alleesph.online
 0.0.0.0 dns.alloxr.info
 0.0.0.0 micro.alloxr.info
@@ -492,6 +490,7 @@
 0.0.0.0 dns.bovat.net
 0.0.0.0 adguard.boykevanvugt.nl
 0.0.0.0 adguard2.boykevanvugt.nl
+0.0.0.0 dns.braene.com
 0.0.0.0 bravedns.com
 0.0.0.0 basic.bravedns.com
 0.0.0.0 free.bravedns.com
@@ -526,6 +525,7 @@
 0.0.0.0 unifi.carioka.com
 0.0.0.0 dns.carson-family.com
 0.0.0.0 dns.caspervk.net
+0.0.0.0 catchen121299.top
 0.0.0.0 catdns.org
 0.0.0.0 sg-119.cattery.work
 0.0.0.0 alidns.cb1999.top
@@ -762,6 +762,7 @@
 0.0.0.0 dns1.conne.net
 0.0.0.0 dns.connect.fail
 0.0.0.0 dns.consoro.eu
+0.0.0.0 dns.containerpi.com
 0.0.0.0 doh.controld.com
 0.0.0.0 family.freedns.controld.com
 0.0.0.0 p0.freedns.controld.com
@@ -802,7 +803,9 @@
 0.0.0.0 dns.curser.dev
 0.0.0.0 dns.cwlys.com
 0.0.0.0 gc.cyberbeta.cn
+0.0.0.0 dns.cybertonic.tech
 0.0.0.0 dns2.cybrespace.net
+0.0.0.0 cynntex.fun
 0.0.0.0 dns.cynthialabs.net
 0.0.0.0 nextcloud.d-alahmad.de
 0.0.0.0 dns.d365.in
@@ -887,6 +890,7 @@
 0.0.0.0 dns.skous.dedyn.io
 0.0.0.0 unraid.dedyn.io
 0.0.0.0 dns.deekshith.in
+0.0.0.0 deep-henchman-excuse.cfd
 0.0.0.0 doh.defaultroutes.de
 0.0.0.0 defendfrienddns.fyi
 0.0.0.0 de.deghy.ir
@@ -952,6 +956,7 @@
 0.0.0.0 doh.dns.sb
 0.0.0.0 fargos2.dns.army
 0.0.0.0 guigu.dns.army
+0.0.0.0 homec92.dns.army
 0.0.0.0 public-dns-a.dns.sb
 0.0.0.0 public-dns-b.dns.sb
 0.0.0.0 dns.dns-53.com
@@ -1148,6 +1153,7 @@
 0.0.0.0 doh.dnscrypt.uk
 0.0.0.0 v.dnscrypt.uk
 0.0.0.0 dnsdoh.art
+0.0.0.0 dnsenc.com
 0.0.0.0 th1.dnsfinder.ir
 0.0.0.0 doh-lb-atl.dnsflex.com
 0.0.0.0 doh-lb-br.dnsflex.com
@@ -1195,6 +1201,7 @@
 0.0.0.0 uncensored-dot.dnswarden.com
 0.0.0.0 doh.us.dnswarden.com
 0.0.0.0 dnswebvsn.com
+0.0.0.0 do-39574-tr.xyz
 0.0.0.0 docker-hub.ir
 0.0.0.0 doh.beauty
 0.0.0.0 doh.best
@@ -1307,6 +1314,8 @@
 0.0.0.0 wired-guardian.duckdns.org
 0.0.0.0 wisehomeguard.duckdns.org
 0.0.0.0 workcavestl.duckdns.org
+0.0.0.0 x-o-x.duckdns.org
+0.0.0.0 x861g.duckdns.org
 0.0.0.0 test.zkwg.duckdns.org
 0.0.0.0 duii.de
 0.0.0.0 dukun.de
@@ -1326,6 +1335,7 @@
 0.0.0.0 oostelbos.dynu.com
 0.0.0.0 quangdo92.dynu.net
 0.0.0.0 saomai.dynu.com
+0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 adg.dz.ax
 0.0.0.0 az.dz4fun.top
@@ -1340,6 +1350,7 @@
 0.0.0.0 doh.eddi.net
 0.0.0.0 dns.edgeburnmedia.com
 0.0.0.0 dns.edgeworkssystems.ca
+0.0.0.0 dns.edgy.network
 0.0.0.0 agh.amber.edu.vn
 0.0.0.0 adblocker.institutobancario.edu.mx
 0.0.0.0 dns.tuna.tsinghua.edu.cn
@@ -1400,6 +1411,7 @@
 0.0.0.0 beautifulthings.eu.org
 0.0.0.0 jp.dns.bliod.eu.org
 0.0.0.0 clic.eu.org
+0.0.0.0 resolver.dns.eban.eu.org
 0.0.0.0 doh.excdn.eu.org
 0.0.0.0 doh.greenwood.eu.org
 0.0.0.0 sweethome.in.eu.org
@@ -1480,6 +1492,7 @@
 0.0.0.0 spyro-the-bat.fleuryk.ovh
 0.0.0.0 spyrothebat.fleuryk.ovh
 0.0.0.0 vps.fleuryk.ovh
+0.0.0.0 dns.flightspace.net
 0.0.0.0 dns01.flm9.net
 0.0.0.0 ns1.flodns.net
 0.0.0.0 ns2.flodns.net
@@ -1578,6 +1591,7 @@
 0.0.0.0 lamdtl.giize.com
 0.0.0.0 dns.ginovs.nl
 0.0.0.0 dns.girino.org
+0.0.0.0 doh.ptqy.gitv.tv
 0.0.0.0 h.gjrick.tw
 0.0.0.0 sdns22.gkonuralp.com
 0.0.0.0 glacius.top
@@ -1713,6 +1727,7 @@
 0.0.0.0 cloud2.holzmannclouddns.de
 0.0.0.0 socolov.home.ro
 0.0.0.0 adguard.home-lab-network.com
+0.0.0.0 home-server.store
 0.0.0.0 pi.homeanywhere.org
 0.0.0.0 admin.homedns.uk
 0.0.0.0 isolacje.homeip.net
@@ -2100,6 +2115,7 @@
 0.0.0.0 agh.kul-lippek.de
 0.0.0.0 dns.kusoneko.moe
 0.0.0.0 dns.kuuhaku.moe
+0.0.0.0 kx-97795-tr.xyz
 0.0.0.0 dns.kxy.ink
 0.0.0.0 dn.kyay006.cn
 0.0.0.0 agh.kyusang.win
@@ -2139,6 +2155,7 @@
 0.0.0.0 lelux.fi
 0.0.0.0 dns.lepilleur.com
 0.0.0.0 dns.lermer.nl
+0.0.0.0 lesuo.top
 0.0.0.0 dns.levonet.sk
 0.0.0.0 lewsha.lol
 0.0.0.0 br2.lezainski.com
@@ -2406,6 +2423,7 @@
 0.0.0.0 justfor.myasustor.com
 0.0.0.0 nas-scheiben34.myasustor.com
 0.0.0.0 zanty123456.myasustor.com
+0.0.0.0 myatris.sbs
 0.0.0.0 adguard.myddns.org
 0.0.0.0 adguard-home.myddns.me
 0.0.0.0 mydevpn.eu
@@ -2491,7 +2509,6 @@
 0.0.0.0 dns.nekofish.cc
 0.0.0.0 nelsonleung.org
 0.0.0.0 adguard.neotix.net
-0.0.0.0 dns.aa.net.uk
 0.0.0.0 positif4.cross.net.id
 0.0.0.0 guard-jkt-225.glosindo.net.id
 0.0.0.0 dns1.gms.net.id
@@ -2597,7 +2614,6 @@
 0.0.0.0 2.dns.noridev.moe
 0.0.0.0 3.local-dns.noridev.moe
 0.0.0.0 adguard.nostaloogia.ir
-0.0.0.0 dns.notjakob.com
 0.0.0.0 dns.novali.date
 0.0.0.0 us.novali.date
 0.0.0.0 dns.novg.net
@@ -2608,6 +2624,7 @@
 0.0.0.0 x.ns1net.com
 0.0.0.0 ns3.com
 0.0.0.0 dnscache0.ns71.net
+0.0.0.0 nsown.com
 0.0.0.0 dns.ntr.lol
 0.0.0.0 ntwrkh.pro
 0.0.0.0 dns.nubecita.biz
@@ -2624,6 +2641,7 @@
 0.0.0.0 qdns02.nymterm.com
 0.0.0.0 5g.o0o.re
 0.0.0.0 o1.lt
+0.0.0.0 ha.o51r15.com
 0.0.0.0 dot.occ.top
 0.0.0.0 dns.ocedric.net
 0.0.0.0 dns.octoworld.fr
@@ -2748,6 +2766,7 @@
 0.0.0.0 dns.pieterdherde.com
 0.0.0.0 dns1.pietjacobs.be
 0.0.0.0 dns.pine-home.de
+0.0.0.0 pingbi.xyz
 0.0.0.0 pioko.net
 0.0.0.0 dns.pizzari.me
 0.0.0.0 doh.plaawan.uk
@@ -3217,7 +3236,6 @@
 0.0.0.0 dns1.tardishost.ru
 0.0.0.0 adguard.taufner.net
 0.0.0.0 dns.tb4.me
-0.0.0.0 httpdns.danuoyi.tbcache.com
 0.0.0.0 dns.tbs6920.sbs
 0.0.0.0 adguard.tcpu.io
 0.0.0.0 dns.teaminfo.fr
@@ -3538,6 +3556,7 @@
 0.0.0.0 doh.xfinity.com
 0.0.0.0 dot.xfinity.com
 0.0.0.0 doh2.gslb2.xfinity.com
+0.0.0.0 xholgm.top
 0.0.0.0 xiaoxinhui.cn
 0.0.0.0 dns.xiaoxinhui.cn
 0.0.0.0 mail.xiaoxinhui.cn
