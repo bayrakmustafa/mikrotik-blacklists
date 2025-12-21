@@ -1057,6 +1057,7 @@
 0.0.0.0 aabdmn.com
 0.0.0.0 aachener-zeitung.de
 0.0.0.0 aad.map.fastly.net
+0.0.0.0 aadswebsite.nl
 0.0.0.0 aaemc.nl
 0.0.0.0 aafp.net
 0.0.0.0 aajtak.in
@@ -1454,7 +1455,6 @@
 0.0.0.0 adex.com
 0.0.0.0 adexchange.mk
 0.0.0.0 adf0901f1861.cdn4.forter.com
-0.0.0.0 adfenix.com
 0.0.0.0 adfill.adview.cn
 0.0.0.0 adfilter.imtt.qq.com
 0.0.0.0 adfixus.com
@@ -2217,6 +2217,7 @@
 0.0.0.0 alitui.weibo.com.cn
 0.0.0.0 aliunion.cn.yahoo.com
 0.0.0.0 alive.github.com
+0.0.0.0 alive.nl
 0.0.0.0 alive5.com
 0.0.0.0 aliyuncs.com
 0.0.0.0 aliyuncss.com
@@ -2455,6 +2456,7 @@
 0.0.0.0 anm.co.uk
 0.0.0.0 ann5.net
 0.0.0.0 annefrank.containers.piwik.pro
+0.0.0.0 annekehemmer.nl
 0.0.0.0 announcekit.app
 0.0.0.0 announcem.xyz
 0.0.0.0 annuaire-web-france.com
@@ -2858,6 +2860,7 @@
 0.0.0.0 argosdata.io
 0.0.0.0 argus.arcot.com
 0.0.0.0 argusplatform.com
+0.0.0.0 arhqmtcy.com
 0.0.0.0 aries.mzres.com
 0.0.0.0 arisawaonline.com
 0.0.0.0 ariva-services.de
@@ -2968,6 +2971,7 @@
 0.0.0.0 atatus.com
 0.0.0.0 ate.info
 0.0.0.0 atebd5.asip.cloud
+0.0.0.0 atf-tagmanager.de
 0.0.0.0 atgsvcs.com
 0.0.0.0 atheist.com
 0.0.0.0 athena.com.au
@@ -3656,6 +3660,8 @@
 0.0.0.0 bioplantsolutions.nl
 0.0.0.0 biorxiv.org
 0.0.0.0 biostabil.net
+0.0.0.0 biotensor.eu
+0.0.0.0 biotensorgids.nl
 0.0.0.0 birdguides-cdn.com
 0.0.0.0 birdingtop500.com
 0.0.0.0 birdnavy.com
@@ -4013,8 +4019,6 @@
 0.0.0.0 buzinessware.ir
 0.0.0.0 buzz.app
 0.0.0.0 buzzdigicon.com
-0.0.0.0 buzzfeed.com
-0.0.0.0 buzzfeed2.map.fastly.net
 0.0.0.0 buzzvil.atlassian.net
 0.0.0.0 buzzvil.com
 0.0.0.0 bvdinfo.com
@@ -4034,6 +4038,7 @@
 0.0.0.0 bydata.com
 0.0.0.0 bydonline.com
 0.0.0.0 byinspired.com
+0.0.0.0 byjantine.nl
 0.0.0.0 bynder.com
 0.0.0.0 bypbwm.cn
 0.0.0.0 byspotify.com
@@ -4212,9 +4217,11 @@
 0.0.0.0 carebuild.best
 0.0.0.0 carecart.io
 0.0.0.0 careers-analytics.recruitee.com
+0.0.0.0 caretwice.nl
 0.0.0.0 carglassfraws.com
 0.0.0.0 carid.com
 0.0.0.0 carnalpleasure.co.uk
+0.0.0.0 carolina-janssen.nl
 0.0.0.0 carrierzone.com
 0.0.0.0 carromking.com
 0.0.0.0 carrot.link
@@ -4816,6 +4823,7 @@
 0.0.0.0 classroom.relay.school
 0.0.0.0 classtime.com
 0.0.0.0 classyschema.org
+0.0.0.0 claudyschonis.nl
 0.0.0.0 clck.yandex.ru
 0.0.0.0 clcknads.pro
 0.0.0.0 cldmlk.com
@@ -5095,6 +5103,7 @@
 0.0.0.0 co.la.welt.de
 0.0.0.0 co2ok.eco
 0.0.0.0 co4.telecommand.telemetry.microsoft.com
+0.0.0.0 coachingwithjoy.nl
 0.0.0.0 cobanoir.site
 0.0.0.0 cobrowse.bnpparibasfortis.be
 0.0.0.0 cobrowser.com
@@ -5799,6 +5808,7 @@
 0.0.0.0 czpush.com
 0.0.0.0 czpwm.com
 0.0.0.0 czxiangyue.com
+0.0.0.0 czxv.nl
 0.0.0.0 d.107788.com
 0.0.0.0 d.annarbor.com
 0.0.0.0 d.businessinsider.com
@@ -6152,6 +6162,7 @@
 0.0.0.0 dailydeals.onlineathens.com
 0.0.0.0 dailydeals.savannahnow.com
 0.0.0.0 dailyfindings.co.uk
+0.0.0.0 dailyinspirations.nl
 0.0.0.0 dailyvideo.securejoin.com
 0.0.0.0 daima.23yy.com
 0.0.0.0 daima.chazidian.com
@@ -6169,6 +6180,7 @@
 0.0.0.0 dandan11.top
 0.0.0.0 dandan13.top
 0.0.0.0 dandan15.top
+0.0.0.0 danielsnutrigeneeskunde.nl
 0.0.0.0 danishlaw.biz
 0.0.0.0 dannysimmonsjr.com
 0.0.0.0 danskspil.info
@@ -6181,6 +6193,7 @@
 0.0.0.0 daoyoudao.com
 0.0.0.0 dapp-radar.info
 0.0.0.0 dapresy.com
+0.0.0.0 darman.nl
 0.0.0.0 dart.clearchannel.com
 0.0.0.0 das.api.youku.com
 0.0.0.0 das.mobile.youku.com
@@ -6193,8 +6206,8 @@
 0.0.0.0 data-1818d50639.focus.de
 0.0.0.0 data-2d3a3249cd.taz.de
 0.0.0.0 data-4ede7e9c86.faz.net
-0.0.0.0 data-56b1bc19e7.autobild.de
 0.0.0.0 data-62650cd9a5.golem.de
+0.0.0.0 data-79b61f918a.mittelbayerische.de
 0.0.0.0 data-analytics.wearetriple.com
 0.0.0.0 data-api.connectivityassistant.com
 0.0.0.0 data-c0c484e9be.tvdigital.de
@@ -6335,7 +6348,6 @@
 0.0.0.0 ddns.info
 0.0.0.0 ddomm.com
 0.0.0.0 ddrrccck.m.qxs.la
-0.0.0.0 de.akamaized.net
 0.0.0.0 de.edgesuite.net
 0.0.0.0 de.fr
 0.0.0.0 de.ioam.de
@@ -6364,6 +6376,7 @@
 0.0.0.0 deferendum.com
 0.0.0.0 definemedia.de
 0.0.0.0 definitivehc.com
+0.0.0.0 degoudsbloem.be
 0.0.0.0 dehelendereisindepraktijk.nl
 0.0.0.0 deinchatbot-speech.azurewebsites.net
 0.0.0.0 deinneueszuhause.de
@@ -6391,12 +6404,14 @@
 0.0.0.0 demo.tagdiv.com
 0.0.0.0 demoworkbench.iad.apple.com
 0.0.0.0 denaamloterij.nl
+0.0.0.0 deneitherapeut.nl
 0.0.0.0 denkis.nl
 0.0.0.0 dentsu.com
 0.0.0.0 dentsu.de
 0.0.0.0 depeiling.eenvandaag.nl
 0.0.0.0 deploy.mopinion.com
 0.0.0.0 deployteq.net
+0.0.0.0 depoldersjamaan.nl
 0.0.0.0 der-recycler.de
 0.0.0.0 derby25.dk
 0.0.0.0 deroockspeelautomaten.nl
@@ -6454,6 +6469,7 @@
 0.0.0.0 devpick.io
 0.0.0.0 devscope.io
 0.0.0.0 dezfu.com
+0.0.0.0 dezoninjou.nl
 0.0.0.0 df3n43m.com
 0.0.0.0 df45ay5pw60dy.cloudfront.net
 0.0.0.0 df77.com
@@ -7056,6 +7072,7 @@
 0.0.0.0 efsa.containers.piwik.pro
 0.0.0.0 egiodev.com
 0.0.0.0 egrow.io
+0.0.0.0 egtwendy.nl
 0.0.0.0 ehelp.prometric.com
 0.0.0.0 ehxyz.com
 0.0.0.0 eigenrichting.eu
@@ -7078,6 +7095,7 @@
 0.0.0.0 elandefraicheu.fr
 0.0.0.0 elandenouveautes.fr
 0.0.0.0 elasticemail.com
+0.0.0.0 elavissers.nl
 0.0.0.0 eldersrealestate.com.au
 0.0.0.0 electro-smog.ch
 0.0.0.0 electro.demdex.net
@@ -7181,8 +7199,10 @@
 0.0.0.0 endorsal.io
 0.0.0.0 endpoint2.collection.sumologic.com
 0.0.0.0 enepal.net
+0.0.0.0 energetischhuis.nl
 0.0.0.0 energokst.kz
 0.0.0.0 energyarts.com
+0.0.0.0 energymind.nl
 0.0.0.0 engage.ticketmaster.com
 0.0.0.0 engage.wixapps.net
 0.0.0.0 engagebay.com
@@ -7256,6 +7276,7 @@
 0.0.0.0 ernxdgt.com
 0.0.0.0 eroterest.net
 0.0.0.0 erpafends.shop
+0.0.0.0 erpsoftwareblog.com
 0.0.0.0 errors.figma.com
 0.0.0.0 errors.serverius.net
 0.0.0.0 errors.stripe.com
@@ -7268,6 +7289,7 @@
 0.0.0.0 esi.edge.permutive.app
 0.0.0.0 esnchocco.com
 0.0.0.0 esogetics.com
+0.0.0.0 esoterischewebwinkel.nl
 0.0.0.0 espaceducoeur.com
 0.0.0.0 esputnik.com
 0.0.0.0 esrpxyahzna.bid
@@ -7714,6 +7736,7 @@
 0.0.0.0 flowmailer.net
 0.0.0.0 flowmailer.pure-energie.nl
 0.0.0.0 flowpros.com
+0.0.0.0 flowremedies.nl
 0.0.0.0 flowsense.com
 0.0.0.0 flowsense.com.br
 0.0.0.0 flowsparks.com
@@ -8357,7 +8380,6 @@
 0.0.0.0 gmtdmp.com
 0.0.0.0 gnar.grammerly.com
 0.0.0.0 gnpfesdk-pa.googleapis.com
-0.0.0.0 go-vip.net
 0.0.0.0 go.10086.cn
 0.0.0.0 go.adyen.com
 0.0.0.0 go.ampliz.com
@@ -8625,6 +8647,7 @@
 0.0.0.0 hardware.metrics.mozilla.com
 0.0.0.0 harga-xiaomi.com
 0.0.0.0 harlingfordhotel.com
+0.0.0.0 harmooniaal.nl
 0.0.0.0 harnessdigitalmarketing.com
 0.0.0.0 harvard.edu.sc.omtrdc.net
 0.0.0.0 harvardbusinessrevie.tt.omtrdc.net
@@ -8678,7 +8701,10 @@
 0.0.0.0 heatmaps.me
 0.0.0.0 heavenmedia.v3g4s.com
 0.0.0.0 heefwozhlxgz.com
+0.0.0.0 heel-jij.nl
 0.0.0.0 heelacupunctuur.com
+0.0.0.0 heelbron.nl
+0.0.0.0 heelhuus.nl
 0.0.0.0 hefan365.com
 0.0.0.0 heib10.top
 0.0.0.0 heib12.top
@@ -8754,6 +8780,7 @@
 0.0.0.0 higverse.com
 0.0.0.0 hike.com
 0.0.0.0 hilabel.nl
+0.0.0.0 hildaterpstra.nl
 0.0.0.0 hill-will.com.es
 0.0.0.0 hinet.net
 0.0.0.0 hipchat.com
@@ -8808,6 +8835,8 @@
 0.0.0.0 hokenstore.com
 0.0.0.0 holdet.dk
 0.0.0.0 holidayaccommodation4u.com
+0.0.0.0 holistik.nl
+0.0.0.0 holistischcentrum-brabant.nl
 0.0.0.0 hollandcasino.nl
 0.0.0.0 hollandfantasticpromo.nl
 0.0.0.0 hollandfantaticpromo.nl
@@ -8842,6 +8871,8 @@
 0.0.0.0 hootsuite.com
 0.0.0.0 hoplink.ksosoft.com
 0.0.0.0 hopto.org
+0.0.0.0 horizonopleidingen.nl
+0.0.0.0 horsecomplete.nl
 0.0.0.0 hospedagemdesites.ws
 0.0.0.0 hospitalitysem.com
 0.0.0.0 host-care.com
@@ -9625,11 +9656,13 @@
 0.0.0.0 inmobicdn.com
 0.0.0.0 inmoment.com
 0.0.0.0 inneractive.com
+0.0.0.0 innerlijkwetenonline.nl
 0.0.0.0 innertrends.com
 0.0.0.0 innerway.ca
 0.0.0.0 innocraft.cloud
 0.0.0.0 inoptimaformavolendam.nl
 0.0.0.0 inovarcontabilidade.net
+0.0.0.0 inovasites.com.br
 0.0.0.0 inovatik.com
 0.0.0.0 inputs.alooma.com
 0.0.0.0 inq.com
@@ -9692,6 +9725,7 @@
 0.0.0.0 insticator-review-products.s3.amazonaws.com
 0.0.0.0 instiengage.com
 0.0.0.0 instituutorshof.be
+0.0.0.0 instituutvoorneienbewustzijn.nl
 0.0.0.0 instreet.cn
 0.0.0.0 instrument-ofgod.com
 0.0.0.0 instytut-pollster.pl
@@ -9752,6 +9786,7 @@
 0.0.0.0 invkvk.nl
 0.0.0.0 invt.io
 0.0.0.0 inx.lv
+0.0.0.0 inzichtdoorcoaching.be
 0.0.0.0 io.io
 0.0.0.0 ioactive.com
 0.0.0.0 ioresearch.nl
@@ -10005,6 +10040,7 @@
 0.0.0.0 jebe.renren.com
 0.0.0.0 jebe.xnimg.cn
 0.0.0.0 jelevouloir.fr
+0.0.0.0 jeliefsteleven.nl
 0.0.0.0 jellyblast.com
 0.0.0.0 jellyfish.com
 0.0.0.0 jellyfish.pandora.xiaomi.com
@@ -10054,6 +10090,7 @@
 0.0.0.0 jingling.cn
 0.0.0.0 jioo.com
 0.0.0.0 jisucn.com
+0.0.0.0 jitzke.nl
 0.0.0.0 jiu.njdkgm.com
 0.0.0.0 jiuku.cc
 0.0.0.0 jivo.ru
@@ -10076,6 +10113,7 @@
 0.0.0.0 jnsz.net.cn
 0.0.0.0 jnyngg.cn
 0.0.0.0 jobsfe.funshion.com
+0.0.0.0 jochtom.nl
 0.0.0.0 johnvktraders.com
 0.0.0.0 johtzj.com
 0.0.0.0 joi-2-casino.com
@@ -10085,6 +10123,7 @@
 0.0.0.0 joinsherpa.io
 0.0.0.0 jointreport-switch.com
 0.0.0.0 jokerstar.de
+0.0.0.0 jolandavleugel.nl
 0.0.0.0 jonathanbreedveld.com
 0.0.0.0 jooble.com
 0.0.0.0 jooule.com
@@ -10198,6 +10237,7 @@
 0.0.0.0 jusha.com
 0.0.0.0 justanswer.com
 0.0.0.0 justdunnebaking.co.uk
+0.0.0.0 justflow.nl
 0.0.0.0 justtag.com
 0.0.0.0 jusutv.com
 0.0.0.0 jutou5.com
@@ -10315,6 +10355,7 @@
 0.0.0.0 kiirkasiinod.net
 0.0.0.0 kikaloterij.nl
 0.0.0.0 kimblegroup.com
+0.0.0.0 kimjoosten.nl
 0.0.0.0 kinderattraktie.nl
 0.0.0.0 kindly.ai
 0.0.0.0 kindlycdn.com
@@ -10683,6 +10724,7 @@
 0.0.0.0 lifesight.io
 0.0.0.0 lifestreet.com
 0.0.0.0 lift-ai-js.marketlinc.com
+0.0.0.0 liftme-up.nl
 0.0.0.0 light-co-operativebank-1061942583.eu-west-1.elb.amazonaws.com
 0.0.0.0 light.co-operativebank.co.uk
 0.0.0.0 lightcars.de
@@ -10708,6 +10750,7 @@
 0.0.0.0 linaopenx.com.br
 0.0.0.0 linapay.io
 0.0.0.0 lindaevenhuis.nl
+0.0.0.0 lindahes.nl
 0.0.0.0 lindis.es
 0.0.0.0 line-apps.com
 0.0.0.0 lineclearexpress.com
@@ -10807,6 +10850,7 @@
 0.0.0.0 livehapp.com
 0.0.0.0 livehelperchat.com
 0.0.0.0 livehelpnow.net
+0.0.0.0 livelifewell.nl
 0.0.0.0 liveline.at
 0.0.0.0 livelook.com
 0.0.0.0 livep.l.qq.com
@@ -11171,6 +11215,7 @@
 0.0.0.0 mageworx.com
 0.0.0.0 magicears.shop
 0.0.0.0 magicwindow.cn
+0.0.0.0 magieshop.nl
 0.0.0.0 magisto.com
 0.0.0.0 maglit.me
 0.0.0.0 magnetmail1.net
@@ -11291,6 +11336,7 @@
 0.0.0.0 marketresponse.nl
 0.0.0.0 markitondemand.com
 0.0.0.0 markteffect.nl
+0.0.0.0 marleenneitherapie.nl
 0.0.0.0 maropost.com
 0.0.0.0 marquiz.ru
 0.0.0.0 mars.com
@@ -11592,6 +11638,7 @@
 0.0.0.0 mimibazar.cz
 0.0.0.0 min.lc
 0.0.0.0 mindful.ly
+0.0.0.0 mindpiece.nl
 0.0.0.0 mindrocketsapis.com
 0.0.0.0 mindtickle.com
 0.0.0.0 mine.nu
@@ -11616,7 +11663,6 @@
 0.0.0.0 minmaxify.com
 0.0.0.0 minspy.com
 0.0.0.0 minstory.beauty
-0.0.0.0 minute.ly
 0.0.0.0 minutemedia-prebid.com
 0.0.0.0 minutemedia.com
 0.0.0.0 mipcache.bdstatic.com
@@ -11761,6 +11807,7 @@
 0.0.0.0 mongo77usr.urlredirect.net
 0.0.0.0 mongo87a.sweet-water.org
 0.0.0.0 mongom5sxk8fr6.extractsight.com
+0.0.0.0 moniquebooijink.nl
 0.0.0.0 monitor.azure.com
 0.0.0.0 monitor.ppcprotect.com
 0.0.0.0 monitor.qq.com
@@ -12019,6 +12066,7 @@
 0.0.0.0 narendramodiapp.com
 0.0.0.0 narrativ.com
 0.0.0.0 nasamlinkes.nl
+0.0.0.0 nasma.be
 0.0.0.0 nationbuilder.com
 0.0.0.0 nativeapp.toutiao.com
 0.0.0.0 nativemedia.rs
@@ -12068,8 +12116,16 @@
 0.0.0.0 neexii.su
 0.0.0.0 nefl.com
 0.0.0.0 negate.io
+0.0.0.0 nei-therapie.com
 0.0.0.0 neiacademy.nl
+0.0.0.0 neipraktijkwendy.nl
+0.0.0.0 neipraktijkzon.nl
 0.0.0.0 neirong.baidu.com
+0.0.0.0 neisterk.nl
+0.0.0.0 neitherapie.eu
+0.0.0.0 neitherapienicole.nl
+0.0.0.0 neitherapienoordholland.nl
+0.0.0.0 neitherapieuden.nl
 0.0.0.0 nellie.booking.com
 0.0.0.0 nelreports.net
 0.0.0.0 neobet.de
@@ -12712,6 +12768,7 @@
 0.0.0.0 origin-nvidia.tw
 0.0.0.0 original-slots.de
 0.0.0.0 original-wetten.de
+0.0.0.0 orion-natuurgeneeskunde.nl
 0.0.0.0 orit-zilberman.com
 0.0.0.0 orjq.net
 0.0.0.0 orthofyto.com
@@ -13325,8 +13382,25 @@
 0.0.0.0 pragmaticplay.com
 0.0.0.0 pragmaticplay.net
 0.0.0.0 pragmaticplayphp.com
+0.0.0.0 praktijk-patricia.nl
+0.0.0.0 praktijkbruis.nl
+0.0.0.0 praktijkcharlotte.nl
+0.0.0.0 praktijkcynergie.nl
+0.0.0.0 praktijkdevlindertuin.nl
+0.0.0.0 praktijkegtmiranda.nl
+0.0.0.0 praktijkholistichealing.nl
+0.0.0.0 praktijkinnerlijkegroei.nl
+0.0.0.0 praktijkjosje.nl
 0.0.0.0 praktijklichtpunt.nu
+0.0.0.0 praktijkmagistraal.nl
+0.0.0.0 praktijkmeergeluk.nl
+0.0.0.0 praktijkmiriam.nl
+0.0.0.0 praktijktamaravanoers.nl
 0.0.0.0 praktijktcg.nl
+0.0.0.0 praktijkviaversa.nl
+0.0.0.0 praktijkvivre.nl
+0.0.0.0 praktijkyentegevers.nl
+0.0.0.0 praktijkyourinnerflow.nl
 0.0.0.0 pranagoodenergy.nl
 0.0.0.0 prc.rjje4.com
 0.0.0.0 prd-usw2-requestattribution-iad.apple.com
@@ -13449,6 +13523,7 @@
 0.0.0.0 productofchoice.com
 0.0.0.0 productsup.com
 0.0.0.0 producttesting.us
+0.0.0.0 professionele-biosensor.com
 0.0.0.0 profile-counter.glitch.me
 0.0.0.0 profiledynamics.com
 0.0.0.0 profiledynamics.nl
@@ -13980,6 +14055,7 @@
 0.0.0.0 refiner.io
 0.0.0.0 refinery89.com
 0.0.0.0 reflect.se
+0.0.0.0 reflexologiepraktijklisette.nl
 0.0.0.0 refr.cc
 0.0.0.0 reg.tiscali.cz
 0.0.0.0 region1.app-measurement.com
@@ -14405,6 +14481,7 @@
 0.0.0.0 saadhya.in
 0.0.0.0 saasquatch.com
 0.0.0.0 sabinejurgens.nl
+0.0.0.0 sabineneicoaching.nl
 0.0.0.0 sad.qeo.cn
 0.0.0.0 safebrowsing.clients.google.com
 0.0.0.0 safebrowsing.google.com
@@ -14454,6 +14531,7 @@
 0.0.0.0 samsunghealthcn.com
 0.0.0.0 san.aq
 0.0.0.0 sanalytics.spreadshirt.com
+0.0.0.0 sandraschouten.com
 0.0.0.0 sandsiv.com
 0.0.0.0 sangxi.top
 0.0.0.0 sanskrit.com
@@ -14652,6 +14730,7 @@
 0.0.0.0 secure.trust-provider.com
 0.0.0.0 secure.widget.cloud.opta.net
 0.0.0.0 secure.xsolla.com
+0.0.0.0 securemetrics.experience.apple
 0.0.0.0 securemetrics.v.aaplimg.com
 0.0.0.0 securemvt.v.aaplimg.com
 0.0.0.0 secureomg.nl
@@ -15635,6 +15714,7 @@
 0.0.0.0 stfalcon.github.io
 0.0.0.0 stg-iad.apple.com
 0.0.0.0 stg8.com
+0.0.0.0 stichting-itcm.nl
 0.0.0.0 sticky-cart.uplinkly-static.com
 0.0.0.0 stimmwissenschaften.de
 0.0.0.0 stjzh.gdtarget.com
@@ -15681,6 +15761,7 @@
 0.0.0.0 stroomvoorbedrijven.com
 0.0.0.0 studio-gong.de
 0.0.0.0 studio.nws.ai
+0.0.0.0 studionei.nl
 0.0.0.0 studiorific.com
 0.0.0.0 stuff.202m.com
 0.0.0.0 stumbleupon.com
@@ -16273,6 +16354,7 @@
 0.0.0.0 tj.ali213.net
 0.0.0.0 tj.kugou.com
 0.0.0.0 tj.tongjiwo.com
+0.0.0.0 tjalliencoaching.nl
 0.0.0.0 tjekditnet.dk
 0.0.0.0 tjlog.easou.com
 0.0.0.0 tjlog.ps.easou.com
@@ -16574,6 +16656,7 @@
 0.0.0.0 turbonino.de
 0.0.0.0 turkishar.com
 0.0.0.0 tusdk.com
+0.0.0.0 tussendierenmens.nl
 0.0.0.0 tutanoto.com
 0.0.0.0 tutela.com
 0.0.0.0 tutucloud.com
@@ -16934,6 +17017,7 @@
 0.0.0.0 vast.cloudmobi.net
 0.0.0.0 vat-search.eu
 0.0.0.0 vaytiennhanh20.com
+0.0.0.0 vbag.nl
 0.0.0.0 vbet.nl
 0.0.0.0 vbout.com
 0.0.0.0 vbt.io
@@ -16967,9 +17051,11 @@
 0.0.0.0 venpath.net
 0.0.0.0 ventdeplaisir.fr
 0.0.0.0 venteexclusive.be
+0.0.0.0 veradebever.nl
 0.0.0.0 veransys.kr
 0.0.0.0 verbeterthuis.nl
 0.0.0.0 verdict.abc.go.com
+0.0.0.0 verhoevennatuurgeneeskunde.nl
 0.0.0.0 verifid.ac.uk
 0.0.0.0 verifid.com.au
 0.0.0.0 verify.uxcam.com
@@ -17064,6 +17150,7 @@
 0.0.0.0 vistatravelclub.com
 0.0.0.0 visto.li
 0.0.0.0 visx.net
+0.0.0.0 vita-energetica.nl
 0.0.0.0 vitaepro.nl
 0.0.0.0 vitakruid.nl
 0.0.0.0 vitals.app
@@ -17071,6 +17158,7 @@
 0.0.0.0 vitals.vercel-insights.com
 0.0.0.0 vitaminesperpost.nl
 0.0.0.0 vitaminstore.nl
+0.0.0.0 vitaproducten.nl
 0.0.0.0 vitastyle.nl
 0.0.0.0 viteezy.nl
 0.0.0.0 vitrado.de
@@ -17118,6 +17206,7 @@
 0.0.0.0 voqally.com
 0.0.0.0 vortex-win.data.microsoft.com
 0.0.0.0 vortex.data.microsoft.com.akadns.net
+0.0.0.0 vortexflow.nl
 0.0.0.0 vostrouvailles.fr
 0.0.0.0 vote.dbw.cn
 0.0.0.0 votecompany.com
@@ -18002,6 +18091,7 @@
 0.0.0.0 zohotagmanager.cdn.pagesense.io
 0.0.0.0 zonmw.containers.piwik.pro
 0.0.0.0 zonnebloem.nl
+0.0.0.0 zonnevlecht.nl
 0.0.0.0 zonos.com
 0.0.0.0 zoom121.site
 0.0.0.0 zoomd.com
@@ -18026,6 +18116,7 @@
 0.0.0.0 zuaq4uywadlj75qqkfns3bmoom0xpaiz.lambda-url.us-east-1.on.aws
 0.0.0.0 zuche321.com
 0.0.0.0 zuiceshi.net
+0.0.0.0 zuiverenpuurpraktijk.nl
 0.0.0.0 zuko.io
 0.0.0.0 zwanoo.org
 0.0.0.0 zweeler.com

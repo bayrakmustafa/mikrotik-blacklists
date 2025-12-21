@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 14 Dec 2025 14:59 UTC
-# Version: 2025.1214.1459.06
+# Last modified: 20 Dec 2025 18:38 UTC
+# Version: 2025.1220.1838.58
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3844
+# Number of entries: 3824
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -155,6 +155,7 @@
 0.0.0.0 abluehope.com
 0.0.0.0 dns.abluehope.com
 0.0.0.0 dns.abppro.ru
+0.0.0.0 abpvn.org
 0.0.0.0 vn.dns.abpvn.com
 0.0.0.0 doh.abraservice.xyz
 0.0.0.0 res-acst1.absolight.net
@@ -458,7 +459,6 @@
 0.0.0.0 dns.blaumer.dev
 0.0.0.0 us1.blissdns.net
 0.0.0.0 doh.blitarian.com
-0.0.0.0 blockadhomemoskva.ru
 0.0.0.0 doh.blockerdns.com
 0.0.0.0 example.doh.blockerdns.com
 0.0.0.0 adh.blogcuahieu.com
@@ -619,8 +619,6 @@
 0.0.0.0 dns.clickitsolutionsllc.com
 0.0.0.0 adguard.clmnnt.codes
 0.0.0.0 closetruth.date
-0.0.0.0 dns.cloud-admin.xyz
-0.0.0.0 doh.cloud-sekeng.com
 0.0.0.0 dns.cloudfiction.eu
 0.0.0.0 dns.233py.com.cdn.cloudflare.net
 0.0.0.0 1001.cloudflare-dns.com
@@ -713,7 +711,6 @@
 0.0.0.0 ag.coco-tama-hoiku.com
 0.0.0.0 block.coconut.id
 0.0.0.0 dns.codarbyte.de
-0.0.0.0 dns.code66.de
 0.0.0.0 dns.coderoria.com
 0.0.0.0 jpdns.cola16.app
 0.0.0.0 krdns.cola16.app
@@ -1316,7 +1313,6 @@
 0.0.0.0 workcavestl.duckdns.org
 0.0.0.0 x-o-x.duckdns.org
 0.0.0.0 x861g.duckdns.org
-0.0.0.0 test.zkwg.duckdns.org
 0.0.0.0 duii.de
 0.0.0.0 dukun.de
 0.0.0.0 dns.dumk.in
@@ -1422,7 +1418,6 @@
 0.0.0.0 dns.mayx.eu.org
 0.0.0.0 dns.melashri.eu.org
 0.0.0.0 arashi.net.eu.org
-0.0.0.0 adg.niub.eu.org
 0.0.0.0 v3.passby.eu.org
 0.0.0.0 kr.pigs.eu.org
 0.0.0.0 r1bnc.eu.org
@@ -1508,7 +1503,6 @@
 0.0.0.0 jp193.flyzhouyc.win
 0.0.0.0 st.flyzhouyc.win
 0.0.0.0 gateway.fomichev.cloud
-0.0.0.0 de-d2.foxyfy.net
 0.0.0.0 de-f1.foxyfy.net
 0.0.0.0 dns.foxyfy.net
 0.0.0.0 es-ma.foxyfy.net
@@ -1552,7 +1546,6 @@
 0.0.0.0 funti.cc
 0.0.0.0 funtikspb.ru
 0.0.0.0 doh.funtopia.tv
-0.0.0.0 dns.furrydns.de
 0.0.0.0 doh.futa.app
 0.0.0.0 doh.futa.gg
 0.0.0.0 futurearts.cc
@@ -1587,11 +1580,9 @@
 0.0.0.0 gibblets.top
 0.0.0.0 adguard.maison.gifino.fr
 0.0.0.0 gigatapbot.top
-0.0.0.0 bvo.giize.com
 0.0.0.0 lamdtl.giize.com
 0.0.0.0 dns.ginovs.nl
 0.0.0.0 dns.girino.org
-0.0.0.0 doh.ptqy.gitv.tv
 0.0.0.0 h.gjrick.tw
 0.0.0.0 sdns22.gkonuralp.com
 0.0.0.0 glacius.top
@@ -1879,7 +1870,6 @@
 0.0.0.0 ad.imblien.com
 0.0.0.0 noads.imbuffering.com
 0.0.0.0 dns.imchristian.de
-0.0.0.0 dns1.imkvq.com
 0.0.0.0 immadnez7.ru
 0.0.0.0 dns.immanuelschaffer.de
 0.0.0.0 doh.immerda.ch
@@ -1892,7 +1882,6 @@
 0.0.0.0 incaseineeditoneday.com
 0.0.0.0 dns.inclusioproject.com
 0.0.0.0 adblock.indianets.net
-0.0.0.0 dns.indraarsana.site
 0.0.0.0 dns.indybanipal.com
 0.0.0.0 dns.inforlogia.com
 0.0.0.0 doh.infotechlibrary.com
@@ -1907,8 +1896,6 @@
 0.0.0.0 inoainoa.fun
 0.0.0.0 inpssh.online
 0.0.0.0 qlf-doh.inria.fr
-0.0.0.0 d1.insec.link
-0.0.0.0 srv.insec.link
 0.0.0.0 premiumtier-network.instadart.net
 0.0.0.0 dns.interhub.cc
 0.0.0.0 intertop.link
@@ -2157,7 +2144,6 @@
 0.0.0.0 dns.lermer.nl
 0.0.0.0 lesuo.top
 0.0.0.0 dns.levonet.sk
-0.0.0.0 lewsha.lol
 0.0.0.0 br2.lezainski.com
 0.0.0.0 dns2.lezainski.com
 0.0.0.0 dns.lgprk.com
@@ -2260,7 +2246,6 @@
 0.0.0.0 ag.marschi.de
 0.0.0.0 dns.marschi.de
 0.0.0.0 test.marss.pro
-0.0.0.0 vps.marteskutil.cz
 0.0.0.0 ddns.martinmore.online
 0.0.0.0 n10.martkotur.ru
 0.0.0.0 n50.martkotur.ru
@@ -2688,6 +2673,8 @@
 0.0.0.0 resolver2-fs.opendns.com
 0.0.0.0 sandbox.opendns.com
 0.0.0.0 doh.sandbox.opendns.com
+0.0.0.0 adblock.opendoh.com
+0.0.0.0 dns.opendoh.com
 0.0.0.0 resolver4.dns.openinternet.io
 0.0.0.0 ns1.opennameserver.org
 0.0.0.0 ns2.opennameserver.org
@@ -2711,7 +2698,6 @@
 0.0.0.0 adguard3.ota.moe
 0.0.0.0 adguard4.ota.moe
 0.0.0.0 dns.otezz.net
-0.0.0.0 dns.ours.luxe
 0.0.0.0 dns.ourvau.lt
 0.0.0.0 vps-1f675aa1.vps.ovh.us
 0.0.0.0 1a.ns.ozer.im
@@ -2922,7 +2908,6 @@
 0.0.0.0 dns.readlook.tk
 0.0.0.0 agh.realwap.net
 0.0.0.0 hk.reaticle.com
-0.0.0.0 dns.reckoningslug.name
 0.0.0.0 dns.redroot.cc
 0.0.0.0 dns.redvau.lt
 0.0.0.0 cdn.refined.pro
@@ -2934,7 +2919,6 @@
 0.0.0.0 dns.reolinks.ru
 0.0.0.0 dns.repinger.com
 0.0.0.0 dns.repressoh.it
-0.0.0.0 reptis.online
 0.0.0.0 wg.req1.fr
 0.0.0.0 x.res.wang
 0.0.0.0 dns.resoft.org
@@ -3044,7 +3028,6 @@
 0.0.0.0 sdvizhkov.ru
 0.0.0.0 adguard.sealyserver.com
 0.0.0.0 dns.seaotter.cc
-0.0.0.0 adguard.searom.ovh
 0.0.0.0 dns.searom.ovh
 0.0.0.0 2.dnscrypt-cert.dns.seby.io
 0.0.0.0 doh.seby.io
@@ -3141,6 +3124,7 @@
 0.0.0.0 adguard.som-it.net
 0.0.0.0 bwg.sooda.moe
 0.0.0.0 adguard.spaceindex.net
+0.0.0.0 adguard.sparshbajaj.me
 0.0.0.0 lomoff.spb.ru
 0.0.0.0 wifrousl.spdns.de
 0.0.0.0 dns.spirio.fr
@@ -3205,7 +3189,6 @@
 0.0.0.0 surt.ovh
 0.0.0.0 dns.sv-zauner.at
 0.0.0.0 svg33.eu
-0.0.0.0 dns2.svip.one
 0.0.0.0 dns.svoi.dev
 0.0.0.0 dns-cache.switch.ch
 0.0.0.0 dns-cache2.switch.ch
@@ -3414,7 +3397,6 @@
 0.0.0.0 dns.veikus.com
 0.0.0.0 dns.vemo.cc
 0.0.0.0 securedns.vendorvista.xyz
-0.0.0.0 venum.space
 0.0.0.0 dns.vietdns.vn
 0.0.0.0 kids.vietdns.vn
 0.0.0.0 tls.vietguards.cloud
@@ -3542,11 +3524,9 @@
 0.0.0.0 wyx.cloud
 0.0.0.0 ads.x88.in
 0.0.0.0 adguard.x88x.xyz
-0.0.0.0 mydns.x96maxultra.ru
 0.0.0.0 adguard.xandersalarie.com
 0.0.0.0 adb-home.xaoimoon.fr
 0.0.0.0 adb-wan.xaoimoon.fr
-0.0.0.0 xbcpb668.com
 0.0.0.0 dns.xcapenet.ru
 0.0.0.0 dns2.xcapenet.ru
 0.0.0.0 doh.xcom.pro

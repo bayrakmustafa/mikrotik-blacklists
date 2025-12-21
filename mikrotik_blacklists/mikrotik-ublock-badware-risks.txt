@@ -19,7 +19,6 @@
 0.0.0.0 mdowny11.cfd
 0.0.0.0 sonvupload.xyz
 0.0.0.0 stupdownloadf.com
-0.0.0.0 haxsoft.com
 0.0.0.0 gghut.com
 0.0.0.0 007itshop.com
 0.0.0.0 my-bitbank.cc
@@ -261,7 +260,6 @@
 0.0.0.0 kmspicoativador.org
 0.0.0.0 kmspicoofficial.com
 0.0.0.0 onepiecegoods.com
-0.0.0.0 wppanel.icu
 0.0.0.0 problems-center.com
 0.0.0.0 florida.revenue-*.net
 0.0.0.0 phila.revenue*.cc
@@ -286,5 +284,6 @@
 0.0.0.0 dmca-security.com
 0.0.0.0 simplesvvap.lol
 0.0.0.0 easybit.site
+0.0.0.0 app.solayer.bond
 0.0.0.0 uniswap.www.org
 0.0.0.0 sunswap.nexus

@@ -164,6 +164,7 @@
 0.0.0.0 blackvpn.com
 0.0.0.0 calm-tree-976.blanktext.net
 0.0.0.0 blocka.net
+0.0.0.0 blockadhomemoskva.ru
 0.0.0.0 blockaway.net
 0.0.0.0 blockedsiteaccess.com
 0.0.0.0 blockless.com
@@ -247,6 +248,8 @@
 0.0.0.0 cloaker.us
 0.0.0.0 cloakpoint.com
 0.0.0.0 cloakvpn.com
+0.0.0.0 dns.cloud-admin.xyz
+0.0.0.0 doh.cloud-sekeng.com
 0.0.0.0 meow.partedu.club.cdn.cloudflare.net
 0.0.0.0 study.info.east-kazakhstan.su.cdn.cloudflare.net
 0.0.0.0 site.artweb.website.cdn.cloudflare.net
@@ -298,6 +301,7 @@
 0.0.0.0 football.coaching2lead.com
 0.0.0.0 cocoombr.com
 0.0.0.0 cocoproxy.com
+0.0.0.0 dns.code66.de
 0.0.0.0 coinsite.info
 0.0.0.0 4y5t.coke0.cc
 0.0.0.0 coloney3.com
@@ -458,6 +462,7 @@
 0.0.0.0 droidvpn.com
 0.0.0.0 bitly-galatikx.duckdns.org
 0.0.0.0 huawaakiskokoa.duckdns.org
+0.0.0.0 test.zkwg.duckdns.org
 0.0.0.0 georgetown.duia.us
 0.0.0.0 dutchproxy.nl
 0.0.0.0 dvprovider.icu
@@ -515,6 +520,7 @@
 0.0.0.0 deepcs.estiloescencial.cl
 0.0.0.0 proxy.eti.pw
 0.0.0.0 ettego.com
+0.0.0.0 adg.niub.eu.org
 0.0.0.0 rammerhead.eu.org
 0.0.0.0 eurproxy.com
 0.0.0.0 everyproxies.info
@@ -579,6 +585,7 @@
 0.0.0.0 small-kids.foxgateway.com
 0.0.0.0 stop-it-now-stop-it-now.foxgateway.com
 0.0.0.0 we-need-more.foxgateway.com
+0.0.0.0 de-d2.foxyfy.net
 0.0.0.0 securly.com.fpr.net
 0.0.0.0 hotmoms.fpr.net
 0.0.0.0 turtlelover.fpr.net
@@ -634,6 +641,7 @@
 0.0.0.0 french-vpn.com
 0.0.0.0 fun4school.store
 0.0.0.0 funknetwork.com
+0.0.0.0 dns.furrydns.de
 0.0.0.0 furriesarecute.furryplace.eu
 0.0.0.0 gabstorm.com
 0.0.0.0 bolt.galacticrouter.xyz
@@ -671,6 +679,7 @@
 0.0.0.0 ghostbrowser.com
 0.0.0.0 ghostpath.com
 0.0.0.0 gifttrees.us
+0.0.0.0 bvo.giize.com
 0.0.0.0 gingerbread.design
 0.0.0.0 gipvpn.com
 0.0.0.0 proxybrowser.github.io
@@ -804,6 +813,7 @@
 0.0.0.0 iksde.com
 0.0.0.0 ilumu.com
 0.0.0.0 ilysk.lol
+0.0.0.0 dns1.imkvq.com
 0.0.0.0 imnotaproxy.com
 0.0.0.0 dns-fra.imo.im
 0.0.0.0 dns-sgp.imo.im
@@ -814,9 +824,12 @@
 0.0.0.0 incog.works
 0.0.0.0 indiaproxy.win
 0.0.0.0 indo-ssh.com
+0.0.0.0 dns.indraarsana.site
 0.0.0.0 infvpn.com
 0.0.0.0 bolt.inglap.com
 0.0.0.0 ininja.org
+0.0.0.0 d1.insec.link
+0.0.0.0 srv.insec.link
 0.0.0.0 instantunblock.com
 0.0.0.0 intego.com
 0.0.0.0 interncloud.info
@@ -932,6 +945,7 @@
 0.0.0.0 legaladvisor.us
 0.0.0.0 legalweb.info
 0.0.0.0 letsvpn.world
+0.0.0.0 lewsha.lol
 0.0.0.0 kagurabachilover.lgmnow.com
 0.0.0.0 libertyvpn.net
 0.0.0.0 neon.lifepixeled.com
@@ -964,6 +978,7 @@
 0.0.0.0 rc-1140.malskoy-med.ru
 0.0.0.0 running.marchd.ru
 0.0.0.0 sp.marieblazek.com
+0.0.0.0 vps.marteskutil.cz
 0.0.0.0 maskedip.com
 0.0.0.0 ultraus.masplenedigitalworld.com
 0.0.0.0 master-clock.us
@@ -1128,6 +1143,7 @@
 0.0.0.0 learning.orestpena.com
 0.0.0.0 educationperfect.wbcc.org.au
 0.0.0.0 osqcsmm.shop
+0.0.0.0 dns.ours.luxe
 0.0.0.0 proxy.outred.dev
 0.0.0.0 bolt.ovaa.cl
 0.0.0.0 oversecure.ltd
@@ -1374,6 +1390,7 @@
 0.0.0.0 edu.readerwrangler.com
 0.0.0.0 login.readinghelper.online
 0.0.0.0 www-p.reaper.mx
+0.0.0.0 dns.reckoningslug.name
 0.0.0.0 vladimirloljk.lollipopyum.liveastheman.reconectar.cl
 0.0.0.0 topwriting.redalameda.cl
 0.0.0.0 redhoodie.site
@@ -1385,6 +1402,7 @@
 0.0.0.0 reflect4.me
 0.0.0.0 remotevpn.net
 0.0.0.0 repocket.co
+0.0.0.0 reptis.online
 0.0.0.0 resolver.arpa
 0.0.0.0 restaurantgift.us
 0.0.0.0 revko.info
@@ -1443,6 +1461,7 @@
 0.0.0.0 proxy.searchfiles.de
 0.0.0.0 geo.searchgpy.com
 0.0.0.0 searchproxy.info
+0.0.0.0 adguard.searom.ovh
 0.0.0.0 quiz.teach.secold.com
 0.0.0.0 secretproxy.org
 0.0.0.0 secure-vpn.com
@@ -1617,6 +1636,7 @@
 0.0.0.0 surfwebsite.org
 0.0.0.0 surprise.pics
 0.0.0.0 surtshark.com
+0.0.0.0 dns2.svip.one
 0.0.0.0 ramm-ume-pro.swanndvr.net
 0.0.0.0 science-making.swanndvr.net
 0.0.0.0 swapip.com
@@ -1798,6 +1818,7 @@
 0.0.0.0 valuepremium.us
 0.0.0.0 skibidiboppyyesyes.vanitypanels.com
 0.0.0.0 vectroproxy.com
+0.0.0.0 venum.space
 0.0.0.0 algebra-help-and-lessons.vercel.app
 0.0.0.0 art-class-omg.vercel.app
 0.0.0.0 asdsasd.vercel.app
@@ -1958,6 +1979,8 @@
 0.0.0.0 wtools.eu
 0.0.0.0 proxy.wynd.network
 0.0.0.0 cors.x2u.in
+0.0.0.0 mydns.x96maxultra.ru
+0.0.0.0 xbcpb668.com
 0.0.0.0 www-bruh.xenon.lol
 0.0.0.0 xite.cc
 0.0.0.0 xite.mobi

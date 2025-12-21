@@ -1,27 +1,16 @@
-# ------------------------------------[UPDATE]--------------------------------------
-# Title: The Block List Project - Tracking List
-# Expires: 1 day
-# Homepage: https://blocklist.site
-# Help: https://github.com/blocklistproject/lists/wiki/
-# License: https://unlicense.org
-# Total number of network filters: 15070
-# ------------------------------------[SUPPORT]-------------------------------------
-# You can support by:
-# - reporting false positives
-# - making a donation: https://paypal.me/blocklistproject
-# -------------------------------------[INFO]---------------------------------------
+# Title: Tracking Block List
+# Description: Tracking and analytics
+# Homepage: https://github.com/blocklistproject/Lists
+# License: MIT
+# Last modified: 2025-12-19 16:39:34 UTC
+# Format: hosts
+# Entries: 15,070
+# URL: 
 #
-# tracking list
-# ------------------------------------[FILTERS]-------------------------------------
-# 0.0.0.0 footprint.net Resolved Issue 29
-# 0.0.0.0 hubspot.com Issue 52
-# 0.0.0.0 intercomassets.com Issue 48
-# 0.0.0.0 newrelic.com Issue 53
-# 0.0.0.0 byside.com Issue 10
-# 0.0.0.0 counters.gigya.com Issue 7
-# 0.0.0.0 gigya.com Issue 7
-# 0.0.0.0 ipinfo.io Issue 21
-# 0.0.0.0 yospace.com Issue 12
+# This list is maintained by The Block List Project
+# https://github.com/blocklistproject/Lists
+#
+
 0.0.0.0 1010data.com
 0.0.0.0 10cms.com
 0.0.0.0 111proxy.com
@@ -301,6 +290,7 @@
 0.0.0.0 analytics.ip-profis.de
 0.0.0.0 analytics.live-panorama.com
 0.0.0.0 analytics.magelan.it
+0.0.0.0 analytics.meaww.com
 0.0.0.0 analytics.microsoft.com
 0.0.0.0 analytics.nionex.net
 0.0.0.0 analytics.nznweb.com.br
@@ -316,6 +306,7 @@
 0.0.0.0 anuncios.sapo.pt
 0.0.0.0 apeachsky.com
 0.0.0.0 apero-bigdata.com
+0.0.0.0 api.crowdin.com
 0.0.0.0 api.worldsense.com
 0.0.0.0 api.yontoo.com
 0.0.0.0 apn.co.nz
@@ -382,6 +373,7 @@
 0.0.0.0 asocials.com
 0.0.0.0 aspirer.xyz
 0.0.0.0 astutemetrics.com
+0.0.0.0 asus.router.com
 0.0.0.0 atomz.com
 0.0.0.0 atout.email-match.com
 0.0.0.0 audienceco-op.com
@@ -457,7 +449,6 @@
 0.0.0.0 blutonic.net
 0.0.0.0 bluuadd.com
 0.0.0.0 bn.uol.com.br
-# 0.0.0.0 boards.greenhouse.io Issue 372
 0.0.0.0 bolimubei.com
 0.0.0.0 bookltd1.com
 0.0.0.0 bookltd10.info
@@ -769,6 +760,7 @@
 0.0.0.0 cpmstars.com
 0.0.0.0 cq.io
 0.0.0.0 crash.steampowered.com
+0.0.0.0 crawler.algolia.com
 0.0.0.0 crealytics.com
 0.0.0.0 createabetterinternet.com
 0.0.0.0 createsend.click
@@ -1588,10 +1580,10 @@
 0.0.0.0 metaflow.com
 0.0.0.0 meteora.co
 0.0.0.0 meteora.us
-0.0.0.0 metrics.aftonbladet.se
-0.0.0.0 metrics.nt.vc
 0.0.0.0 metric.ind.rediff.com
 0.0.0.0 metric.rediff.com
+0.0.0.0 metrics.aftonbladet.se
+0.0.0.0 metrics.nt.vc
 0.0.0.0 metrics.tiscover.com
 0.0.0.0 metricswindow.com
 0.0.0.0 mgsvc.com
@@ -11664,6 +11656,7 @@
 0.0.0.0 mouseflow.net
 0.0.0.0 mouseflow.org
 0.0.0.0 mouseflow.us
+0.0.0.0 mousegesturesapi.com
 0.0.0.0 movfile.net
 0.0.0.0 movingos.com
 0.0.0.0 movoxi.com
@@ -11813,7 +11806,6 @@
 0.0.0.0 nmp5.com
 0.0.0.0 nmp6.com
 0.0.0.0 nodes.npm9sh75p.com
-# 0.0.0.0 nosto.com Issue 132
 0.0.0.0 notice1-09.com
 0.0.0.0 notice1-11.com
 0.0.0.0 notice1-12.com
@@ -11822,6 +11814,7 @@
 0.0.0.0 novao.net
 0.0.0.0 npario.com
 0.0.0.0 nt.vc
+0.0.0.0 ntvp.wpu.sh
 0.0.0.0 nuffnang.com.sg
 0.0.0.0 oas-central.com
 0.0.0.0 oas-central.net
@@ -11978,7 +11971,6 @@
 0.0.0.0 preved.tut.by
 0.0.0.0 prfhn.com
 0.0.0.0 primefuse.com
-# 0.0.0.0 priority-static-api.nkstatic.com Issue 141
 0.0.0.0 privacy.aol.com
 0.0.0.0 privateebusiness.com
 0.0.0.0 privatescale.com
@@ -12079,6 +12071,7 @@
 0.0.0.0 rebrand.today
 0.0.0.0 rebranded.link
 0.0.0.0 rebrandly.pro
+0.0.0.0 rebrandlydomain.com
 0.0.0.0 reclaimthenet.com
 0.0.0.0 recomenda.com.br
 0.0.0.0 red.tingrinter.com
@@ -12390,6 +12383,7 @@
 0.0.0.0 smarterclick.co.uk
 0.0.0.0 smartmpanel.com
 0.0.0.0 smartpassage.com
+0.0.0.0 smarturl.it
 0.0.0.0 smb-store.c66.me
 0.0.0.0 smetrics.oetker.de
 0.0.0.0 snaplytics.io
@@ -12428,6 +12422,7 @@
 0.0.0.0 solidinc.net
 0.0.0.0 solorpowernowme.com
 0.0.0.0 solvemedia.com
+0.0.0.0 songlytics.net
 0.0.0.0 soos.soliver.de
 0.0.0.0 spaceio.xyz
 0.0.0.0 special-delivery-1.com
@@ -12445,6 +12440,7 @@
 0.0.0.0 sptslmtrafms.com
 0.0.0.0 spynetalt.microsoft.com
 0.0.0.0 spyvisit.com
+0.0.0.0 src.labeldollars.com
 0.0.0.0 srv123.com
 0.0.0.0 srv4pub.com
 0.0.0.0 srvntrk.com
@@ -12605,6 +12601,7 @@
 0.0.0.0 tracker.dawanda.in
 0.0.0.0 tracker.mc-svc-c.it
 0.0.0.0 tracker.mcontact.pro
+0.0.0.0 tracker.nice-prod.pro
 0.0.0.0 tracker.openholidayguide.de
 0.0.0.0 tracker.oplkw.com
 0.0.0.0 tracker.softgarden.de
@@ -12686,6 +12683,7 @@
 0.0.0.0 truviewanalytics.com
 0.0.0.0 truviewdata.com
 0.0.0.0 trychameleon.com
+0.0.0.0 ts.market.mi-img.com
 0.0.0.0 ttmdduyuru.net
 0.0.0.0 ttxm.co.uk
 0.0.0.0 tuchka.icu
@@ -12760,6 +12758,7 @@
 0.0.0.0 valassisdigital.io
 0.0.0.0 valdelabs.com
 0.0.0.0 valtrk.com
+0.0.0.0 vasgenerete.site
 0.0.0.0 vcmedia.vn
 0.0.0.0 vergic.com
 0.0.0.0 vergic.net
@@ -12934,16 +12933,3 @@
 0.0.0.0 zxad.net
 0.0.0.0 zylpfood.com
 0.0.0.0 zzword.com
-0.0.0.0 src.labeldollars.com
-0.0.0.0 tracker.nice-prod.pro
-0.0.0.0 vasgenerete.site
-0.0.0.0 ntvp.wpu.sh
-0.0.0.0 rebrandlydomain.com
-0.0.0.0 api.crowdin.com
-0.0.0.0 crawler.algolia.com
-0.0.0.0 ts.market.mi-img.com
-0.0.0.0 smarturl.it
-0.0.0.0 asus.router.com
-0.0.0.0 analytics.meaww.com
-0.0.0.0 mousegesturesapi.com
-0.0.0.0 songlytics.net

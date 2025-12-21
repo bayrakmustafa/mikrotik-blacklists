@@ -163,6 +163,5 @@
 0.0.0.0 widgets.engageya.com
 0.0.0.0 ww38.main.termux-mirror.ml
 0.0.0.0 xmtvreklam3d.com
-0.0.0.0 xngqoc.com
 0.0.0.0 zcode12.me
 0.0.0.0 zpbpenn.com

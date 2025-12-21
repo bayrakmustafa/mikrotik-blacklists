@@ -1,8 +1,8 @@
 #
 #    File: Gambling
 #    Info: Casino, gambling, poker, etc.
-# Domains: 9,278
-# Updated: 11/20/2025  14:51 (2:51 PM CST)
+# Domains: 9,288
+# Updated: 12/17/2025  18:17 (6:17 PM CST)
 #
 0.0.0.0 0009casino.com
 0.0.0.0 000-online-casino.biz
@@ -3249,6 +3249,13 @@
 0.0.0.0 dadycasino.com
 0.0.0.0 dadywin777.com
 0.0.0.0 dafabet247.club
+0.0.0.0 dahibet51.com
+0.0.0.0 dahibet62.com
+0.0.0.0 dahibet63.com
+0.0.0.0 dahibet64.com
+0.0.0.0 dahibet66.com
+0.0.0.0 dahibet68.com
+0.0.0.0 dahibet69.com
 0.0.0.0 dallascasinoevent.com
 0.0.0.0 dama-casinos.com
 0.0.0.0 daman-casino.net
@@ -5139,12 +5146,15 @@
 0.0.0.0 lottery.co.za
 0.0.0.0 lottery.dk
 0.0.0.0 lottery-insurance.com
+0.0.0.0 lotteryjackpot.net
+0.0.0.0 lotterymania.net
 0.0.0.0 lotteryplus.net
 0.0.0.0 lotterysambadresult.in
 0.0.0.0 lotteryscasino.com
 0.0.0.0 lottery.sg
 0.0.0.0 lottery.xyz
 0.0.0.0 lotto649.ca
+0.0.0.0 lottoextra.net
 0.0.0.0 lottosod888.site
 0.0.0.0 lottospot.ca
 0.0.0.0 lotus247.co
