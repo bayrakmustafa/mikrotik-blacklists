@@ -73056,7 +73056,6 @@
 0.0.0.0 metrics-collector.onscroll.com
 0.0.0.0 metrics-collector.s-onetag.com
 0.0.0.0 metrics-collector.us.onscroll.com
-0.0.0.0 metrics-config.icloud.com
 0.0.0.0 metrics-nl.fitanalytics.com
 0.0.0.0 metrics-node-nl.fitanalytics.com
 0.0.0.0 metrics-trotsky.fitanalytics.com
@@ -101304,6 +101303,7 @@
 0.0.0.0 tuppbags.com
 0.0.0.0 turbo.engageclick.com
 0.0.0.0 turbo.qualaroo.com
+0.0.0.0 turboads.de
 0.0.0.0 turbobanner.com
 0.0.0.0 turbocpp-ads.firebaseio.com
 0.0.0.0 turbofileindir.com

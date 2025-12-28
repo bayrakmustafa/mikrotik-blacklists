@@ -10209,6 +10209,7 @@
 0.0.0.0 jsonapi2.linksnew.info
 0.0.0.0 jspg.cc
 0.0.0.0 jssd.uumeitu.com
+0.0.0.0 jssdk.rayjump.com
 0.0.0.0 jssdk.touchpoints.schibsted.media
 0.0.0.0 jstor.org
 0.0.0.0 jsv3.recruitics.com
@@ -11785,7 +11786,6 @@
 0.0.0.0 modernstreaming.in
 0.0.0.0 modules.wearehearken.eu
 0.0.0.0 modulous.huffpost.com
-0.0.0.0 moengage.com
 0.0.0.0 mohalla.in
 0.0.0.0 mojiva.com
 0.0.0.0 mollitiamindustries.com
@@ -16147,7 +16147,6 @@
 0.0.0.0 telemetry.docusign.net
 0.0.0.0 telemetry.microsoft.com
 0.0.0.0 telemetry.microsoft.com.nsatc.net
-0.0.0.0 telemetry.microsoft.us
 0.0.0.0 telemetry.mozilla.org
 0.0.0.0 telemetry.notable.app
 0.0.0.0 telemetry.remoteapp.windowsazure.com

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 20 Dec 2025 18:38 UTC
-# Version: 2025.1220.1838.58
+# Last modified: 24 Dec 2025 10:32 UTC
+# Version: 2025.1224.1032.38
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3824
+# Number of entries: 3822
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -394,9 +394,9 @@
 0.0.0.0 filter.badbotdev.xyz
 0.0.0.0 dns.bai0012.com
 0.0.0.0 dnscdn.bai0012.com
-0.0.0.0 httpdns.baidu.com
 0.0.0.0 dns.baishiyuan.cn
 0.0.0.0 adguard.baltes.info
+0.0.0.0 bancuh.com
 0.0.0.0 fr-dns1.bancuh.com
 0.0.0.0 fr-dns2.bancuh.com
 0.0.0.0 jp-dns1.bancuh.com
@@ -1299,7 +1299,6 @@
 0.0.0.0 osefcorp.duckdns.org
 0.0.0.0 pitchforkwaydns.duckdns.org
 0.0.0.0 punono.duckdns.org
-0.0.0.0 quanmeme.duckdns.org
 0.0.0.0 rcpc2.duckdns.org
 0.0.0.0 salvadoserver.duckdns.org
 0.0.0.0 site-2.duckdns.org
@@ -1483,7 +1482,6 @@
 0.0.0.0 dns.fizz.studio
 0.0.0.0 resolve.fknw.de
 0.0.0.0 doh.flashstart.com
-0.0.0.0 dns.flatuslifir.is
 0.0.0.0 spyro-the-bat.fleuryk.ovh
 0.0.0.0 spyrothebat.fleuryk.ovh
 0.0.0.0 vps.fleuryk.ovh
@@ -3065,7 +3063,6 @@
 0.0.0.0 free.shecan.ir
 0.0.0.0 pro.shecan.ir
 0.0.0.0 dns.sheggi.ch
-0.0.0.0 httpdns.n.shifen.com
 0.0.0.0 dns.shimul.me
 0.0.0.0 do.shimul.me
 0.0.0.0 adguard.shoupperuser.com

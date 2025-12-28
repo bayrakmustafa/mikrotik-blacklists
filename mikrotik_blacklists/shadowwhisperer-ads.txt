@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 25,148
-# Updated: 12/19/2025  01:37 (1:37 AM CST)
+# Domains: 25,155
+# Updated: 12/23/2025  10:47 (10:47 AM CST)
 #
 0.0.0.0 0063450bb8e5e3369ef8c167a463d15c01527283b79bd266bb19b23e.com
 0.0.0.0 03ab2paradisecdn.com
@@ -3193,7 +3193,6 @@
 0.0.0.0 ads.insporti.com
 0.0.0.0 ads.instacart.com
 0.0.0.0 adsintelligence.marketing
-0.0.0.0 adsinteractive.com
 0.0.0.0 ads.intercare.co.za
 0.0.0.0 ads.interduo.es
 0.0.0.0 ads.interdynglobal.com
@@ -5273,6 +5272,7 @@
 0.0.0.0 app.scamcatchers.com
 0.0.0.0 appsdiscover.com
 0.0.0.0 appsecmedia.com
+0.0.0.0 appsgrowthpromo-pa.googleapis.com
 0.0.0.0 app-shake.com
 0.0.0.0 appsilon.kr
 0.0.0.0 appslambda.com
@@ -7902,7 +7902,6 @@
 0.0.0.0 elevationadvertising.com
 0.0.0.0 elinfinitoindia.in
 0.0.0.0 elitebannerads.com
-0.0.0.0 elitebidder.com
 0.0.0.0 elitenovacorp.com
 0.0.0.0 elusivecomplfruitstrate.click
 0.0.0.0 elymobile.com
@@ -8670,6 +8669,7 @@
 0.0.0.0 go1.st3a3.com
 0.0.0.0 go1.trakit20.com
 0.0.0.0 go1.trakit3.com
+0.0.0.0 go1.trakit5.com
 0.0.0.0 go24advertising.com
 0.0.0.0 go2frr.com
 0.0.0.0 go2-me.com
@@ -10054,6 +10054,7 @@
 0.0.0.0 luminoustreat.pro
 0.0.0.0 lumpysun.pro
 0.0.0.0 lunagyja.xyz
+0.0.0.0 lunarcave.com
 0.0.0.0 lunarcow.com
 0.0.0.0 lundmarkadv.com
 0.0.0.0 lundmarkadvertising.com
@@ -10854,7 +10855,6 @@
 0.0.0.0 neptunepush.com
 0.0.0.0 nerdbrandagency.com
 0.0.0.0 nervous-story.pro
-0.0.0.0 nesta.dimawusinners.xyz
 0.0.0.0 netadex.com
 0.0.0.0 netage.co.za
 0.0.0.0 netb11.com
@@ -14111,6 +14111,7 @@
 0.0.0.0 smrktad.site
 0.0.0.0 smrtgs.com
 0.0.0.0 smsbump.com
+0.0.0.0 s.naffertop.com
 0.0.0.0 snap.feed.snapjudgment.org
 0.0.0.0 snappycar.pro
 0.0.0.0 snapshine.de
@@ -14187,6 +14188,7 @@
 0.0.0.0 sourcepoint.theguardian.com
 0.0.0.0 sour-hate.pro
 0.0.0.0 sovtrk.com
+0.0.0.0 sovtrk.ru
 0.0.0.0 soxg.xyz
 0.0.0.0 sozhb.com
 0.0.0.0 sp01.masmar.com
@@ -15073,7 +15075,6 @@
 0.0.0.0 tv2h87.net
 0.0.0.0 tv33whpr.com
 0.0.0.0 tvadsync.com
-0.0.0.0 tvp.tv
 0.0.0.0 tvtelemetrie.de
 0.0.0.0 tvty.tv
 0.0.0.0 twami.com
@@ -15978,6 +15979,7 @@
 0.0.0.0 ws2-cache.aptoide.com
 0.0.0.0 ws75.aptoide.com
 0.0.0.0 wsaa.com
+0.0.0.0 ws.iadsnetwork.com
 0.0.0.0 wsicorporate.com
 0.0.0.0 wstpush-mobile.terra.com
 0.0.0.0 wsynpe.com
