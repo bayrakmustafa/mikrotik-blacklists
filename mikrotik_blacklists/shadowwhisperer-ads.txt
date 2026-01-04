@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 25,155
-# Updated: 12/23/2025  10:47 (10:47 AM CST)
+# Domains: 25,170
+# Updated: 12/31/2025  11:02 (11:02 AM CST)
 #
 0.0.0.0 0063450bb8e5e3369ef8c167a463d15c01527283b79bd266bb19b23e.com
 0.0.0.0 03ab2paradisecdn.com
@@ -1611,6 +1611,7 @@
 0.0.0.0 adnetwork.digital
 0.0.0.0 adnetwork.martinstools.com
 0.0.0.0 adnetworkonline.com
+0.0.0.0 adnew.baobinhduong.vn
 0.0.0.0 adnext.indelso.ovh
 0.0.0.0 adnext.tv
 0.0.0.0 ad.ng.ru
@@ -5016,6 +5017,7 @@
 0.0.0.0 aldesigns.com
 0.0.0.0 alertaspush.com
 0.0.0.0 alertgraph.com
+0.0.0.0 alertopia.io
 0.0.0.0 alerts.hungama.com
 0.0.0.0 alerts.ndtv.com
 0.0.0.0 alertzy.app
@@ -5226,6 +5228,7 @@
 0.0.0.0 apiv1.oschina.net
 0.0.0.0 apixgcp-prod.ingrammicro.com
 0.0.0.0 a.pixiv.org
+0.0.0.0 api.xxxbanjo.com
 0.0.0.0 a.plcforum.it
 0.0.0.0 aplu.io
 0.0.0.0 apnaseattle.net
@@ -6739,7 +6742,6 @@
 0.0.0.0 collectcent.co
 0.0.0.0 collectcent.com
 0.0.0.0 colorfulprosgoodiesement.space
-0.0.0.0 coloroptimizer.com
 0.0.0.0 colorwavesmedia.com
 0.0.0.0 coloursquare.net
 0.0.0.0 column6.tv
@@ -7267,6 +7269,7 @@
 0.0.0.0 cxrsyt.com
 0.0.0.0 cyberads.io
 0.0.0.0 cyberalien.github.io
+0.0.0.0 cybernotif.com
 0.0.0.0 cybershop-affiliate.jp
 0.0.0.0 cybertronads.com
 0.0.0.0 cyber-z.co.jp
@@ -7369,6 +7372,7 @@
 0.0.0.0 data-cash.net
 0.0.0.0 data-cash.network
 0.0.0.0 data.cdgtw.net
+0.0.0.0 datadrives.ai
 0.0.0.0 datapop.com
 0.0.0.0 datastoried.com
 0.0.0.0 datspush.com
@@ -7537,7 +7541,6 @@
 0.0.0.0 digitaladsystems.com
 0.0.0.0 digitaladv.despar.it
 0.0.0.0 digitalbeard.co.nz
-0.0.0.0 digitalcaramel.com
 0.0.0.0 digitalclickstime.com
 0.0.0.0 digitaldhuria.com
 0.0.0.0 digitaledze.com
@@ -7636,6 +7639,7 @@
 0.0.0.0 dkmadsnetwork.com
 0.0.0.0 dkms.digikala.com
 0.0.0.0 dlads.cn
+0.0.0.0 dlgongfu.com
 0.0.0.0 dl.indexmovies.xyz
 0.0.0.0 dmarc.net
 0.0.0.0 dmdj655uxuj8f.cloudfront.net
@@ -9185,6 +9189,7 @@
 0.0.0.0 ikikik.xyz
 0.0.0.0 ikjwmfeds.xyz
 0.0.0.0 ikkxw.com
+0.0.0.0 iklan.pawartajatim.com
 0.0.0.0 ikroh.com
 0.0.0.0 ileadetal.co.za
 0.0.0.0 ileadetal.nl
@@ -9515,6 +9520,7 @@
 0.0.0.0 jipo.io
 0.0.0.0 ji-qo-joo.space
 0.0.0.0 j.islam.kz
+0.0.0.0 jivlgqgmke.com
 0.0.0.0 jjcus.com
 0.0.0.0 jjkadserver.de
 0.0.0.0 jjzj.online
@@ -9681,6 +9687,7 @@
 0.0.0.0 kingfish.fishing.net.nz
 0.0.0.0 kingyonlendir.link
 0.0.0.0 kinkledunendly.com
+0.0.0.0 kinktsy.com
 0.0.0.0 ki.solujav.my
 0.0.0.0 kitchandschreiber.com
 0.0.0.0 kites365.com
@@ -10054,7 +10061,6 @@
 0.0.0.0 luminoustreat.pro
 0.0.0.0 lumpysun.pro
 0.0.0.0 lunagyja.xyz
-0.0.0.0 lunarcave.com
 0.0.0.0 lunarcow.com
 0.0.0.0 lundmarkadv.com
 0.0.0.0 lundmarkadvertising.com
@@ -11160,7 +11166,6 @@
 0.0.0.0 ofg.it
 0.0.0.0 ofseedotom.com
 0.0.0.0 ofxfj.com
-0.0.0.0 ogads-pa.clients6.google.com
 0.0.0.0 ogilvi.medium.al
 0.0.0.0 oglasi2.kulinarika.net
 0.0.0.0 oglasi.moji-recepti.net
@@ -11757,6 +11762,7 @@
 0.0.0.0 picmeta202109.xyz
 0.0.0.0 picmeta202112.xyz
 0.0.0.0 pictela.com
+0.0.0.0 pieceofautomation.pl
 0.0.0.0 piercecomm.com
 0.0.0.0 piercinghurry.pro
 0.0.0.0 piercingtotal.pro
@@ -12377,6 +12383,7 @@
 0.0.0.0 push.eldiariomontanes.es
 0.0.0.0 push-engage.com
 0.0.0.0 pushenhance.com
+0.0.0.0 pusher.cv
 0.0.0.0 pusher.myvcrd.com
 0.0.0.0 pusher.seamlessqrcode.com
 0.0.0.0 pusherstudio.com
@@ -13504,6 +13511,7 @@
 0.0.0.0 safeclck.com
 0.0.0.0 safeleadsforever.com
 0.0.0.0 safeleadstrack.com
+0.0.0.0 safemud.pro
 0.0.0.0 safeplacegaming.com
 0.0.0.0 safevisitors.net
 0.0.0.0 sagum.org
@@ -14790,6 +14798,7 @@
 0.0.0.0 theurbaniq.com
 0.0.0.0 thevab.com
 0.0.0.0 thevibrand.com
+0.0.0.0 thevospad.com
 0.0.0.0 thewebpush.com
 0.0.0.0 thewendtagency.com
 0.0.0.0 thiel.com
@@ -14903,6 +14912,7 @@
 0.0.0.0 tptt.online
 0.0.0.0 tq-eu.minsonbar2.online
 0.0.0.0 tq-eu.resugovex-2.co
+0.0.0.0 tq.iforcircles-1.online
 0.0.0.0 tracead.com
 0.0.0.0 tracead.net
 0.0.0.0 tracecontent.com
@@ -16018,7 +16028,6 @@
 0.0.0.0 x1-p25d.fin.ovh
 0.0.0.0 x2push.com
 0.0.0.0 x2sfa.javgg.eu
-0.0.0.0 x3x3x.xyz
 0.0.0.0 xadaxbranddesign.com
 0.0.0.0 xad-etae.space
 0.0.0.0 xad.js.org
@@ -16243,6 +16252,7 @@
 0.0.0.0 yynbx.com
 0.0.0.0 yzihutyb.xyz
 0.0.0.0 z0000g.yorkvillemarketing.net
+0.0.0.0 zacqaglwkq.com
 0.0.0.0 zaeavr.com
 0.0.0.0 zaffz.online
 0.0.0.0 zaincodc.com

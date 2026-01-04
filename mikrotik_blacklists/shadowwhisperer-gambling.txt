@@ -1,8 +1,8 @@
 #
 #    File: Gambling
 #    Info: Casino, gambling, poker, etc.
-# Domains: 9,290
-# Updated: 12/22/2025  14:34 (2:34 PM CST)
+# Domains: 9,302
+# Updated: 12/29/2025  10:57 (10:57 AM CST)
 #
 0.0.0.0 0009casino.com
 0.0.0.0 000-online-casino.biz
@@ -1720,6 +1720,7 @@
 0.0.0.0 casinoarab.org
 0.0.0.0 casino-argent-canadien.com
 0.0.0.0 casinoargentina24.com
+0.0.0.0 casinoarizona.us
 0.0.0.0 casino-arlequin-france.com
 0.0.0.0 casinoarpo.com
 0.0.0.0 casinoassociation.org
@@ -1817,6 +1818,7 @@
 0.0.0.0 casinobrown.com
 0.0.0.0 casinobruder.com
 0.0.0.0 casinobubbles.com
+0.0.0.0 casinobud.us
 0.0.0.0 casinobueno.com
 0.0.0.0 casinobuitenland.info
 0.0.0.0 casinobuitenlandse.com
@@ -1893,6 +1895,7 @@
 0.0.0.0 casinocritique.com
 0.0.0.0 casinocroisette.ga
 0.0.0.0 casinocrown.id
+0.0.0.0 casinocruise.us
 0.0.0.0 casinocrypto.app
 0.0.0.0 casinocrystal.us
 0.0.0.0 casinocuentaatras.com
@@ -1910,6 +1913,8 @@
 0.0.0.0 casinodejeux.com
 0.0.0.0 casino-delrio.com
 0.0.0.0 casinodelrio.online
+0.0.0.0 casinodengi-online.com
+0.0.0.0 casinodeposit.us
 0.0.0.0 casinodepot.com
 0.0.0.0 casinodesantaella.com
 0.0.0.0 casino-detectives.com
@@ -1972,6 +1977,7 @@
 0.0.0.0 casinoff2.xyz
 0.0.0.0 casinofindr.com
 0.0.0.0 casinofirma.com
+0.0.0.0 casinoflyingdutchman.com
 0.0.0.0 casinoforcanada.com
 0.0.0.0 casinofox.ar
 0.0.0.0 casinofrancaislegal.fr
@@ -2376,6 +2382,7 @@
 0.0.0.0 casinoonlineespana.biz
 0.0.0.0 casinoonlineespana.fun
 0.0.0.0 casino-online.fr
+0.0.0.0 casinoonlinegame.us
 0.0.0.0 casino-online-iceland.com
 0.0.0.0 casino-online.ie
 0.0.0.0 casino-online-italiani.com
@@ -2518,6 +2525,7 @@
 0.0.0.0 casinoreviewru4.top
 0.0.0.0 casinoreviewsandbonuses.com
 0.0.0.0 casino-review.us
+0.0.0.0 casinorevolt.co.uk
 0.0.0.0 casinorevolution.net
 0.0.0.0 casino-revue.com
 0.0.0.0 casinorewards.info
@@ -2703,6 +2711,7 @@
 0.0.0.0 casinosonlinereview.com
 0.0.0.0 casinosonlineusaplay.com
 0.0.0.0 casinosonthenet.net
+0.0.0.0 casinosoo.com
 0.0.0.0 casinosophus.com
 0.0.0.0 casinos-opiniones.com
 0.0.0.0 casinosort.com
@@ -4390,6 +4399,7 @@
 0.0.0.0 icecasinodeutschland.de
 0.0.0.0 icecasinodeutschland.online
 0.0.0.0 ice-casino.lv
+0.0.0.0 icecasino-online.dk
 0.0.0.0 icecasinoonline.pl
 0.0.0.0 icecasino-peru.top
 0.0.0.0 ice-casino-play.com
@@ -7875,6 +7885,7 @@
 0.0.0.0 the-ggbbet.com
 0.0.0.0 the-ggbet1.com
 0.0.0.0 the-ggbet.com
+0.0.0.0 thegranitedomecasino.xyz
 0.0.0.0 thehouseofcasino.com
 0.0.0.0 thejackpotonlineslots.com
 0.0.0.0 thejackpot-slots-casino.com
@@ -7894,6 +7905,7 @@
 0.0.0.0 the-lottery.info
 0.0.0.0 thelotus247.com
 0.0.0.0 thelotus365.com
+0.0.0.0 themarinaarchcasino.xyz
 0.0.0.0 thematrixcasino.com
 0.0.0.0 themiragelv.com
 0.0.0.0 themitblackjackteam.com

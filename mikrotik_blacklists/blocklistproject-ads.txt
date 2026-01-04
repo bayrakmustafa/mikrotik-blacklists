@@ -40360,6 +40360,7 @@
 0.0.0.0 cdn-or-cia2853.actonsoftware.com
 0.0.0.0 cdn-origin.woopra.com
 0.0.0.0 cdn-otf-cas.adperfect.com
+0.0.0.0 cdn-pci.optimizely.com
 0.0.0.0 cdn-preview.dynamicyield.com
 0.0.0.0 cdn-production.3d.amobee.com
 0.0.0.0 cdn-promox.plxnt.com

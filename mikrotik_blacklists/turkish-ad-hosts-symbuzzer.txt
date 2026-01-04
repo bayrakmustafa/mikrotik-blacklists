@@ -18,8 +18,6 @@
 127.0.0.1 localhost
 
 # --- [ START ] --- #
-127.0.0.1 3swu.adj.st
-127.0.0.1 7t4g.adj.st
 127.0.0.1 cdn.hellosmpl.com
 127.0.0.1 cn.app.chat.xiaomi.net
 127.0.0.1 e2c18.gcp.gvt2.com
@@ -46,10 +44,6 @@
 127.0.0.1 id.strmrdrfrokd.site
 127.0.0.1 iframeri.strmrdrfrokd.site
 127.0.0.1 iframeria.strmrdrfrokd.site
-127.0.0.1 nquw.adj.st
-127.0.0.1 p8zh.adj.st
-127.0.0.1 prebit.the-ozone-project.com
 127.0.0.1 secureads.g.doubleclick.net
-127.0.0.1 snssdk1340.onelink.me
 127.0.0.1 static.cbox.ws
 127.0.0.1 www5.cbox.ws

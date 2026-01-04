@@ -3,7 +3,10 @@
 0.0.0.0 hsrvu.com
 0.0.0.0 myhotdates.com
 0.0.0.0 mydirtytinders.com
+0.0.0.0 transportgoline.com
 0.0.0.0 naughtymets.com
+0.0.0.0 jasnathvibes.com
+0.0.0.0 alone-here.online
 0.0.0.0 landings.namapper.com
 0.0.0.0 remor.xyz
 0.0.0.0 malenirt.site
@@ -24,18 +27,22 @@
 0.0.0.0 sonvupload.xyz
 0.0.0.0 stupdownloadf.com
 0.0.0.0 gghut.com
+0.0.0.0 mciun.com
 0.0.0.0 007itshop.com
 0.0.0.0 my-bitbank.cc
 0.0.0.0 modii.xyz
 0.0.0.0 appvip-download.cc
 0.0.0.0 cbcdnkyyxubdsrmg.com
 0.0.0.0 fukumaneki2211.com
+0.0.0.0 otona-nona.biz
 0.0.0.0 tyotyo.biz
 0.0.0.0 yu0287tk.com
 0.0.0.0 oo.opaall.com
 0.0.0.0 rainbow-fortune.biz
 0.0.0.0 rainbow-fortune.com
+0.0.0.0 b2ujcm.com
 0.0.0.0 iris-808.com
+0.0.0.0 wn56y7ve57j12zuv7tyj.com
 0.0.0.0 woman-good-job.work
 0.0.0.0 one.thx-birthday.com
 0.0.0.0 peachzone.site
@@ -81,6 +88,7 @@
 0.0.0.0 stb-media.xyz
 0.0.0.0 watchdjav.online
 0.0.0.0 viruswarning*.web.core.windows.net
+0.0.0.0 z-library.blog
 0.0.0.0 akyr3h9x5mb.com
 0.0.0.0 adblock1.com
 0.0.0.0 teslamaked.com
@@ -124,6 +132,7 @@
 0.0.0.0 att-currently-*.weeblysite.com
 0.0.0.0 2025*maintenance.weebly.com
 0.0.0.0 plum-binder-*.typedream.app
+0.0.0.0 agenziaentrateriscossione.com
 0.0.0.0 impotsgouv.*.wcomhost.com
 0.0.0.0 amandes*.serv00.net
 0.0.0.0 caixa-*.codeanyapp.com
@@ -176,6 +185,7 @@
 0.0.0.0 alienxchain*.pages.dev
 0.0.0.0 metamask*.webflow.io
 0.0.0.0 binace-epa.com
+0.0.0.0 178368-coinbase.com
 0.0.0.0 mail.*-coinbase.com
 0.0.0.0 gawavalen.fun
 0.0.0.0 lameo.buzz
@@ -185,6 +195,7 @@
 0.0.0.0 pancake-swap*.vercel.app
 0.0.0.0 pancake-nft*.vercel.app
 0.0.0.0 pancakeclaim-*.vercel.app
+0.0.0.0 pancakeswap.finance.expolorer.im
 0.0.0.0 pay8-2v-*-gmailcom.vercel.app
 0.0.0.0 sso-*.webflow.io
 0.0.0.0 utahpolicetraining.*.mybluehost.me
@@ -228,6 +239,8 @@
 0.0.0.0 cloudtrks.com
 0.0.0.0 ixxx-blognew.com
 0.0.0.0 info-blog-news.com
+0.0.0.0 new-bllog-i.com
+0.0.0.0 xv-bloging-info.com
 0.0.0.0 xxx-new-videos.com
 0.0.0.0 marabase-bi.com
 0.0.0.0 airupfrance.fr
@@ -274,6 +287,7 @@
 0.0.0.0 electrummonero.com
 0.0.0.0 windows-line.com
 0.0.0.0 figa.beauty
+0.0.0.0 lonely.beauty
 0.0.0.0 charliechaplin7eont.space
 0.0.0.0 job-apply-now.com
 0.0.0.0 join-our-team.com
@@ -292,7 +306,9 @@
 0.0.0.0 zlibrary.is
 0.0.0.0 kms-pico-download.com
 0.0.0.0 kmspicoativador.org
+0.0.0.0 kmspicofficial.com
 0.0.0.0 kmspicoofficial.com
+0.0.0.0 officialkmspico.download
 0.0.0.0 onepiecegoods.com
 0.0.0.0 problems-center.com
 0.0.0.0 florida.revenue-*.net
@@ -340,7 +356,6 @@
 0.0.0.0 cosmochanger.club
 0.0.0.0 simplesvvvap.cyou
 0.0.0.0 changeiiy.icu
-0.0.0.0 nowchange.cyou
 0.0.0.0 shapebtc.my
 0.0.0.0 kryptoswap.my
 0.0.0.0 v2-dexcsreener.net
