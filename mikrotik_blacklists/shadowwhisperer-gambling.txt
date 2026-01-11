@@ -1,8 +1,8 @@
 #
 #    File: Gambling
 #    Info: Casino, gambling, poker, etc.
-# Domains: 9,302
-# Updated: 12/29/2025  10:57 (10:57 AM CST)
+# Domains: 9,457
+# Updated: 1/8/2026  16:50 (4:50 PM CST)
 #
 0.0.0.0 0009casino.com
 0.0.0.0 000-online-casino.biz
@@ -43,11 +43,13 @@
 0.0.0.0 111gambling.com
 0.0.0.0 111slots.com
 0.0.0.0 1154bets10.com
+0.0.0.0 11laki.com
 0.0.0.0 120freecasinogames.com
 0.0.0.0 123jilicasino.ph
 0.0.0.0 123onlinecasinobonuses.com
 0.0.0.0 123vegaswincasino.com
 0.0.0.0 12icecasino2.com
+0.0.0.0 12laki.com
 0.0.0.0 13xcasino.com
 0.0.0.0 17verdecasino.com
 0.0.0.0 18004harrah.com
@@ -226,11 +228,14 @@
 0.0.0.0 24kbetcasinogames.com
 0.0.0.0 24vulkan-casino.one
 0.0.0.0 24wulcan-casino.com
+0.0.0.0 257laki.com
 0.0.0.0 25923450.com
 0.0.0.0 27085220.com
 0.0.0.0 27256756.com
+0.0.0.0 27laki.com
 0.0.0.0 2championcasino.com
 0.0.0.0 2joycasino.ru
+0.0.0.0 2laki.com
 0.0.0.0 2malinacasino.com
 0.0.0.0 2theonlinecasino.com
 0.0.0.0 30betcasino.com
@@ -239,6 +244,7 @@
 0.0.0.0 32red-casino-uk.com
 0.0.0.0 32redslots.com
 0.0.0.0 333casinos.com
+0.0.0.0 333laki.com
 0.0.0.0 3343icecasino.com
 0.0.0.0 347casino.com
 0.0.0.0 359casino.com
@@ -247,13 +253,22 @@
 0.0.0.0 376joycasino.top
 0.0.0.0 37steak.com
 0.0.0.0 3dicecasino.top
+0.0.0.0 3laki.com
 0.0.0.0 3malinacasino.com
 0.0.0.0 3reyescasino.com
 0.0.0.0 3reyescasino-mx.top
 0.0.0.0 3snet.co
+0.0.0.0 40laki.com
 0.0.0.0 411-casinos.net
+0.0.0.0 41laki.com
 0.0.0.0 42icecasino.com
+0.0.0.0 42laki.com
+0.0.0.0 44laki.com
+0.0.0.0 45laki.com
+0.0.0.0 46laki.com
+0.0.0.0 47laki.com
 0.0.0.0 49jilicasino.com.ph
+0.0.0.0 49laki.com
 0.0.0.0 4acescasinos.com
 0.0.0.0 4bracasino.com
 0.0.0.0 4onlineinternetcasinos.com
@@ -261,12 +276,15 @@
 0.0.0.0 500casino.com
 0.0.0.0 500casino.io
 0.0.0.0 500casino.live
+0.0.0.0 50laki.com
+0.0.0.0 51laki.com
 0.0.0.0 520joycasino.ru
 0.0.0.0 555casinos.net
 0.0.0.0 555gambling.com
 0.0.0.0 5baocasino.com
 0.0.0.0 5bestcasinosites.co.uk
 0.0.0.0 5gringoscasino.co.com
+0.0.0.0 5laki.com
 0.0.0.0 5-stars-gambling.ru
 0.0.0.0 5win1casino.net
 0.0.0.0 5xcasino.com
@@ -276,6 +294,7 @@
 0.0.0.0 666-casino-uk.com
 0.0.0.0 676bets10.com
 0.0.0.0 6dcasino.me
+0.0.0.0 6laki.com
 0.0.0.0 72luckybirdcasino.com
 0.0.0.0 747-livecasino.com
 0.0.0.0 747live-casino.com
@@ -339,6 +358,7 @@
 0.0.0.0 7k-casino.tech
 0.0.0.0 7k-casino.world
 0.0.0.0 7k-slots.club
+0.0.0.0 7laki.com
 0.0.0.0 7luckcasinos.com
 0.0.0.0 7malinacasino.com
 0.0.0.0 7m.hk
@@ -391,6 +411,7 @@
 0.0.0.0 88supercatcasino.com
 0.0.0.0 8k88casino.com
 0.0.0.0 8k8-casino.net
+0.0.0.0 8laki.com
 0.0.0.0 909ucasino.pro
 0.0.0.0 90agencycasinos.com
 0.0.0.0 90agencylotteries.com
@@ -399,6 +420,7 @@
 0.0.0.0 996casino.club
 0.0.0.0 999casinos.net
 0.0.0.0 9fine.com
+0.0.0.0 9laki.com
 0.0.0.0 9winz-casino.com
 0.0.0.0 a1casinosearch.com
 0.0.0.0 a1casinos.net
@@ -543,11 +565,24 @@
 0.0.0.0 alaskalottery.us
 0.0.0.0 albrechts-casino.de
 0.0.0.0 alderneygambling.com
+0.0.0.0 alevcasino321.com
+0.0.0.0 alevcasino408.com
 0.0.0.0 alevcasino481.com
 0.0.0.0 alevcasino570.com
 0.0.0.0 alevcasino578.com
+0.0.0.0 alevcasino-588.com
+0.0.0.0 alevcasino-635.com
+0.0.0.0 alevcasino644.com
+0.0.0.0 alevcasino710.com
+0.0.0.0 alevcasino731.com
+0.0.0.0 alevcasino744.com
+0.0.0.0 alevcasino795.com
+0.0.0.0 alevcasino-822.com
 0.0.0.0 alevcasino849.com
+0.0.0.0 alevcasino853.com
+0.0.0.0 alevcasino-889.com
 0.0.0.0 alevcasino902.com
+0.0.0.0 alevcasino943.com
 0.0.0.0 alevcasino991.com
 0.0.0.0 alev-vip777.com
 0.0.0.0 alexandercasino.com
@@ -707,6 +742,11 @@
 0.0.0.0 atlantiscasino.com
 0.0.0.0 atlantiswins.com
 0.0.0.0 atlassteakandfish.com
+0.0.0.0 atom336.com
+0.0.0.0 atom422.com
+0.0.0.0 atom452.com
+0.0.0.0 atom958.com
+0.0.0.0 atom-casino.com
 0.0.0.0 attirecasino.xyz
 0.0.0.0 au1xbet.ru
 0.0.0.0 aufcasino.biz
@@ -805,6 +845,7 @@
 0.0.0.0 baccaratcasinoonline.com
 0.0.0.0 bagusdi.com
 0.0.0.0 bagusmenyukai.com
+0.0.0.0 bahisbet160.com
 0.0.0.0 bahiscasinodenemetalep.com
 0.0.0.0 bahiscasinodiscount2.com
 0.0.0.0 bahsegel-casino.com
@@ -1513,6 +1554,7 @@
 0.0.0.0 calgarycasinoparty.com
 0.0.0.0 caliente-casino.mx
 0.0.0.0 campbellriverchances.ca
+0.0.0.0 campeonbet.io
 0.0.0.0 campeonbet.ng
 0.0.0.0 canadacasino10top.com
 0.0.0.0 canadacasino9.com
@@ -1558,6 +1600,8 @@
 0.0.0.0 casiblu174.com
 0.0.0.0 casiblu186.com
 0.0.0.0 casiblu198.com
+0.0.0.0 casiblu.academy
+0.0.0.0 casibom1000.com
 0.0.0.0 casibom511.com
 0.0.0.0 casibom532.com
 0.0.0.0 casibom575.com
@@ -1593,7 +1637,9 @@
 0.0.0.0 casibom896.com
 0.0.0.0 casibom897.com
 0.0.0.0 casibom898.com
+0.0.0.0 casibom9000.com
 0.0.0.0 casibom900.com
+0.0.0.0 casibom9046.com
 0.0.0.0 casibom922.com
 0.0.0.0 casibom999.com
 0.0.0.0 casibom.com
@@ -2164,6 +2210,10 @@
 0.0.0.0 casinokatalogen.nu
 0.0.0.0 casinokatalogen.se
 0.0.0.0 casinokennis.com
+0.0.0.0 casinokent50.com
+0.0.0.0 casinokent60.com
+0.0.0.0 casinokent70.com
+0.0.0.0 casinokent80.com
 0.0.0.0 casino-kent-online.com
 0.0.0.0 casinokickstart.shop
 0.0.0.0 casinoki.com
@@ -2998,13 +3048,30 @@
 0.0.0.0 casocialcasinogames.com
 0.0.0.0 casumocasino.click
 0.0.0.0 cat-casino-2s.com
+0.0.0.0 catcasino308.com
+0.0.0.0 catcasino313.com
+0.0.0.0 catcasino366.com
 0.0.0.0 catcasino37.com
 0.0.0.0 cat-casino-3s.com
+0.0.0.0 catcasino403.com
+0.0.0.0 catcasino443.com
 0.0.0.0 cat-casino-4s.com
+0.0.0.0 catcasino528.com
 0.0.0.0 cat-casino-5s.com
+0.0.0.0 catcasino622.com
 0.0.0.0 catcasino64.com
+0.0.0.0 catcasino656.com
 0.0.0.0 catcasino703.com
+0.0.0.0 catcasino723.com
+0.0.0.0 catcasino746.com
 0.0.0.0 catcasino779.com
+0.0.0.0 catcasino807.com
+0.0.0.0 catcasino820.com
+0.0.0.0 catcasino830.com
+0.0.0.0 catcasino902.com
+0.0.0.0 catcasino989.com
+0.0.0.0 catcasino993.com
+0.0.0.0 catcasino997.com
 0.0.0.0 cat-casino-bmw.buzz
 0.0.0.0 cat-casino-bonus.buzz
 0.0.0.0 cat-casino.co
@@ -3245,6 +3312,8 @@
 0.0.0.0 dabang777.in
 0.0.0.0 daddycasino1.com
 0.0.0.0 daddycasino24.com
+0.0.0.0 daddycasino473.com
+0.0.0.0 daddycasino901.com
 0.0.0.0 daddycasino982.com
 0.0.0.0 daddy-casino-dzs.top
 0.0.0.0 daddy-casino-game.ru
@@ -3258,6 +3327,7 @@
 0.0.0.0 dadycasino.com
 0.0.0.0 dadywin777.com
 0.0.0.0 dafabet247.club
+0.0.0.0 dahibet110.com
 0.0.0.0 dahibet51.com
 0.0.0.0 dahibet62.com
 0.0.0.0 dahibet63.com
@@ -3265,6 +3335,7 @@
 0.0.0.0 dahibet66.com
 0.0.0.0 dahibet68.com
 0.0.0.0 dahibet69.com
+0.0.0.0 dahibet98.com
 0.0.0.0 dallascasinoevent.com
 0.0.0.0 dama-casinos.com
 0.0.0.0 daman-casino.net
@@ -3759,6 +3830,7 @@
 0.0.0.0 frumzi-casino.de
 0.0.0.0 ftrandallcasino.com
 0.0.0.0 fullhousecasino.net
+0.0.0.0 funbet.me
 0.0.0.0 funcasinoshire.co.uk
 0.0.0.0 funcasinos.net
 0.0.0.0 funcasino.top
@@ -3782,9 +3854,12 @@
 0.0.0.0 gamacasino498.com
 0.0.0.0 gamacasino544.com
 0.0.0.0 gamacasino569.com
+0.0.0.0 gamacasino631.com
 0.0.0.0 gamacasino678.com
 0.0.0.0 gamacasino730.com
+0.0.0.0 gamacasino850.com
 0.0.0.0 gamacasino856.com
+0.0.0.0 gamacasino933.com
 0.0.0.0 gama-casino-blt.buzz
 0.0.0.0 gama-casino.co
 0.0.0.0 gama-casino-evd.buzz
@@ -4116,6 +4191,8 @@
 0.0.0.0 gobhai777.com
 0.0.0.0 gocaesars.com
 0.0.0.0 godavari247.com
+0.0.0.0 godbunnycasino.net
+0.0.0.0 godbunny.net
 0.0.0.0 gogocasino-se.com
 0.0.0.0 go-joycasino.info
 0.0.0.0 gokkencasinos.com
@@ -4162,6 +4239,7 @@
 0.0.0.0 goldfishka328.com
 0.0.0.0 goldfishka329.com
 0.0.0.0 goldfishka330.com
+0.0.0.0 goldfishka355.com
 0.0.0.0 goldfishka-casino.co
 0.0.0.0 goldfishka-casino.group
 0.0.0.0 goldfishka-casino.info
@@ -4888,6 +4966,7 @@
 0.0.0.0 kitasatu88.net
 0.0.0.0 kiwicasinos.com
 0.0.0.0 kiwionlinecasino.nz
+0.0.0.0 kkent626.com
 0.0.0.0 klarnacasino-de.top
 0.0.0.0 klarnacasinos.nl
 0.0.0.0 klc.go.kr
@@ -4897,6 +4976,7 @@
 0.0.0.0 klubniks-casino.top
 0.0.0.0 klubslotspin.xyz
 0.0.0.0 kometacasino-5.ru
+0.0.0.0 kometacasino837.com
 0.0.0.0 kometa-casino.com
 0.0.0.0 kometacasinoru.ru
 0.0.0.0 konabet-casino.com
@@ -4940,8 +5020,45 @@
 0.0.0.0 lagidewacasino.cc
 0.0.0.0 lagigamble247.vip
 0.0.0.0 laimz.lv
+0.0.0.0 laki12.com
+0.0.0.0 laki13.com
+0.0.0.0 laki257.com
+0.0.0.0 laki27.com
+0.0.0.0 laki28.com
+0.0.0.0 laki29.com
+0.0.0.0 laki333.com
+0.0.0.0 laki33.com
+0.0.0.0 laki40.com
+0.0.0.0 laki41.com
+0.0.0.0 laki42.com
+0.0.0.0 laki43.com
+0.0.0.0 laki44.com
+0.0.0.0 laki45.com
+0.0.0.0 laki46.com
+0.0.0.0 laki48.com
+0.0.0.0 laki49.com
+0.0.0.0 laki50.com
+0.0.0.0 laki51.com
+0.0.0.0 laki52.com
 0.0.0.0 laki.digital
+0.0.0.0 lakilive.com
 0.0.0.0 laki.world
+0.0.0.0 lakiworld999.com
+0.0.0.0 lakiworld999.top
+0.0.0.0 lakiworldcasino777.com
+0.0.0.0 lakiworldcasino777.digital
+0.0.0.0 lakiworldcasino777.info
+0.0.0.0 lakiworldcasino777.life
+0.0.0.0 lakiworldcasino777.online
+0.0.0.0 lakiworldcasino777.top
+0.0.0.0 lakiworldcasino888.digital
+0.0.0.0 lakiworldcasino888.info
+0.0.0.0 lakiworldcasino888.life
+0.0.0.0 lakiworldcasino888.top
+0.0.0.0 lakiworldcasino999.digital
+0.0.0.0 lakiworldcasino999games.com
+0.0.0.0 lakiworldcasino999.today
+0.0.0.0 lakiworldcasino999.top
 0.0.0.0 lalabet-casino.net
 0.0.0.0 lalabetcasinonl.com
 0.0.0.0 lalabetcasino.online
@@ -5129,6 +5246,7 @@
 0.0.0.0 liverpool-lottery.com
 0.0.0.0 livescore.in
 0.0.0.0 livesocialcasinodom.com
+0.0.0.0 livewinz15.com
 0.0.0.0 livewinz25.com
 0.0.0.0 lnwcasino.club
 0.0.0.0 lockcasino.com
@@ -5231,6 +5349,7 @@
 0.0.0.0 lucky7exch.com
 0.0.0.0 lucky7.games
 0.0.0.0 lucky7sevencasino1.com
+0.0.0.0 luckybet.co
 0.0.0.0 luckyblock.com
 0.0.0.0 luckyboycasino.com
 0.0.0.0 luckycasinospins.com
@@ -5268,9 +5387,16 @@
 0.0.0.0 luckywands24.io
 0.0.0.0 luckywands34.io
 0.0.0.0 luckywavecasino.com
+0.0.0.0 lukkly18.com
+0.0.0.0 lukkly21.com
+0.0.0.0 lukkly31.com
+0.0.0.0 lukkly37.com
 0.0.0.0 lukkly3.com
 0.0.0.0 lukkly4.com
+0.0.0.0 lukkly6.com
+0.0.0.0 lukkly7.com
 0.0.0.0 lukkly.com
+0.0.0.0 lukkly.net
 0.0.0.0 lukscasino19.com
 0.0.0.0 lukscasino20.com
 0.0.0.0 lukscasino3.com
@@ -5783,6 +5909,11 @@
 0.0.0.0 mostbet-wzt4.top
 0.0.0.0 mostbet-wzy5.top
 0.0.0.0 mostcasino.link
+0.0.0.0 motorcasino101.com
+0.0.0.0 motorcasino208.com
+0.0.0.0 motorcasino490.com
+0.0.0.0 motorcasino658.com
+0.0.0.0 motorcasino906.com
 0.0.0.0 mountairycasino.com
 0.0.0.0 mountiesocialcasino.com
 0.0.0.0 movarejokeshcasino.com
@@ -6331,6 +6462,8 @@
 0.0.0.0 orocasino.es
 0.0.0.0 os-casinos.com
 0.0.0.0 oshicasinopokies.com
+0.0.0.0 osseaff.com
+0.0.0.0 ossebet50.com
 0.0.0.0 osterreich-online-casino.net
 0.0.0.0 otherhomecasino.com
 0.0.0.0 otsocasino.com
@@ -6993,7 +7126,15 @@
 0.0.0.0 prensbet258.com
 0.0.0.0 prepaidcardgambling.com
 0.0.0.0 prettywins.com
+0.0.0.0 pri-catcasino100.com
+0.0.0.0 pri-catcasino110.com
+0.0.0.0 pri-catcasino120.com
 0.0.0.0 pri-catcasino40.com
+0.0.0.0 pri-catcasino50.com
+0.0.0.0 pri-catcasino60.com
+0.0.0.0 pri-catcasino70.com
+0.0.0.0 pri-catcasino80.com
+0.0.0.0 pri-catcasino90.com
 0.0.0.0 primaplaycasinopokies.com
 0.0.0.0 primecasinosusa.com
 0.0.0.0 princealicasino-france.com
@@ -7028,7 +7169,9 @@
 0.0.0.0 qqjilicasino.com
 0.0.0.0 qualitybingo.com
 0.0.0.0 r7casino30.com
+0.0.0.0 r7casino407.com
 0.0.0.0 r7casino40.com
+0.0.0.0 r7casino597.com
 0.0.0.0 r7casinoamp1.ru
 0.0.0.0 r7casinoamp.ru
 0.0.0.0 r7-casino.biz
@@ -7193,6 +7336,12 @@
 0.0.0.0 rivieracasino.com
 0.0.0.0 rizk-casino.click
 0.0.0.0 riztycasino.xyz
+0.0.0.0 rizzio51.io
+0.0.0.0 rizzio77.io
+0.0.0.0 rizzio.io
+0.0.0.0 robobet1.com
+0.0.0.0 robobet3.com
+0.0.0.0 robobet.com
 0.0.0.0 rock7.art
 0.0.0.0 rockbet99.com
 0.0.0.0 rocketcasino1.com
@@ -7202,6 +7351,7 @@
 0.0.0.0 rocket-playcasino.com
 0.0.0.0 rocketplay.com
 0.0.0.0 rockwin247.com
+0.0.0.0 roibets77.com
 0.0.0.0 roketbetcasino.com
 0.0.0.0 rollersgambling.com
 0.0.0.0 rolling-slots.ru
@@ -7651,6 +7801,7 @@
 0.0.0.0 spinfevercasinos.com
 0.0.0.0 spiniacasinoinformatie.nl
 0.0.0.0 spinia-casino.top
+0.0.0.0 spinnycasino66.com
 0.0.0.0 spinpalaceflashcasino24.com
 0.0.0.0 spinquestcasino.info
 0.0.0.0 spinsamuraicasino1.com
@@ -7934,6 +8085,10 @@
 0.0.0.0 tippaz.com
 0.0.0.0 tipster.space
 0.0.0.0 tipstrickscasino.com
+0.0.0.0 tiptopcasino10.online
+0.0.0.0 tiptopcasino2.online
+0.0.0.0 tiptopcasino5.online
+0.0.0.0 tiptopcasino8.online
 0.0.0.0 tlcasinodenemebonusu1.com
 0.0.0.0 tlcasinodiscount1.com
 0.0.0.0 todaylottery.in

@@ -13,7 +13,6 @@
 0.0.0.0 adsreklamizm.ga
 0.0.0.0 adsreklamizm.tk
 0.0.0.0 affiliate.migros.com.tr
-0.0.0.0 ak.hauchiwu.com
 0.0.0.0 ak.oalsauwy.net
 0.0.0.0 aksamreklami.net
 0.0.0.0 aksamvaktireklam.com
@@ -79,6 +78,8 @@
 0.0.0.0 lh.limosiwooable.com
 0.0.0.0 lider90.com
 0.0.0.0 lovy.llykjmzqkzkyy.top
+0.0.0.0 lu9xve2c97l898gjjxv4.ballercap.com
+0.0.0.0 lu9xve2c97l898gjjxv4.instantlymodern.com
 0.0.0.0 mc2tnzs73p3554cjc7h876m-gfm4.device.marketingcloudapis.com
 0.0.0.0 mcfk02nd3k8q7w75g9yxxcc6yj20.device.marketingcloudapis.com
 0.0.0.0 medya.ilan.gov.tr.whecloud.com
@@ -146,6 +147,7 @@
 0.0.0.0 statics.olx.com.tr
 0.0.0.0 strmrdrfrokd.site
 0.0.0.0 stun.fpapi.io
+0.0.0.0 stun.voiparound.com
 0.0.0.0 subesiz-vakifonlinbasvuru.chickenkiller.com
 0.0.0.0 syndication.magsrv.com
 0.0.0.0 taxismaned.top
@@ -171,5 +173,4 @@
 0.0.0.0 widgets.engageya.com
 0.0.0.0 ww38.main.termux-mirror.ml
 0.0.0.0 xmtvreklam3d.com
-0.0.0.0 zcode12.me
 0.0.0.0 zpbpenn.com

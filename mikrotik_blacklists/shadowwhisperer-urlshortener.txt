@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 5,734
-# Updated: 12/29/2025  10:57 (10:57 AM CST)
+# Domains: 5,745
+# Updated: 1/8/2026  16:50 (4:50 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -298,6 +298,7 @@
 0.0.0.0 adflydsp.com
 0.0.0.0 adflyfly.com
 0.0.0.0 adfly.majidzhacker.com
+0.0.0.0 adfw2025.com
 0.0.0.0 adil.win
 0.0.0.0 adjh.pt
 0.0.0.0 adlinkcash.com
@@ -597,6 +598,7 @@
 0.0.0.0 barbieclothingcloset.live
 0.0.0.0 barisbalci13inc.life
 0.0.0.0 barsoocm.com
+0.0.0.0 barujago.xyz
 0.0.0.0 barz.it
 0.0.0.0 bayarcuan.com
 0.0.0.0 bb8.mn
@@ -665,6 +667,7 @@
 0.0.0.0 biltiy.com
 0.0.0.0 binancetransactionf077171f1gl1od17ro1asecure.life
 0.0.0.0 binbucks.com
+0.0.0.0 bio66.site
 0.0.0.0 biolynx.net
 0.0.0.0 bioreling.com
 0.0.0.0 bio.rub3n.io
@@ -882,6 +885,7 @@
 0.0.0.0 cabletv.live
 0.0.0.0 cactusskyonline.com
 0.0.0.0 caksf.top
+0.0.0.0 calcal.ist
 0.0.0.0 calcol.cc
 0.0.0.0 calendrierbdp.info
 0.0.0.0 camillalaprincessagroup.life
@@ -1293,6 +1297,7 @@
 0.0.0.0 douyin.team
 0.0.0.0 dow.la
 0.0.0.0 download.fxsound.com
+0.0.0.0 downloadtonic.com
 0.0.0.0 dpba2404.com
 0.0.0.0 dpb.fm
 0.0.0.0 dpb.link
@@ -1721,6 +1726,7 @@
 0.0.0.0 gf.to
 0.0.0.0 gfwtz.top
 0.0.0.0 gfxa.top
+0.0.0.0 ggapps.xyz
 0.0.0.0 ggayt.sbs
 0.0.0.0 ggilfz.link
 0.0.0.0 ggle.io
@@ -1929,6 +1935,7 @@
 0.0.0.0 high-point.live
 0.0.0.0 highwayproapp.com
 0.0.0.0 hil.ink
+0.0.0.0 hirummy.best
 0.0.0.0 hivy.net
 0.0.0.0 hjseq.top
 0.0.0.0 hkwvi.top
@@ -2351,6 +2358,7 @@
 0.0.0.0 klickhier.at
 0.0.0.0 klik.best
 0.0.0.0 klik.gg
+0.0.0.0 klik.ninja
 0.0.0.0 kliksaja.me
 0.0.0.0 kliksaya.co
 0.0.0.0 kliks.online
@@ -3640,6 +3648,7 @@
 0.0.0.0 qrouton.jp
 0.0.0.0 qrsu.io
 0.0.0.0 qrurl.cc
+0.0.0.0 qrurl.co
 0.0.0.0 qry.kr
 0.0.0.0 qs1.it
 0.0.0.0 qsl.pw
@@ -3947,6 +3956,7 @@
 0.0.0.0 securityportal.ro
 0.0.0.0 sedap.me
 0.0.0.0 s.ee
+0.0.0.0 seif.link
 0.0.0.0 seka.li
 0.0.0.0 sekb.net
 0.0.0.0 selalu.me
@@ -4823,6 +4833,7 @@
 0.0.0.0 turboagram.com
 0.0.0.0 turhi.com
 0.0.0.0 turlt.com
+0.0.0.0 tusviralesc.us
 0.0.0.0 tuwaga.vip
 0.0.0.0 tuwmc.sbs
 0.0.0.0 tvdg.io

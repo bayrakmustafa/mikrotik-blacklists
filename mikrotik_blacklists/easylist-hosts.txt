@@ -1,5 +1,5 @@
 # Easylist, parsed and mirrored by https://firebog.net
-# Updated 02JAN26 from https://easylist.to/easylist/easylist.txt
+# Updated 09JAN26 from https://easylist.to/easylist/easylist.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7,49 +7,47 @@
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://github.com/easylist/easylist#list-issues
 
+0.0.0.0 aajsgoejdprph.xyz
 0.0.0.0 ad.moe.video
-0.0.0.0 ailetteloessic.cyou
-0.0.0.0 alienlyvepsishknuckly.cyou
 0.0.0.0 alitems.com
 0.0.0.0 asg.prettytube.net
 0.0.0.0 auditude.com
+0.0.0.0 burialruggers.qpon
 0.0.0.0 buyeasy.by
 0.0.0.0 cdn.hamwo.cloud
+0.0.0.0 coziegosmore.qpon
 0.0.0.0 cpm.appocean.media
-0.0.0.0 cpwzalunlyyph.site
-0.0.0.0 dimplehoddin.shop
 0.0.0.0 engine.eroge.com
 0.0.0.0 f5w.prettytube.net
-0.0.0.0 glesootsedaurgu.net
 0.0.0.0 go.bloxplay.com
-0.0.0.0 gxshnnxziabxr.space
-0.0.0.0 hxnhssyrr.xyz
-0.0.0.0 hzrrlnmmfytzs.website
+0.0.0.0 grageptoniro.net
+0.0.0.0 gyybyitnnqitf.online
+0.0.0.0 harpstorney.qpon
+0.0.0.0 hypnodyortalis.qpon
 0.0.0.0 imasdk.googleapis.com
-0.0.0.0 jhsbmugmlukjf.online
-0.0.0.0 jkyawbvolzeq.top
-0.0.0.0 larvapeasstretched.com
+0.0.0.0 jangmglkchtgl.website
+0.0.0.0 jzokkeaebbyrq.top
 0.0.0.0 link.link.ru
 0.0.0.0 loadercdn.com
-0.0.0.0 luxegoatee.qpon
+0.0.0.0 luqtazaqdcgyo.online
 0.0.0.0 monetag.com
 0.0.0.0 mweb-hb.presage.io
-0.0.0.0 nssvtq4w.xyz
-0.0.0.0 olderidentify.com
+0.0.0.0 nbbpynkclbynx.online
+0.0.0.0 neuraltummed.shop
+0.0.0.0 pfosuclihgjxi.space
 0.0.0.0 pips.taboola.com
 0.0.0.0 pirogad.tophosting101.com
 0.0.0.0 prebid.cwi.re
 0.0.0.0 proto2ad.durasite.net
-0.0.0.0 sqlcbvoesbeut.online
+0.0.0.0 rwjbdrzrqgsrf.space
 0.0.0.0 srv.tunefindforfans.com
 0.0.0.0 sync.gsyndication.com
 0.0.0.0 targeting.vdo.ai
-0.0.0.0 unknowgranose.cyou
+0.0.0.0 ungivegroin.shop
+0.0.0.0 uniflowvifda.cfd
 0.0.0.0 unpin.hothomefuck.com
-0.0.0.0 uresismucor.cfd
 0.0.0.0 vi1.prettytube.net
 0.0.0.0 videoplaza.tv
-0.0.0.0 wjcgrume.cyou
+0.0.0.0 waterymenace.com
 0.0.0.0 wpnrtnmrewunrtok.xyz
-0.0.0.0 xubdamrbymyqft.com
-0.0.0.0 ycn57v1ncx.fnoz8tgk8owfg6mpe.cfd
+0.0.0.0 xrdebvbw.com

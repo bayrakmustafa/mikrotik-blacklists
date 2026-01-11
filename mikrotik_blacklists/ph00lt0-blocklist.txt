@@ -1482,6 +1482,7 @@
 0.0.0.0 adjoe.io
 0.0.0.0 adjust.io
 0.0.0.0 adk.funshion.com
+0.0.0.0 adk2.co
 0.0.0.0 adkongjian.com
 0.0.0.0 adktrack.com
 0.0.0.0 adlaunch.moji.com
@@ -8501,7 +8502,6 @@
 0.0.0.0 gr.linkwi.se
 0.0.0.0 grabo.bg
 0.0.0.0 graduateoutcomes.ac.uk
-0.0.0.0 graffiti-tags.apple.com
 0.0.0.0 graindata.com
 0.0.0.0 grand.ele.me
 0.0.0.0 grandivy.com
@@ -9150,6 +9150,7 @@
 0.0.0.0 iamallama.com
 0.0.0.0 iand-4-sale.us
 0.0.0.0 ias.rakuten.co.jp
+0.0.0.0 iasds01.com
 0.0.0.0 iavilciadeg.eu.com
 0.0.0.0 ib.isappcloud.com
 0.0.0.0 ib.tiktokv.com
@@ -11338,7 +11339,6 @@
 0.0.0.0 marketingalphaprod.streaming.mediaservices.windows.net
 0.0.0.0 marketingautomation.services
 0.0.0.0 marketingblocks.ai
-0.0.0.0 marketingcloudapis.com
 0.0.0.0 marketinghub.opentext.com
 0.0.0.0 marketingmakers.nl
 0.0.0.0 marketingman10.com
@@ -12732,7 +12732,6 @@
 0.0.0.0 opten.pl
 0.0.0.0 opteo.com
 0.0.0.0 optiadsmedia.com
-0.0.0.0 optidigital.com
 0.0.0.0 optimalfusion.com
 0.0.0.0 optimise-it.de
 0.0.0.0 optimise.net
@@ -14750,7 +14749,6 @@
 0.0.0.0 secure.trust-provider.com
 0.0.0.0 secure.widget.cloud.opta.net
 0.0.0.0 secure.xsolla.com
-0.0.0.0 securemetrics.experience.apple
 0.0.0.0 securemetrics.v.aaplimg.com
 0.0.0.0 securemvt.v.aaplimg.com
 0.0.0.0 secureomg.nl
@@ -16618,6 +16616,7 @@
 0.0.0.0 trustguard.com
 0.0.0.0 trustindex.io
 0.0.0.0 trustoo.nl
+0.0.0.0 trustpid.com
 0.0.0.0 trustpilotmail.com
 0.0.0.0 trustprofile.com
 0.0.0.0 trustyou.com
@@ -16846,7 +16845,6 @@
 0.0.0.0 unlitui.com
 0.0.0.0 unlp.nl
 0.0.0.0 unmetric.com
-0.0.0.0 unruly.co
 0.0.0.0 uodoo.com
 0.0.0.0 uoyrsd.com
 0.0.0.0 up.cm.ksmobile.com
@@ -17134,10 +17132,10 @@
 0.0.0.0 videopush.baidu.cn
 0.0.0.0 videopush.baidu.com
 0.0.0.0 videosorveglianzagv-vision.it
+0.0.0.0 vidible.tv
 0.0.0.0 vidstart.com
 0.0.0.0 view.ceros.com
 0.0.0.0 view.trustgram.co
-0.0.0.0 viewdeos.com
 0.0.0.0 viewdns.net
 0.0.0.0 viewpay.tv
 0.0.0.0 viewstalk.com

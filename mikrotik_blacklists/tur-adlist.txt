@@ -38,13 +38,10 @@
 0.0.0.0 api.opencandy.com
 0.0.0.0 api.recommendedsw.com
 0.0.0.0 api.rubic.com.tr
-0.0.0.0 areabet.net
 0.0.0.0 b.cdn.md
 0.0.0.0 basvformu1.xyz
 0.0.0.0 basvformu2.xyz
-0.0.0.0 basvformu3.xyz
 0.0.0.0 basvformu4.xyz
-0.0.0.0 basvformu5.xyz
 0.0.0.0 beelert.com
 0.0.0.0 cdn.bispd.com
 0.0.0.0 cdn.cdndp.com
@@ -134,6 +131,7 @@
 0.0.0.0 stats.yenicaggazetesi.com.tr
 0.0.0.0 stopblyat.tk
 0.0.0.0 thresholdeliminate.com
+0.0.0.0 tidint.pro
 0.0.0.0 top10.yazete.com
 0.0.0.0 track.vitringez.com
 0.0.0.0 tracker-pm2.erosaffiliates.com
