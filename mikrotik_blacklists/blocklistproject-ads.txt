@@ -23100,6 +23100,7 @@
 0.0.0.0 ad.metanetwork.com
 0.0.0.0 ad.mgd.de
 0.0.0.0 ad.mi.com
+0.0.0.0 ad.mibet.com
 0.0.0.0 ad.mirror.co.uk
 0.0.0.0 ad.mlnadvertising.com
 0.0.0.0 ad.mobafftrck.com
@@ -26257,6 +26258,7 @@
 0.0.0.0 ads.icn.bg
 0.0.0.0 ads.iconpeak.com
 0.0.0.0 ads.icorp.ro
+0.0.0.0 ads.ictnews.vn
 0.0.0.0 ads.id-t.com
 0.0.0.0 ads.idg.com.pl
 0.0.0.0 ads.iknownetwork.com
@@ -28892,6 +28894,7 @@
 0.0.0.0 adx.gainesvillesun.com
 0.0.0.0 adx.gainesvillsun.com
 0.0.0.0 adx.infomed.co.il
+0.0.0.0 adx.kul.vn
 0.0.0.0 adx.luxup2.ru
 0.0.0.0 adx.metanetwork.com
 0.0.0.0 adx.noahmob.com
@@ -29089,7 +29092,6 @@
 0.0.0.0 afbfoxmwzlqa.com
 0.0.0.0 afclickoffers.com
 0.0.0.0 afco2go.com
-0.0.0.0 afcpatrk.com
 0.0.0.0 afcxojqr.com
 0.0.0.0 afedispdljgb.com
 0.0.0.0 afeeknuueaztxt.com
@@ -29169,6 +29171,7 @@
 0.0.0.0 affiliate.everyone.net
 0.0.0.0 affiliate.evyy.net
 0.0.0.0 affiliate.exploit.net
+0.0.0.0 affiliate.fb88.com
 0.0.0.0 affiliate.fc2.com
 0.0.0.0 affiliate.fr.espotting.com
 0.0.0.0 affiliate.free-banners.com
@@ -29195,6 +29198,7 @@
 0.0.0.0 affiliate.media.net
 0.0.0.0 affiliate.mediaclicktrker.com
 0.0.0.0 affiliate.mogs.com
+0.0.0.0 affiliate.ms3388.com
 0.0.0.0 affiliate.ms88asia.com
 0.0.0.0 affiliate.ms88ca.com
 0.0.0.0 affiliate.mymall.bg
@@ -29868,6 +29872,7 @@
 0.0.0.0 alexa.qualaroo.com
 0.0.0.0 alexa.unbounce.com
 0.0.0.0 alexacdn.com
+0.0.0.0 alexajstrack.com
 0.0.0.0 alexrid.com
 0.0.0.0 alf-d.openx.net
 0.0.0.0 alfaleads.go2affise.com
@@ -35931,6 +35936,7 @@
 0.0.0.0 biddr.dev.brealtime.com
 0.0.0.0 bidfnt-us.adsmoloco.com
 0.0.0.0 bidfppkjo.com
+0.0.0.0 bidgear-syndication.com
 0.0.0.0 bidgears.com
 0.0.0.0 bidgewatr.com
 0.0.0.0 bidhead.net
@@ -39499,6 +39505,7 @@
 0.0.0.0 cache.kuaidi100.com
 0.0.0.0 cache.microad.jp
 0.0.0.0 cache.nmn.speedera.net
+0.0.0.0 cache.one88.com
 0.0.0.0 cache.one88.fun
 0.0.0.0 cache.one88.us
 0.0.0.0 cache.osttirol-online.at
@@ -39507,6 +39514,7 @@
 0.0.0.0 cache.usabilla.com
 0.0.0.0 cache.worldfriends.tv
 0.0.0.0 cache1.googlevideo.com
+0.0.0.0 cache1.one88.com
 0.0.0.0 cache1.one88.fun
 0.0.0.0 cache1.one88.us
 0.0.0.0 cached.liveshows.contentabc.com
@@ -39938,6 +39946,7 @@
 0.0.0.0 cashworld.biz
 0.0.0.0 casino-zilla.com
 0.0.0.0 casino.betsson.com
+0.0.0.0 casino888vn.com
 0.0.0.0 casinoadviser.net
 0.0.0.0 casinoborgatatracksdk.optimove.net
 0.0.0.0 casinogames.com
@@ -42212,6 +42221,7 @@
 0.0.0.0 click.loudgames.com
 0.0.0.0 click.mediaforge.com
 0.0.0.0 click.meitustat.com
+0.0.0.0 click.mibet.com
 0.0.0.0 click.mibet.mobi
 0.0.0.0 click.mobile-bt.com
 0.0.0.0 click.mobtimizer.com
@@ -42525,6 +42535,7 @@
 0.0.0.0 cliqcares.cliq.com
 0.0.0.0 cliqmedia.affise.com
 0.0.0.0 clix.superclix.de
+0.0.0.0 clix.vn
 0.0.0.0 clixcount.com
 0.0.0.0 clixgalore.co.uk
 0.0.0.0 cliximages.com
@@ -47771,6 +47782,7 @@
 0.0.0.0 dataxpandshopping.t.domdex.com
 0.0.0.0 dataxpandtravel.t.domdex.com
 0.0.0.0 dataxu.evergage.com
+0.0.0.0 datcuoc247.com
 0.0.0.0 datefree.com
 0.0.0.0 datefunclub.com
 0.0.0.0 datesweetcherrybabies.com
@@ -49877,7 +49889,6 @@
 0.0.0.0 doozymob.go2affise.com
 0.0.0.0 dopiku.biz
 0.0.0.0 doppelpass-online.de.intellitxt.com
-0.0.0.0 doppler.hulu.com
 0.0.0.0 dops.media.net
 0.0.0.0 dops2.media.net
 0.0.0.0 dopyx.com
@@ -63901,6 +63912,7 @@
 0.0.0.0 img.leadzutw.com
 0.0.0.0 img.livejasmin.com
 0.0.0.0 img.locuslabs.com
+0.0.0.0 img.lucky88.com
 0.0.0.0 img.m.cnzz.com
 0.0.0.0 img.masoffer.net
 0.0.0.0 img.media.net
@@ -71147,6 +71159,7 @@
 0.0.0.0 m.104.com.tw
 0.0.0.0 m.789657.top
 0.0.0.0 m.8800266.com.cn
+0.0.0.0 m.8live.com
 0.0.0.0 m.91xiaodu.top
 0.0.0.0 m.ad6media.fr
 0.0.0.0 m.adcash.com
@@ -71209,6 +71222,7 @@
 0.0.0.0 m.leadbolt.com
 0.0.0.0 m.loading-content.net
 0.0.0.0 m.m88cvf.com
+0.0.0.0 m.m88vina.com
 0.0.0.0 m.madthumbs.com
 0.0.0.0 m.maidiankeji.org
 0.0.0.0 m.matdm.com
@@ -71220,6 +71234,7 @@
 0.0.0.0 m.mntz.life
 0.0.0.0 m.mobilerevenu.com
 0.0.0.0 m.mrsasharingspace.com
+0.0.0.0 m.ms3388.com
 0.0.0.0 m.nbhaosheng168.com
 0.0.0.0 m.nexage.com
 0.0.0.0 m.onelink.me
@@ -74081,6 +74096,7 @@
 0.0.0.0 mobileactive.com
 0.0.0.0 mobileader.ru
 0.0.0.0 mobileads.com
+0.0.0.0 mobileads.dieuviet.com
 0.0.0.0 mobileads.mobilebanner.net
 0.0.0.0 mobileads.ru
 0.0.0.0 mobileadspopup.com
@@ -85653,6 +85669,7 @@
 0.0.0.0 qbwjddqa.com
 0.0.0.0 qbywtukryaqpp.bid
 0.0.0.0 qbyzytmymz.bid
+0.0.0.0 qc.mibet.com
 0.0.0.0 qc.yan.vn
 0.0.0.0 qcaejiouuvgk.com
 0.0.0.0 qcdn.adx1.com
@@ -91363,6 +91380,7 @@
 0.0.0.0 servicetick.com
 0.0.0.0 servinator.pw
 0.0.0.0 serving-126397893.us-east-1.elb.amazonaws.com
+0.0.0.0 serving-ad.tv24.vn
 0.0.0.0 serving-sys.com.36659.9244.302br.net
 0.0.0.0 serving-system.com
 0.0.0.0 serving.adbetclickin.pink
@@ -95076,6 +95094,7 @@
 0.0.0.0 static.2mdnsys.com
 0.0.0.0 static.3-mobiappu.com
 0.0.0.0 static.5terpt.com
+0.0.0.0 static.8live.com
 0.0.0.0 static.99widgets.com
 0.0.0.0 static.acceptance.sharethrough.com
 0.0.0.0 static.acs86.com
@@ -95233,6 +95252,7 @@
 0.0.0.0 static.liveintercept.com
 0.0.0.0 static.liveshows.contentabc.com
 0.0.0.0 static.lstat.youku.com
+0.0.0.0 static.lucky88.com
 0.0.0.0 static.luminate.com
 0.0.0.0 static.manwin.doublepimp.com
 0.0.0.0 static.matchnet.com
@@ -95354,6 +95374,7 @@
 0.0.0.0 static2.ebz.io
 0.0.0.0 static2.freewebs.getclicky.com
 0.0.0.0 static2.getclicky.com
+0.0.0.0 static2.lucky88.com
 0.0.0.0 static2.mopub.com
 0.0.0.0 static2.outbrain.com
 0.0.0.0 static2.sharethrough.com
@@ -95362,6 +95383,7 @@
 0.0.0.0 static2.yieldmo.com
 0.0.0.0 static2.zog.link
 0.0.0.0 static3.adinch.com
+0.0.0.0 static3.lucky88.com
 0.0.0.0 static3.smi2.net
 0.0.0.0 static3.zog.link
 0.0.0.0 static4.adinch.com
@@ -96862,6 +96884,7 @@
 0.0.0.0 t.manage.com
 0.0.0.0 t.mdn2015x1.com
 0.0.0.0 t.mdn2015x4.com
+0.0.0.0 t.mibet.com
 0.0.0.0 t.ml00.net
 0.0.0.0 t.mobilediva.com
 0.0.0.0 t.mobitrk.com
@@ -98994,6 +99017,7 @@
 0.0.0.0 tool.acces-vod.com
 0.0.0.0 tool.cnzz.com
 0.0.0.0 tool.justshopping.xyz
+0.0.0.0 tool.mibet.com
 0.0.0.0 toolbar.aol.com
 0.0.0.0 toolbar.freshmarketer.com
 0.0.0.0 toolbarbest.biz
@@ -100554,7 +100578,6 @@
 0.0.0.0 trafficlayer.de
 0.0.0.0 trafficlearn.com
 0.0.0.0 trafficmagnet.com
-0.0.0.0 trafficmanager.anyclip.com
 0.0.0.0 trafficmanager.w55c.net
 0.0.0.0 trafficmanagers.nl
 0.0.0.0 trafficmasterz.net
@@ -102964,6 +102987,7 @@
 0.0.0.0 updown.pcfaster.baidu.co.th
 0.0.0.0 upenn.co1.qualtrics.com
 0.0.0.0 upenn.qualtrics.com
+0.0.0.0 upfile16.mediaphim.com
 0.0.0.0 upfixmoney.top
 0.0.0.0 upgrade.itv.letv.com
 0.0.0.0 upgrade.mishop.pandora.xiaomi.com

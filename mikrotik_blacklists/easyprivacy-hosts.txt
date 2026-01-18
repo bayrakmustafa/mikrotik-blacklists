@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 09JAN26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 16JAN26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -3065,6 +3065,7 @@
 0.0.0.0 a.munters.jp
 0.0.0.0 a.munters.nl
 0.0.0.0 a.munters.us
+0.0.0.0 a.n11.com
 0.0.0.0 anaconda.net.anwalt.de
 0.0.0.0 ana.e-ticket.co.jp
 0.0.0.0 analysis.prod.joyfru.jiji.com
@@ -3080,6 +3081,7 @@
 0.0.0.0 analytics.airtron.com
 0.0.0.0 analytics.aita.gov.vn
 0.0.0.0 analytics.allovoisins.com
+0.0.0.0 analytics.animexx.de
 0.0.0.0 analytics-api.klickly.com
 0.0.0.0 analyticsapi.qogita.com
 0.0.0.0 analytics.autozone.com
@@ -4316,7 +4318,6 @@
 0.0.0.0 bps.ricoh.co.uk
 0.0.0.0 bps.ricoh.ie
 0.0.0.0 bqhkix.mosmexa.ru
-0.0.0.0 bqstreamer.com
 0.0.0.0 br.ac2.cheaptickets.com
 0.0.0.0 br.ac.ebookers.ch
 0.0.0.0 br.ac.ebookers.com
@@ -5008,6 +5009,7 @@
 0.0.0.0 cnna.io
 0.0.0.0 cnsecurity.actonservice.com
 0.0.0.0 cns-service.actonservice.com
+0.0.0.0 cnstrc.com
 0.0.0.0 cntccc.publicrec.com
 0.0.0.0 cnt.viptube.com
 0.0.0.0 cnt.wetteronline.de
@@ -5774,6 +5776,7 @@
 0.0.0.0 data.mail.nn.nl
 0.0.0.0 data.mail.telia.dk
 0.0.0.0 data.mailtest.lexmei.online
+0.0.0.0 data.manga-passion.de
 0.0.0.0 data.markadsmal.islandsbanki.is
 0.0.0.0 data.marketing.aeptest.a.intuit.com
 0.0.0.0 data.marketing.bancobmg.com.br
@@ -7182,6 +7185,7 @@
 0.0.0.0 estore.biscoind.com
 0.0.0.0 eswpwi.xlmoto.pl
 0.0.0.0 e.synchronybank.com
+0.0.0.0 eta.animenewsnetwork.com
 0.0.0.0 etk.locusrobotics.com
 0.0.0.0 etoqel.nordicnest.de
 0.0.0.0 etracker.noon.com
@@ -7578,7 +7582,6 @@
 0.0.0.0 fpc.ciel.com
 0.0.0.0 fpc.consumerportfolio.com
 0.0.0.0 fpcdallasstars.nhl.com
-0.0.0.0 fpcdn.io
 0.0.0.0 fpc.fingerprint.com
 0.0.0.0 fpc.firemountaingems.com
 0.0.0.0 fpc.golubcapital.com
@@ -8633,7 +8636,6 @@
 0.0.0.0 healthier.luminishealth.org
 0.0.0.0 health.info.baptisthealth.com
 0.0.0.0 healthroundprince.com
-0.0.0.0 heap-api.com
 0.0.0.0 hearob.klix.ba
 0.0.0.0 heartflow.actonservice.com
 0.0.0.0 hej.henriksommerfeld.se
@@ -15433,7 +15435,6 @@
 0.0.0.0 rt.prnewswire.com
 0.0.0.0 rtvision.actonservice.com
 0.0.0.0 rugttt.robinson.com
-0.0.0.0 rum.api.intuit.com
 0.0.0.0 rum.cdnpure.com
 0.0.0.0 rumsey.actonservice.com
 0.0.0.0 ru-ru.siemensplmevents.com
@@ -15771,6 +15772,7 @@
 0.0.0.0 sats.spiegel.de
 0.0.0.0 sa.uswitch.com
 0.0.0.0 sawap.equifax.com
+0.0.0.0 s.axon.ai
 0.0.0.0 say.hello.navan.com
 0.0.0.0 say.hello.tripactions.com
 0.0.0.0 sbc-app-links.specialized.com
@@ -19485,6 +19487,7 @@
 0.0.0.0 t.freelancer.com
 0.0.0.0 tfunqc.domonet.jp
 0.0.0.0 tfuodg.memolife.de
+0.0.0.0 t.gazetteer.co
 0.0.0.0 tgmklw.productreview.com.au
 0.0.0.0 t.godeacs.com
 0.0.0.0 t.golobos.com
@@ -19911,6 +19914,7 @@
 0.0.0.0 tracking.pgi.com
 0.0.0.0 tracking.piercingladies.de
 0.0.0.0 tracking.pirelli.com
+0.0.0.0 tracking.pixelz.com
 0.0.0.0 tracking.prodesa.com
 0.0.0.0 tracking.pro.engie.fr
 0.0.0.0 tracking.ps.shutterstock.com
@@ -21017,6 +21021,7 @@
 0.0.0.0 web.news.imperialfashion.com
 0.0.0.0 web.news.pleasefashion.com
 0.0.0.0 web-perf.booking.com
+0.0.0.0 webpushstat.api.engagelab.cc
 0.0.0.0 web.slimjoy.com
 0.0.0.0 web.slimjoy.cz
 0.0.0.0 web.slim-joy.de

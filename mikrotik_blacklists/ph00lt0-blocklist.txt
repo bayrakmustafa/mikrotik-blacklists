@@ -5094,7 +5094,6 @@
 0.0.0.0 cnpmjs.org
 0.0.0.0 cnscdj.com
 0.0.0.0 cnsjx.net
-0.0.0.0 cnstrc.com
 0.0.0.0 cnsypic.com
 0.0.0.0 cntrsync.ru
 0.0.0.0 cnvinfo.nl
@@ -12194,7 +12193,6 @@
 0.0.0.0 newpipe.live
 0.0.0.0 newrelic.com
 0.0.0.0 news-edge.apple.com
-0.0.0.0 news-events.apple.com
 0.0.0.0 news-img.51y5.net
 0.0.0.0 news-imgpb.51y5.net
 0.0.0.0 news.766ba.net

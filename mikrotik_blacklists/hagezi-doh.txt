@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 Jan 2026 22:41 UTC
-# Version: 2026.0110.2241.02
+# Last modified: 17 Jan 2026 22:38 UTC
+# Version: 2026.0117.2238.50
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3968
+# Number of entries: 3945
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -29,7 +29,6 @@
 0.0.0.0 dns.0x55.net
 0.0.0.0 dns-revers.1-au.net
 0.0.0.0 hk.100992.xyz
-0.0.0.0 jp2.101818.xyz
 0.0.0.0 seoul.101818.xyz
 0.0.0.0 sg.101818.xyz
 0.0.0.0 1.11i.eu
@@ -190,9 +189,7 @@
 0.0.0.0 adg.acrobyte.org
 0.0.0.0 adguard.acrobyte.org
 0.0.0.0 adampowell.pro
-0.0.0.0 adbl-tslagter.nl
 0.0.0.0 adblockersite.com
-0.0.0.0 aden.my
 0.0.0.0 adfight.ru
 0.0.0.0 adl.adfilter.net
 0.0.0.0 per.adfilter.net
@@ -300,7 +297,6 @@
 0.0.0.0 dns.alvosec.com
 0.0.0.0 dns.amigo-mgn.ru
 0.0.0.0 adguard.aminetwork.biz
-0.0.0.0 adb.amishkaz.site
 0.0.0.0 blog2.amlegion.org
 0.0.0.0 mailer.amlegion.org
 0.0.0.0 resolver1.amlegion.org
@@ -1021,9 +1017,6 @@
 0.0.0.0 dns.dns-heimdall.com
 0.0.0.0 dns.dns-over-https.com
 0.0.0.0 i.dns-over-https.tk
-0.0.0.0 kids.dns0.eu
-0.0.0.0 open.dns0.eu
-0.0.0.0 zero.dns0.eu
 0.0.0.0 doh.dns4all.eu
 0.0.0.0 doq.dns4all.eu
 0.0.0.0 doq64.dns4all.eu
@@ -1374,7 +1367,6 @@
 0.0.0.0 site-3.duckdns.org
 0.0.0.0 testapp-0-1-1.duckdns.org
 0.0.0.0 thaibksri.duckdns.org
-0.0.0.0 theadblocksg.duckdns.org
 0.0.0.0 ts653d.duckdns.org
 0.0.0.0 tuandns.duckdns.org
 0.0.0.0 tungdnsne.duckdns.org
@@ -1518,7 +1510,6 @@
 0.0.0.0 eymg5h77lfs6zhwzmv47gkh0a4r1f1ydfprzxidk.ir
 0.0.0.0 dns.f4a.fun
 0.0.0.0 jp1.f7b6h9.tk
-0.0.0.0 dns.f97.xyz
 0.0.0.0 pdns.faelix.net
 0.0.0.0 dns.fahr.in
 0.0.0.0 ad.fai001.top
@@ -1586,7 +1577,6 @@
 0.0.0.0 ro-bu.foxyfy.net
 0.0.0.0 us-ny.foxyfy.net
 0.0.0.0 us-sj.foxyfy.net
-0.0.0.0 fptdns.site
 0.0.0.0 dns.family.fraiss.at
 0.0.0.0 resolver.frank-ruan.com
 0.0.0.0 wandana.franklinfamily.au
@@ -2021,7 +2011,6 @@
 0.0.0.0 ivnkn.xyz
 0.0.0.0 dns1.iwall.cloud
 0.0.0.0 ag.iyn.one
-0.0.0.0 dns.izyserv.site
 0.0.0.0 jabber-germany.de
 0.0.0.0 jabber-server.de
 0.0.0.0 adg.jabertechnologies.ch
@@ -2294,7 +2283,6 @@
 0.0.0.0 lukscasino-929-tr.xyz
 0.0.0.0 dns.lululu.dev
 0.0.0.0 dns.luma-medien.com
-0.0.0.0 pure.lunetra.online
 0.0.0.0 bt.luoo.cc
 0.0.0.0 dns.lupine.solutions
 0.0.0.0 home.luther.io
@@ -2586,7 +2574,6 @@
 0.0.0.0 adguard.neelyha.tk
 0.0.0.0 dns.nekofish.cc
 0.0.0.0 nelsonleung.org
-0.0.0.0 adguard.neotix.net
 0.0.0.0 positif4.cross.net.id
 0.0.0.0 guard-jkt-225.glosindo.net.id
 0.0.0.0 dns1.gms.net.id
@@ -2784,7 +2771,6 @@
 0.0.0.0 resolver.dnsprivacy.org.uk
 0.0.0.0 teslacoils.org.uk
 0.0.0.0 artemis.orionnexus.top
-0.0.0.0 ortudns.com
 0.0.0.0 dns.oryxlabs.com
 0.0.0.0 oscnl.site
 0.0.0.0 dns.osmenoga.com
@@ -2811,7 +2797,6 @@
 0.0.0.0 adguard.pangerl.it
 0.0.0.0 dns.panszelescik.pl
 0.0.0.0 dns-ovh.panszelescik.pl
-0.0.0.0 paradise-human.shop
 0.0.0.0 dns.pari.network
 0.0.0.0 pashagame456.com
 0.0.0.0 paskam.xyz
@@ -2854,7 +2839,6 @@
 0.0.0.0 dns1.pietjacobs.be
 0.0.0.0 dns.pine-home.de
 0.0.0.0 pingbi.xyz
-0.0.0.0 pioko.net
 0.0.0.0 dns.pizzari.me
 0.0.0.0 doh.plaawan.uk
 0.0.0.0 helios.plan9-dns.com
@@ -3180,7 +3164,6 @@
 0.0.0.0 shanghainese.uk
 0.0.0.0 dns.shareworx.net
 0.0.0.0 dns.shecan.ir
-0.0.0.0 free.shecan.ir
 0.0.0.0 pro.shecan.ir
 0.0.0.0 dns.sheggi.ch
 0.0.0.0 dns.shimul.me
@@ -3226,7 +3209,6 @@
 0.0.0.0 cloud.smirnovfamily.ru
 0.0.0.0 dns.smirnovfamily.ru
 0.0.0.0 jellyfin.smirnovfamily.ru
-0.0.0.0 lux.sn0w.nl
 0.0.0.0 dns.sneakypanda.org
 0.0.0.0 home.snow-sugar.net
 0.0.0.0 ag.snrka.ru
@@ -3242,14 +3224,12 @@
 0.0.0.0 ns.solutionsbest.de
 0.0.0.0 bwg.sooda.moe
 0.0.0.0 adguard.spaceindex.net
-0.0.0.0 adguard.sparshbajaj.me
 0.0.0.0 lomoff.spb.ru
 0.0.0.0 wifrousl.spdns.de
 0.0.0.0 dns.spirio.fr
 0.0.0.0 squidmall.vip
 0.0.0.0 s1.srch.top
 0.0.0.0 adguard.sre.ovh
-0.0.0.0 sriedmueadguard.casa
 0.0.0.0 dns.srijan.site
 0.0.0.0 proxy.srs.su
 0.0.0.0 dns2.srv-home.fr
@@ -3341,7 +3321,6 @@
 0.0.0.0 dns1.tardishost.ru
 0.0.0.0 adguard.taufner.net
 0.0.0.0 dns.tb4.me
-0.0.0.0 httpdns.danuoyi.tbcache.com
 0.0.0.0 dns.tbs6920.sbs
 0.0.0.0 de51.tcpdoor.net
 0.0.0.0 adguard.tcpu.io
@@ -3352,6 +3331,7 @@
 0.0.0.0 dns1.techeasy.org
 0.0.0.0 adguard.techlike.in
 0.0.0.0 vpn.technicule.info
+0.0.0.0 dns1.techniverse.net
 0.0.0.0 doh.technochat.in
 0.0.0.0 dns.technologycage.com
 0.0.0.0 dns.technostriker.com
@@ -3605,7 +3585,6 @@
 0.0.0.0 h4g3z1-doh.web.app
 0.0.0.0 dns.jsd.web.id
 0.0.0.0 panser.web.id
-0.0.0.0 s.rafiadinata.web.id
 0.0.0.0 doh.this.web.id
 0.0.0.0 web-rated.ie
 0.0.0.0 pg.web-rated.ie
@@ -3615,7 +3594,6 @@
 0.0.0.0 zuhause.webteufel.net
 0.0.0.0 webteufel-it.solutions
 0.0.0.0 nyx.webteufel-it.solutions
-0.0.0.0 adg.webyfa.ir
 0.0.0.0 dns.wechat.com
 0.0.0.0 paydns.wechatpay.cn
 0.0.0.0 resov.wehao.net

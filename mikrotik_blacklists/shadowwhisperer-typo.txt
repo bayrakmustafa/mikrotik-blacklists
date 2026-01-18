@@ -1,8 +1,8 @@
 #
 #    File: Typo
 #    Info: Typosquatting / Misspelling of Websites
-# Domains: 73,795
-# Updated: 8/16/2025  13:52 (1:52 PM CST)
+# Domains: 73,796
+# Updated: 1/15/2026  14:23 (2:23 PM CST)
 #
 0.0.0.0 0andora.com
 0.0.0.0 0arisaeroport.fr
@@ -58491,6 +58491,7 @@
 0.0.0.0 showmyypc.com
 0.0.0.0 shownmypc.com
 0.0.0.0 shownypc.com
+0.0.0.0 showpc.com
 0.0.0.0 showqmypc.com
 0.0.0.0 showrnypc.com
 0.0.0.0 showsmypc.com

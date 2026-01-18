@@ -1,8 +1,8 @@
 #
 #    File: Gambling
 #    Info: Casino, gambling, poker, etc.
-# Domains: 9,457
-# Updated: 1/8/2026  16:50 (4:50 PM CST)
+# Domains: 9,501
+# Updated: 1/12/2026  18:12 (6:12 PM CST)
 #
 0.0.0.0 0009casino.com
 0.0.0.0 000-online-casino.biz
@@ -147,7 +147,10 @@
 0.0.0.0 1win-rus.ru
 0.0.0.0 1win-vip.ru
 0.0.0.0 1winxgame.ru
+0.0.0.0 1xbet-1755.ru
 0.0.0.0 1xbet54.com
+0.0.0.0 1xbet5940.ru
+0.0.0.0 1xbet-824.ru
 0.0.0.0 1xbet84.com
 0.0.0.0 1xbet-8527.ru
 0.0.0.0 1xbet86.com
@@ -170,9 +173,12 @@
 0.0.0.0 1xbet-casino.work
 0.0.0.0 1-x-bet.com
 0.0.0.0 1xbetcom.mobi
+0.0.0.0 1xbete.ru
 0.0.0.0 1xbet-forus.ru
 0.0.0.0 1xbet.lk
 0.0.0.0 1xbeto.ru
+0.0.0.0 1xbetpremium.ru
+0.0.0.0 1xbetred.ru
 0.0.0.0 1xbet-registratsiya.ru
 0.0.0.0 1xbetr.ru
 0.0.0.0 1xbet-s.ru
@@ -194,9 +200,11 @@
 0.0.0.0 1xslots9207.ru
 0.0.0.0 1xslots960.ru
 0.0.0.0 1xslots9.ru
+0.0.0.0 1xslots-azart.ru
 0.0.0.0 1xslots-casino1.xyz
 0.0.0.0 1xslots-casino.com.br
 0.0.0.0 1xslotscasino.online
+0.0.0.0 1xslots-cherry.ru
 0.0.0.0 1xslots-club.ru
 0.0.0.0 1-xslots.com
 0.0.0.0 1xslots-elite.ru
@@ -697,6 +705,7 @@
 0.0.0.0 argo-casino.biz
 0.0.0.0 ariaexhibitorservices.com
 0.0.0.0 arizonacasinoparties.com
+0.0.0.0 arkadacasino894.com
 0.0.0.0 armanicasino.com
 0.0.0.0 art-casino.com
 0.0.0.0 articlecasino.com
@@ -3172,6 +3181,7 @@
 0.0.0.0 cintapuncak.com
 0.0.0.0 circbet99.com
 0.0.0.0 circus-casinos.co.uk
+0.0.0.0 citycenter-iguazu.com.ar
 0.0.0.0 citycenteronlinecasino.top
 0.0.0.0 cityofblackjack.com
 0.0.0.0 clbanners20.com
@@ -3353,6 +3363,7 @@
 0.0.0.0 ddwcasino88win.top
 0.0.0.0 ddwcasino88win.vip
 0.0.0.0 dealbetcasino.uk
+0.0.0.0 dealbet.io
 0.0.0.0 dealgamble.com
 0.0.0.0 decasino.me
 0.0.0.0 decasinopro.org
@@ -3690,6 +3701,7 @@
 0.0.0.0 filipinocasinos.com
 0.0.0.0 filthyrichslots.com
 0.0.0.0 fin88casino.wiki
+0.0.0.0 finalcountdown.io
 0.0.0.0 fincamassolers.com
 0.0.0.0 findscasino.info
 0.0.0.0 finestcasinosonline.com
@@ -4425,6 +4437,8 @@
 0.0.0.0 hotelcasinoslists.com
 0.0.0.0 hotellist247-casino.com
 0.0.0.0 hotelstopcasino.com
+0.0.0.0 hotloot77.io
+0.0.0.0 hotloot88.io
 0.0.0.0 hotslotsreviews.com
 0.0.0.0 houseoffun.com
 0.0.0.0 houseofjackcasino.online
@@ -4892,6 +4906,17 @@
 0.0.0.0 kbrbook247.com
 0.0.0.0 kcasino.org
 0.0.0.0 kent370.com
+0.0.0.0 kent389.com
+0.0.0.0 kent407.com
+0.0.0.0 kent428.com
+0.0.0.0 kent545.com
+0.0.0.0 kent590.com
+0.0.0.0 kent604.com
+0.0.0.0 kent720.com
+0.0.0.0 kent733.com
+0.0.0.0 kent735.com
+0.0.0.0 kent870.com
+0.0.0.0 kent932.com
 0.0.0.0 kentcasino-159.top
 0.0.0.0 kentcasinobiz.com
 0.0.0.0 kentcasino.cc
@@ -5260,6 +5285,7 @@
 0.0.0.0 lolly-bet2.com
 0.0.0.0 lolly-bet3.com
 0.0.0.0 lolly-bet666.com
+0.0.0.0 lolly-bet999.com
 0.0.0.0 lolly-bet.com
 0.0.0.0 lonacionline.ci
 0.0.0.0 londonpartypoker.com
@@ -8431,10 +8457,28 @@
 0.0.0.0 vipcasinolisting.shop
 0.0.0.0 vip-casino.net.ua
 0.0.0.0 vipcasino-split.top
+0.0.0.0 vip-catcasino100.com
+0.0.0.0 vip-catcasino120.com
+0.0.0.0 vip-catcasino130.com
+0.0.0.0 vip-catcasino50.com
+0.0.0.0 vip-catcasino60.com
+0.0.0.0 vip-catcasino70.com
+0.0.0.0 vip-catcasino80.com
+0.0.0.0 vip-catcasino90.com
 0.0.0.0 vipclubonlinecasino.com
 0.0.0.0 viperslots.com
 0.0.0.0 viperspin.org
 0.0.0.0 vipglobalcasinos.com
+0.0.0.0 vip-kent100.com
+0.0.0.0 vip-kent110.com
+0.0.0.0 vip-kent30.com
+0.0.0.0 vip-kent40.com
+0.0.0.0 vip-kent50.com
+0.0.0.0 vip-kent60.com
+0.0.0.0 vip-kent70.com
+0.0.0.0 vip-kent80.com
+0.0.0.0 vip-kent90.com
+0.0.0.0 vip-motor10.com
 0.0.0.0 vipplay247.com
 0.0.0.0 vipscasinos.com
 0.0.0.0 viralcasino.net

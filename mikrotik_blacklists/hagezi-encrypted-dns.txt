@@ -1,3 +1,4 @@
+0.0.0.0 jp2.101818.xyz
 0.0.0.0 108023.xyz
 0.0.0.0 12312300.xyz
 0.0.0.0 123anonymous.com
@@ -41,6 +42,8 @@
 0.0.0.0 accessmeproxy.com
 0.0.0.0 achievementnetwork.tk
 0.0.0.0 r.achievementnetwork.gq
+0.0.0.0 adbl-tslagter.nl
+0.0.0.0 aden.my
 0.0.0.0 advanced.name
 0.0.0.0 advancedvpn.com
 0.0.0.0 research.africa.com
@@ -63,6 +66,7 @@
 0.0.0.0 american-proxy.com
 0.0.0.0 americanvpn.org
 0.0.0.0 americaproxy.info
+0.0.0.0 adb.amishkaz.site
 0.0.0.0 ammmae150.news
 0.0.0.0 amnezia.org
 0.0.0.0 ananoos.com
@@ -470,6 +474,7 @@
 0.0.0.0 droidvpn.com
 0.0.0.0 bitly-galatikx.duckdns.org
 0.0.0.0 huawaakiskokoa.duckdns.org
+0.0.0.0 theadblocksg.duckdns.org
 0.0.0.0 georgetown.duia.us
 0.0.0.0 dutchproxy.nl
 0.0.0.0 dvprovider.icu
@@ -548,6 +553,7 @@
 0.0.0.0 paku.f5.si
 0.0.0.0 shark-pan.f5.si
 0.0.0.0 socchanpxy.f5.si
+0.0.0.0 dns.f97.xyz
 0.0.0.0 faceless.me
 0.0.0.0 proxy.facil.wtf
 0.0.0.0 www-proxy.facil.wtf
@@ -601,6 +607,7 @@
 0.0.0.0 scienceschoolmath.fpr.net
 0.0.0.0 turtlelover.fpr.net
 0.0.0.0 zi000.fpr.net
+0.0.0.0 fptdns.site
 0.0.0.0 frandcomfort.us
 0.0.0.0 free-onlineproxy.com
 0.0.0.0 free-proxy.com
@@ -882,6 +889,7 @@
 0.0.0.0 iweb365.net
 0.0.0.0 iwebproxy.com
 0.0.0.0 ixl.plus
+0.0.0.0 dns.izyserv.site
 0.0.0.0 jagoanssh.com
 0.0.0.0 skibiditoilet.jake.eu
 0.0.0.0 jamesisbald.xyz
@@ -977,6 +985,7 @@
 0.0.0.0 lookingglass.site
 0.0.0.0 lopana.com
 0.0.0.0 btg.ludopop.cl
+0.0.0.0 pure.lunetra.online
 0.0.0.0 lurk.info
 0.0.0.0 iloveshrek.madhacker.biz
 0.0.0.0 magiccloak.net
@@ -1069,6 +1078,7 @@
 0.0.0.0 nebulaproxy.io
 0.0.0.0 nekoray.org
 0.0.0.0 neonos.me
+0.0.0.0 adguard.neotix.net
 0.0.0.0 netnut.io
 0.0.0.0 netscop.net
 0.0.0.0 carcar.netseclabs.gr
@@ -1158,6 +1168,7 @@
 0.0.0.0 historyofutopia.orekhov.space
 0.0.0.0 learning.orestpena.com
 0.0.0.0 educationperfect.wbcc.org.au
+0.0.0.0 ortudns.com
 0.0.0.0 info.osiadaczabogados.cl
 0.0.0.0 osqcsmm.shop
 0.0.0.0 proxy.outred.dev
@@ -1176,6 +1187,7 @@
 0.0.0.0 pangdavpn.com
 0.0.0.0 papaproxy.net
 0.0.0.0 papervpn.info
+0.0.0.0 paradise-human.shop
 0.0.0.0 meow.partedu.club
 0.0.0.0 pazou.org
 0.0.0.0 pbproxy.red
@@ -1196,6 +1208,7 @@
 0.0.0.0 piaproxy.com
 0.0.0.0 pingproxy.com
 0.0.0.0 pinkproxy.xyz
+0.0.0.0 pioko.net
 0.0.0.0 piratebayproxy.co
 0.0.0.0 pixelprivacy.com
 0.0.0.0 pixolium.com
@@ -1502,6 +1515,7 @@
 0.0.0.0 shadowtunnels.com
 0.0.0.0 sharejav.com
 0.0.0.0 sharevpn.org
+0.0.0.0 free.shecan.ir
 0.0.0.0 shellfire.net
 0.0.0.0 shopping-website.us
 0.0.0.0 shopsocks5.com
@@ -1533,6 +1547,7 @@
 0.0.0.0 onlyforschool123.smarter-homes.com
 0.0.0.0 lunarsync.smartfoloo.space
 0.0.0.0 sudeepapini.smathis.com
+0.0.0.0 lux.sn0w.nl
 0.0.0.0 snapxs.com
 0.0.0.0 dove.soapagent.com
 0.0.0.0 dove.soapclient.com
@@ -1556,6 +1571,7 @@
 0.0.0.0 threeproxy.spacejamhd.com
 0.0.0.0 spacevpn.io
 0.0.0.0 spanish101.college
+0.0.0.0 adguard.sparshbajaj.me
 0.0.0.0 spedo.co
 0.0.0.0 speedify.com
 0.0.0.0 speedproxy.online
@@ -1568,6 +1584,7 @@
 0.0.0.0 spysurfing.com
 0.0.0.0 squidproxyserver.com
 0.0.0.0 squirrelvpn.com
+0.0.0.0 sriedmueadguard.casa
 0.0.0.0 adbox-v8.srv64.de
 0.0.0.0 host.srvdns.de
 0.0.0.0 ssh-free.com
@@ -1946,6 +1963,7 @@
 0.0.0.0 waselpro.com
 0.0.0.0 h4g3z1-doh-vpn-proxy-bypass.web.app
 0.0.0.0 mathematics.hana.web.id
+0.0.0.0 s.rafiadinata.web.id
 0.0.0.0 webhook.site
 0.0.0.0 db.webmdee.com
 0.0.0.0 weboproxy.com
@@ -1967,6 +1985,7 @@
 0.0.0.0 webtester.cc
 0.0.0.0 webtunnelx.com
 0.0.0.0 webxify.com
+0.0.0.0 adg.webyfa.ir
 0.0.0.0 webypass.info
 0.0.0.0 wedding-present.us
 0.0.0.0 wez.fr

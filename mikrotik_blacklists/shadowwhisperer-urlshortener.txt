@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 5,745
-# Updated: 1/8/2026  16:50 (4:50 PM CST)
+# Domains: 5,754
+# Updated: 1/12/2026  18:12 (6:12 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -1092,6 +1092,7 @@
 0.0.0.0 crypsante.com
 0.0.0.0 cryptoguide.website
 0.0.0.0 cry-pto.life
+0.0.0.0 cryptowidgets.site
 0.0.0.0 crzgu.sbs
 0.0.0.0 csgy.info
 0.0.0.0 csj.lol
@@ -1185,6 +1186,7 @@
 0.0.0.0 dbanm.com
 0.0.0.0 dbccx.top
 0.0.0.0 dbmarketing.app
+0.0.0.0 dbolc.com
 0.0.0.0 dbox.lol
 0.0.0.0 dcbspage.org
 0.0.0.0 dcchb.sbs
@@ -2076,6 +2078,7 @@
 0.0.0.0 ilog.io
 0.0.0.0 imaxl.ink
 0.0.0.0 imboost.link
+0.0.0.0 imgo.cc
 0.0.0.0 imo-call.shop
 0.0.0.0 imo.cx
 0.0.0.0 imperiolink.com
@@ -2142,6 +2145,7 @@
 0.0.0.0 isot2024.live
 0.0.0.0 istel.co
 0.0.0.0 isterratrk.com
+0.0.0.0 istincy.com
 0.0.0.0 istiqomahisti7.life
 0.0.0.0 istubby.com
 0.0.0.0 isurl.cc
@@ -2532,6 +2536,7 @@
 0.0.0.0 linkcepat.my
 0.0.0.0 linkclickcounter.com
 0.0.0.0 linkcloaker.pro
+0.0.0.0 link.cnr.it
 0.0.0.0 linkcrypter.com
 0.0.0.0 link-cut.com
 0.0.0.0 linkcut.io
@@ -2865,6 +2870,7 @@
 0.0.0.0 mbx.events
 0.0.0.0 mby.me
 0.0.0.0 mcafee.ly
+0.0.0.0 mcgtac.com
 0.0.0.0 mchek.cc
 0.0.0.0 mcmullard.com
 0.0.0.0 mcni.it
@@ -4755,6 +4761,7 @@
 0.0.0.0 tourl.in
 0.0.0.0 tov1.net
 0.0.0.0 tovgo.cc
+0.0.0.0 towa.no
 0.0.0.0 tox.cx
 0.0.0.0 toyota.tw
 0.0.0.0 tp90.link
@@ -4902,6 +4909,7 @@
 0.0.0.0 uitve.sbs
 0.0.0.0 ujootchu.net
 0.0.0.0 ukaz.me
+0.0.0.0 uke.fan
 0.0.0.0 ukphamacyunited.live
 0.0.0.0 ukqf.top
 0.0.0.0 ul3.ir
@@ -5305,6 +5313,7 @@
 0.0.0.0 webseoexpert.life
 0.0.0.0 webshortner.com
 0.0.0.0 webshort.org
+0.0.0.0 webtrafficxxl.com
 0.0.0.0 webuji4d.life
 0.0.0.0 webwebsite.live
 0.0.0.0 webyank4d.live

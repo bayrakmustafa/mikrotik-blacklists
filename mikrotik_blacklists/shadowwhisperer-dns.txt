@@ -1,8 +1,8 @@
 #
 #    File: DNS
 #    Info: DNS Resolvers
-# Domains: 140
-# Updated: 1/8/2026  01:07 (1:07 AM CST)
+# Domains: 141
+# Updated: 1/12/2026  18:12 (6:12 PM CST)
 #
 0.0.0.0 doh.360.cn
 0.0.0.0 dot.360.cn
@@ -98,6 +98,7 @@
 0.0.0.0 opendns.com
 0.0.0.0 openbld.net
 0.0.0.0 oszx.co
+0.0.0.0 plan9-dns.com
 0.0.0.0 tiarap.org
 0.0.0.0 tiar.app
 0.0.0.0 pumplex.com

@@ -686,6 +686,7 @@
 0.0.0.0 971.ykgw-2.ru
 0.0.0.0 976.n6ri.ru
 0.0.0.0 98.drip-anchor.ru
+0.0.0.0 98du.mor-5-tud-1-es.ru
 0.0.0.0 99-118-215-24.lightspeed.irvnca.sbcglobal.net
 0.0.0.0 99.r46eu.ru
 0.0.0.0 9am.8-f-e8.ru
@@ -944,6 +945,7 @@
 0.0.0.0 anubisonline.top
 0.0.0.0 any.m4ze.ru
 0.0.0.0 ape.qvik5.ru
+0.0.0.0 api.bitcoinusdtusdc.xyz
 0.0.0.0 api.centraliasolutions.com.br
 0.0.0.0 api.easybugpixolanefreeapp.monster
 0.0.0.0 api.envio.fit
@@ -1573,7 +1575,6 @@
 0.0.0.0 copperwerft.ru
 0.0.0.0 core.gyrodesk.ru
 0.0.0.0 core5.tweakmire.ru
-0.0.0.0 corelis.ro
 0.0.0.0 cove.n4ym.online
 0.0.0.0 cove.r-9-xa.ru
 0.0.0.0 cow.je5w.com
@@ -1593,6 +1594,8 @@
 0.0.0.0 crest.jamcrest.ru
 0.0.0.0 crest.st0nepeak.ru
 0.0.0.0 crest7.mysticdrop.ru
+0.0.0.0 cretonriz.lxmail.store
+0.0.0.0 cropenval8.mail-lab.store
 0.0.0.0 cross.xiqek-40-ye-8.ru
 0.0.0.0 cryptoinfa.com
 0.0.0.0 cs.bo8y.ru
@@ -1623,6 +1626,7 @@
 0.0.0.0 d1o.j935.ru
 0.0.0.0 d1ys4.zo4n.online
 0.0.0.0 d2.i4-27k.ru
+0.0.0.0 d2.pen-1-sp-7-edef.ru
 0.0.0.0 d2.twy-0.ru
 0.0.0.0 d29.v3ix.ru
 0.0.0.0 d2a5.5no-v.ru
@@ -1766,6 +1770,7 @@
 0.0.0.0 doc.stonemist.ru
 0.0.0.0 dock.pi-6-o.ru
 0.0.0.0 dock.tu7q.online
+0.0.0.0 document.levelupsky.org
 0.0.0.0 dogist.top
 0.0.0.0 domenuss.store
 0.0.0.0 dominservers.xyz
@@ -1779,6 +1784,7 @@
 0.0.0.0 dossier-amende-minfin.info
 0.0.0.0 dot.dor8y.online
 0.0.0.0 dove.s-2-ly.ru
+0.0.0.0 download.ilovegrooming.xyz
 0.0.0.0 download.towertour.appleoffortune.xyz
 0.0.0.0 downloadfilesd.xyz
 0.0.0.0 doxcom.xyz
@@ -1820,6 +1826,7 @@
 0.0.0.0 drift8.braycircuit.ru
 0.0.0.0 driftfels.online
 0.0.0.0 drip2.s1nkflare.ru
+0.0.0.0 drive-security-cloud.io
 0.0.0.0 drop.br1ghtmist.ru
 0.0.0.0 drop.w1de.ru
 0.0.0.0 drop1.cl0udrise.ru
@@ -2017,6 +2024,7 @@
 0.0.0.0 ex.j5-ol.ru
 0.0.0.0 ex.to-qa.ru
 0.0.0.0 exciting-hopper.196-251-72-149.plesk.page
+0.0.0.0 exodus-io.io
 0.0.0.0 exoduwallet.io
 0.0.0.0 expedition-mrelayy.info
 0.0.0.0 eyangjitu.live
@@ -2187,6 +2195,8 @@
 0.0.0.0 flintwiese.online
 0.0.0.0 flip.da-5-v.ru
 0.0.0.0 flip.da5v.online
+0.0.0.0 flisinfuntar.mail-lab.store
+0.0.0.0 flononconsal.mail-genius.store
 0.0.0.0 flour.1-mafus-044-e.ru
 0.0.0.0 flow.g-1-zmotrail.ru
 0.0.0.0 flow3.res4ev7oy1.online
@@ -2258,6 +2268,7 @@
 0.0.0.0 fwi.71o9.ru
 0.0.0.0 fx.plx5.ru
 0.0.0.0 fx.ru7x.ru
+0.0.0.0 fxmixers.com
 0.0.0.0 fyp.glitch-pact.ru
 0.0.0.0 g.1jd3t.ru
 0.0.0.0 g.9715w.ru
@@ -2396,7 +2407,6 @@
 0.0.0.0 gh.7nf214.ru
 0.0.0.0 gh.gi0x.ru
 0.0.0.0 ghc.ithc-4.ru
-0.0.0.0 ghostbin.lain.la
 0.0.0.0 gi.obvp-2.ru
 0.0.0.0 gi09mn3d.com
 0.0.0.0 gi0x.aucti-0-nz-7-ir.ru
@@ -2431,6 +2441,7 @@
 0.0.0.0 glanz.silvanbruch.ru
 0.0.0.0 glanz.silverbirke.ru
 0.0.0.0 glanz.stormlaterne.ru
+0.0.0.0 glaronhal.lxmail.store
 0.0.0.0 gle.zo6r.ru
 0.0.0.0 gleam.cl1ppleap.ru
 0.0.0.0 gleam.inktrap.ru
@@ -2525,6 +2536,7 @@
 0.0.0.0 grid.digncbe.top
 0.0.0.0 grid6.wreckly.ru
 0.0.0.0 groovesyncmusic.top
+0.0.0.0 grufuncinlhar.floresflorcravovermelho.cfd
 0.0.0.0 grusul4.floresfloripomeiaverde.cfd
 0.0.0.0 gs.crystalmoor.ru
 0.0.0.0 gs.ha7e.ru
@@ -2542,6 +2554,7 @@
 0.0.0.0 gum.vex0.ru
 0.0.0.0 guruji.sbs
 0.0.0.0 guruji777.com
+0.0.0.0 guzmaninternacional.com
 0.0.0.0 gv8.knackquill.ru
 0.0.0.0 gw.888-c.ru
 0.0.0.0 gw3.q3lo.ru
@@ -2778,7 +2791,6 @@
 0.0.0.0 hr3lb.f0rce.ru
 0.0.0.0 hr5.nmys-4.ru
 0.0.0.0 hs.gtus-4.ru
-0.0.0.0 hst.sh
 0.0.0.0 hu.storm-harrow.ru
 0.0.0.0 hub.pi6o.ru
 0.0.0.0 hue.b9ku.ru
@@ -2872,6 +2884,7 @@
 0.0.0.0 ios5.blackandark.com
 0.0.0.0 ioy.wi7o.ru
 0.0.0.0 ip1.p8ri.ru
+0.0.0.0 ip423869596.ahcdn.com
 0.0.0.0 ipu.hy6o.ru
 0.0.0.0 iq.18yk.ru
 0.0.0.0 iqht.zap-kinetic.ru
@@ -3287,6 +3300,7 @@
 0.0.0.0 latinashosting.com
 0.0.0.0 laughing-herschel.196-251-72-149.plesk.page
 0.0.0.0 laughing-perlman.196-251-72-149.plesk.page
+0.0.0.0 layer.gethe4e.ru
 0.0.0.0 lb.loxr.ru
 0.0.0.0 lbgxn.m0onforger.ru
 0.0.0.0 lc.ha5r.ru
@@ -3529,6 +3543,7 @@
 0.0.0.0 ma.r1v-x.ru
 0.0.0.0 ma.xer-o.ru
 0.0.0.0 ma4.sa3x.ru
+0.0.0.0 mabqir.mo5hnap2sser.ru
 0.0.0.0 magical-shirley.196-251-72-149.plesk.page
 0.0.0.0 mahakalmatka.space
 0.0.0.0 mail.847343.xyz
@@ -3638,6 +3653,7 @@
 0.0.0.0 monrelay.help
 0.0.0.0 monrelayfr-support.com
 0.0.0.0 monsuivi-colis.help
+0.0.0.0 moon.le-3-nsnet-7-e.ru
 0.0.0.0 moon.rjofi.online
 0.0.0.0 moor.atlasufer.ru
 0.0.0.0 moor.c0dehawk.ru
@@ -4294,6 +4310,9 @@
 0.0.0.0 practical-wu.196-251-72-149.plesk.page
 0.0.0.0 prism.fenod.online
 0.0.0.0 prismboden.ru
+0.0.0.0 probable-winner.info
+0.0.0.0 progongor822.mail-genius.store
+0.0.0.0 prosil.mail-mentor.store
 0.0.0.0 protecaocartao.online
 0.0.0.0 protection-hub.cfd
 0.0.0.0 pry.qen9.ru
@@ -4594,6 +4613,7 @@
 0.0.0.0 r7a.mi7x.online
 0.0.0.0 r7h0g4s.ru
 0.0.0.0 r7k2.sk-f0s.ru
+0.0.0.0 r7mc8.primurib1er.ru
 0.0.0.0 r7nc.0-9pr.ru
 0.0.0.0 r7nd.nyqb0.ru
 0.0.0.0 r7pj2.3u-6.online
@@ -4705,6 +4725,7 @@
 0.0.0.0 rib.fa0n.ru
 0.0.0.0 rice.vbep-3.ru
 0.0.0.0 rid.r9xa.ru
+0.0.0.0 ridge.gethe4e.ru
 0.0.0.0 ridge4.loamgarde.ru
 0.0.0.0 rift.tr-8-n.ru
 0.0.0.0 rift.waveretch.ru
@@ -4905,6 +4926,7 @@
 0.0.0.0 seb.gl8r.ru
 0.0.0.0 secureapimiddleware.com
 0.0.0.0 securefiledepot.com
+0.0.0.0 security-teamz.com
 0.0.0.0 see.ckon0.ru
 0.0.0.0 see.pi6o.ru
 0.0.0.0 segurancadigitalxp.com
@@ -4914,6 +4936,7 @@
 0.0.0.0 serenapoint.ru
 0.0.0.0 serene-dhawan.196-251-72-149.plesk.page
 0.0.0.0 serene-swartz.196-251-72-149.plesk.page
+0.0.0.0 servachok.space
 0.0.0.0 server.09neverhurtme08.top
 0.0.0.0 server.realopmo.online
 0.0.0.0 service-mondial-relais-colis.info
@@ -4925,6 +4948,7 @@
 0.0.0.0 set.me2v.ru
 0.0.0.0 sexworld3d.top
 0.0.0.0 sf5.ckyq9.ru
+0.0.0.0 sffacoglobal.com
 0.0.0.0 sgy.wdax1.ru
 0.0.0.0 sh.18yk.ru
 0.0.0.0 sh.vakun.ru
@@ -5013,6 +5037,7 @@
 0.0.0.0 spark.glimmerstone.ru
 0.0.0.0 spark.m-0-on-forger.ru
 0.0.0.0 spark.y0ur.ru
+0.0.0.0 spark3.primurib1er.ru
 0.0.0.0 spark3.shadowsun.ru
 0.0.0.0 spark6.raven-flux.ru
 0.0.0.0 spark7.syc0aq8uy1.online
@@ -5043,7 +5068,6 @@
 0.0.0.0 starlink-br.shop
 0.0.0.0 starmarkt.ru
 0.0.0.0 statementmsi.xyz
-0.0.0.0 static.3001.net
 0.0.0.0 steam-terraria.run
 0.0.0.0 stein.anvilklee.ru
 0.0.0.0 stein.flintwerder.ru
@@ -5054,6 +5078,7 @@
 0.0.0.0 stern.copperalpen.ru
 0.0.0.0 stern.emberhochland.ru
 0.0.0.0 stern.glimmerstrand.ru
+0.0.0.0 stern.hum-2-nk-0-str.ru
 0.0.0.0 stern.kab-1-spr-0-tect.ru
 0.0.0.0 stern.maplerand.ru
 0.0.0.0 stern.med1aflow.ru
@@ -5251,6 +5276,7 @@
 0.0.0.0 tal.darkspark.ru
 0.0.0.0 tal.dinfectt-0-rs-0.ru
 0.0.0.0 tal.echo6fern.ru
+0.0.0.0 tal.hum-2-nk-0-str.ru
 0.0.0.0 tal.nightf0x.ru
 0.0.0.0 tal.pinewacht.ru
 0.0.0.0 tal.silvanbruch.ru
@@ -5352,10 +5378,13 @@
 0.0.0.0 to.z3-lu.ru
 0.0.0.0 to.zi-qa.ru
 0.0.0.0 tokituks.sbs
+0.0.0.0 tokityki.shop
 0.0.0.0 tom-complex-dream-striking.trycloudflare.com
 0.0.0.0 top.b9ku.ru
 0.0.0.0 topaz.mcej-9.ru
+0.0.0.0 toto919fast.com
 0.0.0.0 toto919link.org
+0.0.0.0 toto919ril.com
 0.0.0.0 tp.op76.ru
 0.0.0.0 tpa.gtus-4.ru
 0.0.0.0 tpauser9be.com
@@ -5391,6 +5420,7 @@
 0.0.0.0 trail.g1zmotrail.ru
 0.0.0.0 trail.ventrill.ru
 0.0.0.0 trail0.skylintap.ru
+0.0.0.0 trail2.pen-1-sp-7-edef.ru
 0.0.0.0 trail3.brimhopper.ru
 0.0.0.0 trail3.knackquill.ru
 0.0.0.0 trail5.rift-cog.ru
@@ -5520,6 +5550,7 @@
 0.0.0.0 ufer.stoneharbor.ru
 0.0.0.0 ufer.tundragrund.ru
 0.0.0.0 ufer.wiidharbor.ru
+0.0.0.0 ufer1.hum-2-nk-0-str.ru
 0.0.0.0 ufer1.inha4itmu1ti.ru
 0.0.0.0 ufer1.moonfenster.ru
 0.0.0.0 ufer1.nightspark.ru
@@ -5646,6 +5677,7 @@
 0.0.0.0 v4n1.zephyrsteg.online
 0.0.0.0 v4q7p.l3rc-0.ru
 0.0.0.0 v4sz.08u073852.online
+0.0.0.0 v585188.hosted-by-vdsina.com
 0.0.0.0 v5q.r0en3ap.ru
 0.0.0.0 v5qp3.u4-r-o.ru
 0.0.0.0 v6r2.fi0m.online
@@ -5690,9 +5722,11 @@
 0.0.0.0 vale.s0ftmint.ru
 0.0.0.0 vale.zenith-snap.ru
 0.0.0.0 vale0.cinderloom.ru
+0.0.0.0 vale1.le-3-nsnet-7-e.ru
 0.0.0.0 vale6.c1earwave.ru
 0.0.0.0 validate-348-captcha-220-8237.click
 0.0.0.0 validate-3748-captcha-2920-8237.click
+0.0.0.0 valkas.top
 0.0.0.0 vapr.basaltwisp9.ru
 0.0.0.0 vat.me2v.ru
 0.0.0.0 vaultcord.net
@@ -5766,6 +5800,7 @@
 0.0.0.0 vp.5-rt.ru
 0.0.0.0 vpcp.clipmorrow.ru
 0.0.0.0 vps-2624.onecom-cloud.one
+0.0.0.0 vps-3002.onecom-cloud.one
 0.0.0.0 vq.lo2p.ru
 0.0.0.0 vq.zi-qa.ru
 0.0.0.0 vq8.mi7x.online
@@ -5777,6 +5812,7 @@
 0.0.0.0 vr3b.ddns.net
 0.0.0.0 vr4x.te7ap.online
 0.0.0.0 vr6.sxuj7.ru
+0.0.0.0 vrxl3.primurib1er.ru
 0.0.0.0 vsm.n6ri.ru
 0.0.0.0 vvp.ke9t.ru
 0.0.0.0 vvvpmscvtlhcjbybrwjg.supabase.co
@@ -6319,9 +6355,13 @@
 0.0.0.0 yn.ha0m.ru
 0.0.0.0 yn.r8li.ru
 0.0.0.0 yo.mzas7.ru
+0.0.0.0 you-rus.lol
 0.0.0.0 you.b9ku.ru
 0.0.0.0 your-mom-is-so-fat-we-couldnt-fit-her-in-this-doma.in
+0.0.0.0 yout-ru.lol
 0.0.0.0 youthful-solomon.196-251-72-149.plesk.page
+0.0.0.0 youtruss.lol
+0.0.0.0 youtube-rus.top
 0.0.0.0 youtube-window.pro
 0.0.0.0 youtubegg.top
 0.0.0.0 youtubego.live
