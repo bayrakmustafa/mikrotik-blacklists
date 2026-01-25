@@ -1,5 +1,5 @@
 # Easylist, parsed and mirrored by https://firebog.net
-# Updated 16JAN26 from https://easylist.to/easylist/easylist.txt
+# Updated 24JAN26 from https://easylist.to/easylist/easylist.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -8,53 +8,45 @@
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://github.com/easylist/easylist#list-issues
 
 0.0.0.0 ad.moe.video
-0.0.0.0 agrafeskamel.cyou
 0.0.0.0 alitems.com
 0.0.0.0 asg.prettytube.net
 0.0.0.0 auditude.com
 0.0.0.0 buyeasy.by
 0.0.0.0 cdn.hamwo.cloud
+0.0.0.0 choudirsaixie.net
+0.0.0.0 cowingboubasmullet.cfd
 0.0.0.0 cpm.appocean.media
-0.0.0.0 eiyyjstblubzo.website
-0.0.0.0 emotionallock.pro
+0.0.0.0 dfuvslppaxhzv.site
+0.0.0.0 divedsurprisinglythermometer.com
 0.0.0.0 engine.eroge.com
 0.0.0.0 f5w.prettytube.net
-0.0.0.0 finifyjubate.shop
-0.0.0.0 frimrecluse.qpon
+0.0.0.0 femorahecate.cyou
+0.0.0.0 fkgpewlsrzwiu.website
 0.0.0.0 go.bloxplay.com
-0.0.0.0 godlierserums.cfd
-0.0.0.0 hxnxxmhyfpanj.online
 0.0.0.0 imasdk.googleapis.com
-0.0.0.0 iuqtmoblgqkgq.site
-0.0.0.0 jfkhvkohlcyc.com
-0.0.0.0 jovqyymoawbaq.top
-0.0.0.0 keblljalqjuj.xyz
-0.0.0.0 kikukxnxnugqa.space
+0.0.0.0 kpuscrsmljibk.space
+0.0.0.0 lharfoeeeqsxr.site
 0.0.0.0 link.link.ru
 0.0.0.0 loadercdn.com
 0.0.0.0 monetag.com
-0.0.0.0 mprsxxhbdhewe.online
 0.0.0.0 mweb-hb.presage.io
-0.0.0.0 noritesfarrago.com
-0.0.0.0 nqxuwacltqjce.site
-0.0.0.0 paideiadisamis.cyou
-0.0.0.0 partridgevowel.com
-0.0.0.0 pertugaghomsu.net
+0.0.0.0 nbjlvyeegheug.site
+0.0.0.0 oogvaayjgjsetel.xyz
+0.0.0.0 pcwttlywhnxkx.com
+0.0.0.0 pgisdxbicrxqi.online
 0.0.0.0 pips.taboola.com
 0.0.0.0 pirogad.tophosting101.com
-0.0.0.0 posthocclavusrussel.qpon
-0.0.0.0 pp9vyl2cl3lqhbgky2j9lpkm4m.cfd
 0.0.0.0 prebid.cwi.re
 0.0.0.0 proto2ad.durasite.net
-0.0.0.0 psuhfbue.com
-0.0.0.0 resolvepliantcannot.com
+0.0.0.0 qkacjgqdpvilp.website
+0.0.0.0 rinqgwqhyxozh.website
+0.0.0.0 soundlyaplitic.qpon
+0.0.0.0 sparrycarven.qpon
+0.0.0.0 spoliaessede.cfd
 0.0.0.0 srv.tunefindforfans.com
 0.0.0.0 sync.gsyndication.com
-0.0.0.0 syrupsatellite.com
 0.0.0.0 targeting.vdo.ai
-0.0.0.0 troutyforwelk.qpon
 0.0.0.0 unpin.hothomefuck.com
 0.0.0.0 vi1.prettytube.net
 0.0.0.0 videoplaza.tv
-0.0.0.0 warishphloxes.shop
 0.0.0.0 wpnrtnmrewunrtok.xyz

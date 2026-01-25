@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 Jan 2026 22:38 UTC
-# Version: 2026.0117.2238.50
+# Last modified: 25 Jan 2026 10:38 UTC
+# Version: 2026.0125.1038.33
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3945
+# Number of entries: 3960
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -92,6 +92,7 @@
 0.0.0.0 dns.3dcapitaltrust.net
 0.0.0.0 3dcosas.xyz
 0.0.0.0 3dns.eu
+0.0.0.0 3jjxxl.tech
 0.0.0.0 adg.3k.work
 0.0.0.0 dns.3wv.de
 0.0.0.0 dns.4-the.win
@@ -138,7 +139,6 @@
 0.0.0.0 arches-srv2.8ws.net
 0.0.0.0 outie.8ws.net
 0.0.0.0 outiejr.8ws.net
-0.0.0.0 tokyo.92-m.com
 0.0.0.0 dns.920313.xyz
 0.0.0.0 de-passage.9273082020.ru
 0.0.0.0 jp.95576.app
@@ -548,8 +548,10 @@
 0.0.0.0 aduhai.caksono.com
 0.0.0.0 dns.caliph.dev
 0.0.0.0 callbackping.net
+0.0.0.0 callies-online.site
 0.0.0.0 adguard.camn.uk
 0.0.0.0 2.dnscrypt-cert.captnemo.in
+0.0.0.0 console.carestyle.org
 0.0.0.0 unifi.carioka.com
 0.0.0.0 dns.carson-family.com
 0.0.0.0 dns.carter.me
@@ -648,6 +650,7 @@
 0.0.0.0 dns.clickitsolutionsllc.com
 0.0.0.0 adguard.clmnnt.codes
 0.0.0.0 closetruth.date
+0.0.0.0 cloudbenders.fun
 0.0.0.0 cloudbob.fr
 0.0.0.0 dns.cloudfiction.eu
 0.0.0.0 dns.233py.com.cdn.cloudflare.net
@@ -837,6 +840,7 @@
 0.0.0.0 dns.curser.dev
 0.0.0.0 dns.cwlys.com
 0.0.0.0 gc.cyberbeta.cn
+0.0.0.0 nanopi.cybergroove.net
 0.0.0.0 dns.cybertonic.tech
 0.0.0.0 dns2.cybrespace.net
 0.0.0.0 cynntex.fun
@@ -974,7 +978,6 @@
 0.0.0.0 smartphone-niels.pcbrdh8v6m.digitallink.be
 0.0.0.0 smartphone-saskia.pcbrdh8v6m.digitallink.be
 0.0.0.0 rome.digitallink.be
-0.0.0.0 dns.digitalsize.net
 0.0.0.0 eka.dilli.dev
 0.0.0.0 dns.dimantus.com
 0.0.0.0 dingdangnao.com
@@ -1322,7 +1325,6 @@
 0.0.0.0 dstruis.nl
 0.0.0.0 dns.dualhosting.eu
 0.0.0.0 yukito.duanzx.top
-0.0.0.0 ad1guard.duckdns.org
 0.0.0.0 adgrm.duckdns.org
 0.0.0.0 adguardpi.duckdns.org
 0.0.0.0 andryk111.duckdns.org
@@ -1367,6 +1369,7 @@
 0.0.0.0 site-3.duckdns.org
 0.0.0.0 testapp-0-1-1.duckdns.org
 0.0.0.0 thaibksri.duckdns.org
+0.0.0.0 theadblocksg.duckdns.org
 0.0.0.0 ts653d.duckdns.org
 0.0.0.0 tuandns.duckdns.org
 0.0.0.0 tungdnsne.duckdns.org
@@ -1388,7 +1391,6 @@
 0.0.0.0 akhilkalwakurthy.dyndns.org
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 roucious.dyndns-remote.com
-0.0.0.0 resolver2.dyndnsinternetguide.com
 0.0.0.0 rafi.dynns.com
 0.0.0.0 ccadguard.dynu.net
 0.0.0.0 adguard.ekhozie.dynu.net
@@ -1614,6 +1616,7 @@
 0.0.0.0 funti.cc
 0.0.0.0 funtikspb.ru
 0.0.0.0 doh.funtopia.tv
+0.0.0.0 dns.furrydns.de
 0.0.0.0 furrytech.io
 0.0.0.0 doh.futa.app
 0.0.0.0 doh.futa.gg
@@ -1695,6 +1698,7 @@
 0.0.0.0 adguard.grantbruneau.com
 0.0.0.0 cloud.graphicpoint.pl
 0.0.0.0 graveofhope.ru
+0.0.0.0 greatideasforlife.lol
 0.0.0.0 dns.green-ping.lol
 0.0.0.0 adguard.green1052.com
 0.0.0.0 greppie.nl
@@ -1844,6 +1848,7 @@
 0.0.0.0 hkg.hytec.org
 0.0.0.0 ur.hytec.org
 0.0.0.0 ns1.i-evolve.net
+0.0.0.0 i-puppy.ru
 0.0.0.0 ec.i-puppy.ru
 0.0.0.0 ru.i-puppy.ru
 0.0.0.0 opennic.i2pd.xyz
@@ -2107,6 +2112,7 @@
 0.0.0.0 server01.karl.one
 0.0.0.0 adguard.kasbot.net
 0.0.0.0 dns.kastner-online.de
+0.0.0.0 kavkaz.monster
 0.0.0.0 dns.kawa.tf
 0.0.0.0 dns.kc2wbx.com
 0.0.0.0 kcolspacrm.ir
@@ -2230,6 +2236,7 @@
 0.0.0.0 dns.lermer.nl
 0.0.0.0 lesuo.top
 0.0.0.0 dns.levonet.sk
+0.0.0.0 lewsha.lol
 0.0.0.0 br2.lezainski.com
 0.0.0.0 dns2.lezainski.com
 0.0.0.0 dns.lgprk.com
@@ -2514,6 +2521,7 @@
 0.0.0.0 dns.n23.io
 0.0.0.0 n8nmegapixar.online
 0.0.0.0 doh-ca.naftalie.net
+0.0.0.0 najiakeji.top
 0.0.0.0 dns.nako.kr
 0.0.0.0 chungocoai.name.vn
 0.0.0.0 adguard.quydang.name.vn
@@ -2801,8 +2809,6 @@
 0.0.0.0 pashagame456.com
 0.0.0.0 paskam.xyz
 0.0.0.0 rumsk.paskam.xyz
-0.0.0.0 a.passcloud.xyz
-0.0.0.0 i.passcloud.xyz
 0.0.0.0 dns.pastorov.ru
 0.0.0.0 wg.pastorov.ru
 0.0.0.0 nas.patrick-antoine.fr
@@ -2861,6 +2867,8 @@
 0.0.0.0 dns.pmxu.link
 0.0.0.0 muppy.pnamae.com
 0.0.0.0 dns.pointless.chat
+0.0.0.0 polisitogel.beauty
+0.0.0.0 polisitogel.hair
 0.0.0.0 polisitogel.show
 0.0.0.0 polisitogel.webcam
 0.0.0.0 vps.poly-tank.jp
@@ -2924,6 +2932,8 @@
 0.0.0.0 bit.psyk.fr
 0.0.0.0 publicdnsserver.com
 0.0.0.0 dns.pumpkinvrar.com
+0.0.0.0 dns.pumplex.com
+0.0.0.0 2.dnscrypt-cert.pumplex.com
 0.0.0.0 puredns.org
 0.0.0.0 family.puredns.org
 0.0.0.0 dns-privacy.puregeni.us
@@ -2945,6 +2955,7 @@
 0.0.0.0 dns2.qpt.one
 0.0.0.0 paydns.weixin.qq.com
 0.0.0.0 udns.weixin.qq.com
+0.0.0.0 qqmcfw.tech
 0.0.0.0 ns1.qquack.org
 0.0.0.0 log.qrsoft.ru
 0.0.0.0 dns.qrtz.club
@@ -2977,6 +2988,7 @@
 0.0.0.0 r1bnc.com
 0.0.0.0 fi.r5acq.com
 0.0.0.0 ad.r60.pl
+0.0.0.0 resolve2.r9x.cc
 0.0.0.0 h.ra3.in
 0.0.0.0 jpser.ra3.us
 0.0.0.0 dns.rabbitdns.org
@@ -3164,6 +3176,7 @@
 0.0.0.0 shanghainese.uk
 0.0.0.0 dns.shareworx.net
 0.0.0.0 dns.shecan.ir
+0.0.0.0 free.shecan.ir
 0.0.0.0 pro.shecan.ir
 0.0.0.0 dns.sheggi.ch
 0.0.0.0 dns.shimul.me
@@ -3321,6 +3334,7 @@
 0.0.0.0 dns1.tardishost.ru
 0.0.0.0 adguard.taufner.net
 0.0.0.0 dns.tb4.me
+0.0.0.0 httpdns.danuoyi.tbcache.com
 0.0.0.0 dns.tbs6920.sbs
 0.0.0.0 de51.tcpdoor.net
 0.0.0.0 adguard.tcpu.io
@@ -3564,7 +3578,6 @@
 0.0.0.0 darkness.is.my.waifu.cz
 0.0.0.0 megumin.is.my.waifu.cz
 0.0.0.0 yunyun.is.my.waifu.cz
-0.0.0.0 dns.wakgood.net
 0.0.0.0 dns.walker.id
 0.0.0.0 wallpap.eu
 0.0.0.0 adguard.wallura.eu
@@ -3641,6 +3654,7 @@
 0.0.0.0 adguard.xandersalarie.com
 0.0.0.0 adb-home.xaoimoon.fr
 0.0.0.0 adb-wan.xaoimoon.fr
+0.0.0.0 xbcpb668.com
 0.0.0.0 dns.xcapenet.ru
 0.0.0.0 dns2.xcapenet.ru
 0.0.0.0 doh.xcom.pro

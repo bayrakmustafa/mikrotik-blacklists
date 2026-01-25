@@ -5094,6 +5094,7 @@
 0.0.0.0 cnpmjs.org
 0.0.0.0 cnscdj.com
 0.0.0.0 cnsjx.net
+0.0.0.0 cnstrc.com
 0.0.0.0 cnsypic.com
 0.0.0.0 cntrsync.ru
 0.0.0.0 cnvinfo.nl
@@ -5587,7 +5588,6 @@
 0.0.0.0 cqhnm.com
 0.0.0.0 cqyhd.com
 0.0.0.0 cr-p16.ladsp.com
-0.0.0.0 cr-relay.com
 0.0.0.0 cr.m.liebao.cn
 0.0.0.0 crackload.net
 0.0.0.0 craftyclicks.co.uk
@@ -6212,7 +6212,6 @@
 0.0.0.0 data-2d3a3249cd.taz.de
 0.0.0.0 data-4ede7e9c86.faz.net
 0.0.0.0 data-62650cd9a5.golem.de
-0.0.0.0 data-79b61f918a.mittelbayerische.de
 0.0.0.0 data-analytics.wearetriple.com
 0.0.0.0 data-api.connectivityassistant.com
 0.0.0.0 data-c0c484e9be.tvdigital.de

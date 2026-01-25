@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 25,733
-# Updated: 1/18/2026  00:11 (12:11 AM CST)
+# Domains: 25,736
+# Updated: 1/19/2026  15:11 (3:11 PM CST)
 #
 0.0.0.0 0063450bb8e5e3369eauthorized-choice.pro
 0.0.0.0 01.rtb.cmdmtc.com
@@ -534,6 +534,7 @@
 0.0.0.0 aab.z030z.com
 0.0.0.0 aaca.online
 0.0.0.0 a.acredo.space
+0.0.0.0 a.actualno.com
 0.0.0.0 aads.com
 0.0.0.0 aadv.sa
 0.0.0.0 aaf10.org
@@ -2414,6 +2415,7 @@
 0.0.0.0 adserver.arcast.cloud
 0.0.0.0 adserver.archiletras.com
 0.0.0.0 adserver.asia-city.com
+0.0.0.0 adserver.asiantb.com
 0.0.0.0 adserver.asiatatler.com
 0.0.0.0 adserver.auditorioteatrolaspalmasgc.es
 0.0.0.0 adserver.autoblog.rs
@@ -4818,7 +4820,6 @@
 0.0.0.0 agcdn.auction.com
 0.0.0.0 agcdn.divcom.com
 0.0.0.0 agcs.works
-0.0.0.0 ag.divcom.com
 0.0.0.0 aged-grass.com
 0.0.0.0 a.gegori.xyz
 0.0.0.0 agence-adverti.fr
@@ -7261,6 +7262,7 @@
 0.0.0.0 crushingconflict.pro
 0.0.0.0 crushingticket.pro
 0.0.0.0 cruxcreativesolutions.com
+0.0.0.0 crx.levivblackburn.site
 0.0.0.0 crypto-ad.com
 0.0.0.0 crypto-adz.com
 0.0.0.0 cryptohotinfo.com
@@ -8095,6 +8097,7 @@
 0.0.0.0 etoet.icu
 0.0.0.0 etqbnahyt.com
 0.0.0.0 eubanner.honeywellhome.com
+0.0.0.0 euglism.euglenaone.jp
 0.0.0.0 eumaxindia.com
 0.0.0.0 euphoric-bad.pro
 0.0.0.0 eurocookie.galilcloud.wixapps.net
@@ -8294,6 +8297,7 @@
 0.0.0.0 ffb7df5a878b59e42e257c042f54bed2.com
 0.0.0.0 ffbtas.com
 0.0.0.0 ff.datecraze.space
+0.0.0.0 ff.datenest.store
 0.0.0.0 ff.heartbeats.space
 0.0.0.0 ff.herospan.store
 0.0.0.0 ff.loveorbits.store
@@ -8366,7 +8370,6 @@
 0.0.0.0 flatironmedia.com
 0.0.0.0 flawed-earth.pro
 0.0.0.0 flawlesssubstance.com
-0.0.0.0 flaxdescale.com
 0.0.0.0 fleshpays.com
 0.0.0.0 flexmg.com
 0.0.0.0 flexplatform.net
@@ -8728,16 +8731,21 @@
 0.0.0.0 gndrz.com
 0.0.0.0 gnetrtb.com
 0.0.0.0 gng.net
+0.0.0.0 go1.bgunit.com
 0.0.0.0 go1.bpre.work
 0.0.0.0 go1.danretro.beauty
 0.0.0.0 go1.ecre1.work
 0.0.0.0 go1.ecre.work
 0.0.0.0 go1.fixikionline.beauty
+0.0.0.0 go1.for3e.com
 0.0.0.0 go1.imlive.work
 0.0.0.0 go1.lore.work
 0.0.0.0 go1.otkroem.beauty
 0.0.0.0 go1.reacheffecti.work
+0.0.0.0 go1.sluttycam.work
 0.0.0.0 go1.st3a3.com
+0.0.0.0 go1.tjre.work
+0.0.0.0 go1.trakit16.com
 0.0.0.0 go1.trakit20.com
 0.0.0.0 go1.trakit3.com
 0.0.0.0 go1.trakit5.com
@@ -8764,6 +8772,7 @@
 0.0.0.0 go-fet.ch
 0.0.0.0 gogel.al
 0.0.0.0 go.guestnavads.com
+0.0.0.0 gohitstraffic.com
 0.0.0.0 gokaarts.com
 0.0.0.0 goldclick.xyz
 0.0.0.0 goldendev.win
@@ -8798,7 +8807,11 @@
 0.0.0.0 gosrv-my.com
 0.0.0.0 gosrv-ph.com
 0.0.0.0 gosrv-vn.com
+0.0.0.0 go.tbllad.com
+0.0.0.0 go.tbllem.com
+0.0.0.0 go.tbllprem.com
 0.0.0.0 go.tbllreg.com
+0.0.0.0 go.tbllrej.com
 0.0.0.0 gotc2023.oschina.net
 0.0.0.0 gotechnology.io
 0.0.0.0 gotoadvantage.com
@@ -8806,6 +8819,7 @@
 0.0.0.0 gotostrata.com
 0.0.0.0 gotprofits.com
 0.0.0.0 go-traffic.com
+0.0.0.0 go.vidspass.com
 0.0.0.0 govoxpopme.com
 0.0.0.0 gp12ptrk.com
 0.0.0.0 gpartner.com.pl
@@ -10059,6 +10073,7 @@
 0.0.0.0 live-drink.com
 0.0.0.0 live.publyt.com
 0.0.0.0 live.quixova.com
+0.0.0.0 live.qwirlz.com
 0.0.0.0 livere.com
 0.0.0.0 livesportmedia.eu
 0.0.0.0 live.zrmtrm.com
@@ -14650,6 +14665,7 @@
 0.0.0.0 suwhythoglo.com
 0.0.0.0 suxhap.com
 0.0.0.0 svc-prod-us.liveshopping.bambuser.com
+0.0.0.0 svradv.com
 0.0.0.0 svuhl.com
 0.0.0.0 swankysweetums.com
 0.0.0.0 swap.qth.com
@@ -14890,7 +14906,6 @@
 0.0.0.0 theardent.group
 0.0.0.0 thebanana.in
 0.0.0.0 thebestpaints.com
-0.0.0.0 thebidex.net
 0.0.0.0 thebitcellar.com
 0.0.0.0 thebloggernetwork.com
 0.0.0.0 thebutterflyeffect.co
@@ -16262,7 +16277,6 @@
 0.0.0.0 xml-v4.qksrv.cc
 0.0.0.0 xml-v4.tri.media
 0.0.0.0 xml.waytogy-serving.com
-0.0.0.0 xml.wondenthaitings.com
 0.0.0.0 xml.yodirecxl.com
 0.0.0.0 xn--1qwynp09f.net
 0.0.0.0 xn--kaken-tbb.com

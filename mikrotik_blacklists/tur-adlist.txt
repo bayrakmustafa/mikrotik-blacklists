@@ -63,6 +63,7 @@
 0.0.0.0 dygassets.dygdigital.com
 0.0.0.0 efilli.com
 0.0.0.0 frknseo.info
+0.0.0.0 getshar.es
 0.0.0.0 glixaing.com
 0.0.0.0 grimex.net
 0.0.0.0 hellosmpl.com
@@ -112,6 +113,7 @@
 0.0.0.0 r.reklam4.com
 0.0.0.0 rdrtr.com
 0.0.0.0 rebrand.ly
+0.0.0.0 ref.gitadres.com
 0.0.0.0 regadsgx.com
 0.0.0.0 rek2.tascatlasa.com
 0.0.0.0 reklamint.com

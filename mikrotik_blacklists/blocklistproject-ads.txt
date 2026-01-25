@@ -47931,7 +47931,6 @@
 0.0.0.0 dc.js.stats.g.doubleclick.net
 0.0.0.0 dc.kaffnet.com
 0.0.0.0 dc.log.kaffnet.com
-0.0.0.0 dc.plussizetech.com
 0.0.0.0 dc.pxl.ace.advertising.com
 0.0.0.0 dc.railgun.works
 0.0.0.0 dc.solocpm.com
@@ -71519,6 +71518,7 @@
 0.0.0.0 madserve.org
 0.0.0.0 madserve.xapads.com
 0.0.0.0 madseu.advertising.com
+0.0.0.0 madskis.com
 0.0.0.0 madsuk.aol.com
 0.0.0.0 madsuk.at.atwola.com
 0.0.0.0 madv.iappgame.com
@@ -71980,6 +71980,7 @@
 0.0.0.0 marketing.modcloth.com
 0.0.0.0 marketing.mouseflow.com
 0.0.0.0 marketing.mtraction.com
+0.0.0.0 marketing.net.daraz.com.bd
 0.0.0.0 marketing.nyi.com
 0.0.0.0 marketing.openoffice.org
 0.0.0.0 marketing.outbrain.com
@@ -73108,7 +73109,6 @@
 0.0.0.0 metrics-node-nl.fitanalytics.com
 0.0.0.0 metrics-trotsky.fitanalytics.com
 0.0.0.0 metrics-us.fitanalytics.com
-0.0.0.0 metrics.active.com
 0.0.0.0 metrics.adflake.com
 0.0.0.0 metrics.adnetwork.vn
 0.0.0.0 metrics.advisorchannel.com.edgekey.net
@@ -104236,6 +104236,7 @@
 0.0.0.0 vash-dom.mirtesen.ru
 0.0.0.0 vashielectricals.moengage.com
 0.0.0.0 vashoot-reklam.rtb.adx1.com
+0.0.0.0 vashoot.com
 0.0.0.0 vashoot.rtb.adx1.com
 0.0.0.0 vashootssp.rtb.adx1.com
 0.0.0.0 vaslssynz.com
