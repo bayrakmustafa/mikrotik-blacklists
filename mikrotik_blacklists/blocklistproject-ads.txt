@@ -25637,6 +25637,7 @@
 0.0.0.0 adproxy2.com
 0.0.0.0 adprs.net
 0.0.0.0 adprudence.adk2x.com
+0.0.0.0 adprudence.com
 0.0.0.0 adpsj.d1.sc.omtrdc.net
 0.0.0.0 adpsj.ssl.d1.sc.omtrdc.net
 0.0.0.0 adpstatic.com
@@ -73123,7 +73124,6 @@
 0.0.0.0 metrics.dmx.districtm.io
 0.0.0.0 metrics.dynad.net
 0.0.0.0 metrics.element14.com
-0.0.0.0 metrics.expressen.se
 0.0.0.0 metrics.feedroom.com
 0.0.0.0 metrics.fitanalytics.com
 0.0.0.0 metrics.fnac.es

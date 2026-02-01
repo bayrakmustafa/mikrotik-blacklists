@@ -1644,6 +1644,7 @@
 0.0.0.0 ads.mms.mk
 0.0.0.0 ads.mopud.com
 0.0.0.0 ads.mp.pl
+0.0.0.0 ads.mxis.com
 0.0.0.0 ads.newtentionassets.net
 0.0.0.0 ads.novatv.mk
 0.0.0.0 ads.oneway.mobi
@@ -2370,6 +2371,7 @@
 0.0.0.0 analytics.oneplus.cn
 0.0.0.0 analytics.onrecruit.net
 0.0.0.0 analytics.partijvoordedieren.nl
+0.0.0.0 analytics.paytm.com
 0.0.0.0 analytics.pgncs.nova.chat
 0.0.0.0 analytics.podtrac.com
 0.0.0.0 analytics.proofapi.com
@@ -2653,6 +2655,7 @@
 0.0.0.0 apikeys.civiccomputing.com
 0.0.0.0 apilocate.amap.com
 0.0.0.0 apis.map.qq.com
+0.0.0.0 apis.sharechat.com
 0.0.0.0 apistaging.airpush.com
 0.0.0.0 apistat.adbana.com
 0.0.0.0 apiv2.popupsmart.com
@@ -2898,6 +2901,7 @@
 0.0.0.0 asdfghjkl.ovh
 0.0.0.0 ase.com
 0.0.0.0 asfinagv8.azureedge.net
+0.0.0.0 asg.truecaller.com
 0.0.0.0 ashampoo.com
 0.0.0.0 asia-fashions-wholesale.com
 0.0.0.0 asiandate.com
@@ -7261,7 +7265,6 @@
 0.0.0.0 eprivacy.americanexpress.com
 0.0.0.0 epro.sogou.com
 0.0.0.0 epro.sohu.com
-0.0.0.0 epsilon.6sense.com
 0.0.0.0 epsilon.com
 0.0.0.0 epura.nl
 0.0.0.0 eq.10jqka.com.cn
@@ -8671,6 +8674,7 @@
 0.0.0.0 havasmediagroup.com
 0.0.0.0 hawk-tech.io
 0.0.0.0 hawkanalytics.com
+0.0.0.0 hawkeye-api.paytm.com
 0.0.0.0 hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
 0.0.0.0 hb.chintsair.com
 0.0.0.0 hb.districtm.io
@@ -10955,6 +10959,7 @@
 0.0.0.0 log.moji.com
 0.0.0.0 log.moviebox.baofeng.com
 0.0.0.0 log.music.baidu.com
+0.0.0.0 log.mxis.com
 0.0.0.0 log.nuomi.com
 0.0.0.0 log.spotify.com
 0.0.0.0 log.stat.kugou.com
@@ -10996,6 +11001,7 @@
 0.0.0.0 logs.grayjay.com
 0.0.0.0 logs.logdna.com
 0.0.0.0 logs.nav.porsche.com
+0.0.0.0 logs.paytm.com
 0.0.0.0 logs1279.xiti.com
 0.0.0.0 logs1409.xiti.com
 0.0.0.0 logs2.xiti.com

@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes
-# Domains: 493
-# Updated: 1/14/2026  09:24 (9:24 AM CST)
+# Domains: 494
+# Updated: 1/30/2026  12:41 (12:41 PM CST)
 #
 0.0.0.0 accpi.org
 0.0.0.0 admaker.tech
@@ -348,6 +348,7 @@
 0.0.0.0 tidio.com
 0.0.0.0 tidio-mail.com
 0.0.0.0 tiledesk.com
+0.0.0.0 tudongchat.com
 0.0.0.0 uhchat.net
 0.0.0.0 uschat4.contivio.com
 0.0.0.0 uscolgatewebsitebot-dot-colpal-cloud-chatbot-prod.ue.r.appspot.com

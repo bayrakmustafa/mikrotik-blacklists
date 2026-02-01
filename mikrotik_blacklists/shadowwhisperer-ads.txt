@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 25,736
-# Updated: 1/19/2026  15:11 (3:11 PM CST)
+# Domains: 25,755
+# Updated: 1/30/2026  16:12 (4:12 PM CST)
 #
 0.0.0.0 0063450bb8e5e3369eauthorized-choice.pro
 0.0.0.0 01.rtb.cmdmtc.com
@@ -335,6 +335,7 @@
 0.0.0.0 5thfloormedia.com
 0.0.0.0 5to1.com
 0.0.0.0 5xanz2dxcn.ru
+0.0.0.0 6009cd93adec3b6a941dc608.thenerdstash.com
 0.0.0.0 60b7ac265566e3da4341f765b2d2a73200f8f1db57b0b005a1afdc00.com
 0.0.0.0 628536nyv.com
 0.0.0.0 64e98469810bd13e2b45e52d19d6fddfe333b3528350d8cfa792d478.com
@@ -923,6 +924,7 @@
 0.0.0.0 adbid.biz
 0.0.0.0 adbid.click
 0.0.0.0 adbility.media
+0.0.0.0 adbility-online.com
 0.0.0.0 adbink.com
 0.0.0.0 adbiq.com
 0.0.0.0 adbison.com
@@ -1297,6 +1299,7 @@
 0.0.0.0 adimages.firestorage.jp
 0.0.0.0 adimages.footymad.net
 0.0.0.0 adimages.gns.go.com
+0.0.0.0 adimages.microcenter.com
 0.0.0.0 adimages.proforums.com
 0.0.0.0 adimages.realtor.com
 0.0.0.0 adimages.startribune.com
@@ -4025,7 +4028,6 @@
 0.0.0.0 ads.vgtv.no
 0.0.0.0 ads.viamedica.pl
 0.0.0.0 ads.viaphoenix.net
-0.0.0.0 ads.videobridge.tv
 0.0.0.0 adsvideo.club
 0.0.0.0 ads.videomaker.com
 0.0.0.0 ads.vidigital.ru
@@ -4184,7 +4186,6 @@
 0.0.0.0 adtech.abs-cbn.com
 0.0.0.0 adtech.asia
 0.0.0.0 ad-tech.byjusweb.com
-0.0.0.0 adtech.cohesionapps.com
 0.0.0.0 adtech.etermax.com
 0.0.0.0 ad-tech-group.com
 0.0.0.0 adtech.info
@@ -6256,6 +6257,7 @@
 0.0.0.0 btcvic.com
 0.0.0.0 btds.zog.link
 0.0.0.0 btlreklam.com
+0.0.0.0 btlrmedia.b-cdn.net
 0.0.0.0 btm.bosch.com
 0.0.0.0 btn.createsend1.com
 0.0.0.0 btpdigitalgroup.com
@@ -6327,6 +6329,7 @@
 0.0.0.0 c4n.hotjavmovies.com
 0.0.0.0 c4n.mypornovideos.com
 0.0.0.0 c4n.surfotresors.com
+0.0.0.0 c4s.bionestraff.pro
 0.0.0.0 c683207.ssl.cf2.rackcdn.com
 0.0.0.0 c8d.upde.cc
 0.0.0.0 c9w.net
@@ -6845,6 +6848,7 @@
 0.0.0.0 consent-notice.ft.com
 0.0.0.0 consent.radiotimes.com
 0.0.0.0 consent.unilad.com
+0.0.0.0 console.healthcarescene.com
 0.0.0.0 consoliads.com
 0.0.0.0 consoupow.com
 0.0.0.0 constant.co
@@ -7332,7 +7336,6 @@
 0.0.0.0 d1pr3sk5xr0dce.cloudfront.net
 0.0.0.0 d1qv75s97cbp4.cloudfront.net
 0.0.0.0 d1rind1mbgys5l.cloudfront.net
-0.0.0.0 d1tru86qrby720.cloudfront.net
 0.0.0.0 d1ux8fwkxchynl.cloudfront.net
 0.0.0.0 d1voyiv1eh2vzr.cloudfront.net
 0.0.0.0 d1z3.com
@@ -7359,6 +7362,7 @@
 0.0.0.0 d31otfhas71ais.cloudfront.net
 0.0.0.0 d340c1js8izm35.cloudfront.net
 0.0.0.0 d3410ost8gg4o3.cloudfront.net
+0.0.0.0 d37j8pfxu2iogi.cloudfront.net
 0.0.0.0 d37unsldgykj8z.cloudfront.net
 0.0.0.0 d.3dfetishgirls.com
 0.0.0.0 d3ds63zw57jt09.cloudfront.net
@@ -7871,6 +7875,7 @@
 0.0.0.0 ebrokerpartner.pl
 0.0.0.0 ebumps.com
 0.0.0.0 ec493033cd4df851f1b6e08aed8098776469a6baee4a4ebb78974a7e.com
+0.0.0.0 ecbcjfegbjdadjhdaace.world
 0.0.0.0 eccanova.com
 0.0.0.0 echispanicmedia.com
 0.0.0.0 echoomediagroup.com
@@ -8322,9 +8327,9 @@
 0.0.0.0 fiercecougaradvertising.com
 0.0.0.0 fifthadvertising.com
 0.0.0.0 figmentdesign.com
-0.0.0.0 figurehunter.net
 0.0.0.0 fijekone.com
 0.0.0.0 filmyads.com
+0.0.0.0 filter.fstsrv10.com
 0.0.0.0 filter.srvqck11.com
 0.0.0.0 filter.srvqck15.com
 0.0.0.0 filter.vokut.com
@@ -8559,6 +8564,7 @@
 0.0.0.0 gajja.online
 0.0.0.0 galaxyadsmedia.com
 0.0.0.0 galerijanakita.hr
+0.0.0.0 gallery.stailaus.fi
 0.0.0.0 gallerytraffic.net
 0.0.0.0 gamaads.com
 0.0.0.0 gamebassadors.net
@@ -8614,6 +8620,7 @@
 0.0.0.0 genmedia.in
 0.0.0.0 gentlemoonlight.com
 0.0.0.0 gentleship.pro
+0.0.0.0 geoadserver.com
 0.0.0.0 geocities.be
 0.0.0.0 geocities.co.in
 0.0.0.0 geocities.eu
@@ -8745,6 +8752,9 @@
 0.0.0.0 go1.sluttycam.work
 0.0.0.0 go1.st3a3.com
 0.0.0.0 go1.tjre.work
+0.0.0.0 go1.trakit13.com
+0.0.0.0 go1.trakit14.com
+0.0.0.0 go1.trakit15.com
 0.0.0.0 go1.trakit16.com
 0.0.0.0 go1.trakit20.com
 0.0.0.0 go1.trakit3.com
@@ -8809,7 +8819,6 @@
 0.0.0.0 gosrv-vn.com
 0.0.0.0 go.tbllad.com
 0.0.0.0 go.tbllem.com
-0.0.0.0 go.tbllprem.com
 0.0.0.0 go.tbllreg.com
 0.0.0.0 go.tbllrej.com
 0.0.0.0 gotc2023.oschina.net
@@ -9076,7 +9085,6 @@
 0.0.0.0 hit4hit.org
 0.0.0.0 hitfuck.icu
 0.0.0.0 hitpublish.digital
-0.0.0.0 hit.stat.pl
 0.0.0.0 h.itvnet.lv
 0.0.0.0 hjjevg.com
 0.0.0.0 hjtupiantz.com
@@ -9803,7 +9811,6 @@
 0.0.0.0 kitchandschreiber.com
 0.0.0.0 kites365.com
 0.0.0.0 kite-wave.com
-0.0.0.0 kittentacos.com
 0.0.0.0 kiwiwall.com
 0.0.0.0 kiz.vn
 0.0.0.0 kjuzv.com
@@ -10025,6 +10032,7 @@
 0.0.0.0 lifterpopup.com
 0.0.0.0 liftmobi.com
 0.0.0.0 liftmyads.com
+0.0.0.0 liftoff.ai
 0.0.0.0 ligastavokinfo.com
 0.0.0.0 lightad.com
 0.0.0.0 lightdatahouse.com
@@ -10347,6 +10355,7 @@
 0.0.0.0 matchboxindia.com
 0.0.0.0 match.odt.co.nz
 0.0.0.0 mateadvertising.bg
+0.0.0.0 materiaali.stailaus.fi
 0.0.0.0 mathnixadvertising.com
 0.0.0.0 matrixads.in
 0.0.0.0 matrix.it
@@ -10544,6 +10553,7 @@
 0.0.0.0 messagepk.com
 0.0.0.0 messageverify.click
 0.0.0.0 meta247ads.com
+0.0.0.0 metaadserving.com
 0.0.0.0 metallic-document.pro
 0.0.0.0 metallicgrey.com
 0.0.0.0 meta.miraheze.org
@@ -10952,7 +10962,6 @@
 0.0.0.0 nativv.tech
 0.0.0.0 natnlcsmrcntr.com
 0.0.0.0 natsfornetworks.com
-0.0.0.0 nats.realsexcash.com
 0.0.0.0 naturalbrain.pro
 0.0.0.0 naturalclick.ca
 0.0.0.0 naturalpals.com
@@ -11151,6 +11160,7 @@
 0.0.0.0 notifications.trophyapi.com
 0.0.0.0 notifications-ueeshp-pa.googleapis.com
 0.0.0.0 notificup.com
+0.0.0.0 notifly.tech
 0.0.0.0 notif-push.9gag.com
 0.0.0.0 notifstation.com
 0.0.0.0 notify.adobe.io
@@ -11924,6 +11934,7 @@
 0.0.0.0 pitiful-tongue.pro
 0.0.0.0 piwhecyfo.pro
 0.0.0.0 pixability.com
+0.0.0.0 pixads.1px.tw
 0.0.0.0 pixeladss.com
 0.0.0.0 pixelbucks.com
 0.0.0.0 pixel-lobo.asrun.eu
@@ -12085,6 +12096,7 @@
 0.0.0.0 popups.landingi.com
 0.0.0.0 popup-upsell.spur-i-t.com
 0.0.0.0 popup.yourpractice.online
+0.0.0.0 popxml.com
 0.0.0.0 porfunteld.ru
 0.0.0.0 pornaffs.com
 0.0.0.0 pornkiads.com
@@ -12411,6 +12423,7 @@
 0.0.0.0 p.tourinews.es
 0.0.0.0 ptowikaro.pro
 0.0.0.0 pt.ptawe.com
+0.0.0.0 ptr.thesun.co.uk
 0.0.0.0 ptunogroxa.pro
 0.0.0.0 ptyphustixa.pro
 0.0.0.0 pu5hk1n2020.com
@@ -12594,6 +12607,7 @@
 0.0.0.0 push.net
 0.0.0.0 push.netmarble.com
 0.0.0.0 pushnetwork.com
+0.0.0.0 push-network-rankings.com
 0.0.0.0 pushnews.eu
 0.0.0.0 pushninja.com
 0.0.0.0 push.noiq.us
@@ -14518,7 +14532,11 @@
 0.0.0.0 static.ettoday.net
 0.0.0.0 static.fbcdn.xyz
 0.0.0.0 static.grupinis.lt
+0.0.0.0 static.itersatedtheo.org
+0.0.0.0 static.lowsshehasnom.org
+0.0.0.0 static.lthroughthesum.org
 0.0.0.0 static.native-commerce.com
+0.0.0.0 static.omanyrelurl.org
 0.0.0.0 static.rogersdigitalmedia.com
 0.0.0.0 static-src.alicdn.com
 0.0.0.0 static.starbolt.io
@@ -14906,6 +14924,7 @@
 0.0.0.0 theardent.group
 0.0.0.0 thebanana.in
 0.0.0.0 thebestpaints.com
+0.0.0.0 thebidex.net
 0.0.0.0 thebitcellar.com
 0.0.0.0 thebloggernetwork.com
 0.0.0.0 thebutterflyeffect.co
@@ -15032,6 +15051,7 @@
 0.0.0.0 tnad23ba82.primini.tn
 0.0.0.0 tnlnk.com
 0.0.0.0 tnxptj.com
+0.0.0.0 toadmash.net
 0.0.0.0 toaioi.lol
 0.0.0.0 toatech.com
 0.0.0.0 todayoman.com
@@ -15086,6 +15106,7 @@
 0.0.0.0 tpmn.io
 0.0.0.0 tptp.online
 0.0.0.0 tptt.online
+0.0.0.0 tq.bluodpa-d.online
 0.0.0.0 tq-eu.minsonbar2.online
 0.0.0.0 tq-eu.resugovex-2.co
 0.0.0.0 tq.iforcircles-1.online
@@ -15521,6 +15542,7 @@
 0.0.0.0 veeso.co
 0.0.0.0 veezy.one
 0.0.0.0 velawcity.com
+0.0.0.0 veltorra.com
 0.0.0.0 venalem.pcekspert.com
 0.0.0.0 vendemore.com
 0.0.0.0 vendiadvertising.com
@@ -15539,6 +15561,7 @@
 0.0.0.0 verticalimpression.com
 0.0.0.0 verwvy.com
 0.0.0.0 verybinary.com
+0.0.0.0 vesx.jesjes.xyz
 0.0.0.0 veve.com
 0.0.0.0 veviopass.com
 0.0.0.0 vevlysingar.fo
@@ -15925,6 +15948,7 @@
 0.0.0.0 webpushblaze.com
 0.0.0.0 webpush.bliink.in
 0.0.0.0 webpush.cloudapi.stream
+0.0.0.0 web-push-hs.kohorta.co
 0.0.0.0 webpush.jp
 0.0.0.0 webpushly.com
 0.0.0.0 webpushnotifications.com
@@ -16254,12 +16278,15 @@
 0.0.0.0 xmlads.bid
 0.0.0.0 xml-eu.gipostart-1.co
 0.0.0.0 xml-eu.qksrv.cc
+0.0.0.0 xml-eu-v4.bringthewaves.xyz
 0.0.0.0 xml-eu-v4.frdjs-2.co
 0.0.0.0 xml-eu-v4.gipostart-1.co
 0.0.0.0 xml-eu-v4.minsonbar2.online
 0.0.0.0 xml-eu-v4.ngcluster-c.site
 0.0.0.0 xml-eu-v4.qksrv.cc
+0.0.0.0 xml.exdiroplect.com
 0.0.0.0 xml.frdjs-2.co
+0.0.0.0 xml.fstsrv10.com
 0.0.0.0 xml.goneawa-serving.com
 0.0.0.0 xml.minsonbar2.online
 0.0.0.0 xml.ngcluster-c.site
@@ -16473,6 +16500,7 @@
 0.0.0.0 zentr.cc
 0.0.0.0 zentrick.com
 0.0.0.0 zentrick.io
+0.0.0.0 zen.vimeos.net
 0.0.0.0 zenvuedigital.com
 0.0.0.0 zepazupi.com
 0.0.0.0 zephr.pagesix.com
@@ -16498,6 +16526,7 @@
 0.0.0.0 zgxrht.com
 0.0.0.0 zhangeiline.xyz
 0.0.0.0 zhibo128x.xyz
+0.0.0.0 zhongnanhaicn.com
 0.0.0.0 zhqz.transhero.com
 0.0.0.0 zicf.inven.co.kr
 0.0.0.0 ziejy.com

@@ -1,5 +1,5 @@
 # Easylist, parsed and mirrored by https://firebog.net
-# Updated 24JAN26 from https://easylist.to/easylist/easylist.txt
+# Updated 30JAN26 from https://easylist.to/easylist/easylist.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -9,44 +9,49 @@
 
 0.0.0.0 ad.moe.video
 0.0.0.0 alitems.com
+0.0.0.0 aqeupowaccjqj.online
 0.0.0.0 asg.prettytube.net
 0.0.0.0 auditude.com
+0.0.0.0 burlershirsles.cfd
 0.0.0.0 buyeasy.by
+0.0.0.0 calamitynineteenthglide.com
+0.0.0.0 caterslaunces.shop
 0.0.0.0 cdn.hamwo.cloud
-0.0.0.0 choudirsaixie.net
-0.0.0.0 cowingboubasmullet.cfd
+0.0.0.0 colinuraei.cfd
 0.0.0.0 cpm.appocean.media
-0.0.0.0 dfuvslppaxhzv.site
-0.0.0.0 divedsurprisinglythermometer.com
+0.0.0.0 dfrfyhkxcsnxl.space
+0.0.0.0 dowelsup.qpon
+0.0.0.0 eecivuxjnt.com
+0.0.0.0 elevationhypnotize.com
 0.0.0.0 engine.eroge.com
+0.0.0.0 envelopeix.com
 0.0.0.0 f5w.prettytube.net
-0.0.0.0 femorahecate.cyou
-0.0.0.0 fkgpewlsrzwiu.website
 0.0.0.0 go.bloxplay.com
+0.0.0.0 grimpwoozlegeleem.cfd
 0.0.0.0 imasdk.googleapis.com
-0.0.0.0 kpuscrsmljibk.space
-0.0.0.0 lharfoeeeqsxr.site
+0.0.0.0 infamoussurround.pro
+0.0.0.0 izqhkvwbmsfns.website
+0.0.0.0 jklnmhlcvulej.website
 0.0.0.0 link.link.ru
 0.0.0.0 loadercdn.com
+0.0.0.0 meseledrabious.shop
 0.0.0.0 monetag.com
+0.0.0.0 mtosefglxyxqr.website
 0.0.0.0 mweb-hb.presage.io
-0.0.0.0 nbjlvyeegheug.site
-0.0.0.0 oogvaayjgjsetel.xyz
-0.0.0.0 pcwttlywhnxkx.com
-0.0.0.0 pgisdxbicrxqi.online
 0.0.0.0 pips.taboola.com
 0.0.0.0 pirogad.tophosting101.com
 0.0.0.0 prebid.cwi.re
 0.0.0.0 proto2ad.durasite.net
-0.0.0.0 qkacjgqdpvilp.website
-0.0.0.0 rinqgwqhyxozh.website
-0.0.0.0 soundlyaplitic.qpon
-0.0.0.0 sparrycarven.qpon
-0.0.0.0 spoliaessede.cfd
+0.0.0.0 rewonrayat.qpon
+0.0.0.0 rojakalcoran.cfd
+0.0.0.0 sjbtqzptourxf.online
 0.0.0.0 srv.tunefindforfans.com
 0.0.0.0 sync.gsyndication.com
 0.0.0.0 targeting.vdo.ai
+0.0.0.0 troupedencoded.shop
+0.0.0.0 unmiredspelk.com
 0.0.0.0 unpin.hothomefuck.com
 0.0.0.0 vi1.prettytube.net
 0.0.0.0 videoplaza.tv
+0.0.0.0 visiblecomplex.pro
 0.0.0.0 wpnrtnmrewunrtok.xyz

@@ -89,7 +89,6 @@
 0.0.0.0 media.betexperaff.com
 0.0.0.0 media.marsaffiliates.com
 0.0.0.0 media.opencandy.com
-0.0.0.0 medyaklik.com
 0.0.0.0 netbookmedia.com
 0.0.0.0 nhls.nscdn9.com
 0.0.0.0 onatbilisim.com
@@ -128,6 +127,7 @@
 0.0.0.0 smrtbnr.club
 0.0.0.0 smrtbnr.info
 0.0.0.0 smrtcdn.club
+0.0.0.0 softreklam.com
 0.0.0.0 stats.acunn.com
 0.0.0.0 stats.posta.com.tr
 0.0.0.0 stats.yenicaggazetesi.com.tr
@@ -137,7 +137,6 @@
 0.0.0.0 top10.yazete.com
 0.0.0.0 track.vitringez.com
 0.0.0.0 tracker-pm2.erosaffiliates.com
-0.0.0.0 tracking.content-recommendation.net
 0.0.0.0 tracking.ucreate.live
 0.0.0.0 trbetmedia.com
 0.0.0.0 uzreklam.com
