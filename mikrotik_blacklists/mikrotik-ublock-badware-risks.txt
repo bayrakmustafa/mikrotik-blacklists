@@ -1,6 +1,5 @@
 0.0.0.0 truecrypt.it
 0.0.0.0 virtualbox.pl
-0.0.0.0 bingstyle.com
 0.0.0.0 djin.site
 0.0.0.0 naughtymets.com
 0.0.0.0 miafann.online
@@ -15,7 +14,6 @@
 0.0.0.0 bigosext69.com
 0.0.0.0 qsshc.xyz
 0.0.0.0 foxmods.xyz
-0.0.0.0 dr-community.online
 0.0.0.0 best-experience-cool.com
 0.0.0.0 sonvupload.xyz
 0.0.0.0 stupdownloadf.com
@@ -28,7 +26,6 @@
 0.0.0.0 bambam-bi.com
 0.0.0.0 star-fortune.com
 0.0.0.0 chat111room-09.com
-0.0.0.0 equation-of-happiness.com
 0.0.0.0 peaces-ign.com
 0.0.0.0 peachzone.site
 0.0.0.0 sdhjak.com
@@ -201,12 +198,9 @@
 0.0.0.0 ncloud.icu
 0.0.0.0 saocloud.icu
 0.0.0.0 butsmism.co.in
-0.0.0.0 deepseeklogin.com
-0.0.0.0 deepseeklogins.com
 0.0.0.0 deepseekapk.download
 0.0.0.0 irs.gov.*.com
 0.0.0.0 e-navy*.weebly.com
-0.0.0.0 apple-protect.com
 0.0.0.0 zoom.us*web.us
 0.0.0.0 e-zpass.com-
 0.0.0.0 irs.gov-
@@ -345,3 +339,5 @@
 0.0.0.0 srvclouds.com
 0.0.0.0 asliceza.org
 0.0.0.0 lkiec.shop
+0.0.0.0 fantia.paid-task.com
+0.0.0.0 mpchc.net

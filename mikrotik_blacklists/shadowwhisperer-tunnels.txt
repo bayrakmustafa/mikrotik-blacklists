@@ -1,8 +1,8 @@
 #
 #    File: Tunnels
 #    Info: VPNs & Proxies
-# Domains: 1,007
-# Updated: 8/27/2025  22:52 (10:52 PM CST)
+# Domains: 1,008
+# Updated: 2/2/2026  09:11 (9:11 AM CST)
 #
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 0x3d.lu
@@ -490,6 +490,7 @@
 0.0.0.0 pantoto.xyz
 0.0.0.0 panyyhh.xyz
 0.0.0.0 panzend.xyz
+0.0.0.0 papervpn.best
 0.0.0.0 pawxy.com
 0.0.0.0 perfect-privacy.com
 0.0.0.0 personalvpn.biz

@@ -1120,6 +1120,7 @@
 0.0.0.0 abla.io
 0.0.0.0 ablestar.app
 0.0.0.0 ably.io
+0.0.0.0 ablyft.com
 0.0.0.0 abnegationbanquet.com
 0.0.0.0 aboalarm.com
 0.0.0.0 about.co.kr
@@ -12159,7 +12160,6 @@
 0.0.0.0 netatmo.commander1.com
 0.0.0.0 netbox.allsysnet.com
 0.0.0.0 netcorecloud.com
-0.0.0.0 netcoresmartech.com
 0.0.0.0 netdna-cdn.com
 0.0.0.0 netdna.bootstrapcdn.com
 0.0.0.0 netease.com
@@ -13071,7 +13071,6 @@
 0.0.0.0 peoplestackwebexperiments-pa.clients6.google.com
 0.0.0.0 pepiteshopping.com
 0.0.0.0 pepper.com
-0.0.0.0 perfalytics.com
 0.0.0.0 perfectdeal.com
 0.0.0.0 perfectedeal.com
 0.0.0.0 perfops.net
@@ -14752,6 +14751,7 @@
 0.0.0.0 secure.trust-provider.com
 0.0.0.0 secure.widget.cloud.opta.net
 0.0.0.0 secure.xsolla.com
+0.0.0.0 securemetrics.experience.apple
 0.0.0.0 securemetrics.v.aaplimg.com
 0.0.0.0 securemvt.v.aaplimg.com
 0.0.0.0 secureomg.nl
@@ -17475,7 +17475,6 @@
 0.0.0.0 wgnlz.com
 0.0.0.0 wgnmp.com
 0.0.0.0 whafwl.com
-0.0.0.0 whale.camera
 0.0.0.0 whalecloud.com
 0.0.0.0 whatagraph.com
 0.0.0.0 whatracker.net

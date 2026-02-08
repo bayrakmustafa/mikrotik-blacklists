@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 25,755
-# Updated: 1/30/2026  16:12 (4:12 PM CST)
+# Domains: 25,858
+# Updated: 2/5/2026  21:17 (9:17 PM CST)
 #
 0.0.0.0 0063450bb8e5e3369eauthorized-choice.pro
 0.0.0.0 01.rtb.cmdmtc.com
@@ -702,6 +702,7 @@
 0.0.0.0 a.cingo.sbs
 0.0.0.0 ackhoo.com
 0.0.0.0 a.cloba.xyz
+0.0.0.0 a.coinhub.wiki
 0.0.0.0 acooss.com
 0.0.0.0 acoossz.top
 0.0.0.0 acoozzi.top
@@ -2203,6 +2204,7 @@
 0.0.0.0 ads.cund.co
 0.0.0.0 ads.cursorinfo.net
 0.0.0.0 ads.customlegalmarketing.com
+0.0.0.0 adscustsrv.com
 0.0.0.0 ads.cxoinsightme.com
 0.0.0.0 ads.cyberctm.com
 0.0.0.0 ads.cybergearnetwork.com
@@ -6037,6 +6039,7 @@
 0.0.0.0 blackbearadvertising.com
 0.0.0.0 blackdot.co.zm
 0.0.0.0 blacklabfive.com
+0.0.0.0 blackmight.pro
 0.0.0.0 blackstrap.media
 0.0.0.0 blacraft.com
 0.0.0.0 blacurlik.com
@@ -6390,6 +6393,7 @@
 0.0.0.0 carbonpay.app
 0.0.0.0 carchat24.com
 0.0.0.0 cardio-vax.info
+0.0.0.0 carefreeexchange.pro
 0.0.0.0 carefreemom.pro
 0.0.0.0 carefree-ship.pro
 0.0.0.0 carelesscamp.pro
@@ -6825,6 +6829,7 @@
 0.0.0.0 concrete-cabinet.pro
 0.0.0.0 concrete-shirt.pro
 0.0.0.0 conforama-push.com
+0.0.0.0 confusedcompetition.pro
 0.0.0.0 connected-stories.com
 0.0.0.0 connecthedot.com
 0.0.0.0 connectingdots.asia
@@ -7392,6 +7397,7 @@
 0.0.0.0 daisycon.io
 0.0.0.0 dajkq.com
 0.0.0.0 dakawm.cc
+0.0.0.0 daldk.com
 0.0.0.0 daltrix.click
 0.0.0.0 dalysb.com
 0.0.0.0 dalysh.com
@@ -8238,6 +8244,7 @@
 0.0.0.0 fatebbc.pro
 0.0.0.0 fatherly-eat.pro
 0.0.0.0 fatkh.com
+0.0.0.0 fattail.com
 0.0.0.0 fatwin.com
 0.0.0.0 faunaads.com
 0.0.0.0 fawhosyma.pro
@@ -8751,7 +8758,7 @@
 0.0.0.0 go1.reacheffecti.work
 0.0.0.0 go1.sluttycam.work
 0.0.0.0 go1.st3a3.com
-0.0.0.0 go1.tjre.work
+0.0.0.0 go1.trakit12.com
 0.0.0.0 go1.trakit13.com
 0.0.0.0 go1.trakit14.com
 0.0.0.0 go1.trakit15.com
@@ -9299,6 +9306,7 @@
 0.0.0.0 ileadetal.co.za
 0.0.0.0 ileadetal.nl
 0.0.0.0 ileads.ru
+0.0.0.0 ili.dtu0itqvnilimaqlq554qf1.xyz
 0.0.0.0 ili.dtu0itqvnilimdqlq554qf1.online
 0.0.0.0 ilkwork.com
 0.0.0.0 illegalimprovement.pro
@@ -9996,6 +10004,7 @@
 0.0.0.0 leereedy.com
 0.0.0.0 leetilford.com
 0.0.0.0 legalads.co.uk
+0.0.0.0 legal-language.pro
 0.0.0.0 legal-weight.pro
 0.0.0.0 legerikath.com
 0.0.0.0 legikqw6ps.com
@@ -11584,9 +11593,11 @@
 0.0.0.0 p123p.com
 0.0.0.0 p15-tiktok-ads-us.tiktokcdn1.xyz
 0.0.0.0 p16-ad-sg.tiktokcdn.com
+0.0.0.0 p16-ad-site-sign-sg.tiktokcdn.com
 0.0.0.0 p16-tiktok-ads-sg.tiktokcdn1.xyz
 0.0.0.0 p16-va.lemon8cdn.com
 0.0.0.0 p17-tiktok-ads-us.tiktokcdn1.xyz
+0.0.0.0 p19-ad-site-sign-sg.tiktokcdn.com
 0.0.0.0 p1.meituan.net
 0.0.0.0 p2l.info
 0.0.0.0 p888a.com
@@ -11850,6 +11861,7 @@
 0.0.0.0 persgroepadvertising.be
 0.0.0.0 personalhigh.pro
 0.0.0.0 personaly.bid
+0.0.0.0 personaserver.com
 0.0.0.0 personizely.net
 0.0.0.0 peskyfront.pro
 0.0.0.0 petty-increase.pro
@@ -12120,6 +12132,7 @@
 0.0.0.0 postie.com
 0.0.0.0 postlnk.com
 0.0.0.0 postman.strana.de
+0.0.0.0 potablecrash.pro
 0.0.0.0 potable-vast.pro
 0.0.0.0 potatoadsupport.com
 0.0.0.0 potisni.me
@@ -13727,6 +13740,7 @@
 0.0.0.0 saturnads.com
 0.0.0.0 saturnonotizie.it
 0.0.0.0 savefromad.net
+0.0.0.0 saver.icscourierx-press.com
 0.0.0.0 savethereef.xyz
 0.0.0.0 sa.vic-m.co
 0.0.0.0 saxa-noa.space
@@ -14013,6 +14027,7 @@
 0.0.0.0 servedby.globalsmt.net
 0.0.0.0 servedby.govx.com
 0.0.0.0 servedby.hakumedia.ai
+0.0.0.0 servedby.healthcarescene.com
 0.0.0.0 servedby.indiegraf.com
 0.0.0.0 servedby.ireland.com
 0.0.0.0 servedby.irmi.com
@@ -14105,7 +14120,6 @@
 0.0.0.0 sharpmedia.eu
 0.0.0.0 s.hdpornblue.lol
 0.0.0.0 sheafmediagroup.com
-0.0.0.0 s.hellporno.buzz
 0.0.0.0 sherwoodsutton.pro
 0.0.0.0 shestrozo.com
 0.0.0.0 shestugele.pro
@@ -14202,7 +14216,6 @@
 0.0.0.0 sixinches.in
 0.0.0.0 six.marketing
 0.0.0.0 sizmdx.com
-0.0.0.0 s.josshub.pro
 0.0.0.0 ska.dezna.online
 0.0.0.0 skakpush.icu
 0.0.0.0 skalden-media.de
@@ -14290,6 +14303,7 @@
 0.0.0.0 smmadvertising.com
 0.0.0.0 smmjunction.com
 0.0.0.0 smnyayzhv.com
+0.0.0.0 smokerfiascos.cyou
 0.0.0.0 smooth-association.pro
 0.0.0.0 smooth-street.pro
 0.0.0.0 smpush.com
@@ -14498,6 +14512,7 @@
 0.0.0.0 staid-host.pro
 0.0.0.0 staid-property.pro
 0.0.0.0 stained-a.pro
+0.0.0.0 stainedphilosophy.pro
 0.0.0.0 stale-hate.pro
 0.0.0.0 standardpublicity.in
 0.0.0.0 standartnews.eu
@@ -14532,6 +14547,7 @@
 0.0.0.0 static.ettoday.net
 0.0.0.0 static.fbcdn.xyz
 0.0.0.0 static.grupinis.lt
+0.0.0.0 static.healthcarescene.com
 0.0.0.0 static.itersatedtheo.org
 0.0.0.0 static.lowsshehasnom.org
 0.0.0.0 static.lthroughthesum.org
@@ -14672,6 +14688,7 @@
 0.0.0.0 superflypartners.net
 0.0.0.0 superior-dish.pro
 0.0.0.0 superiorglove.pro
+0.0.0.0 supply.hornylust.com
 0.0.0.0 support.brighteon.com
 0.0.0.0 supreme-hunter.com
 0.0.0.0 surefootedmaintenance.com
@@ -15425,6 +15442,7 @@
 0.0.0.0 unselfishmortgage.pro
 0.0.0.0 unsteadyscrew.com
 0.0.0.0 untidy-log.pro
+0.0.0.0 untimely-patient.pro
 0.0.0.0 untriednegative.com
 0.0.0.0 unuu.online
 0.0.0.0 unwilling-internal.pro
@@ -15547,6 +15565,7 @@
 0.0.0.0 vendemore.com
 0.0.0.0 vendiadvertising.com
 0.0.0.0 veneficus.co.uk
+0.0.0.0 venerated-emotion.pro
 0.0.0.0 venueadnetwork.com
 0.0.0.0 venusta.nl
 0.0.0.0 veominfotech.com
@@ -16278,7 +16297,6 @@
 0.0.0.0 xmlads.bid
 0.0.0.0 xml-eu.gipostart-1.co
 0.0.0.0 xml-eu.qksrv.cc
-0.0.0.0 xml-eu-v4.bringthewaves.xyz
 0.0.0.0 xml-eu-v4.frdjs-2.co
 0.0.0.0 xml-eu-v4.gipostart-1.co
 0.0.0.0 xml-eu-v4.minsonbar2.online
@@ -16291,6 +16309,7 @@
 0.0.0.0 xml.minsonbar2.online
 0.0.0.0 xml.ngcluster-c.site
 0.0.0.0 xmlorbit.com
+0.0.0.0 xml.pyrrhicmechntech.com
 0.0.0.0 xml.qksrv.cc
 0.0.0.0 xml.responzservz-1.com
 0.0.0.0 xml.responzservz-2.com
@@ -16304,6 +16323,7 @@
 0.0.0.0 xml-v4.qksrv.cc
 0.0.0.0 xml-v4.tri.media
 0.0.0.0 xml.waytogy-serving.com
+0.0.0.0 xml.xml-brain.com
 0.0.0.0 xml.yodirecxl.com
 0.0.0.0 xn--1qwynp09f.net
 0.0.0.0 xn--kaken-tbb.com

@@ -24788,6 +24788,7 @@
 0.0.0.0 addigy-mdm-prod.us-east-1.elasticbeanstalk.com
 0.0.0.0 addinto.com
 0.0.0.0 addkt-match.dotomi.com
+0.0.0.0 addlnk.com
 0.0.0.0 addltest.timesink.com
 0.0.0.0 addlvr.com
 0.0.0.0 addmob.info
@@ -28380,6 +28381,7 @@
 0.0.0.0 adtrafico.g2afse.com
 0.0.0.0 adtransfer.net
 0.0.0.0 adtredo.com
+0.0.0.0 adtrgt.com
 0.0.0.0 adtriplex.com
 0.0.0.0 adtrivacpa.go2cloud.org
 0.0.0.0 adtrovert.com
@@ -28795,6 +28797,7 @@
 0.0.0.0 adviews-sponsor.de
 0.0.0.0 adviqo.go2cloud.org
 0.0.0.0 adviral.adk2x.com
+0.0.0.0 advise.co
 0.0.0.0 advisorded.com
 0.0.0.0 adviva.com
 0.0.0.0 advivify.g2afse.com
@@ -30659,7 +30662,6 @@
 0.0.0.0 analytics.tercept.com
 0.0.0.0 analytics.theminersunion.com
 0.0.0.0 analytics.thethao247.org
-0.0.0.0 analytics.thingx.tv
 0.0.0.0 analytics.tiltingpoint.io
 0.0.0.0 analytics.toast.com
 0.0.0.0 analytics.traidnt.net
@@ -36844,6 +36846,7 @@
 0.0.0.0 bormoni.ru
 0.0.0.0 bornobid.com
 0.0.0.0 bororas.com
+0.0.0.0 borotango.com
 0.0.0.0 boroto.ru
 0.0.0.0 borrango.com
 0.0.0.0 borreliose.de.intellitxt.com
@@ -39112,7 +39115,6 @@
 0.0.0.0 c.predictvideo.com
 0.0.0.0 c.pubguard.com
 0.0.0.0 c.quantserve.com
-0.0.0.0 c.rhapsody.com
 0.0.0.0 c.richmetrics.com
 0.0.0.0 c.rigelink.com
 0.0.0.0 c.rmgserving.com
@@ -59799,7 +59801,6 @@
 0.0.0.0 gzxjfkhwvhwfzr.com
 0.0.0.0 gzyddiyiyme.bid
 0.0.0.0 gzzctcekf.com
-0.0.0.0 h-adashx4id.ut.taobao.com
 0.0.0.0 h-adashx4sg.ut.taobao.com
 0.0.0.0 h-adashx4yt.ut.taobao.com
 0.0.0.0 h-airbnb3.online-metrix.net
@@ -61936,6 +61937,7 @@
 0.0.0.0 hypermall.com
 0.0.0.0 hypersell.ru
 0.0.0.0 hypertrack.com
+0.0.0.0 hypertrackeraff.com
 0.0.0.0 hyperurl.co
 0.0.0.0 hyperwebads.com
 0.0.0.0 hyphenatedion.com
@@ -72749,6 +72751,7 @@
 0.0.0.0 mediaonpro.com
 0.0.0.0 mediaparade.net
 0.0.0.0 mediapartner.bigpoint.net
+0.0.0.0 mediapeartree.com
 0.0.0.0 mediapeo.com
 0.0.0.0 mediapixelnet.com
 0.0.0.0 mediaplanner.inmobi.com
@@ -73160,7 +73163,6 @@
 0.0.0.0 metrics.winsupersite.com
 0.0.0.0 metrics.wpm.neustar.biz
 0.0.0.0 metrics.yoc.com
-0.0.0.0 metrics.zales.com
 0.0.0.0 metricskey.net
 0.0.0.0 metricsupdater.adswizz.com
 0.0.0.0 metrika.lookmovie.ag
@@ -74497,6 +74499,7 @@
 0.0.0.0 moosejaw.evyy.net
 0.0.0.0 mooseway.com
 0.0.0.0 moowouzy.net
+0.0.0.0 mooxar.com
 0.0.0.0 mopilod.com
 0.0.0.0 mopo.jp
 0.0.0.0 mopub-dfp.mopub.com
@@ -78440,6 +78443,7 @@
 0.0.0.0 ocdc1.112.2o7.net
 0.0.0.0 ocean.webmine.pro
 0.0.0.0 oceango.net
+0.0.0.0 oceanwebcraft.com
 0.0.0.0 ocejkjkopphj.com
 0.0.0.0 oceuwezutqfcbx.com
 0.0.0.0 ocfsmefzzarkmo.com
@@ -78735,6 +78739,7 @@
 0.0.0.0 ohleiludieje.info
 0.0.0.0 ohlone.vizu.com
 0.0.0.0 ohlpmbbiw.bid
+0.0.0.0 ohmcasting.com
 0.0.0.0 ohmvrqomsitr.com
 0.0.0.0 ohmwrite.com
 0.0.0.0 ohnohaijfq.com
@@ -84282,6 +84287,7 @@
 0.0.0.0 profithash.com
 0.0.0.0 profitmaximizer.co
 0.0.0.0 profitmobi.offerstrack.net
+0.0.0.0 profitpeelers.com
 0.0.0.0 profitraf.ru
 0.0.0.0 profitreload.com
 0.0.0.0 profitsdeluxe.com
@@ -85150,6 +85156,7 @@
 0.0.0.0 push.zeusadx.com
 0.0.0.0 push1.dev.accengage.com
 0.0.0.0 push1.foxpush.com
+0.0.0.0 pushads.biz
 0.0.0.0 pushame.com
 0.0.0.0 pushanert.com
 0.0.0.0 pushapi.batmobi.net
@@ -89059,7 +89066,6 @@
 0.0.0.0 rulgltvmpzig.com
 0.0.0.0 rum.monitis.com
 0.0.0.0 rum.nanovisor.io
-0.0.0.0 rum.optimizely.com
 0.0.0.0 rum.serv-ac.com
 0.0.0.0 rum.turbobytes.com
 0.0.0.0 rum.wpm.neustar.biz
@@ -96687,7 +96693,6 @@
 0.0.0.0 sync.mobj.space
 0.0.0.0 sync.mobojoy.baidu.com
 0.0.0.0 sync.mookie1.cn
-0.0.0.0 sync.morgdm.ru
 0.0.0.0 sync.richmetrics.com
 0.0.0.0 sync.security.baidu.co.th
 0.0.0.0 sync.smrtb.com
@@ -97060,6 +97065,7 @@
 0.0.0.0 taeadsnmbbkvpw.bid
 0.0.0.0 taelsfdgtmka.com
 0.0.0.0 taezz.lyfd2xzauti9d8p.bapb.gdn
+0.0.0.0 tafmaster.com
 0.0.0.0 tag-abe.cartrawler.com
 0.0.0.0 tag-admin.demandbase.com
 0.0.0.0 tag-ams.1rx.io
@@ -112670,8 +112676,10 @@
 0.0.0.0 xlspkqpnnqj.com
 0.0.0.0 xltusxmsiwm.proxy.teads.tv
 0.0.0.0 xlvausdwsmyoww.bid
+0.0.0.0 xmas-xmas-wow.com
 0.0.0.0 xmasdom.com
 0.0.0.0 xmasit.me
+0.0.0.0 xmaswrite.com
 0.0.0.0 xmazvzvbqli.com
 0.0.0.0 xmbyoyvs.bid
 0.0.0.0 xmcq.cdn.shareitgames.com
