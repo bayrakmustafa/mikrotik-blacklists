@@ -1,11 +1,10 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 25,858
-# Updated: 2/5/2026  21:17 (9:17 PM CST)
+# Domains: 25,867
+# Updated: 2/12/2026  17:10 (5:10 PM CST)
 #
 0.0.0.0 0063450bb8e5e3369eauthorized-choice.pro
-0.0.0.0 01.rtb.cmdmtc.com
 0.0.0.0 03ab2paradisecdn.com
 0.0.0.0 04697a0ddea24c610de68229dadbc4390c37813647c2827bbc1f9041.com
 0.0.0.0 05e6775b2e7e9fbe8ed69f85c04874dbf64236caa3f28638318868d0.com
@@ -1212,7 +1211,6 @@
 0.0.0.0 adgarden.net
 0.0.0.0 ad.garvisor.com
 0.0.0.0 ad.gawooni.com
-0.0.0.0 adgeek.net
 0.0.0.0 ad.gemeindezeitung.de
 0.0.0.0 adgen11.com
 0.0.0.0 adgenesis.com
@@ -6557,6 +6555,7 @@
 0.0.0.0 chattercreative.com
 0.0.0.0 chattertulsa.com
 0.0.0.0 chatursply.com
+0.0.0.0 cheap-end.pro
 0.0.0.0 checkbestads.com
 0.0.0.0 checkleadsclean.com
 0.0.0.0 checktrackleads.com
@@ -6751,6 +6750,7 @@
 0.0.0.0 cmaxsrv.com
 0.0.0.0 cmcgc.com
 0.0.0.0 cmdetp.s3.ap-southeast-1.amazonaws.com
+0.0.0.0 cmdmtc.com
 0.0.0.0 cm.igaw.io
 0.0.0.0 cmod452.live.streamtheworld.com
 0.0.0.0 cmp.cdn.thesun.ie
@@ -11513,6 +11513,7 @@
 0.0.0.0 orange-guitar.pro
 0.0.0.0 orangelabeladvertising.com
 0.0.0.0 orangepublicite.fr
+0.0.0.0 orange-sample.pro
 0.0.0.0 orawmstc.com
 0.0.0.0 orcatraffic.com
 0.0.0.0 orchidia.me
@@ -12295,7 +12296,6 @@
 0.0.0.0 promos.investing.com
 0.0.0.0 promos.ogdennews.com
 0.0.0.0 promote.batdongsan.com.vn
-0.0.0.0 promoted.ticketmaster.com
 0.0.0.0 promoteeasy.in
 0.0.0.0 promoteiq.com
 0.0.0.0 promote-subscribe.forbes.com
@@ -12311,7 +12311,6 @@
 0.0.0.0 proofleads.com
 0.0.0.0 propadsviews.com
 0.0.0.0 prop.arsenalinsider.com
-0.0.0.0 prop.astonvillanews.co.uk
 0.0.0.0 prop.barcauniversal.com
 0.0.0.0 prop.bloodyelbow.com
 0.0.0.0 prop.celticnewsnow.com
@@ -13955,6 +13954,7 @@
 0.0.0.0 seaxsrv.com
 0.0.0.0 sece-ruy.space
 0.0.0.0 seckin.net
+0.0.0.0 secondary-scheme.pro
 0.0.0.0 secondhand-contribution.com
 0.0.0.0 secondsiteadvertising.com
 0.0.0.0 secraq.com
@@ -14671,8 +14671,10 @@
 0.0.0.0 suburbannegative.pro
 0.0.0.0 subxpk.com
 0.0.0.0 successtoyou.biz
+0.0.0.0 sudden-painting.pro
 0.0.0.0 sudiyo.com
 0.0.0.0 sugaryambition.pro
+0.0.0.0 sugarydamage.pro
 0.0.0.0 suite66.com
 0.0.0.0 suke10.com
 0.0.0.0 sulimedia.com

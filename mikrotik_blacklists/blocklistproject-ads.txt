@@ -29950,6 +29950,7 @@
 0.0.0.0 allaboutsearching.com
 0.0.0.0 allaboutthestatus.com
 0.0.0.0 alladream.go2cloud.org
+0.0.0.0 allads4you.de
 0.0.0.0 alladultcash.com
 0.0.0.0 alladvantage.com
 0.0.0.0 allatv.justclick.ru
@@ -95584,7 +95585,6 @@
 0.0.0.0 stats.nekapuzer.at
 0.0.0.0 stats.netnorth.co.uk
 0.0.0.0 stats.nomade.fr
-0.0.0.0 stats.norton.com
 0.0.0.0 stats.nutritiondata.com
 0.0.0.0 stats.oix.com
 0.0.0.0 stats.ombx.io

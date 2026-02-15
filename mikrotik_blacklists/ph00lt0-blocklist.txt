@@ -10749,7 +10749,6 @@
 0.0.0.0 light.co-operativebank.co.uk
 0.0.0.0 lightcars.de
 0.0.0.0 lighthouse.vimeocdn.com
-0.0.0.0 lighthouselabs.eu
 0.0.0.0 lighthouselist.com
 0.0.0.0 lightson.vpsboard.com
 0.0.0.0 lightspeedsystems.app
@@ -11883,7 +11882,6 @@
 0.0.0.0 mpb2.iteye.com
 0.0.0.0 mpeasylink.com
 0.0.0.0 mpi-internal.com
-0.0.0.0 mplat-ppcprotect.com
 0.0.0.0 mpluswf.ims.vodaphone.com
 0.0.0.0 mpro.baidu.com
 0.0.0.0 mps.nbcuni.com
@@ -11965,7 +11963,6 @@
 0.0.0.0 msstonojssocial.112.2o7.net
 0.0.0.0 mstzym.com
 0.0.0.0 msypr.com
-0.0.0.0 mt.9gag.com
 0.0.0.0 mt.com
 0.0.0.0 mta.qq.com
 0.0.0.0 mta.tencent.com
@@ -16086,7 +16083,6 @@
 0.0.0.0 tapjoy.cn
 0.0.0.0 taptapdigital.com
 0.0.0.0 tarantula.hashicorp.com
-0.0.0.0 target-video.com
 0.0.0.0 target.aws.amazon.com
 0.0.0.0 target.digitalaudience.io
 0.0.0.0 target.my.com
@@ -16475,7 +16471,6 @@
 0.0.0.0 townmail.nl
 0.0.0.0 townmanagementsgc.com
 0.0.0.0 tp.multiview.com
-0.0.0.0 tp88trk.com
 0.0.0.0 tpe163.com
 0.0.0.0 tpsc-frc.doubleverify.com
 0.0.0.0 tr.ee

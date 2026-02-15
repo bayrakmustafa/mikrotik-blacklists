@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 06FEB26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 13FEB26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -5028,6 +5028,7 @@
 0.0.0.0 cqpmvc.cesoirtv.com
 0.0.0.0 cqpmvc.prima.fr
 0.0.0.0 crawford-industries.actonservice.com
+0.0.0.0 crcldu.com
 0.0.0.0 create.encore-mx.com
 0.0.0.0 creationagency.actonservice.com
 0.0.0.0 creatives.sunmedia.tv
@@ -5621,7 +5622,6 @@
 0.0.0.0 dl-qa.nonton.99array.com
 0.0.0.0 dl.right2vote.in
 0.0.0.0 dl.rivafashion.com
-0.0.0.0 dls-account.di.atlas.samsung.com
 0.0.0.0 dls.guidrr.com
 0.0.0.0 dl.shopwell.com
 0.0.0.0 dl-stage.6tst.com
@@ -6645,6 +6645,7 @@
 0.0.0.0 franklin.edu.actonservice.com
 0.0.0.0 frankwatching.actonservice.com
 0.0.0.0 franoppnetwork.actonservice.com
+0.0.0.0 fran.pro
 0.0.0.0 fraudandcyberawareness.safeguard.hsbc.com
 0.0.0.0 frc.redcross.fi
 0.0.0.0 frdoki.copperprint.work
@@ -6970,6 +6971,7 @@
 0.0.0.0 go2.ringcentral.com
 0.0.0.0 go.4010.ru
 0.0.0.0 go.4sq.com
+0.0.0.0 go.absolventa.de
 0.0.0.0 goaccredited.actonservice.com
 0.0.0.0 go.accumaxglobal.com.au
 0.0.0.0 go.acelisconnectedhealth.com
@@ -6993,6 +6995,7 @@
 0.0.0.0 go.axione.com
 0.0.0.0 go.azets.no
 0.0.0.0 go.azets.se
+0.0.0.0 go.azubi.de
 0.0.0.0 go.backtest.io
 0.0.0.0 go.bandits.com
 0.0.0.0 go.bayshoresystems.com
@@ -8459,7 +8462,6 @@
 0.0.0.0 i.poker2u.app
 0.0.0.0 i.pokerbros.net
 0.0.0.0 i.pokernews.com
-0.0.0.0 i.posthog.com
 0.0.0.0 iptmih.hifi-regler.de
 0.0.0.0 ipummv.pharao24.de
 0.0.0.0 ipv3.landing.ni.com
@@ -11622,6 +11624,7 @@
 0.0.0.0 metric.volkswagen.ie
 0.0.0.0 metric.wilsonelectronics.com
 0.0.0.0 metric.yardhouse.com
+0.0.0.0 metrik.freitag.de
 0.0.0.0 metrix.511tactical.com
 0.0.0.0 metrix.youravon.com
 0.0.0.0 met.vgwort.de
@@ -12827,6 +12830,7 @@
 0.0.0.0 promotions.kangan.edu.au
 0.0.0.0 promotionspr.actonservice.com
 0.0.0.0 promo.tops.co.th
+0.0.0.0 prop.astonvillanews.co.uk
 0.0.0.0 propay.actonservice.com
 0.0.0.0 property.aon.com
 0.0.0.0 pro.pokerup.net
@@ -13281,6 +13285,7 @@
 0.0.0.0 rverxn.autosphere.fr
 0.0.0.0 rvo-cohesion.healthline.com
 0.0.0.0 rvtwqp.winparts.se
+0.0.0.0 r.winf.site
 0.0.0.0 rwlnfq.alindashop.ro
 0.0.0.0 rwrnkb.lifelongcollectibles.com
 0.0.0.0 rwryla.theblockshop.com.au
