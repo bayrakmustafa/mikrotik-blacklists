@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 25,867
-# Updated: 2/12/2026  17:10 (5:10 PM CST)
+# Domains: 25,878
+# Updated: 2/16/2026  08:41 (8:41 AM CST)
 #
 0.0.0.0 0063450bb8e5e3369eauthorized-choice.pro
 0.0.0.0 03ab2paradisecdn.com
@@ -108,6 +108,7 @@
 0.0.0.0 1ehk3kf32.de
 0.0.0.0 1emn.com
 0.0.0.0 1fg08r7te.de
+0.0.0.0 1fxt.com
 0.0.0.0 1h2gp10t2.de
 0.0.0.0 1hs597km0.de
 0.0.0.0 1i8sk38gr.de
@@ -251,7 +252,6 @@
 0.0.0.0 32998zubo36283.com
 0.0.0.0 339282bdb.com
 0.0.0.0 33a89nw03k.ru
-0.0.0.0 33across-match.dotomi.com
 0.0.0.0 33mileradius.com
 0.0.0.0 360agencyberlin.com
 0.0.0.0 360degreesadvertising.com
@@ -323,6 +323,7 @@
 0.0.0.0 590233ee4fbb3.cdn.sohucs.com
 0.0.0.0 592773xgg.com
 0.0.0.0 595tuchuang.com
+0.0.0.0 5bn.net
 0.0.0.0 5f154926ee0c17ce06289b7825d08fb877f8ebe8d635b65622ce8a2f.com
 0.0.0.0 5ivempls.com
 0.0.0.0 5mileslab.com
@@ -417,6 +418,7 @@
 0.0.0.0 8-digitalmarketing.com
 0.0.0.0 8utb.net
 0.0.0.0 9010agency.co.uk
+0.0.0.0 901s.com
 0.0.0.0 902advertisinggroup.com
 0.0.0.0 9167x.com
 0.0.0.0 91836731671.com
@@ -2418,7 +2420,6 @@
 0.0.0.0 adserver.arcast.cloud
 0.0.0.0 adserver.archiletras.com
 0.0.0.0 adserver.asia-city.com
-0.0.0.0 adserver.asiantb.com
 0.0.0.0 adserver.asiatatler.com
 0.0.0.0 adserver.auditorioteatrolaspalmasgc.es
 0.0.0.0 adserver.autoblog.rs
@@ -4528,7 +4529,6 @@
 0.0.0.0 adv.rtbuzz.net
 0.0.0.0 adv-saturno.wineuropa.it
 0.0.0.0 adv.seidisassuolose.it
-0.0.0.0 advserver.asiantb.com
 0.0.0.0 advs.hankyung.com
 0.0.0.0 adv.smotri.com
 0.0.0.0 adv.sogaer.it
@@ -5097,6 +5097,7 @@
 0.0.0.0 alwqfajh.com
 0.0.0.0 a.maple-sky.com
 0.0.0.0 amateurpayouts.com
+0.0.0.0 a.maturepussyporn.net
 0.0.0.0 amazingomgnews.ru
 0.0.0.0 amazon-adsystem.amazon.com
 0.0.0.0 amazonadvertising.com
@@ -5414,6 +5415,7 @@
 0.0.0.0 asg.telegramfiles.com
 0.0.0.0 ashaaudiocom.com
 0.0.0.0 ashamed-fuel.pro
+0.0.0.0 a.sharki.online
 0.0.0.0 ashleymonk.com
 0.0.0.0 a.shukriya90.com
 0.0.0.0 asia-ad.com
@@ -5561,6 +5563,7 @@
 0.0.0.0 aycdt.com
 0.0.0.0 ayelads.click
 0.0.0.0 ayelads.xyz
+0.0.0.0 ayhal.com
 0.0.0.0 ayotising.com
 0.0.0.0 ayzvd.com
 0.0.0.0 azameo.com
@@ -5708,7 +5711,6 @@
 0.0.0.0 banners.alexanderwatson.com.au
 0.0.0.0 banners.amiset.com
 0.0.0.0 banner.sangor.es
-0.0.0.0 banners.atlantamagazine.com
 0.0.0.0 banners.bamstrategy.com
 0.0.0.0 banners.bcnon.com
 0.0.0.0 banners.buro13.agency
@@ -5827,7 +5829,6 @@
 0.0.0.0 bds.fnltd.co.uk
 0.0.0.0 bds.web-rover.co.uk
 0.0.0.0 beachfront.io
-0.0.0.0 beachfront-match.dotomi.com
 0.0.0.0 beachfrontreach.com
 0.0.0.0 beaconpush.com
 0.0.0.0 beanedbounds.shop
@@ -6012,6 +6013,7 @@
 0.0.0.0 bitesized-commission.pro
 0.0.0.0 bitlymonitor.com
 0.0.0.0 bit-multimedia.com
+0.0.0.0 bitrck.com
 0.0.0.0 bitsngo.net
 0.0.0.0 bitterborder.pro
 0.0.0.0 bittrafficads.com
@@ -7990,7 +7992,6 @@
 0.0.0.0 emptysale.pro
 0.0.0.0 emrgods.com
 0.0.0.0 emsi.livetwo.store
-0.0.0.0 emx-match.dotomi.com
 0.0.0.0 emycewiw.xyz
 0.0.0.0 enchanted-stretch.pro
 0.0.0.0 encontextadvertising.com
@@ -8072,7 +8073,6 @@
 0.0.0.0 eqmpw.com
 0.0.0.0 eqolot.com
 0.0.0.0 equativ.com
-0.0.0.0 equativ-match.dotomi.com
 0.0.0.0 equatorialboy.pro
 0.0.0.0 equityme.com
 0.0.0.0 erasercash.com
@@ -8464,7 +8464,6 @@
 0.0.0.0 freetoaster.net
 0.0.0.0 freewheel2018.tv
 0.0.0.0 freewheel-live.fuse.tv
-0.0.0.0 freewheel-match.dotomi.com
 0.0.0.0 freexmedia.de
 0.0.0.0 freigsweettechwheel.xyz
 0.0.0.0 frequencyads.com
@@ -8763,6 +8762,7 @@
 0.0.0.0 go1.trakit14.com
 0.0.0.0 go1.trakit15.com
 0.0.0.0 go1.trakit16.com
+0.0.0.0 go1.trakit17.com
 0.0.0.0 go1.trakit20.com
 0.0.0.0 go1.trakit3.com
 0.0.0.0 go1.trakit5.com
@@ -9445,7 +9445,6 @@
 0.0.0.0 inline.healthline.com
 0.0.0.0 inlugiar.com
 0.0.0.0 inmarcadvertising.com
-0.0.0.0 inmobi-match.dotomi.com
 0.0.0.0 inmotiongroup.com
 0.0.0.0 innismaggiore.com
 0.0.0.0 innoshow.com
@@ -9871,7 +9870,6 @@
 0.0.0.0 krizim.com
 0.0.0.0 krkk.online
 0.0.0.0 krush.com
-0.0.0.0 krush-match.dotomi.com
 0.0.0.0 krushmedia.com
 0.0.0.0 kryteo.com
 0.0.0.0 ksand.com
@@ -10093,6 +10091,7 @@
 0.0.0.0 live.qwirlz.com
 0.0.0.0 livere.com
 0.0.0.0 livesportmedia.eu
+0.0.0.0 live.trudigo.com
 0.0.0.0 live.zrmtrm.com
 0.0.0.0 lividgod.pro
 0.0.0.0 ljecur.com
@@ -10986,6 +10985,7 @@
 0.0.0.0 ncw6.net
 0.0.0.0 ndiux.com
 0.0.0.0 ndt5.net
+0.0.0.0 ne83.com
 0.0.0.0 nealadv.com
 0.0.0.0 neatsignal.pro
 0.0.0.0 needle.com
@@ -11137,6 +11137,7 @@
 0.0.0.0 nobbymedia.com
 0.0.0.0 noclegipracownicze-augustow.online
 0.0.0.0 nocturnalrace.com
+0.0.0.0 nofeu.com
 0.0.0.0 nogamelive.com
 0.0.0.0 noltepr.com
 0.0.0.0 nontonfilm.xyz
@@ -12497,7 +12498,6 @@
 0.0.0.0 pugna.mbiz.co.id
 0.0.0.0 p.ulesxbo.com
 0.0.0.0 pulpindia.com
-0.0.0.0 pulsepoint-match.dotomi.com
 0.0.0.0 pumpenwerbung.de
 0.0.0.0 punchdrunkdigital.com
 0.0.0.0 pundr.esexa.online
@@ -12755,6 +12755,7 @@
 0.0.0.0 qntv.io
 0.0.0.0 qo-ni-tye.space
 0.0.0.0 qootkj.com
+0.0.0.0 q.pairies.site
 0.0.0.0 qpetfb.com
 0.0.0.0 qpidaffiliate.com
 0.0.0.0 qqlwx.com
@@ -13990,6 +13991,7 @@
 0.0.0.0 selfserveplus.com
 0.0.0.0 sellines.com
 0.0.0.0 sellozo.com
+0.0.0.0 s.elns4c.com
 0.0.0.0 semaads.com
 0.0.0.0 semeshycy.pro
 0.0.0.0 sem-express.com
@@ -14091,7 +14093,6 @@
 0.0.0.0 sfiedgreatorganisationbrightfruits.site
 0.0.0.0 sfmc-content.com
 0.0.0.0 sfmediaco.com
-0.0.0.0 s.freepornsex.online
 0.0.0.0 sgdmobile.com
 0.0.0.0 sghmho.com
 0.0.0.0 sgimage.netmarble.com
@@ -15234,7 +15235,6 @@
 0.0.0.0 trinisply.com
 0.0.0.0 trinytymedia.com
 0.0.0.0 triplelarge.com
-0.0.0.0 triplelift-match.dotomi.com
 0.0.0.0 tripple.at
 0.0.0.0 tripple.net
 0.0.0.0 triptent.com
@@ -16391,13 +16391,13 @@
 0.0.0.0 yahooadblaster.com
 0.0.0.0 yahoobluelithium.com
 0.0.0.0 yahoofs.com
-0.0.0.0 yahoo-match.dotomi.com
 0.0.0.0 yahoosandbox.com
 0.0.0.0 yajani.com
 0.0.0.0 yajgm.com
 0.0.0.0 yamads.com
 0.0.0.0 yaoji666.oss-cn-hongkong.aliyuncs.com
 0.0.0.0 yara.co.in
+0.0.0.0 yarlnk.com
 0.0.0.0 yaunel.com
 0.0.0.0 yavin.dev
 0.0.0.0 ybbadvsrv.com
@@ -16428,7 +16428,6 @@
 0.0.0.0 yieldads.net
 0.0.0.0 yieldlift.io
 0.0.0.0 yieldmagic.com
-0.0.0.0 yieldmo-match.dotomi.com
 0.0.0.0 yieldopt.spreaker.com
 0.0.0.0 yieldpass.com
 0.0.0.0 yieldr.com
@@ -16500,6 +16499,7 @@
 0.0.0.0 zaffz.online
 0.0.0.0 zaincodc.com
 0.0.0.0 zallj.com
+0.0.0.0 z.allopurinoll.shop
 0.0.0.0 zantbowsing.cam
 0.0.0.0 zanymost.pro
 0.0.0.0 za.pl

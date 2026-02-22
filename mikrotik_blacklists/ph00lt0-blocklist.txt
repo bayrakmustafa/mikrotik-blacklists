@@ -2273,7 +2273,6 @@
 0.0.0.0 amazingmagics.com
 0.0.0.0 amazon-gift-card500.blogspot.com
 0.0.0.0 amazon-nederland.blogspot.com
-0.0.0.0 amazon-tam-match.dotomi.com
 0.0.0.0 amazonaax.com
 0.0.0.0 amazonadsystem.com
 0.0.0.0 amazonbuyhelp.blogspot.com
@@ -4809,7 +4808,6 @@
 0.0.0.0 civiccomputing.com
 0.0.0.0 civicuk.com
 0.0.0.0 ciyitan.com
-0.0.0.0 cj.dotomi.com
 0.0.0.0 cj.qidian.com
 0.0.0.0 cj21ep.cn
 0.0.0.0 cjhq.baidu.cn
@@ -10749,6 +10747,7 @@
 0.0.0.0 light.co-operativebank.co.uk
 0.0.0.0 lightcars.de
 0.0.0.0 lighthouse.vimeocdn.com
+0.0.0.0 lighthouselabs.eu
 0.0.0.0 lighthouselist.com
 0.0.0.0 lightson.vpsboard.com
 0.0.0.0 lightspeedsystems.app
@@ -14364,7 +14363,6 @@
 0.0.0.0 rttrk.com
 0.0.0.0 ru.com
 0.0.0.0 ruan88.com
-0.0.0.0 rubicon-match.dotomi.com
 0.0.0.0 ruclid.ru
 0.0.0.0 rudderstack.com
 0.0.0.0 rudderstack.shiftbase.com

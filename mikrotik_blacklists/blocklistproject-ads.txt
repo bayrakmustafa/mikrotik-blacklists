@@ -25514,7 +25514,6 @@
 0.0.0.0 ado.internet.cz
 0.0.0.0 ado3o.voluumtrk.com
 0.0.0.0 adobe-d.openx.net
-0.0.0.0 adobe-sync.dotomi.com
 0.0.0.0 adobe.co1.qualtrics.com
 0.0.0.0 adobe.com.ssl.d1.sc.omtrdc.net
 0.0.0.0 adobe.sync.go.sonobi.com
@@ -31774,7 +31773,6 @@
 0.0.0.0 apnjp.c.appier.net
 0.0.0.0 apnnzheraldv2.112.2o7.net
 0.0.0.0 apnvn.c.appier.net
-0.0.0.0 apnx-match.dotomi.com
 0.0.0.0 apnxrtb-as.tribalfusion.com
 0.0.0.0 apnxrtb-eu.tribalfusion.com
 0.0.0.0 apodemjyoqhwc.download
@@ -39893,7 +39891,6 @@
 0.0.0.0 casadocodigo.tk
 0.0.0.0 casale-bid-west.dotomi.com
 0.0.0.0 casale-cm.p.veruta.comupoll.umengcloud.com
-0.0.0.0 casale-match.dotomi.com
 0.0.0.0 casale-rtb.p.veruta.com
 0.0.0.0 casaroyai.com
 0.0.0.0 cascadaforum.de.intellitxt.com
@@ -44336,7 +44333,6 @@
 0.0.0.0 cookie.gazeta.pl
 0.0.0.0 cookie.green-red.com
 0.0.0.0 cookie.support
-0.0.0.0 cookie.sync.ad.cpe.dotomi.com
 0.0.0.0 cookie.veinteractive.com
 0.0.0.0 cookie.wieni.be
 0.0.0.0 cookieads.fuse-ad.com
@@ -47986,7 +47982,6 @@
 0.0.0.0 dcisw.voluumtrk.com
 0.0.0.0 dcjhpaexcwtc.com
 0.0.0.0 dckyimoylozbby.com
-0.0.0.0 dclk-match.dotomi.com
 0.0.0.0 dclk.haaretz.co.il
 0.0.0.0 dclk.haaretz.com
 0.0.0.0 dclk.net
@@ -49310,7 +49305,6 @@
 0.0.0.0 distribmenuiseries.fr
 0.0.0.0 distribution.brightcove.com
 0.0.0.0 distributions-crashlytics-com.s3.amazonaws.com
-0.0.0.0 districtm-match.dotomi.com
 0.0.0.0 districtm.net
 0.0.0.0 distrify-production.imgix.net
 0.0.0.0 distro.agkn.com
@@ -50087,7 +50081,6 @@
 0.0.0.0 doy3na3p1qial.cloudfront.net
 0.0.0.0 doyan-99.com
 0.0.0.0 dp-dashboard.fyber.com
-0.0.0.0 dp-sync.dotomi.com
 0.0.0.0 dp.33across.com
 0.0.0.0 dp.qcarsdk.com
 0.0.0.0 dp00-hk2.everesttech.net
@@ -62272,7 +62265,6 @@
 0.0.0.0 iad-2-xcp.media.net
 0.0.0.0 iad-2.media.net
 0.0.0.0 iad-dev-apex.go.sonobi.com
-0.0.0.0 iad-usadmm.dotomi.com
 0.0.0.0 iad-v4.pops.fastly-insights.com
 0.0.0.0 iad.crwdcntrl.net
 0.0.0.0 iad.liveperson.net
@@ -70362,7 +70354,6 @@
 0.0.0.0 logicimmoloc.widget.criteo.com
 0.0.0.0 logicimmoneuf.widget.criteo.com
 0.0.0.0 login-canary.flurry.com
-0.0.0.0 login-ds.dotomi.com
 0.0.0.0 login-megafon.ru
 0.0.0.0 login.adition.com
 0.0.0.0 login.adtech.de
@@ -72129,7 +72120,6 @@
 0.0.0.0 match.360yield.com
 0.0.0.0 match.adlegend.com
 0.0.0.0 match.admailtiser.com
-0.0.0.0 match.sync.ad.cpe.dotomi.com
 0.0.0.0 match7-as-s1.outfit7.com
 0.0.0.0 match7-eu-w1.outfit7.com
 0.0.0.0 match7-so-e1.outfit7.com
@@ -72627,7 +72617,6 @@
 0.0.0.0 media.mopub.com
 0.0.0.0 media.motrixi.com
 0.0.0.0 media.mouseflow.com
-0.0.0.0 media.msg.dotomi.com
 0.0.0.0 media.mybet.com
 0.0.0.0 media.mykocam.com
 0.0.0.0 media.onlineteachers.co.in
@@ -72740,7 +72729,6 @@
 0.0.0.0 medianaft.com
 0.0.0.0 medianash.g2afse.com
 0.0.0.0 medianet-d.openx.net
-0.0.0.0 medianet-match.dotomi.com
 0.0.0.0 medianet-sync.go.sonobi.com
 0.0.0.0 medianet.sync.go.sonobi.com
 0.0.0.0 medianyx.go2cloud.org
@@ -73114,6 +73102,7 @@
 0.0.0.0 metrics-node-nl.fitanalytics.com
 0.0.0.0 metrics-trotsky.fitanalytics.com
 0.0.0.0 metrics-us.fitanalytics.com
+0.0.0.0 metrics.active.com
 0.0.0.0 metrics.adflake.com
 0.0.0.0 metrics.adnetwork.vn
 0.0.0.0 metrics.advisorchannel.com.edgekey.net
@@ -73128,6 +73117,7 @@
 0.0.0.0 metrics.dmx.districtm.io
 0.0.0.0 metrics.dynad.net
 0.0.0.0 metrics.element14.com
+0.0.0.0 metrics.expressen.se
 0.0.0.0 metrics.feedroom.com
 0.0.0.0 metrics.fitanalytics.com
 0.0.0.0 metrics.fnac.es
@@ -73164,6 +73154,7 @@
 0.0.0.0 metrics.winsupersite.com
 0.0.0.0 metrics.wpm.neustar.biz
 0.0.0.0 metrics.yoc.com
+0.0.0.0 metrics.zales.com
 0.0.0.0 metricskey.net
 0.0.0.0 metricsupdater.adswizz.com
 0.0.0.0 metrika.lookmovie.ag
@@ -79400,7 +79391,6 @@
 0.0.0.0 openx.yolau.net
 0.0.0.0 openx.yorkvillemarketing.com
 0.0.0.0 openx.youmeet.se
-0.0.0.0 openx2-match.dotomi.com
 0.0.0.0 openx4.emag.ro
 0.0.0.0 openxadmin.inviziads.com
 0.0.0.0 openxeu.solocpm.com
@@ -84978,7 +84968,6 @@
 0.0.0.0 publiwise.adk2x.com
 0.0.0.0 publord.offerstrack.net
 0.0.0.0 pubmatic-cm.p.veruta.com
-0.0.0.0 pubmatic-match.dotomi.com
 0.0.0.0 pubmatic-winners-ap-southeast-1-rtb.adroll.com
 0.0.0.0 pubmatic.adformdsp.net
 0.0.0.0 pubmatic2waycm-atl.netmng.com
@@ -89310,7 +89299,6 @@
 0.0.0.0 s-us-east-1.axonix.com
 0.0.0.0 s-usc1c-nss-218.firebaseio.com
 0.0.0.0 s-usc1c-nss-262.firebaseio.com
-0.0.0.0 s-usweb.dotomi.com
 0.0.0.0 s-v6exp1-v4.metric.gstatic.com
 0.0.0.0 s-vocento.cdn.videoplaza.tv
 0.0.0.0 s-vop.sundaysky.com
@@ -92396,7 +92384,6 @@
 0.0.0.0 sjc-sbid.contextweb.com
 0.0.0.0 sjc-tag-bgp.contextweb.com
 0.0.0.0 sjc-tools.contextweb.com
-0.0.0.0 sjc-usadmm.dotomi.com
 0.0.0.0 sjc-v4.pops.fastly-insights.com
 0.0.0.0 sjc.ads.nexage.com
 0.0.0.0 sjc.ads0.nexage.com
@@ -96099,7 +96086,6 @@
 0.0.0.0 stvideos.vidible.tv
 0.0.0.0 stw.adgear.com
 0.0.0.0 stwcozfiavhh.bid
-0.0.0.0 stx-match.dotomi.com
 0.0.0.0 stx.sharethrough.com
 0.0.0.0 stx16.sextracker.com
 0.0.0.0 sty.zkmobi.com
@@ -96661,7 +96647,6 @@
 0.0.0.0 syn.entertainmentcrave.com
 0.0.0.0 syn.torlock.com
 0.0.0.0 syn1.adriver.ru
-0.0.0.0 synacor-match.dotomi.com
 0.0.0.0 synad.nuffnang.com.my
 0.0.0.0 synad1.nuffnang.co.th
 0.0.0.0 synad2.nuffnang.co.th
@@ -99328,7 +99313,6 @@
 0.0.0.0 tps11031.doubleverify.com
 0.0.0.0 tpsjk.voluumtrk.com
 0.0.0.0 tpt-gateway-us.api.kochava.com
-0.0.0.0 tpt.dotomi.com
 0.0.0.0 tpt.mediaplex.com
 0.0.0.0 tptfopotrzg.com
 0.0.0.0 tptrk.ru
@@ -103354,8 +103338,6 @@
 0.0.0.0 usaa.demdex.net
 0.0.0.0 usaa.tt.omtrdc.net
 0.0.0.0 usabilitytesten.nl
-0.0.0.0 usadmm-ds.dotomi.com
-0.0.0.0 usadmm.dotomi.com
 0.0.0.0 usads.futurenet.nl
 0.0.0.0 usads.imdb.com
 0.0.0.0 usage.appmachine.com

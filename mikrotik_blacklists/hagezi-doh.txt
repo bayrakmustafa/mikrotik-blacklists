@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 15 Feb 2026 10:47 UTC
-# Version: 2026.0215.1047.51
+# Last modified: 18 Feb 2026 10:44 UTC
+# Version: 2026.0218.1044.40
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3978
+# Number of entries: 3960
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -847,7 +847,6 @@
 0.0.0.0 s3.d3mik.ru
 0.0.0.0 d3vy.ru
 0.0.0.0 dns.d4d.moe
-0.0.0.0 dns.d8e.ru
 0.0.0.0 dns.d94.xyz
 0.0.0.0 dns.daarrk.tech
 0.0.0.0 dns.dallinbryce.com
@@ -1491,7 +1490,6 @@
 0.0.0.0 r1bnc.eu.org
 0.0.0.0 sukidayo.eu.org
 0.0.0.0 tartanbahn.eu.org
-0.0.0.0 sg2.tt502.eu.org
 0.0.0.0 v2rich.eu.org
 0.0.0.0 dns.wantfreedom.eu.org
 0.0.0.0 yanggan.eu.org
@@ -1797,7 +1795,6 @@
 0.0.0.0 dns.hoian.one
 0.0.0.0 cloud2.holzmannclouddns.de
 0.0.0.0 socolov.home.ro
-0.0.0.0 adguard.home-lab-network.com
 0.0.0.0 home-server.store
 0.0.0.0 home34.su
 0.0.0.0 pi.homeanywhere.org
@@ -1973,7 +1970,6 @@
 0.0.0.0 adblock.indianets.net
 0.0.0.0 dns.indybanipal.com
 0.0.0.0 dns.inforlogia.com
-0.0.0.0 doh.infotechlibrary.com
 0.0.0.0 doh.infracell.net
 0.0.0.0 adguard.infrapod.nl
 0.0.0.0 adguard01.infrapod.nl
@@ -2961,7 +2957,6 @@
 0.0.0.0 udns.weixin.qq.com
 0.0.0.0 qqmcfw.tech
 0.0.0.0 ns1.qquack.org
-0.0.0.0 log.qrsoft.ru
 0.0.0.0 dns.qrtz.club
 0.0.0.0 hostdare.qtxd.net
 0.0.0.0 dns.quad9.net
@@ -2979,7 +2974,6 @@
 0.0.0.0 doh.quickline.ch
 0.0.0.0 dot.quickline.ch
 0.0.0.0 dns.quickso.cn
-0.0.0.0 dns.quidam.ovh
 0.0.0.0 dns.quiet.rocks
 0.0.0.0 ant.dns.qwer.pw
 0.0.0.0 dog.dns.qwer.pw
@@ -3058,7 +3052,6 @@
 0.0.0.0 caddy.rkn.icu
 0.0.0.0 zetland.rm-ni.uk
 0.0.0.0 sudo.rm-rf.cloud
-0.0.0.0 saya.rnrkurir.com
 0.0.0.0 adguard.ro0t.us
 0.0.0.0 1.rock-review.ru
 0.0.0.0 dns2.rocksdns.ovh
@@ -3124,7 +3117,6 @@
 0.0.0.0 dns.sarilouis.com
 0.0.0.0 dns.sark.dev
 0.0.0.0 sascha-rabold.de
-0.0.0.0 dns.homenet.saschagaspar.net
 0.0.0.0 vpn.satadru.dev
 0.0.0.0 dns.sbstructure.ir
 0.0.0.0 ns1.sc-lezhi.com
@@ -3156,7 +3148,6 @@
 0.0.0.0 dns.seekfor.top
 0.0.0.0 secondary.dns.seia.io
 0.0.0.0 dns.seiffert.me
-0.0.0.0 vpn.self-tech.ru
 0.0.0.0 dns.sellan.fr
 0.0.0.0 selsby.info
 0.0.0.0 adguard.senthil.us
@@ -3172,7 +3163,6 @@
 0.0.0.0 alidns.session.pub
 0.0.0.0 dns.sev.monster
 0.0.0.0 pates.services.sfr.fr.casepp.sfr.fr
-0.0.0.0 sgdns.site
 0.0.0.0 d2.shabi.icu
 0.0.0.0 shadowart.online
 0.0.0.0 s1.s2.shahramv1.site
@@ -3291,7 +3281,6 @@
 0.0.0.0 structoriumwings.ru
 0.0.0.0 dns.stud.cloud
 0.0.0.0 la-doh.stuptech.com
-0.0.0.0 doh.sublime9.xyz
 0.0.0.0 doh.suche.org
 0.0.0.0 dns.suhaila.dev
 0.0.0.0 resolver.sunet.se
@@ -3562,11 +3551,9 @@
 0.0.0.0 vlad.dns.vladpro.ru
 0.0.0.0 dns.vlo.cc
 0.0.0.0 dns.vmisch.tech
-0.0.0.0 dns.vod11.xyz
 0.0.0.0 dns.volsap.ovh
 0.0.0.0 vpn0109.voodonline.fr
 0.0.0.0 vorlif.org
-0.0.0.0 dns.voronin.uk
 0.0.0.0 dns.vortexstore.cloud
 0.0.0.0 vpn.vosjes.cloud
 0.0.0.0 adguard.vozersky.com
@@ -3702,11 +3689,9 @@
 0.0.0.0 dns.xwdmw.xyz
 0.0.0.0 dns.xwu.us
 0.0.0.0 r7ws-poco-f3.dns.xwu.us
-0.0.0.0 v2.xx3210766.live
 0.0.0.0 dns.xydustc.me
 0.0.0.0 v1.xylto.com
 0.0.0.0 dns.y2f.xyz
-0.0.0.0 dns.yameenassotally.com
 0.0.0.0 2.dnscrypt-cert.browser.yandex.net
 0.0.0.0 dns.yandex.ru
 0.0.0.0 common.dot.dns.yandex.net
@@ -3728,7 +3713,6 @@
 0.0.0.0 sg.yepdns.com
 0.0.0.0 yeralin.net
 0.0.0.0 adguard.ygd.lol
-0.0.0.0 dns.ygonline.de
 0.0.0.0 ns6.ygy.ru
 0.0.0.0 dns.yingroad.top
 0.0.0.0 appart.yoannchappaz.best
@@ -3771,8 +3755,6 @@
 0.0.0.0 dns.zfsystem.tech
 0.0.0.0 d.zhanchuraevv.ru
 0.0.0.0 zhengkaiyun.top
-0.0.0.0 dns140.zhhz.cc
-0.0.0.0 dns168.zhhz.cc
 0.0.0.0 httpdns.zhihu.com
 0.0.0.0 doh.zhongbr.uk
 0.0.0.0 res.zijji.com
