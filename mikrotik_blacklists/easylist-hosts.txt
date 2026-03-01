@@ -1,5 +1,5 @@
 # Easylist, parsed and mirrored by https://firebog.net
-# Updated 20FEB26 from https://easylist.to/easylist/easylist.txt
+# Updated 27FEB26 from https://easylist.to/easylist/easylist.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -9,64 +9,47 @@
 
 0.0.0.0 ad.moe.video
 0.0.0.0 alitems.com
-0.0.0.0 angrilyrecede.com
 0.0.0.0 asg.prettytube.net
 0.0.0.0 auditude.com
-0.0.0.0 beguessrelaces.qpon
-0.0.0.0 bringalbounces.qpon
+0.0.0.0 ayoptsvjrkmgt.space
+0.0.0.0 ballroomprudentauditorium.com
 0.0.0.0 buyeasy.by
-0.0.0.0 bykuubyflfzmo.online
 0.0.0.0 cdn.hamwo.cloud
 0.0.0.0 cpm.appocean.media
-0.0.0.0 craikki.shop
+0.0.0.0 dpcythtqehtbu.website
+0.0.0.0 dwobpywrprosz.online
 0.0.0.0 engine.eroge.com
-0.0.0.0 evaluationgrievedaudacity.com
+0.0.0.0 epukfrrrw.com
 0.0.0.0 f5w.prettytube.net
-0.0.0.0 fbymmyfoq.com
-0.0.0.0 fsevrnmnqlnmn.space
+0.0.0.0 feintedaircrew.com
 0.0.0.0 go.bloxplay.com
-0.0.0.0 goodiesonan.cfd
-0.0.0.0 gxuakvfoeennu.website
+0.0.0.0 gttzmulc.com
+0.0.0.0 ibericstruck.cfd
 0.0.0.0 imasdk.googleapis.com
-0.0.0.0 inspectormonstersflag.com
-0.0.0.0 jjjusezeikjzn.site
-0.0.0.0 jjzuazseeh.com
-0.0.0.0 jyuomohtwiykf.website
-0.0.0.0 lgrtvndwvyxqtkk.com
+0.0.0.0 includedmotley.com
 0.0.0.0 link.link.ru
+0.0.0.0 lkhkcmewmonl.com
 0.0.0.0 loadercdn.com
 0.0.0.0 monetag.com
 0.0.0.0 mweb-hb.presage.io
-0.0.0.0 ojeprdiqehveb.website
-0.0.0.0 omrxtzfaxlbod.online
-0.0.0.0 pbzengqfykkru.website
+0.0.0.0 mztiphvwzjifn.website
+0.0.0.0 nbcinrsnpbwsun.com
+0.0.0.0 onmxgnsddjrrx.website
+0.0.0.0 ovnjufpkdjbug.site
 0.0.0.0 pips.taboola.com
 0.0.0.0 pirogad.tophosting101.com
-0.0.0.0 portlystart.pro
-0.0.0.0 ppewqikecfxrx.online
 0.0.0.0 prebid.cwi.re
 0.0.0.0 proto2ad.durasite.net
-0.0.0.0 qgcdxnoehcpvu.website
-0.0.0.0 rare-guy.pro
-0.0.0.0 seemingservantreap.com
-0.0.0.0 slidexperimentalimmoral.com
-0.0.0.0 snappyallowwithdrew.com
-0.0.0.0 somebodymanage.com
+0.0.0.0 reachankusha.cyou
 0.0.0.0 srv.tunefindforfans.com
 0.0.0.0 sync.gsyndication.com
 0.0.0.0 targeting.vdo.ai
-0.0.0.0 tenncefkylyzed.com
-0.0.0.0 ugwvkdottvlyqqt.com
+0.0.0.0 tmwizmqgerukh.online
+0.0.0.0 txactlwwhvxjp.space
+0.0.0.0 ulqaxfzytnnpp.site
 0.0.0.0 unpin.hothomefuck.com
-0.0.0.0 uzwmjyoiilixw.online
-0.0.0.0 vbztjfpvbfnic.site
-0.0.0.0 vhyitulhaiyjpby.xyz
+0.0.0.0 vhvboibrekrrg.website
 0.0.0.0 vi1.prettytube.net
 0.0.0.0 videoplaza.tv
-0.0.0.0 vqtghi1e599kt6tub6yykygo9lo8k9y.rest
-0.0.0.0 vysizjqwuwkpk.site
-0.0.0.0 welltodo-mouth.pro
+0.0.0.0 warmanbrawls.cfd
 0.0.0.0 wpnrtnmrewunrtok.xyz
-0.0.0.0 ybzgzkfgkukik.online
-0.0.0.0 ze18e63238lkl5zkrkl3v4rqp.cfd
-0.0.0.0 zhfbhtnxnw.com

@@ -14,7 +14,6 @@
 0.0.0.0 adbreak.ubeei.com
 0.0.0.0 adplus.yaani.com.tr
 0.0.0.0 adport.com.tr
-0.0.0.0 adrayon.com
 0.0.0.0 adrayon.net
 0.0.0.0 ads-hl.noktamedya.com.tr
 0.0.0.0 ads-rouge.haber7.com

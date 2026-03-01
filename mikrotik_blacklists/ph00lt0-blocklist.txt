@@ -14746,7 +14746,6 @@
 0.0.0.0 secure.trust-provider.com
 0.0.0.0 secure.widget.cloud.opta.net
 0.0.0.0 secure.xsolla.com
-0.0.0.0 securemetrics.experience.apple
 0.0.0.0 securemetrics.v.aaplimg.com
 0.0.0.0 securemvt.v.aaplimg.com
 0.0.0.0 secureomg.nl
@@ -17856,7 +17855,6 @@
 0.0.0.0 yanqishui.work
 0.0.0.0 yaohq.com
 0.0.0.0 yareviews.ru
-0.0.0.0 yaso.su
 0.0.0.0 yastatic.net
 0.0.0.0 yazex.com
 0.0.0.0 yb.torchbrowser.com

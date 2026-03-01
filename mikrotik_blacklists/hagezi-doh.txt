@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 18 Feb 2026 10:44 UTC
-# Version: 2026.0218.1044.40
+# Last modified: 26 Feb 2026 11:02 UTC
+# Version: 2026.0226.1102.05
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3960
+# Number of entries: 3957
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -546,7 +546,6 @@
 0.0.0.0 callies-online.site
 0.0.0.0 adguard.camn.uk
 0.0.0.0 2.dnscrypt-cert.captnemo.in
-0.0.0.0 console.carestyle.org
 0.0.0.0 unifi.carioka.com
 0.0.0.0 dns.carson-family.com
 0.0.0.0 dns.carter.me
@@ -1034,8 +1033,6 @@
 0.0.0.0 us02.dns4me.net
 0.0.0.0 adguard-koe.dns64.de
 0.0.0.0 dns8.org
-0.0.0.0 alpha.dnsbunker.org
-0.0.0.0 bravo.dnsbunker.org
 0.0.0.0 ns1.recursive.dnsbycomodo.com
 0.0.0.0 ns2.recursive.dnsbycomodo.com
 0.0.0.0 2.dnscrypt-cert.shield-2.dnsbycomodo.com
@@ -2249,6 +2246,7 @@
 0.0.0.0 dns.lihj.me
 0.0.0.0 dns.lildinosaur.com
 0.0.0.0 dns.lilith.cloud
+0.0.0.0 michelo.line.pm
 0.0.0.0 adgaurd.lingmont.net
 0.0.0.0 dns.linkr.ninja
 0.0.0.0 adg.lintasjrg.xyz
@@ -3584,7 +3582,6 @@
 0.0.0.0 wantaquddin.com
 0.0.0.0 dns.wargan.io
 0.0.0.0 abel.waringer-atg.de
-0.0.0.0 dns.warma.me
 0.0.0.0 dns.warpnine.de
 0.0.0.0 dns.warrior.fr
 0.0.0.0 domeq.waw.pl

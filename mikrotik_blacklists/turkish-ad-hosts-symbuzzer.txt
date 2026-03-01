@@ -45,8 +45,6 @@
 127.0.0.1 id.strmrdrfrokd.site
 127.0.0.1 iframeri.strmrdrfrokd.site
 127.0.0.1 iframeria.strmrdrfrokd.site
-127.0.0.1 metrics.vinted.it
-127.0.0.1 sdk.postscrip.io
 127.0.0.1 secureads.g.doubleclick.net
 127.0.0.1 static.cbox.ws
 127.0.0.1 www5.cbox.ws

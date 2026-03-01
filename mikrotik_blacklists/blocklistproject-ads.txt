@@ -39114,6 +39114,7 @@
 0.0.0.0 c.predictvideo.com
 0.0.0.0 c.pubguard.com
 0.0.0.0 c.quantserve.com
+0.0.0.0 c.rhapsody.com
 0.0.0.0 c.richmetrics.com
 0.0.0.0 c.rigelink.com
 0.0.0.0 c.rmgserving.com
@@ -49042,7 +49043,6 @@
 0.0.0.0 digilib.dianhusada.ac.id
 0.0.0.0 digin.adreach.co
 0.0.0.0 diginet.g2afse.com
-0.0.0.0 diginetica.net
 0.0.0.0 diginetlt.hit.gemius.pl
 0.0.0.0 digisets.com
 0.0.0.0 digit.raketspel.se
@@ -74415,6 +74415,7 @@
 0.0.0.0 moninosa.com
 0.0.0.0 monitor-old.adition.com
 0.0.0.0 monitor-stsdk.vivoglobal.com
+0.0.0.0 monitor-targeting-failures.sqrt-5041.de
 0.0.0.0 monitor-us-east-1.arbitron.adswizz.com
 0.0.0.0 monitor.ad4game.com
 0.0.0.0 monitor.adition.com
@@ -95529,6 +95530,7 @@
 0.0.0.0 stats.gtxp.com.re.getclicky.com
 0.0.0.0 stats.guiamais.com.br
 0.0.0.0 stats.hearthis.at
+0.0.0.0 stats.hickoryfarms.com
 0.0.0.0 stats.highwire.com
 0.0.0.0 stats.homestead.net
 0.0.0.0 stats.hprofits.com
@@ -95568,6 +95570,7 @@
 0.0.0.0 stats.multimediaconcepts.nl.re.getclicky.com
 0.0.0.0 stats.music.xiaomi.com
 0.0.0.0 stats.mvilivestats.com
+0.0.0.0 stats.nascar.com
 0.0.0.0 stats.nba.com.edgekey.net
 0.0.0.0 stats.nekapuzer.at
 0.0.0.0 stats.netnorth.co.uk
@@ -109662,6 +109665,7 @@
 0.0.0.0 w9statistics.info
 0.0.0.0 wa.koowo.com
 0.0.0.0 wa.me
+0.0.0.0 wa.metro.co.uk
 0.0.0.0 wa4etw9l.top
 0.0.0.0 waapi.netcoresmartech.com
 0.0.0.0 waardex.rtb.adx1.com
@@ -110690,6 +110694,7 @@
 0.0.0.0 widget.cloud.opta.net
 0.0.0.0 widget.cn.criteo.com
 0.0.0.0 widget.cnzz.com
+0.0.0.0 widget.convertiser.com
 0.0.0.0 widget.crowdynews.com
 0.0.0.0 widget.dihitt.com.br
 0.0.0.0 widget.dynamic.advertising.com

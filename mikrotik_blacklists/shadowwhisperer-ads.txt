@@ -5150,7 +5150,6 @@
 0.0.0.0 amx1.net
 0.0.0.0 a-mx.net
 0.0.0.0 amyfc.link
-0.0.0.0 a.myprettyads.one
 0.0.0.0 a.mysalo.store
 0.0.0.0 a.n4m5x60.com
 0.0.0.0 analik.icu
@@ -8309,7 +8308,6 @@
 0.0.0.0 ffb7df5a878b59e42e257c042f54bed2.com
 0.0.0.0 ffbtas.com
 0.0.0.0 ff.datecraze.space
-0.0.0.0 ff.datenest.store
 0.0.0.0 ff.heartbeats.space
 0.0.0.0 ff.herospan.store
 0.0.0.0 ff.loveorbits.store
@@ -8317,6 +8315,7 @@
 0.0.0.0 ff.luli9.com
 0.0.0.0 ff.mellowroot.online
 0.0.0.0 ffprhp8r.de
+0.0.0.0 ff.trakerton.com
 0.0.0.0 fggjifajhjigjegeaadd.world
 0.0.0.0 fgjhxldtbgxmid.com
 0.0.0.0 f-g-l-j.22yy6.com
@@ -8668,6 +8667,7 @@
 0.0.0.0 gg72a1.com
 0.0.0.0 gg.divj.site
 0.0.0.0 gg.eefocus.com
+0.0.0.0 gg.luli7.com
 0.0.0.0 ggmg.online
 0.0.0.0 ggt999.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 ghanchimedia.com
@@ -8824,7 +8824,6 @@
 0.0.0.0 gosrv-my.com
 0.0.0.0 gosrv-ph.com
 0.0.0.0 gosrv-vn.com
-0.0.0.0 go.tbllad.com
 0.0.0.0 go.tbllem.com
 0.0.0.0 go.tbllreg.com
 0.0.0.0 go.tbllrej.com
@@ -9925,6 +9924,7 @@
 0.0.0.0 lamediagrp.com
 0.0.0.0 lammaou.xyz
 0.0.0.0 landandfloor.com
+0.0.0.0 languroa.xyz
 0.0.0.0 lanky-man.pro
 0.0.0.0 lapecorina.com
 0.0.0.0 larapush.com
@@ -11595,11 +11595,9 @@
 0.0.0.0 p123p.com
 0.0.0.0 p15-tiktok-ads-us.tiktokcdn1.xyz
 0.0.0.0 p16-ad-sg.tiktokcdn.com
-0.0.0.0 p16-ad-site-sign-sg.tiktokcdn.com
 0.0.0.0 p16-tiktok-ads-sg.tiktokcdn1.xyz
 0.0.0.0 p16-va.lemon8cdn.com
 0.0.0.0 p17-tiktok-ads-us.tiktokcdn1.xyz
-0.0.0.0 p19-ad-site-sign-sg.tiktokcdn.com
 0.0.0.0 p1.meituan.net
 0.0.0.0 p2l.info
 0.0.0.0 p888a.com
@@ -12089,7 +12087,6 @@
 0.0.0.0 popdom.s3.amazonaws.com
 0.0.0.0 popdowncash.de
 0.0.0.0 popify.app
-0.0.0.0 popliquids.com
 0.0.0.0 popmachineagency.com
 0.0.0.0 popmechanic.ru
 0.0.0.0 popnet.xyz
@@ -12405,6 +12402,7 @@
 0.0.0.0 prutosom.com
 0.0.0.0 prytheeaxonia.com
 0.0.0.0 prywatnosc.interia.pl
+0.0.0.0 ps2.camcaps.to
 0.0.0.0 psagridowe.com
 0.0.0.0 p.sahorjj.com
 0.0.0.0 p.sawp.cloud
@@ -12798,6 +12796,7 @@
 0.0.0.0 quotient.com
 0.0.0.0 quotientcomm.com
 0.0.0.0 qushad.com
+0.0.0.0 quziao.xyz
 0.0.0.0 qvjqbtbt.com
 0.0.0.0 qvmdz.com
 0.0.0.0 qvvoom.com
@@ -13991,7 +13990,6 @@
 0.0.0.0 selfserveplus.com
 0.0.0.0 sellines.com
 0.0.0.0 sellozo.com
-0.0.0.0 s.elns4c.com
 0.0.0.0 semaads.com
 0.0.0.0 semeshycy.pro
 0.0.0.0 sem-express.com
@@ -14496,6 +14494,7 @@
 0.0.0.0 srvqck.com
 0.0.0.0 srv.realpython.net
 0.0.0.0 srxy.xyz
+0.0.0.0 s.septed.site
 0.0.0.0 ssl2anyone2.com
 0.0.0.0 ssltest.soundrussian.com
 0.0.0.0 ssp-r.phunware.com
@@ -14552,6 +14551,7 @@
 0.0.0.0 static.itersatedtheo.org
 0.0.0.0 static.lowsshehasnom.org
 0.0.0.0 static.lthroughthesum.org
+0.0.0.0 static.mncametheya.org
 0.0.0.0 static.native-commerce.com
 0.0.0.0 static.omanyrelurl.org
 0.0.0.0 static.rogersdigitalmedia.com
@@ -15916,6 +15916,7 @@
 0.0.0.0 wbg.wenigerdaten.de
 0.0.0.0 w-cached.cncenter.cz
 0.0.0.0 wcpstatic.microsoft.com
+0.0.0.0 w.detrols.site
 0.0.0.0 wdsvc.net
 0.0.0.0 we3red.com
 0.0.0.0 weakbirthday.pro
@@ -16297,6 +16298,7 @@
 0.0.0.0 xlfccb.com
 0.0.0.0 xmknb.com
 0.0.0.0 xmlads.bid
+0.0.0.0 xml-eu.bringthewaves.xyz
 0.0.0.0 xml-eu.gipostart-1.co
 0.0.0.0 xml-eu.qksrv.cc
 0.0.0.0 xml-eu-v4.frdjs-2.co
@@ -16311,7 +16313,6 @@
 0.0.0.0 xml.minsonbar2.online
 0.0.0.0 xml.ngcluster-c.site
 0.0.0.0 xmlorbit.com
-0.0.0.0 xml.pyrrhicmechntech.com
 0.0.0.0 xml.qksrv.cc
 0.0.0.0 xml.responzservz-1.com
 0.0.0.0 xml.responzservz-2.com
@@ -16325,6 +16326,7 @@
 0.0.0.0 xml-v4.qksrv.cc
 0.0.0.0 xml-v4.tri.media
 0.0.0.0 xml.waytogy-serving.com
+0.0.0.0 xml.wondenthaitings.com
 0.0.0.0 xml.xml-brain.com
 0.0.0.0 xml.yodirecxl.com
 0.0.0.0 xn--1qwynp09f.net
