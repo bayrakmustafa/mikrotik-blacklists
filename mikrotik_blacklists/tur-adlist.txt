@@ -101,7 +101,6 @@
 0.0.0.0 p.d.1enm.com
 0.0.0.0 p.milliyet.com.tr
 0.0.0.0 partnersapi.bilio.com
-0.0.0.0 pnsdkapi.turktelekom.com.tr
 0.0.0.0 ptreklam.com
 0.0.0.0 ptreklam.com.tr
 0.0.0.0 ptreklamcrv.com.tr

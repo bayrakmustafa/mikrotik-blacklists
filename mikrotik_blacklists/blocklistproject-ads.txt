@@ -30155,6 +30155,7 @@
 0.0.0.0 am1-h-api.online-metrix.net
 0.0.0.0 am1.clicktale.net
 0.0.0.0 am10.adlooxtracking.com
+0.0.0.0 am10.ru
 0.0.0.0 am100.casalemedia.com
 0.0.0.0 am101.casalemedia.com
 0.0.0.0 am102.casalemedia.com
@@ -32438,6 +32439,7 @@
 0.0.0.0 arrassley.info
 0.0.0.0 arrestspkqtg.download
 0.0.0.0 arrkii.co
+0.0.0.0 arrlnk.com
 0.0.0.0 arrowbucket.co
 0.0.0.0 arrowpushengine.com
 0.0.0.0 arrowtec.go2cloud.org
@@ -33110,6 +33112,7 @@
 0.0.0.0 aujourdhui.refr.adgtw.orangeads.fr
 0.0.0.0 aujourdhui.widget.criteo.com
 0.0.0.0 aujourdhuijecode.criteo.net
+0.0.0.0 aulist.com
 0.0.0.0 aulosyhydzitxb.download
 0.0.0.0 aulrains.com
 0.0.0.0 aultemeztokc.com
@@ -33373,7 +33376,6 @@
 0.0.0.0 awcq60100.com
 0.0.0.0 awdigit.info
 0.0.0.0 awelldigital.offerstrack.net
-0.0.0.0 aweme.snssdk.com
 0.0.0.0 awesome-revenue.com
 0.0.0.0 awesomeminer.pxf.io
 0.0.0.0 awfjqdhcuftd.com
@@ -36469,6 +36471,7 @@
 0.0.0.0 bloomu.az1.qualtrics.com
 0.0.0.0 blooom.pxf.io
 0.0.0.0 blorgkjhbhoqr.bid
+0.0.0.0 blossoms.com
 0.0.0.0 blotcreepy.com
 0.0.0.0 blpb4wu1mxkehlxuwglp8mzch3cxr1509455380.nuid.imrworldwide.com
 0.0.0.0 blprkaomvazv.com
@@ -43311,6 +43314,7 @@
 0.0.0.0 cokhach.com
 0.0.0.0 cokrrmzagaxn.com
 0.0.0.0 col-edge-prod.tenjin.io
+0.0.0.0 cold-cold-freezing.com
 0.0.0.0 cold.53.localytics.com
 0.0.0.0 cold.localytics.com
 0.0.0.0 cold2.53.localytics.com
@@ -49043,6 +49047,7 @@
 0.0.0.0 digilib.dianhusada.ac.id
 0.0.0.0 digin.adreach.co
 0.0.0.0 diginet.g2afse.com
+0.0.0.0 diginetica.net
 0.0.0.0 diginetlt.hit.gemius.pl
 0.0.0.0 digisets.com
 0.0.0.0 digit.raketspel.se
@@ -55072,6 +55077,7 @@
 0.0.0.0 finickingzepkzyw.download
 0.0.0.0 finimbratedle.com
 0.0.0.0 fininfo.xml.auxml.com
+0.0.0.0 finized.co
 0.0.0.0 finlenta.mirtesen.ru
 0.0.0.0 finline.affise.com
 0.0.0.0 finlogs.joyeggs.com
@@ -64736,6 +64742,7 @@
 0.0.0.0 instore-audience.pb.adition.com
 0.0.0.0 instore.pagomeno.it
 0.0.0.0 instory.ucnews.ucweb.com
+0.0.0.0 instraffic.com
 0.0.0.0 instream.casalemedia.com
 0.0.0.0 instrumentsponge.com
 0.0.0.0 instruminahui.edu.ec
@@ -73154,7 +73161,6 @@
 0.0.0.0 metrics.winsupersite.com
 0.0.0.0 metrics.wpm.neustar.biz
 0.0.0.0 metrics.yoc.com
-0.0.0.0 metrics.zales.com
 0.0.0.0 metricskey.net
 0.0.0.0 metricsupdater.adswizz.com
 0.0.0.0 metrika.lookmovie.ag
@@ -76346,6 +76352,7 @@
 0.0.0.0 new-hn.algolia.com
 0.0.0.0 new-iq.adtech.de
 0.0.0.0 new-iq.adtechus.com
+0.0.0.0 new-new-years.com
 0.0.0.0 new-user-data-api.fungames-forfree.com
 0.0.0.0 new-wpstage.adelphic.com
 0.0.0.0 new.acuityads.com
@@ -76370,6 +76377,7 @@
 0.0.0.0 new.unbounce.com
 0.0.0.0 new.usefomo.com
 0.0.0.0 new.zalizo.pp.ua
+0.0.0.0 new17write.com
 0.0.0.0 newad.ifeng.com
 0.0.0.0 newads.rediff.com
 0.0.0.0 newalways.easyfetmoredonefasterbysubmiting.download
@@ -77169,6 +77177,7 @@
 0.0.0.0 nonmoves.date
 0.0.0.0 nonpaly.ru
 0.0.0.0 nonprod.flurry.com
+0.0.0.0 nonstoppartner.de
 0.0.0.0 nonxt1.c.youtube.com
 0.0.0.0 noob.onthe.io
 0.0.0.0 noobgirls.com
@@ -78684,6 +78693,7 @@
 0.0.0.0 ogdocggdermas.review
 0.0.0.0 ogdp-staging.flurry.com
 0.0.0.0 ogegqayudrypc.bid
+0.0.0.0 ogercron.com
 0.0.0.0 ogertoursde.widget.criteo.com
 0.0.0.0 oggda.com
 0.0.0.0 oggifinogi.com
@@ -85788,6 +85798,7 @@
 0.0.0.0 qgeglsnoxk.com
 0.0.0.0 qgenbqksfsvfciymqubrrjqhghmr91508203660.nuid.imrworldwide.com
 0.0.0.0 qgerc.voluumtrk.com
+0.0.0.0 qgevavwyafjf.com
 0.0.0.0 qgggccolqyi.bid
 0.0.0.0 qghirkrh.bid
 0.0.0.0 qghsnamd.bid
@@ -92307,7 +92318,6 @@
 0.0.0.0 siteinfo.libero.it
 0.0.0.0 sitelife.ehow.com
 0.0.0.0 sitelinktrack.com
-0.0.0.0 sitelock.com
 0.0.0.0 sitemapper-01.kameleoon.com
 0.0.0.0 sitemapper-02.kameleoon.com
 0.0.0.0 sitemapper-03.kameleoon.com
@@ -95805,6 +95815,7 @@
 0.0.0.0 stepan-fe.go.mail.ru
 0.0.0.0 stepank.justclick.ru
 0.0.0.0 stephaniekantis.7eer.net
+0.0.0.0 stepkeydo.com
 0.0.0.0 stepstoneb2bbe.widget.criteo.com
 0.0.0.0 stepstonede.widget.criteo.com
 0.0.0.0 stepstonese.widget.criteo.com
@@ -98497,6 +98508,7 @@
 0.0.0.0 tiberowheddidn.info
 0.0.0.0 tibrashadow.ru
 0.0.0.0 tibzpgmogjqa.com
+0.0.0.0 tic-tic-bam.com
 0.0.0.0 tic.googlesyndication.com
 0.0.0.0 tical.us.qualtrics.com
 0.0.0.0 ticker.api.prd.innopage.com
@@ -108669,6 +108681,7 @@
 0.0.0.0 viggodigital.offerstrack.net
 0.0.0.0 vignette.com
 0.0.0.0 vigrjuksi.bid
+0.0.0.0 vihub.ru
 0.0.0.0 viibryd.com.102.112.2o7.net
 0.0.0.0 viibrydhcp.com.102.112.2o7.net
 0.0.0.0 viille2.com
@@ -113092,6 +113105,7 @@
 0.0.0.0 xxl.hushenqiquan.com
 0.0.0.0 xxladu.com
 0.0.0.0 xxlink.net
+0.0.0.0 xxltr.com
 0.0.0.0 xxnkyesp.com
 0.0.0.0 xxoc.umeng.co
 0.0.0.0 xxoc.umeng.com

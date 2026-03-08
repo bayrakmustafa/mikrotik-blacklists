@@ -104,7 +104,6 @@
 0.0.0.0 p.hgfdtujlknhkghf.site
 0.0.0.0 p8zh.adj.st
 0.0.0.0 parksoftreklam.com
-0.0.0.0 pisano.com.tr
 0.0.0.0 plat-form-vakif-onlinereklam-com.tk
 0.0.0.0 platform-onlinereklam-vakif-com.tk
 0.0.0.0 player.apester.com
@@ -113,6 +112,7 @@
 0.0.0.0 prebit.the-ozone-project.com
 0.0.0.0 principlessilas.com
 0.0.0.0 privacy.gatekeeperconsent.com
+0.0.0.0 pugsgivehugs.com
 0.0.0.0 punosy.top
 0.0.0.0 px.airpr.com
 0.0.0.0 r.admob.com
@@ -175,5 +175,6 @@
 0.0.0.0 vstvstsa.com
 0.0.0.0 widgets.engageya.com
 0.0.0.0 ww38.main.termux-mirror.ml
+0.0.0.0 ww5.w3xs.com
 0.0.0.0 xmtvreklam3d.com
 0.0.0.0 zpbpenn.com

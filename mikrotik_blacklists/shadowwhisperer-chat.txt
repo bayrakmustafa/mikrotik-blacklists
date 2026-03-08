@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes
-# Domains: 496
-# Updated: 2/5/2026  21:17 (9:17 PM CST)
+# Domains: 499
+# Updated: 3/5/2026  12:18 (12:18 PM CST)
 #
 0.0.0.0 accpi.org
 0.0.0.0 admaker.tech
@@ -10,6 +10,7 @@
 0.0.0.0 agentz.ai
 0.0.0.0 aihelp.net
 0.0.0.0 aihelp.net.qiniudns.com
+0.0.0.0 aimdoc.ai
 0.0.0.0 airbud.io
 0.0.0.0 alamy-livechat.secure.force.com
 0.0.0.0 alimebot.aliexpress.com
@@ -275,6 +276,7 @@
 0.0.0.0 nuteqsolutions.com
 0.0.0.0 oc-cdn-ocprod.azureedge.net
 0.0.0.0 ocelotbot.com
+0.0.0.0 octocom.ai
 0.0.0.0 oggchat2.icoa.com
 0.0.0.0 ometrics.com
 0.0.0.0 omnichannelengagementhub.com
@@ -315,6 +317,7 @@
 0.0.0.0 roko.mobi
 0.0.0.0 rul.ai
 0.0.0.0 sales-live-chat.stripe.com
+0.0.0.0 salesmartly.com
 0.0.0.0 satis.fi
 0.0.0.0 satisfilabs.com
 0.0.0.0 save-optimy-cdn-staging.s3.ca-central-1.amazonaws.com

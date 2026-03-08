@@ -2455,6 +2455,7 @@
 0.0.0.0 anioscp.com
 0.0.0.0 aniru.org
 0.0.0.0 anivi.xyz
+0.0.0.0 anjouangaming.org
 0.0.0.0 anm.co.uk
 0.0.0.0 ann5.net
 0.0.0.0 annefrank.containers.piwik.pro
@@ -2568,6 +2569,7 @@
 0.0.0.0 api.cquotient.com
 0.0.0.0 api.craftyclicks.co.uk
 0.0.0.0 api.db-ip.com
+0.0.0.0 api.didiglobal.com
 0.0.0.0 api.dmcdn.net
 0.0.0.0 api.docodoco.jp
 0.0.0.0 api.dreamfull.cn
@@ -2721,6 +2723,7 @@
 0.0.0.0 app.mempay.com
 0.0.0.0 app.moji001.com
 0.0.0.0 app.popkit.club
+0.0.0.0 app.posthog.com
 0.0.0.0 app.purechat.com
 0.0.0.0 app.storyblok.com
 0.0.0.0 app.streameye.com
@@ -3127,6 +3130,7 @@
 0.0.0.0 awaze.com
 0.0.0.0 aweber-static.com
 0.0.0.0 aweber.com
+0.0.0.0 aweme.snssdk.com
 0.0.0.0 awesomeopensource.com
 0.0.0.0 aweucn1.advanced-web-analytics.com
 0.0.0.0 awin.my.salesforce.com
@@ -3881,6 +3885,7 @@
 0.0.0.0 brack.ch
 0.0.0.0 brafton.com
 0.0.0.0 braincandymail.ru.com
+0.0.0.0 brainignite.click
 0.0.0.0 brainsaviors.life
 0.0.0.0 brakefluid.website
 0.0.0.0 brand.sogou.com
@@ -3995,6 +4000,7 @@
 0.0.0.0 builder.io
 0.0.0.0 builder.lift.acquia.com
 0.0.0.0 builderall.com
+0.0.0.0 buildyourwebrank.com
 0.0.0.0 bulletin.nebula.zyxel.com
 0.0.0.0 bullion.media
 0.0.0.0 bullseyenorth.com
@@ -4753,6 +4759,7 @@
 0.0.0.0 chinesequartzite.com
 0.0.0.0 chintsair.com
 0.0.0.0 chioneflake.com
+0.0.0.0 chipmanksmochus.com
 0.0.0.0 chiquepassie.nl
 0.0.0.0 chjxzk.1555110.cn
 0.0.0.0 chl-network.s3.amazonaws.com
@@ -4799,7 +4806,6 @@
 0.0.0.0 circus.nl
 0.0.0.0 citibank.com
 0.0.0.0 citiintl.122.2o7.net
-0.0.0.0 citiservi.es
 0.0.0.0 citiservimedia.com
 0.0.0.0 citrix-itm-test.com
 0.0.0.0 citrix-sharefile-content.customer.pendo.io
@@ -5749,6 +5755,7 @@
 0.0.0.0 cupid.iqiyi.com
 0.0.0.0 cupid.jebe.renren.com
 0.0.0.0 curacao-egaming.com
+0.0.0.0 curahome.digital
 0.0.0.0 curalate.com
 0.0.0.0 curationsoft.com
 0.0.0.0 curator-assets.b-cdn.net
@@ -6334,6 +6341,7 @@
 0.0.0.0 dc.meitustat.com
 0.0.0.0 dc.services.visualstudio.com
 0.0.0.0 dcad.watersoul.com
+0.0.0.0 dcloud.net.cn
 0.0.0.0 dcmservice.de
 0.0.0.0 dcniko1cv0rz.cloudfront.net
 0.0.0.0 dcsaascdn.net
@@ -6737,6 +6745,7 @@
 0.0.0.0 doudao.cn
 0.0.0.0 doudouguo.com
 0.0.0.0 doumob.com
+0.0.0.0 douyin.com
 0.0.0.0 dov-e.com
 0.0.0.0 dove.fullcalendar.io
 0.0.0.0 down.360.cn
@@ -7524,7 +7533,6 @@
 0.0.0.0 familysearch.org
 0.0.0.0 familytreedna.com
 0.0.0.0 fan.twitch.tv
-0.0.0.0 fancyapi.com
 0.0.0.0 fanlink.tv
 0.0.0.0 fanpicks.dk
 0.0.0.0 fansi365.com
@@ -8218,6 +8226,7 @@
 0.0.0.0 geryi.com
 0.0.0.0 gestmax.eu
 0.0.0.0 get-latest.convrse.media
+0.0.0.0 get-programmers.com
 0.0.0.0 get.geojs.io
 0.0.0.0 get.gotomypc.com
 0.0.0.0 get.incogni.io
@@ -8884,6 +8893,7 @@
 0.0.0.0 hopto.org
 0.0.0.0 horizonopleidingen.nl
 0.0.0.0 horsecomplete.nl
+0.0.0.0 hosecopper.click
 0.0.0.0 hospedagemdesites.ws
 0.0.0.0 hospitalitysem.com
 0.0.0.0 host-care.com
@@ -9613,6 +9623,7 @@
 0.0.0.0 info.downsave.com
 0.0.0.0 info.gomlab.com
 0.0.0.0 info.layertec.nl
+0.0.0.0 info.nl
 0.0.0.0 info.pinyin.sogou.com
 0.0.0.0 info.promojungle.nl
 0.0.0.0 info.raiffeisen.at
@@ -9687,6 +9698,7 @@
 0.0.0.0 insided.com
 0.0.0.0 insideoutside.redmond.corp.microsoft.com
 0.0.0.0 insight.ftm.nl
+0.0.0.0 insight.nn.nl
 0.0.0.0 insight.rapid7.com
 0.0.0.0 insightplatforms.com
 0.0.0.0 insights-collector.gog.com
@@ -10304,6 +10316,7 @@
 0.0.0.0 kbnetworkz.s3.amazonaws.com
 0.0.0.0 kbodrvwz.bio
 0.0.0.0 kbowebbncb.com
+0.0.0.0 kcmg.nl
 0.0.0.0 kcmsurvey.com
 0.0.0.0 kcmsurvey.eu
 0.0.0.0 kdl.keywee.co
@@ -10742,6 +10755,7 @@
 0.0.0.0 lifesight.io
 0.0.0.0 lifestreet.com
 0.0.0.0 lift-ai-js.marketlinc.com
+0.0.0.0 lifterapps.com
 0.0.0.0 liftme-up.nl
 0.0.0.0 light-co-operativebank-1061942583.eu-west-1.elb.amazonaws.com
 0.0.0.0 light.co-operativebank.co.uk
@@ -11246,6 +11260,7 @@
 0.0.0.0 mail-contact-unsub.eu
 0.0.0.0 mail.clickup.com
 0.0.0.0 mail.cos.com
+0.0.0.0 mail.research.nn.nl
 0.0.0.0 mail.rodekruis.nl
 0.0.0.0 mail.secondhome.nl
 0.0.0.0 mail2.instantcrush.nl
@@ -11621,6 +11636,7 @@
 0.0.0.0 mid4.linkedin.com
 0.0.0.0 middleware.p7s1.io
 0.0.0.0 midwestmerch.com
+0.0.0.0 midzone.tools
 0.0.0.0 migc.g.mi.com
 0.0.0.0 migcreport.g.mi.com
 0.0.0.0 mightyape.co.nz
@@ -13017,6 +13033,7 @@
 0.0.0.0 pay838.com
 0.0.0.0 payments.amazon.com
 0.0.0.0 paymentsupportep.com
+0.0.0.0 paypalusa.me
 0.0.0.0 paywall.production.ippen.space
 0.0.0.0 pb.bi.gitv.tv
 0.0.0.0 pb.hd.sohu.com
@@ -13177,6 +13194,7 @@
 0.0.0.0 piwik.documentfoundation.org
 0.0.0.0 piwik.dtnr.nl
 0.0.0.0 piwik.duiven.nl
+0.0.0.0 piwik.h5mag.com
 0.0.0.0 piwik.inria.fr
 0.0.0.0 piwik.itzbund.de
 0.0.0.0 piwik.kees.nl
@@ -13941,6 +13959,7 @@
 0.0.0.0 rad.microsoft.com
 0.0.0.0 radarsubmissions.apple.com
 0.0.0.0 radarsubmissions.apple.com.akadns.net
+0.0.0.0 radicalmentelegno.com
 0.0.0.0 radius8.com
 0.0.0.0 radiusnetworks.com
 0.0.0.0 raffle.ai
@@ -14905,6 +14924,7 @@
 0.0.0.0 sgtm.kaspersky.com
 0.0.0.0 sgtm.natuurmonumenten.nl
 0.0.0.0 sgtm.plein.nl
+0.0.0.0 sh-stt.com
 0.0.0.0 sh.qihoo.com
 0.0.0.0 shadu.baidu.com
 0.0.0.0 shaft.jebe.renren.com
@@ -15065,6 +15085,7 @@
 0.0.0.0 sitechecker.pro
 0.0.0.0 sitegainer.com
 0.0.0.0 sitehelp.im
+0.0.0.0 sitelock.com
 0.0.0.0 sitemobia.com
 0.0.0.0 sitesearch360.com
 0.0.0.0 sitesights.io
@@ -15085,7 +15106,13 @@
 0.0.0.0 skoiy.com
 0.0.0.0 skplanet.com
 0.0.0.0 skrill.com
+0.0.0.0 sky-hills.com
+0.0.0.0 sky-hills.io
 0.0.0.0 skyeng.ru
+0.0.0.0 skyhills-casino.io
+0.0.0.0 skyhills.com
+0.0.0.0 skyhills.io
+0.0.0.0 skyhillscasino.io
 0.0.0.0 skyking.com.tw
 0.0.0.0 skylarkgames.nl
 0.0.0.0 skylead.io
@@ -15920,6 +15947,7 @@
 0.0.0.0 sypi.gpshopper.com
 0.0.0.0 sys.zhangyue.com
 0.0.0.0 sysdig.com
+0.0.0.0 sysinfotools.com
 0.0.0.0 system1.com
 0.0.0.0 sytcyf.com
 0.0.0.0 syte.ai
