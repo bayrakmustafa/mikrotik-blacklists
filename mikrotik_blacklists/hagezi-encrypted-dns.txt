@@ -47,6 +47,7 @@
 0.0.0.0 191262.xyz
 0.0.0.0 191268.xyz
 0.0.0.0 1929.work
+0.0.0.0 cloud.198.games
 0.0.0.0 1aclash.com
 0.0.0.0 weloverobert.1ax.us
 0.0.0.0 1bfwu5d5n.online
@@ -70,6 +71,7 @@
 0.0.0.0 1vpn.org
 0.0.0.0 1vpn.website
 0.0.0.0 1xiaowang.com
+0.0.0.0 vpn.1xtrm.com
 0.0.0.0 1ytvipaffa07.cc
 0.0.0.0 1ytvipaffa08.cc
 0.0.0.0 1yunti.com
@@ -143,6 +145,7 @@
 0.0.0.0 3proxy.de
 0.0.0.0 3qguvtvrpyzkatp2.online
 0.0.0.0 3rclash.com
+0.0.0.0 vpn.4-the.win
 0.0.0.0 904523.404.mn
 0.0.0.0 ababaershop67thatscostaquartar.404.mn
 0.0.0.0 notfound-google.404.mn
@@ -200,6 +203,9 @@
 0.0.0.0 5eclash.com
 0.0.0.0 5fvfofc9f.online
 0.0.0.0 5noers.xyz
+0.0.0.0 dns.5ososea.com
+0.0.0.0 family.5ososea.com
+0.0.0.0 kids.5ososea.com
 0.0.0.0 66jsq.top
 0.0.0.0 66laomao.com
 0.0.0.0 6912044.cc
@@ -233,6 +239,7 @@
 0.0.0.0 85la.com
 0.0.0.0 867732738.xyz
 0.0.0.0 86a92621565daca30de744165d15758699b37aa0.com
+0.0.0.0 adguard.876542.xyz
 0.0.0.0 87826100.xyz
 0.0.0.0 883188.xyz
 0.0.0.0 886110.xyz
@@ -621,6 +628,7 @@
 0.0.0.0 akunssh.net
 0.0.0.0 aladingclash.com
 0.0.0.0 aladingjc.com
+0.0.0.0 dns.alanpearce.eu
 0.0.0.0 alarmstat.click
 0.0.0.0 tech.vcsa.alcrb.ru
 0.0.0.0 alflebear.cn
@@ -724,6 +732,7 @@
 0.0.0.0 andyvpn.cc
 0.0.0.0 angdwml6.com
 0.0.0.0 angelvpn.com
+0.0.0.0 dot.anir0y.in
 0.0.0.0 aniscartujo.com
 0.0.0.0 annual2025.uk
 0.0.0.0 ano404.top
@@ -1829,6 +1838,7 @@
 0.0.0.0 ccave.com
 0.0.0.0 ccavea.com
 0.0.0.0 ccclash.com
+0.0.0.0 vpn.ccnt.fr
 0.0.0.0 cd4dcwhdm4rkm.online
 0.0.0.0 cdn01-1euddpds-cjl.top
 0.0.0.0 cdn01-9wrd0ged-cq.top
@@ -2049,6 +2059,7 @@
 0.0.0.0 youraohiololsofunnygreatmemereset67getajob.chickenkiller.com
 0.0.0.0 chickenrunclash.com
 0.0.0.0 chickenrunjc.com
+0.0.0.0 doq.chikawa.cc
 0.0.0.0 1234567890qwertyuiop.chikiyan.cl
 0.0.0.0 john-316.chikiyan.cl
 0.0.0.0 mrdomthebomb.chikiyan.cl
@@ -3027,6 +3038,7 @@
 0.0.0.0 jaydensbusishere.simranupadhyaya.com.np
 0.0.0.0 history.southern.com.my
 0.0.0.0 mehmetgayalo.southern.com.my
+0.0.0.0 dot.srito.com.br
 0.0.0.0 recap.arts.sumyk.com.br
 0.0.0.0 art.sunilamaharjan.com.np
 0.0.0.0 3306speciallink.surendrapant.com.np
@@ -4107,6 +4119,7 @@
 0.0.0.0 effuz.cn
 0.0.0.0 eftsnttz.online
 0.0.0.0 eglobaleducation.com
+0.0.0.0 vpn.egorrko.ru
 0.0.0.0 egymail.ovh
 0.0.0.0 scifi0.eigenlicht.us
 0.0.0.0 eixeix.com
@@ -4216,6 +4229,7 @@
 0.0.0.0 epicbrowser.com
 0.0.0.0 epolx.xyz
 0.0.0.0 123-24.eport.gr
+0.0.0.0 vpn.erhvict.ru
 0.0.0.0 sixseven67.errorrail.dev
 0.0.0.0 errwan65237.biz
 0.0.0.0 errwan65878.biz
@@ -4264,6 +4278,7 @@
 0.0.0.0 exemptpaint.space
 0.0.0.0 garlandisd.exerciseandmind.com
 0.0.0.0 drive.google.com.exid.me
+0.0.0.0 dot-public.exitstat.us
 0.0.0.0 do-not-block.exmec.cl
 0.0.0.0 expatshield.com
 0.0.0.0 expectmark.com
@@ -4791,6 +4806,7 @@
 0.0.0.0 fx2hub.ir
 0.0.0.0 fxnyuvqjslnectan.online
 0.0.0.0 fzvip.cc
+0.0.0.0 vpn.g-s-a.me
 0.0.0.0 g01.info
 0.0.0.0 g01-cn.club
 0.0.0.0 g100.wiki
@@ -4861,6 +4877,7 @@
 0.0.0.0 vocab.media.georgas.org
 0.0.0.0 garlandisd.geosoft-earthcube.org
 0.0.0.0 german-proxy.de
+0.0.0.0 vpn.geshido.ru
 0.0.0.0 api.get-just-api.com
 0.0.0.0 get-nord.org
 0.0.0.0 get-xmore-link3s.com
@@ -4969,6 +4986,7 @@
 0.0.0.0 glonnambikkrqiwz1ydlvf0qp.online
 0.0.0.0 glowstream.art
 0.0.0.0 glseries.net
+0.0.0.0 vpn.gmalov.ru
 0.0.0.0 gmodsandbox.com
 0.0.0.0 gms.gmsgroup.app
 0.0.0.0 quinhamilio.gmsgroup.app
@@ -5042,6 +5060,8 @@
 0.0.0.0 gop5znk.online
 0.0.0.0 gopjbvpn.com
 0.0.0.0 goproxy.asia
+0.0.0.0 dot.gordmo.com
+0.0.0.0 vpn.gosami.xyz
 0.0.0.0 education.gosdumamail.com
 0.0.0.0 goshadow.net
 0.0.0.0 gospelnet.link
@@ -5676,6 +5696,7 @@
 0.0.0.0 securly-sucks.i-creativelearner.com
 0.0.0.0 think.atom.i-nameservers.net
 0.0.0.0 i5d2kcibzp.online
+0.0.0.0 vpn.i81.ru
 0.0.0.0 iajee.com
 0.0.0.0 ialcce2018.org
 0.0.0.0 iantem.io
@@ -7093,6 +7114,7 @@
 0.0.0.0 moct.cloud
 0.0.0.0 sage.area.modeemi.net
 0.0.0.0 moderninspo.icu
+0.0.0.0 dot.modsh.top
 0.0.0.0 modvix.org
 0.0.0.0 www-nsc.moebh.me
 0.0.0.0 moeu01.com
@@ -7332,6 +7354,7 @@
 0.0.0.0 nashvpn.top
 0.0.0.0 auburnsd.nass.my
 0.0.0.0 natfrp.cloud
+0.0.0.0 vpn2.nathan4s.lol
 0.0.0.0 natieyunclash.com
 0.0.0.0 natieyunjc.com
 0.0.0.0 nationswi7eiwi3i.national-birdshow.com
@@ -7535,6 +7558,7 @@
 0.0.0.0 nletsb.com
 0.0.0.0 nletsf.com
 0.0.0.0 nnicroanalysis.com
+0.0.0.0 vpn.nnip.org
 0.0.0.0 no626clash.com
 0.0.0.0 dashboard.noamank.com
 0.0.0.0 jobfinder.noamank.com
@@ -7686,9 +7710,11 @@
 0.0.0.0 sandwich.is.good.obiteljski-dom-pticek.hr
 0.0.0.0 obscura.net
 0.0.0.0 oc5xrncb4g.online
+0.0.0.0 dot.occ.top
 0.0.0.0 oceancloud.asia
 0.0.0.0 ocnpinipkphu8dx1l.online
 0.0.0.0 ocserverconnect.com
+0.0.0.0 vpn.odeccit.com
 0.0.0.0 what0.odontosorriso.com
 0.0.0.0 about.odoobooks.com
 0.0.0.0 authors.odoobooks.com
@@ -8511,6 +8537,7 @@
 0.0.0.0 qodami.com
 0.0.0.0 wearily.qoeat.com
 0.0.0.0 qolfgv.xyz
+0.0.0.0 dot.qooqle.date
 0.0.0.0 qpadf.com
 0.0.0.0 qqjsgw.com
 0.0.0.0 qsyydnbxz.com
@@ -8799,6 +8826,7 @@
 0.0.0.0 s1yuubk7t.online
 0.0.0.0 ebn.s4r4.com
 0.0.0.0 s8ks.us
+0.0.0.0 doq.sa-sa.eu
 0.0.0.0 sdfesdfgsf.fghsdfgdr.saahee.cn
 0.0.0.0 xhcvjesjdfhdjs.iocijkwedsf.saahee.cn
 0.0.0.0 pojkldfsdn.sdjkfnm.saahee.cn
@@ -8830,6 +8858,7 @@
 0.0.0.0 sailing.ink
 0.0.0.0 sailingnet.pro
 0.0.0.0 clever.com.saintsparky.org
+0.0.0.0 vpn.sakhwow.ru
 0.0.0.0 zxiocvus.bjlskjdf.salavat.ru
 0.0.0.0 work.idea.salman.pk
 0.0.0.0 betherethe.sametimetomorrow.net
@@ -8856,6 +8885,7 @@
 0.0.0.0 tools.development.sanluix.org
 0.0.0.0 lol.sanluix.org
 0.0.0.0 saoudiproxy.info
+0.0.0.0 vpn.satadru.dev
 0.0.0.0 satori.top
 0.0.0.0 rodgerwhodidthistoyou.satucat.uk
 0.0.0.0 securedbyknox.satucat.uk
@@ -9204,6 +9234,7 @@
 0.0.0.0 snetwork.space
 0.0.0.0 snipermixer.com
 0.0.0.0 career.snwy.dev
+0.0.0.0 vpn.snxi.de
 0.0.0.0 dove.soapagent.com
 0.0.0.0 dove.soapclient.com
 0.0.0.0 signup.soapclient.com
@@ -9765,6 +9796,7 @@
 0.0.0.0 telopc.com
 0.0.0.0 tempdns.net
 0.0.0.0 temproxy.com
+0.0.0.0 vpn-tw.teng.sh
 0.0.0.0 tengyunjichang.com
 0.0.0.0 tenta.com
 0.0.0.0 terbium.top
@@ -10536,8 +10568,10 @@
 0.0.0.0 volatr.xyz
 0.0.0.0 vonodebit.xyz
 0.0.0.0 vonodefly.vip
+0.0.0.0 vpn0109.voodonline.fr
 0.0.0.0 theme.basic.voomi.com
 0.0.0.0 vorhex.xyz
+0.0.0.0 vpn.vosjes.cloud
 0.0.0.0 vpef4.cc
 0.0.0.0 vpn.com
 0.0.0.0 vpn.express
@@ -10620,6 +10654,7 @@
 0.0.0.0 vpnme.me
 0.0.0.0 vpnmentor.com
 0.0.0.0 vpnmonster.ru
+0.0.0.0 vpnmy.ru
 0.0.0.0 vpnn.io
 0.0.0.0 vpnn.loan
 0.0.0.0 vpnn.online
@@ -12050,6 +12085,7 @@
 0.0.0.0 skibidiboi333.zjhmz.cn
 0.0.0.0 zkcfi3szz.online
 0.0.0.0 zksa8tcw0xcokir32vgq.online
+0.0.0.0 dot-dns.zmy.cloud
 0.0.0.0 lone.zoho.to
 0.0.0.0 meadow.zoho.to
 0.0.0.0 mathstudyhub.o.zoho.to

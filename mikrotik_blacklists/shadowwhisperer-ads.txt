@@ -4812,7 +4812,6 @@
 0.0.0.0 afraidsoil.pro
 0.0.0.0 a.framb.site
 0.0.0.0 a.freid.site
-0.0.0.0 a.frezeporn.site
 0.0.0.0 a.friy.site
 0.0.0.0 a.ftrem.site
 0.0.0.0 a.fukoa.site
@@ -5426,6 +5425,7 @@
 0.0.0.0 asg1.xueserverhost.com
 0.0.0.0 asg2.hostsolutinns.com
 0.0.0.0 asg2.xueserverhost.com
+0.0.0.0 asg.animehdl.net
 0.0.0.0 asg.hentaitube.icu
 0.0.0.0 asg.laivue.com
 0.0.0.0 asg.mainos.pro
@@ -6458,7 +6458,6 @@
 0.0.0.0 catcut.net
 0.0.0.0 catiligh.ru
 0.0.0.0 c.atinternet-solutions.com
-0.0.0.0 catlanguage.net
 0.0.0.0 catu.cc
 0.0.0.0 catyadsmedia.com
 0.0.0.0 cauly.asia
@@ -6482,6 +6481,7 @@
 0.0.0.0 ccdesignlabs.com
 0.0.0.0 ccejacgfegbfdchbgb.world
 0.0.0.0 c.cgmission.com
+0.0.0.0 cc.histoires-de-sexe-gratuites.com
 0.0.0.0 cci.co.jp
 0.0.0.0 ccnc.online
 0.0.0.0 cc.opowiadaniaerotyczne-darmowo.pl
@@ -8401,7 +8401,6 @@
 0.0.0.0 ffb7df5a878b59e42e257c042f54bed2.com
 0.0.0.0 ffbtas.com
 0.0.0.0 ff.datecraze.space
-0.0.0.0 ff.heartbeats.space
 0.0.0.0 ff.herospan.store
 0.0.0.0 ff.loveorbits.store
 0.0.0.0 ff.lovetrail.store
@@ -8429,6 +8428,7 @@
 0.0.0.0 fijekone.com
 0.0.0.0 filmyads.com
 0.0.0.0 filter.fstsrv10.com
+0.0.0.0 filter.srvqck10.com
 0.0.0.0 filter.srvqck11.com
 0.0.0.0 filter.srvqck15.com
 0.0.0.0 filter.vokut.com
@@ -8478,7 +8478,6 @@
 0.0.0.0 flatironmedia.com
 0.0.0.0 flawed-earth.pro
 0.0.0.0 flawlesssubstance.com
-0.0.0.0 flaxdescale.com
 0.0.0.0 fleshpays.com
 0.0.0.0 flexmg.com
 0.0.0.0 flexplatform.net
@@ -8948,10 +8947,7 @@
 0.0.0.0 gosrv-my.com
 0.0.0.0 gosrv-ph.com
 0.0.0.0 gosrv-vn.com
-0.0.0.0 go.tbllem.com
-0.0.0.0 go.tbllprem.com
 0.0.0.0 go.tbllreg.com
-0.0.0.0 go.tbllrej.com
 0.0.0.0 gotc2023.oschina.net
 0.0.0.0 gotechnology.io
 0.0.0.0 gotoadvantage.com
@@ -14550,7 +14546,6 @@
 0.0.0.0 smmadvertising.com
 0.0.0.0 smmjunction.com
 0.0.0.0 smnyayzhv.com
-0.0.0.0 smokerfiascos.cyou
 0.0.0.0 smooth-association.pro
 0.0.0.0 smooth-street.pro
 0.0.0.0 smpush.com
@@ -15401,7 +15396,6 @@
 0.0.0.0 tpmn.io
 0.0.0.0 tptp.online
 0.0.0.0 tptt.online
-0.0.0.0 tq.bluodpa-d.online
 0.0.0.0 tq-eu.minsonbar2.online
 0.0.0.0 tq-eu.resugovex-2.co
 0.0.0.0 tq.iforcircles-1.online

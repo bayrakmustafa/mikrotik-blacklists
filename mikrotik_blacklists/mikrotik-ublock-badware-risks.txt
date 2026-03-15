@@ -116,7 +116,6 @@
 0.0.0.0 plum-binder-*.typedream.app
 0.0.0.0 impotsgouv.*.wcomhost.com
 0.0.0.0 amandes*.serv00.net
-0.0.0.0 nyfinance.ru
 0.0.0.0 caixa-*.codeanyapp.com
 0.0.0.0 naturesucrefoot.fr
 0.0.0.0 www-winbank-lfremhmida*.codeanyapp.com

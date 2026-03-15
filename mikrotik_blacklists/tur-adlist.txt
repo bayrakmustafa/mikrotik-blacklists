@@ -69,7 +69,6 @@
 0.0.0.0 hit.demirorenteknoloji.com
 0.0.0.0 hit.duhnet.tv
 0.0.0.0 hits.acunn.com
-0.0.0.0 hood.ninja
 0.0.0.0 howmanyview.com
 0.0.0.0 installadpro.com
 0.0.0.0 iosexy.com

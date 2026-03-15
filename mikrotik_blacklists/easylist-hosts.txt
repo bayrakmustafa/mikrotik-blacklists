@@ -1,5 +1,5 @@
 # Easylist, parsed and mirrored by https://firebog.net
-# Updated 06MAR26 from https://easylist.to/easylist/easylist.txt
+# Updated 13MAR26 from https://easylist.to/easylist/easylist.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7,51 +7,57 @@
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://github.com/easylist/easylist#list-issues
 
+0.0.0.0 9whl7qrqjnkyvli.rest
 0.0.0.0 ad.moe.video
 0.0.0.0 alitems.com
 0.0.0.0 asg.prettytube.net
-0.0.0.0 atsnisdwrubdu.space
 0.0.0.0 auditude.com
-0.0.0.0 buffetspompon.shop
+0.0.0.0 auqot.com
+0.0.0.0 baugeselung.cfd
+0.0.0.0 blueflowerfield.com
+0.0.0.0 bogomilyald.qpon
 0.0.0.0 buyeasy.by
+0.0.0.0 bvjtlavxjzbwe.site
+0.0.0.0 careensbodies.cyou
 0.0.0.0 cdn.hamwo.cloud
 0.0.0.0 cpm.appocean.media
-0.0.0.0 defmkxdiltzhi.space
-0.0.0.0 drylyblabs.cfd
+0.0.0.0 cqibwlthohukl.website
 0.0.0.0 engine.eroge.com
 0.0.0.0 f5w.prettytube.net
-0.0.0.0 fwrtzdlspzybl.space
+0.0.0.0 fh1f6i5hzht53zvwq7q7.cfd
+0.0.0.0 gdhqnpzbzttxz.website
 0.0.0.0 go.bloxplay.com
-0.0.0.0 highlyhighvacuum.com
-0.0.0.0 ialeompoqcypg.site
-0.0.0.0 iiyurrfshxirs.online
+0.0.0.0 halloesgoupenrebait.cfd
 0.0.0.0 imasdk.googleapis.com
-0.0.0.0 izalvber.com
-0.0.0.0 joustsbolts.shop
 0.0.0.0 link.link.ru
-0.0.0.0 lisedhvqseoqa.online
+0.0.0.0 loadedbummer.com
 0.0.0.0 loadercdn.com
-0.0.0.0 lzresfdeddzap.online
-0.0.0.0 meowingdipalapielet.cfd
-0.0.0.0 misshipguilds.qpon
 0.0.0.0 monetag.com
 0.0.0.0 mweb-hb.presage.io
+0.0.0.0 niimtlaqdakoma.com
+0.0.0.0 nmimcotzoz.in
+0.0.0.0 omlfdbfsdkcrz.online
+0.0.0.0 peboietcyzpwi.website
 0.0.0.0 pips.taboola.com
 0.0.0.0 pirogad.tophosting101.com
-0.0.0.0 poscaschwarz.cfd
 0.0.0.0 prebid.cwi.re
 0.0.0.0 proto2ad.durasite.net
-0.0.0.0 resentlocallycamomile.com
+0.0.0.0 roryqrftgfgae.online
+0.0.0.0 ruffercymous.shop
+0.0.0.0 safmuzwte.in
+0.0.0.0 shtdgmiuejdnn.online
 0.0.0.0 srv.tunefindforfans.com
+0.0.0.0 stootershaman.shop
+0.0.0.0 stuffedbismuth.shop
 0.0.0.0 sync.gsyndication.com
+0.0.0.0 systemsfrom333.com
 0.0.0.0 targeting.vdo.ai
-0.0.0.0 tchikycb.com
-0.0.0.0 tttcaoetcuosk.space
-0.0.0.0 uektjdjetquv.com
+0.0.0.0 todditepierrot.cyou
 0.0.0.0 unpin.hothomefuck.com
-0.0.0.0 vengefulbedroom.pro
+0.0.0.0 uuwukpef.com
 0.0.0.0 vi1.prettytube.net
 0.0.0.0 videoplaza.tv
-0.0.0.0 vsffqogjqucms.com
+0.0.0.0 vobmvcgpytk.com
+0.0.0.0 wantyunveils.cfd
+0.0.0.0 weavesprefixamianth.qpon
 0.0.0.0 wpnrtnmrewunrtok.xyz
-0.0.0.0 wyrwehnqhqctg.site

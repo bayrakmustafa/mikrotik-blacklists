@@ -13,7 +13,6 @@
 0.0.0.0 adsreklamizm.ga
 0.0.0.0 adsreklamizm.tk
 0.0.0.0 affiliate.migros.com.tr
-0.0.0.0 ak.hauchiwu.com
 0.0.0.0 ak.oalsauwy.net
 0.0.0.0 aksamreklami.net
 0.0.0.0 aksamvaktireklam.com
@@ -61,7 +60,6 @@
 0.0.0.0 exploredefinitely.com
 0.0.0.0 fe.cabioredtop.com
 0.0.0.0 fri4esianewheywr90itrage.com
-0.0.0.0 game.starswalker.site
 0.0.0.0 gercekkampanyareklami.com
 0.0.0.0 gk.achatecogida.com
 0.0.0.0 googlereklamsayfalari.com
@@ -112,7 +110,6 @@
 0.0.0.0 prebit.the-ozone-project.com
 0.0.0.0 principlessilas.com
 0.0.0.0 privacy.gatekeeperconsent.com
-0.0.0.0 pugsgivehugs.com
 0.0.0.0 punosy.top
 0.0.0.0 px.airpr.com
 0.0.0.0 r.admob.com

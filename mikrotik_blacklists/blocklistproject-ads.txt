@@ -6849,6 +6849,7 @@
 0.0.0.0 7c9ea.v.fwmrm.net
 0.0.0.0 7caa2.v.fwmrm.net
 0.0.0.0 7cbb237b705ae9361.com
+0.0.0.0 7cd77.v.fwmrm.net
 0.0.0.0 7cdf78unokr7.ru
 0.0.0.0 7cmgs.voluumtrk.com
 0.0.0.0 7cnzz.ymaqdv.bapb.gdn
@@ -45893,6 +45894,7 @@
 0.0.0.0 crawfordcountybank.com.102.112.2o7.net
 0.0.0.0 crawlclocks.com
 0.0.0.0 crawler-dev.algolia.com
+0.0.0.0 craydark.pw
 0.0.0.0 crazy4media.adk2.co
 0.0.0.0 crazy4media.adk2x.com
 0.0.0.0 crazyad.net
@@ -73109,7 +73111,6 @@
 0.0.0.0 metrics-node-nl.fitanalytics.com
 0.0.0.0 metrics-trotsky.fitanalytics.com
 0.0.0.0 metrics-us.fitanalytics.com
-0.0.0.0 metrics.active.com
 0.0.0.0 metrics.adflake.com
 0.0.0.0 metrics.adnetwork.vn
 0.0.0.0 metrics.advisorchannel.com.edgekey.net
@@ -73154,7 +73155,6 @@
 0.0.0.0 metrics.sourceforge.net
 0.0.0.0 metrics.strato.de
 0.0.0.0 metrics.upcload.com
-0.0.0.0 metrics.veryfunnyads.com
 0.0.0.0 metrics.vizury.com
 0.0.0.0 metrics.wikinvest.com
 0.0.0.0 metrics.windowsitpro.com
@@ -81947,6 +81947,7 @@
 0.0.0.0 phdtryxlepjayf.com
 0.0.0.0 pheedroh.net
 0.0.0.0 pheergar.com
+0.0.0.0 pheersie.com
 0.0.0.0 phen.fabricmedia.ru
 0.0.0.0 phengung.net
 0.0.0.0 phenomcrm.com

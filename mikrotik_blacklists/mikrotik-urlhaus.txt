@@ -9,16 +9,26 @@
 0.0.0.0 0vj.f2rewel1lever.ru
 0.0.0.0 0zlrw.lo5ermedi0c.ru
 0.0.0.0 103.252.116.60.sslip.io
+0.0.0.0 109-111-55-221.rev.as216075.net
 0.0.0.0 10controller.online
 0.0.0.0 11mo4fsx.ho1idayt2rn.ru
+0.0.0.0 139-162-20-230.ip.linodeusercontent.com
 0.0.0.0 14-0-204-188.static.pccw-hkt.com
 0.0.0.0 141-98-10-64.cprapid.com
 0.0.0.0 15w9bglk.pu7eer0d.ru
+0.0.0.0 172-233-82-138.ip.linodeusercontent.com
+0.0.0.0 172-86-114-147.dal.priv.octovpn.net
 0.0.0.0 176.190.153.160.host.secureserver.net
+0.0.0.0 176.65.148.116.ptr.pfcloud.network
+0.0.0.0 176.65.148.189.ptr.pfcloud.network
+0.0.0.0 176.65.149.4.ptr.pfcloud.network
+0.0.0.0 178.248.3.202.ll.sta.mana.pf
+0.0.0.0 179.248.3.202.ll.sta.mana.pf
 0.0.0.0 185-55-196-13.cprapid.com
 0.0.0.0 198-144-189-90.cprapid.com
 0.0.0.0 1bhn.cherl1ber7y.ru
 0.0.0.0 1l14s7np.xyz
+0.0.0.0 1lf2pz2k.bravepepsi.digital
 0.0.0.0 1m82015w.embercore.digital
 0.0.0.0 1swvw1lt.pr0peltano1s.ru
 0.0.0.0 1ulufjyr.dive9uoht2.ru
@@ -63,6 +73,8 @@
 0.0.0.0 40k8qjo8.dep2rtmen0va.ru
 0.0.0.0 40kr.a8arichum2n.ru
 0.0.0.0 41xyhih6.sunb2zealou5.ru
+0.0.0.0 45.135.194.23.ptr.pfcloud.network
+0.0.0.0 45.135.194.29.ptr.pfcloud.network
 0.0.0.0 46.chel0be7upt.ru
 0.0.0.0 4bl1n9f5.ar7aydia1ect.ru
 0.0.0.0 4controller.online
@@ -187,7 +199,9 @@
 0.0.0.0 amaranthinerose.com
 0.0.0.0 ambr.am0rc2thed.ru
 0.0.0.0 anna777matka.online
+0.0.0.0 antimalwarehub.com
 0.0.0.0 aorta2.blo0dci7cul.ru
+0.0.0.0 api.aloparatoriuz.com
 0.0.0.0 api.bitcoinusdtusdc.xyz
 0.0.0.0 api.dealharbor.coupons
 0.0.0.0 api.hellknight.xyz
@@ -243,6 +257,7 @@
 0.0.0.0 azhvgwsv.xyz
 0.0.0.0 azulwork.com
 0.0.0.0 b-3.stackdump-collector.coupons
+0.0.0.0 b-node.freebspirit.in.net
 0.0.0.0 b0x-rnark.box3pear.coupons
 0.0.0.0 b12mtww0.cerem0nyiwas1.ru
 0.0.0.0 b1int-rnix.blint8darvo.coupons
@@ -289,6 +304,7 @@
 0.0.0.0 bigbins.rebirth.st
 0.0.0.0 bio-trace.organiclink.in.net
 0.0.0.0 bipmuh.a8ent5ing.ru
+0.0.0.0 bird-farm.pigeonbreed.in.net
 0.0.0.0 bis2ijbb.adju5tc2b.ru
 0.0.0.0 bixfoy.pa5spra8mat.ru
 0.0.0.0 bjtvyfqp.acouguegbcompras.com
@@ -300,6 +316,7 @@
 0.0.0.0 blastzone.highexplos.in.net
 0.0.0.0 blitz-deal.blaukraft.coupons
 0.0.0.0 block.c2rpyub2n.ru
+0.0.0.0 blood-unit.dialectblood.in.net
 0.0.0.0 blood.f0undst2rve.ru
 0.0.0.0 blood04.dialectblood.in.net
 0.0.0.0 bloomshift.takeoverspring.in.net
@@ -372,6 +389,7 @@
 0.0.0.0 bxiwtept.dr2nudmu7t.ru
 0.0.0.0 byte.b0okca7niv.ru
 0.0.0.0 byte.effu5rep7eh.ru
+0.0.0.0 bytebin.ironcrest.in.net
 0.0.0.0 c.zxahso.sbs
 0.0.0.0 c1tcodwo.dr2nudmu7t.ru
 0.0.0.0 c9t5q.breeze1falcon.coupons
@@ -400,6 +418,7 @@
 0.0.0.0 cascade.amber2vivid.coupons
 0.0.0.0 cascade.flint1zarco.coupons
 0.0.0.0 cask.drau8htl0dg.ru
+0.0.0.0 cav-oral.cavalieroral.in.net
 0.0.0.0 cdn-303-web.flash5saver.coupons
 0.0.0.0 cdn-b12.nifty4locker.coupons
 0.0.0.0 cdn-b9.bleuforet.coupons
@@ -602,6 +621,7 @@
 0.0.0.0 dfpgukqs.xyz
 0.0.0.0 dftc360y.r2nkteh2.ru
 0.0.0.0 di.p2rabpr0nos.ru
+0.0.0.0 dia-v5.dialectblood.in.net
 0.0.0.0 dibrax.luz7it5tretch.ru
 0.0.0.0 dicapolyp.com
 0.0.0.0 direct-access-line.silverpath.in.net
@@ -626,6 +646,7 @@
 0.0.0.0 donner.plar9ten2zo.ru
 0.0.0.0 dorven.d0orh0bbit.ru
 0.0.0.0 dorzep.ro1luzbek5.ru
+0.0.0.0 double-sync.austrodouble.in.net
 0.0.0.0 doubt.infide1d0wn.ru
 0.0.0.0 douceurpure.dy5trops7uffy.ru
 0.0.0.0 down.1756520.xyz
@@ -673,6 +694,7 @@
 0.0.0.0 dz4y1.p2rabpr0nos.ru
 0.0.0.0 e09f4p3.d0nat1mpenet.ru
 0.0.0.0 e3ys4ixz.mint2layer.digital
+0.0.0.0 e66c3.lakecrest.in.net
 0.0.0.0 e8jla7wl.u9putvirolo8.ru
 0.0.0.0 earthmap.natureway.city
 0.0.0.0 eastorbit.eastmoon.coupons
@@ -740,6 +762,7 @@
 0.0.0.0 f94vb8l0.ecumen1sm0ff.ru
 0.0.0.0 falcon.pro7center.coupons
 0.0.0.0 fallow.ant1sepgue7.ru
+0.0.0.0 fallshie.stonefield.in.net
 0.0.0.0 farmfresh.pear7pack.coupons
 0.0.0.0 farnuq.go1ogun0ow.ru
 0.0.0.0 fasmnee.xyz
@@ -763,6 +786,7 @@
 0.0.0.0 feft234321.xyz
 0.0.0.0 feld2.c2tt1eschlen.ru
 0.0.0.0 felmor.a5kin8insur.ru
+0.0.0.0 fernsecur.windfield.in.net
 0.0.0.0 fespov.den1mp7imad.ru
 0.0.0.0 fexmor.antip2th5ub.ru
 0.0.0.0 fh9.f0undst2rve.ru
@@ -775,6 +799,7 @@
 0.0.0.0 figmet.re5cuestup1d.ru
 0.0.0.0 figstore.box1fig7.coupons
 0.0.0.0 file-eu-par-2.gofile.io
+0.0.0.0 file.551911.xyz
 0.0.0.0 finesse.plon6var1ty.ru
 0.0.0.0 fiplar.c0lombve8et.ru
 0.0.0.0 firecharge.highexplos.in.net
@@ -804,6 +829,7 @@
 0.0.0.0 forestleaf.bluefern.in.net
 0.0.0.0 forestnode.graywolf.in.net
 0.0.0.0 forge.effu5m0unt.ru
+0.0.0.0 formalcraft.stonefield.in.net
 0.0.0.0 formula.fusion2harbor.coupons
 0.0.0.0 forum.a7mpr0tori.ru
 0.0.0.0 forum.dict2tja8d.ru
@@ -816,6 +842,7 @@
 0.0.0.0 frarol.cuidandote.sbs
 0.0.0.0 fray.nerv0u5radic.ru
 0.0.0.0 frboe5t2.inimit9adin2.ru
+0.0.0.0 free-spirit.freebspirit.in.net
 0.0.0.0 freezepoint.coldwind.in.net
 0.0.0.0 freiheit.drim9sol3ka.ru
 0.0.0.0 frepanfinbel7.mariaislena.sbs
@@ -836,6 +863,7 @@
 0.0.0.0 fruitcase.plum63box.coupons
 0.0.0.0 fruitline.kiwi5pack.coupons
 0.0.0.0 frukinvel.luxmailer.store
+0.0.0.0 fukt.link
 0.0.0.0 fumtis.d0orh0bbit.ru
 0.0.0.0 furdan.e1eftneur0pa.ru
 0.0.0.0 furlabase.com
@@ -852,6 +880,8 @@
 0.0.0.0 g48hk2ii.bohem1apred0m.ru
 0.0.0.0 g5oazod9.xyz
 0.0.0.0 g88kkpkk.crystalforge.digital
+0.0.0.0 gacorportbet88.space
+0.0.0.0 gacorportbet88.store
 0.0.0.0 gama567ad2.online
 0.0.0.0 gamma.ac0rnrepr0d.ru
 0.0.0.0 gamma.bramblefix.ru
@@ -1260,7 +1290,6 @@
 0.0.0.0 kiwitalk.ship46kiwi.coupons
 0.0.0.0 kiwitransit.kiwi9ship3.coupons
 0.0.0.0 kktz6llc.u9putvirolo8.ru
-0.0.0.0 knfdoiojogneronifdionfldg.pw
 0.0.0.0 knuvqydu.xyz
 0.0.0.0 kobilen.icu
 0.0.0.0 kodimom.lol
@@ -1415,6 +1444,7 @@
 0.0.0.0 mango72k.valuevault8.coupons
 0.0.0.0 manifest.berry9shipment.coupons
 0.0.0.0 manifest.ship5plum.coupons
+0.0.0.0 marcialong.alwaysdata.net
 0.0.0.0 marinenode.fig2ship.coupons
 0.0.0.0 marketing.bebe9mayotte.com
 0.0.0.0 marlin204.promoportal4.coupons
@@ -2055,6 +2085,7 @@
 0.0.0.0 serra.enra8evue7k.ru
 0.0.0.0 serum.blo0dci7cul.ru
 0.0.0.0 servachok.space
+0.0.0.0 server.ayeeman.top
 0.0.0.0 server.realopmo.online
 0.0.0.0 server.t0up.top
 0.0.0.0 servo1.aut0ns2ving.ru
