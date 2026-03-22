@@ -83,6 +83,7 @@
 0.0.0.0 mcfk02nd3k8q7w75g9yxxcc6yj20.device.marketingcloudapis.com
 0.0.0.0 medya.ilan.gov.tr.whecloud.com
 0.0.0.0 medyanet-com-tr.videoplayerhub.com
+0.0.0.0 memorial.revotas.com
 0.0.0.0 metoatesoglureklamcibaba.net
 0.0.0.0 metoatesoglureklamcibabaa.net
 0.0.0.0 metoatesoglureklamcibabaaa.net

@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 13MAR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 20MAR26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -2896,7 +2896,6 @@
 0.0.0.0 ams.lelong.com.my
 0.0.0.0 amsunsolar.actonservice.com
 0.0.0.0 a.munters.co.uk
-0.0.0.0 a.n11.com
 0.0.0.0 ana.e-ticket.co.jp
 0.0.0.0 analysis.prod.joyfru.jiji.com
 0.0.0.0 analys.live
@@ -2956,7 +2955,6 @@
 0.0.0.0 analytics.metro.de
 0.0.0.0 analytics.midas-antilles.fr
 0.0.0.0 analytics.ml.homedepot.ca
-0.0.0.0 analytics.morphe.software
 0.0.0.0 analytics.mouthshut.com
 0.0.0.0 analytics.moviepilot.de
 0.0.0.0 analytics.multithread.studio
@@ -5709,6 +5707,7 @@
 0.0.0.0 emm.ca.puma.com
 0.0.0.0 emm.us.puma.com
 0.0.0.0 emplicity.actonservice.com
+0.0.0.0 emrld.cc
 0.0.0.0 emsexam.quantresear.ch
 0.0.0.0 em.touchtunes.com
 0.0.0.0 enablement.vmware.com
@@ -6871,7 +6870,6 @@
 0.0.0.0 hleouh.feelunique.com
 0.0.0.0 hlms.ecologie.gouv.fr
 0.0.0.0 hmoctt.leboutique.com
-0.0.0.0 h.n11.com
 0.0.0.0 hnwttl.re-katsu.jp
 0.0.0.0 hodges.actonservice.com
 0.0.0.0 hodgesmace.actonservice.com
@@ -7384,9 +7382,7 @@
 0.0.0.0 interact.crmtechnologies.com
 0.0.0.0 interedgemarketing.actonservice.com
 0.0.0.0 interest.truvenhealth.com
-0.0.0.0 internal-e.posthog.com
 0.0.0.0 internal.hcltech.com
-0.0.0.0 internal-t.posthog.com
 0.0.0.0 international.edc.ca
 0.0.0.0 internationalpayments.americanexpress.com
 0.0.0.0 international.wandw.ac.nz
@@ -10234,6 +10230,7 @@
 0.0.0.0 peards.zevvle.com
 0.0.0.0 peiq.services
 0.0.0.0 peoplehr.actonservice.com
+0.0.0.0 pepin.padlet.com
 0.0.0.0 perf.mouser.com
 0.0.0.0 performance-logger.minted.com
 0.0.0.0 performantcorp.actonservice.com
@@ -12882,6 +12879,7 @@
 0.0.0.0 t.pplcenter.com
 0.0.0.0 t.prageru.com
 0.0.0.0 t.prod1.discover.binge.com.au
+0.0.0.0 t.producthunt.com
 0.0.0.0 tqhosting.actonservice.com
 0.0.0.0 t.quisma.com
 0.0.0.0 tr1.easy-v01.net

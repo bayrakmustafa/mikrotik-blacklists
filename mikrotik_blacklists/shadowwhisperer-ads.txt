@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 25,881
-# Updated: 3/5/2026  12:18 (12:18 PM CST)
+# Domains: 26,154
+# Updated: 3/19/2026  18:42 (6:42 PM CST)
 #
 0.0.0.0 0063450bb8e5e3369eauthorized-choice.pro
 0.0.0.0 03ab2paradisecdn.com
@@ -368,6 +368,7 @@
 0.0.0.0 71213zhazha.com
 0.0.0.0 71360.com
 0.0.0.0 717trk.com
+0.0.0.0 734map.net
 0.0.0.0 739trk.com
 0.0.0.0 75625358935.com
 0.0.0.0 768guangg1.oss-cn-guangzhou.aliyuncs.com
@@ -2283,6 +2284,7 @@
 0.0.0.0 adsdolfin.com
 0.0.0.0 ads.domedea.cn
 0.0.0.0 ads.domotica.it
+0.0.0.0 adsdone.com
 0.0.0.0 ads.donnet.com.ar
 0.0.0.0 ads.doradcasmaku.pl
 0.0.0.0 ads.d-radar.de
@@ -4919,6 +4921,7 @@
 0.0.0.0 a.hruch.site
 0.0.0.0 a.htrem.site
 0.0.0.0 a.hugit.xyz
+0.0.0.0 ahuili.com
 0.0.0.0 a.humro.site
 0.0.0.0 a.hupot.site
 0.0.0.0 a.hvert.site
@@ -5210,6 +5213,7 @@
 0.0.0.0 anthonysantana.com
 0.0.0.0 antiadxxxspy.com
 0.0.0.0 antibloqueo.com
+0.0.0.0 antique-bed.pro
 0.0.0.0 antiqueswebads.com
 0.0.0.0 antiweb.cz
 0.0.0.0 anunaad.com
@@ -5814,6 +5818,7 @@
 0.0.0.0 bazzoolla.ru
 0.0.0.0 bb77393629.com
 0.0.0.0 bb82195965.com
+0.0.0.0 bbaifbajgfieajiecag.world
 0.0.0.0 bbangads.b-cdn.net
 0.0.0.0 b.banneroctober.store
 0.0.0.0 bbbpromos.org
@@ -6114,6 +6119,7 @@
 0.0.0.0 bluodpa-c.online
 0.0.0.0 blurbiq.com
 0.0.0.0 blushing-nothing.pro
+0.0.0.0 blushingstandard.com
 0.0.0.0 bm-ads.io
 0.0.0.0 bmbsgo.com
 0.0.0.0 bmddea.com
@@ -7575,7 +7581,6 @@
 0.0.0.0 deliveranceads.com
 0.0.0.0 deliver.helpnation.de
 0.0.0.0 deliver.ifxmax.com
-0.0.0.0 delivery.2d.net.co
 0.0.0.0 delivery360.homecredit.vn
 0.0.0.0 delivery.ced.cy
 0.0.0.0 delivery-ci360.aeromexicorewards.com
@@ -8154,6 +8159,8 @@
 0.0.0.0 equal-engineer.pro
 0.0.0.0 equativ.com
 0.0.0.0 equatorialboy.pro
+0.0.0.0 equatorialquality.pro
+0.0.0.0 equatorial-statement.pro
 0.0.0.0 equityme.com
 0.0.0.0 erasercash.com
 0.0.0.0 eratead.com
@@ -8226,6 +8233,7 @@
 0.0.0.0 exchange.consumabletv.com
 0.0.0.0 exchange-flow.com
 0.0.0.0 exchange-traffic.com
+0.0.0.0 excitedassist.pro
 0.0.0.0 excitingspring.pro
 0.0.0.0 exclk.com
 0.0.0.0 exee.online
@@ -8459,6 +8467,7 @@
 0.0.0.0 firstpage.app
 0.0.0.0 firstrate.com.au
 0.0.0.0 firstsportmedia.com
+0.0.0.0 fishingtoolsbox.com
 0.0.0.0 fitad.com
 0.0.0.0 fit-ad.jp
 0.0.0.0 fitravel.net
@@ -8653,6 +8662,7 @@
 0.0.0.0 fusionos.ai
 0.0.0.0 fussy-highway.pro
 0.0.0.0 fussy-rest.pro
+0.0.0.0 fussy-time.pro
 0.0.0.0 futureads.com
 0.0.0.0 futureadymedia.com
 0.0.0.0 futuredontics.com
@@ -8988,6 +8998,7 @@
 0.0.0.0 graphlo.com
 0.0.0.0 graphy.com
 0.0.0.0 grarahaxo.pro
+0.0.0.0 graveescape.pro
 0.0.0.0 grave-orange.pro
 0.0.0.0 gravitec.media
 0.0.0.0 graydown.com
@@ -9042,6 +9053,7 @@
 0.0.0.0 growmatik.ai
 0.0.0.0 grow.me
 0.0.0.0 growmobile.com
+0.0.0.0 grownshopping.pro
 0.0.0.0 growthloop.com
 0.0.0.0 growthspin.co.uk
 0.0.0.0 growup-inpp-code.com
@@ -9447,6 +9459,7 @@
 0.0.0.0 illinformedad.com
 0.0.0.0 ill-play.pro
 0.0.0.0 ill-purchase.pro
+0.0.0.0 ill-repair.pro
 0.0.0.0 illuma-tech.com
 0.0.0.0 illumin.com
 0.0.0.0 illusive-moose.ca
@@ -9634,6 +9647,7 @@
 0.0.0.0 intellectscoop.com
 0.0.0.0 intent-based.com
 0.0.0.0 intentionaltransition.pro
+0.0.0.0 intent-meet.pro
 0.0.0.0 intenze.co
 0.0.0.0 interactive.in
 0.0.0.0 interactives.stuff.co.nz
@@ -9914,6 +9928,7 @@
 0.0.0.0 kdretc.com
 0.0.0.0 kdrmedia.in
 0.0.0.0 keenability.com
+0.0.0.0 keen-mistake.pro
 0.0.0.0 keitaro-tds.fun
 0.0.0.0 kelopronto.com
 0.0.0.0 kelt-195b.com
@@ -10801,6 +10816,7 @@
 0.0.0.0 mirago.co.uk
 0.0.0.0 mirriad.com
 0.0.0.0 mirs.com
+0.0.0.0 miserableart.pro
 0.0.0.0 miserable-board.pro
 0.0.0.0 misgood.com
 0.0.0.0 misguidedgrass.pro
@@ -12429,6 +12445,7 @@
 0.0.0.0 premaads.net
 0.0.0.0 premiermedia.pk
 0.0.0.0 premiumimpression.com
+0.0.0.0 presentblue.pro
 0.0.0.0 present-mark.com
 0.0.0.0 presentunique.pro
 0.0.0.0 pressenger.com
@@ -14613,6 +14630,7 @@
 0.0.0.0 soldigital.in
 0.0.0.0 solomon89.xyz
 0.0.0.0 soloway.ru
+0.0.0.0 solutions2000.com
 0.0.0.0 solutions.interactiveone.com
 0.0.0.0 som4okn1qku1r9p0ul.xyz
 0.0.0.0 somethingmassive.com
@@ -14765,6 +14783,7 @@
 0.0.0.0 stainedphilosophy.pro
 0.0.0.0 stale-hate.pro
 0.0.0.0 standardpublicity.in
+0.0.0.0 standard-ring.pro
 0.0.0.0 standard-western.pro
 0.0.0.0 standartnews.eu
 0.0.0.0 stankeviciusmgm.com
@@ -14958,6 +14977,7 @@
 0.0.0.0 surprised-win.pro
 0.0.0.0 survey-alb-new-1082488714.us-east-1.elb.amazonaws.com
 0.0.0.0 sustainableadx.com
+0.0.0.0 sustaindenim.com
 0.0.0.0 suwhythoglo.com
 0.0.0.0 suxhap.com
 0.0.0.0 svc-prod-us.liveshopping.bambuser.com
@@ -15056,6 +15076,7 @@
 0.0.0.0 tallwinter.pro
 0.0.0.0 talroo.com
 0.0.0.0 tamebonus.com
+0.0.0.0 tamesuspect.pro
 0.0.0.0 tangible-season.pro
 0.0.0.0 tankiuz.xyz
 0.0.0.0 tantransportation.pro
@@ -15154,6 +15175,7 @@
 0.0.0.0 tenmax-ads.trafficmanager.net
 0.0.0.0 tennistie.com
 0.0.0.0 tense-garden.pro
+0.0.0.0 tensesurround.pro
 0.0.0.0 tense-winter.pro
 0.0.0.0 tenxads.com
 0.0.0.0 teotelecom.com
@@ -15287,6 +15309,7 @@
 0.0.0.0 thinklabcomms.com
 0.0.0.0 thinknearhub.com
 0.0.0.0 thirdpresence.com
+0.0.0.0 thisassistant.pro
 0.0.0.0 thisisarray.com
 0.0.0.0 thisisglobal.com
 0.0.0.0 thismoment.com
@@ -15294,6 +15317,7 @@
 0.0.0.0 thojodawi.pro
 0.0.0.0 thornybeach.pro
 0.0.0.0 thoroughbred-advertising.co.uk
+0.0.0.0 thoroughengineer.pro
 0.0.0.0 thosiwhicy.pro
 0.0.0.0 thoughtful.design
 0.0.0.0 threebears.com
@@ -15304,11 +15328,14 @@
 0.0.0.0 thundertech.com
 0.0.0.0 thunderurl.com
 0.0.0.0 thygrepuwo.pro
+0.0.0.0 ticketsrise.com
 0.0.0.0 tidy-county.pro
 0.0.0.0 tidyinteraction.pro
 0.0.0.0 tight-intention.pro
 0.0.0.0 timecrom.com
 0.0.0.0 timeforsocial.com
+0.0.0.0 timely-commission.pro
+0.0.0.0 timely-drawing.pro
 0.0.0.0 tipsgaloreclub.com
 0.0.0.0 tiramisu-advertising.com
 0.0.0.0 tiredstate.pro
@@ -15377,6 +15404,7 @@
 0.0.0.0 topvid.com
 0.0.0.0 topvidstore.com
 0.0.0.0 tornbed.pro
+0.0.0.0 torncustomer.pro
 0.0.0.0 tornemployer.pro
 0.0.0.0 toroexoclk.com
 0.0.0.0 toshapsyvu.pro
@@ -15532,6 +15560,7 @@
 0.0.0.0 trueoptin.com
 0.0.0.0 truepushmail.com
 0.0.0.0 truesearchengine.com
+0.0.0.0 trueselfkeys.com
 0.0.0.0 trumpyourads.com
 0.0.0.0 trustbadge.shopclimb.com
 0.0.0.0 trustedstack.com
@@ -16129,8 +16158,10 @@
 0.0.0.0 vnsguanggaotu.oss-cn-hangzhou.aliyuncs.com
 0.0.0.0 vofzpwh.com
 0.0.0.0 voicelessvein.com
+0.0.0.0 voiseadserver.com
 0.0.0.0 voisetech.com
 0.0.0.0 vola.ad
+0.0.0.0 voljr.com
 0.0.0.0 volt.africa
 0.0.0.0 voltaxam.com
 0.0.0.0 voltron.invast.site
@@ -16303,6 +16334,7 @@
 0.0.0.0 welldocumented-interview.com
 0.0.0.0 well.fltplan.com
 0.0.0.0 wellinformed-awareness.pro
+0.0.0.0 wellinformed-father.pro
 0.0.0.0 wellmadecampaign.com
 0.0.0.0 wellmadechange.pro
 0.0.0.0 welloff-royal.pro
@@ -16334,6 +16366,7 @@
 0.0.0.0 where.com
 0.0.0.0 whewsv.com
 0.0.0.0 whimsicaluser.pro
+0.0.0.0 whirlwind-file.pro
 0.0.0.0 whirlwind-mobile.pro
 0.0.0.0 whistleradvantage.com
 0.0.0.0 whitbyspace.com
@@ -16816,6 +16849,7 @@
 0.0.0.0 zaeavr.com
 0.0.0.0 zaffz.online
 0.0.0.0 zaincodc.com
+0.0.0.0 zakld.com
 0.0.0.0 zallj.com
 0.0.0.0 z.allopurinoll.shop
 0.0.0.0 zantbowsing.cam
@@ -16906,10 +16940,12 @@
 0.0.0.0 zowpo.com
 0.0.0.0 zpush.biz
 0.0.0.0 zqwjpxow7boc.ru
+0.0.0.0 zrakos.com
 0.0.0.0 zrcir.com
 0.0.0.0 zswzri7ju3.ru
 0.0.0.0 ztxelcrseu.com
 0.0.0.0 zucksadnetwork.com
+0.0.0.0 zudvl.com
 0.0.0.0 zujiglalo.pro
 0.0.0.0 zukuladnetwork.com
 0.0.0.0 zunipush.com

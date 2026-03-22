@@ -34,6 +34,7 @@
 0.0.0.0 cbcdnkyyxubdsrmg.com
 0.0.0.0 reddishpurple.com
 0.0.0.0 triangle123.com
+0.0.0.0 heart-uranai.com
 0.0.0.0 dosudosuo.com
 0.0.0.0 cxbvnmyeruw.com
 0.0.0.0 d-hiyori.com
@@ -51,11 +52,15 @@
 0.0.0.0 unki-max.com
 0.0.0.0 luna-t.net
 0.0.0.0 falsettoy.click
+0.0.0.0 hrt-hrt.com
+0.0.0.0 uranai-su-ki.com
 0.0.0.0 xanadu-du.com
 0.0.0.0 xczzfvxknafgoawjtv.com
 0.0.0.0 lshyodrgehlnyswsjq.com
 0.0.0.0 familymusicman.com
 0.0.0.0 impoverishedordealscrutinize.com
+0.0.0.0 jg5y2nkdg.com
+0.0.0.0 voicehp.com
 0.0.0.0 ten-lp2025.com
 0.0.0.0 signingn.com
 0.0.0.0 door-donation.jp
@@ -353,6 +358,7 @@
 0.0.0.0 ff-io.cc
 0.0.0.0 fixfloat.vip
 0.0.0.0 v3simpleswap.com
+0.0.0.0 exoduwallet.io
 0.0.0.0 scanledgerwallet.com
 0.0.0.0 trezorwalletsupport.com
 0.0.0.0 skinsmonkye.com

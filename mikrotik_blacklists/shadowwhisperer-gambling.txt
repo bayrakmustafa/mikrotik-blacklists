@@ -1,8 +1,8 @@
 #
 #    File: Gambling
 #    Info: Casino, gambling, poker, etc.
-# Domains: 9,502
-# Updated: 2/20/2026  16:06 (4:06 PM CST)
+# Domains: 9,504
+# Updated: 3/19/2026  18:42 (6:42 PM CST)
 #
 0.0.0.0 0009casino.com
 0.0.0.0 000-online-casino.biz
@@ -2285,6 +2285,7 @@
 0.0.0.0 casinologin.co
 0.0.0.0 casinologin.mobi
 0.0.0.0 casinolooter.com
+0.0.0.0 casinoloots.com
 0.0.0.0 casinolounge.co.uk
 0.0.0.0 casinolove.link
 0.0.0.0 casinolove.org
@@ -3781,6 +3782,7 @@
 0.0.0.0 freespinsnodepositcasinos.co.uk
 0.0.0.0 freespinsnodepositcasinosuk.co.uk
 0.0.0.0 freespinsnodepositnowagercasinos.co.uk
+0.0.0.0 freespinza.com
 0.0.0.0 frenchslots.net
 0.0.0.0 frenzino.io
 0.0.0.0 freshbetcasino.co.uk
