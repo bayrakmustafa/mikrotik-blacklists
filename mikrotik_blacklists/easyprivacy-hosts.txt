@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 20MAR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 27MAR26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -2676,6 +2676,7 @@
 0.0.0.0 abt.bauhaus.es
 0.0.0.0 acadian-asset.actonservice.com
 0.0.0.0 a.careangel.com
+0.0.0.0 acbp0020171456.page.tl
 0.0.0.0 accenture.epoise.com
 0.0.0.0 accenturetest.epoise.com
 0.0.0.0 access2.ipro.net
@@ -2897,7 +2898,9 @@
 0.0.0.0 amsunsolar.actonservice.com
 0.0.0.0 a.munters.co.uk
 0.0.0.0 ana.e-ticket.co.jp
+0.0.0.0 anal.billingserv.com
 0.0.0.0 analysis.prod.joyfru.jiji.com
+0.0.0.0 analysis.sooplive.co.kr
 0.0.0.0 analys.live
 0.0.0.0 analytics1.vdo.ai
 0.0.0.0 analytics.academy.com
@@ -2958,6 +2961,7 @@
 0.0.0.0 analytics.mouthshut.com
 0.0.0.0 analytics.moviepilot.de
 0.0.0.0 analytics.multithread.studio
+0.0.0.0 analytics.netralex.com
 0.0.0.0 analytics.okazii.ro
 0.0.0.0 analytics.passes.com
 0.0.0.0 analytics.pgatour.com
@@ -2984,6 +2988,7 @@
 0.0.0.0 analytics.traderlink.com
 0.0.0.0 analytics.vanilla-project.guide
 0.0.0.0 analytics.vdo.ai
+0.0.0.0 analytics.vgtimes.com
 0.0.0.0 analytics.virginmobileusa.com
 0.0.0.0 analytics.vortexscans.com
 0.0.0.0 analytics.wavebox.io
@@ -4981,6 +4986,7 @@
 0.0.0.0 d.delahorro.app
 0.0.0.0 ddlbr.timesclub.co
 0.0.0.0 ddlcvm.clas.style
+0.0.0.0 ddm.frandroid.com
 0.0.0.0 ddnahc.mesbagages.com
 0.0.0.0 ddome-tag.blablacar.com
 0.0.0.0 ddqwdh.sofastyle.jp
@@ -6124,6 +6130,7 @@
 0.0.0.0 gccmembershiprewards.americanexpress.de
 0.0.0.0 gccmembershiprewards.americanexpress.it
 0.0.0.0 gct.americanexpress.com
+0.0.0.0 gdpr.netralex.com
 0.0.0.0 gear.echovisuals.com
 0.0.0.0 gefkkw.cyberport.de
 0.0.0.0 gentian-frd.hjapi.com
@@ -9878,6 +9885,7 @@
 0.0.0.0 nimblebird.co
 0.0.0.0 nimbleswan.io
 0.0.0.0 nisaapp.nexus-dt.com
+0.0.0.0 nixie.starlightnet.work
 0.0.0.0 njtwub.schneider.de
 0.0.0.0 njxnsb.paodeacucar.com
 0.0.0.0 nl.aon.com
@@ -10047,6 +10055,7 @@
 0.0.0.0 onlinevacationcenter.actonservice.com
 0.0.0.0 onmlkjiion.carte-gr.total.fr
 0.0.0.0 o.otrestaurant.com
+0.0.0.0 op.dragonfru.it
 0.0.0.0 open.ailo.app
 0.0.0.0 open.anghami.com
 0.0.0.0 open.bitcoinmagazine.app
@@ -12435,6 +12444,7 @@
 0.0.0.0 st.img-bahn.de
 0.0.0.0 stjoe.psjhealth.org
 0.0.0.0 stm.komplett.no
+0.0.0.0 st.nic.ru
 0.0.0.0 s.topya.com
 0.0.0.0 store.echovisuals.com
 0.0.0.0 store.esquirrel.at
@@ -12468,6 +12478,7 @@
 0.0.0.0 subscribe.verintsystemsinc.com
 0.0.0.0 subscribe.vistage.com
 0.0.0.0 subscriptionmanagement.53.com
+0.0.0.0 subscriptions.costco.com
 0.0.0.0 subscriptions.outbound.luxair.lu
 0.0.0.0 substation.confection.io
 0.0.0.0 success.definitive-results.com
@@ -12543,6 +12554,7 @@
 0.0.0.0 tag.pearldiver.io
 0.0.0.0 tags.aljazeera.com
 0.0.0.0 tags.catapultx.com
+0.0.0.0 tags-event.woolworths.co.nz
 0.0.0.0 tags.globo.com
 0.0.0.0 tags.johnlewis.com
 0.0.0.0 tags.stepstone.com
@@ -12555,6 +12567,7 @@
 0.0.0.0 talk-test.stitch.cam
 0.0.0.0 t.allmodern.com
 0.0.0.0 tally.bizanalyst.in
+0.0.0.0 t.almayadeen.net
 0.0.0.0 tamedbc.roska.fr
 0.0.0.0 t.antalis.com.br
 0.0.0.0 t.antalis.se
@@ -12891,6 +12904,7 @@
 0.0.0.0 tr.3xcb.cofinoga.fr
 0.0.0.0 tr.aasi.espmp-agfr.net
 0.0.0.0 tracer.autoscout24.ch
+0.0.0.0 traces.youdo.com
 0.0.0.0 track.360playvid.info
 0.0.0.0 track.asiadragontrust.co.uk
 0.0.0.0 track.buyma.com
@@ -12903,6 +12917,7 @@
 0.0.0.0 track.dws.de
 0.0.0.0 track.eadv.it
 0.0.0.0 tracker.adbinead.com
+0.0.0.0 tracker.adcluster.com.tr
 0.0.0.0 tracker.affiliate.iqbroker.com
 0.0.0.0 tracker.atrapalo.com
 0.0.0.0 tracker.blutv.com
@@ -13825,6 +13840,7 @@
 0.0.0.0 usrkrz.zdravcity.ru
 0.0.0.0 ussco-dev.actonservice.com
 0.0.0.0 ussolutions.equifax.com
+0.0.0.0 u.strike.bz
 0.0.0.0 utapbu.cykelkraft.se
 0.0.0.0 u-test.getgoose.com
 0.0.0.0 utexas.actonservice.com
@@ -14015,7 +14031,6 @@
 0.0.0.0 web.jana-shoes.com
 0.0.0.0 web.life-cw.com
 0.0.0.0 weblog2.eseoul.go.kr
-0.0.0.0 weblog.eseoul.go.kr
 0.0.0.0 weblog.flyasiana.com
 0.0.0.0 web.lsse.net
 0.0.0.0 webmail.carte-gr.total.fr

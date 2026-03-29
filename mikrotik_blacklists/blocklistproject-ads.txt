@@ -10090,6 +10090,7 @@
 0.0.0.0 abercrombie.evergage.com
 0.0.0.0 abeyantmedia.offerstrack.net
 0.0.0.0 abfcfxfkzmiqht.com
+0.0.0.0 abgeobalancer.com
 0.0.0.0 abgroupaclient.perimeterx.net
 0.0.0.0 abhitest.2cnt.net
 0.0.0.0 abidinglynsygto.download
@@ -24774,6 +24775,7 @@
 0.0.0.0 addcontrol.net
 0.0.0.0 adddpc01.ru
 0.0.0.0 addealing.com
+0.0.0.0 addelive.com
 0.0.0.0 addenly.info
 0.0.0.0 addeppo.com
 0.0.0.0 addesk.advertising.com
@@ -25039,6 +25041,7 @@
 0.0.0.0 adhitprofits.com
 0.0.0.0 adhoc.zedo.com
 0.0.0.0 adhoc2.net
+0.0.0.0 adhoc4.net
 0.0.0.0 adhocmedia-d.openx.net
 0.0.0.0 adhome.biz
 0.0.0.0 adhost.com
@@ -28068,6 +28071,7 @@
 0.0.0.0 adservme.com
 0.0.0.0 adservme.g2afse.com
 0.0.0.0 adservpi.com
+0.0.0.0 adservr.de
 0.0.0.0 adservr.net
 0.0.0.0 adserwer.afilo.pl
 0.0.0.0 adsever.cxad.cxense.com
@@ -28167,6 +28171,7 @@
 0.0.0.0 adsopedia.go2cloud.org
 0.0.0.0 adsopx.com
 0.0.0.0 adsoss.gzfingertip.cn
+0.0.0.0 adsovo.com
 0.0.0.0 adsp.com
 0.0.0.0 adsp.ilse.nl
 0.0.0.0 adspace.ro
@@ -29686,6 +29691,7 @@
 0.0.0.0 ajewishgift.com
 0.0.0.0 ajfziqehnwvz.com
 0.0.0.0 ajgffcat.com
+0.0.0.0 ajillionmax.com
 0.0.0.0 ajinomoto.d1.sc.omtrdc.net
 0.0.0.0 ajizjpjkrnh.com
 0.0.0.0 ajjhtetv87.com
@@ -29846,6 +29852,7 @@
 0.0.0.0 alchemy-staging.conversantmedia.com
 0.0.0.0 alchemy.andbeyond.media
 0.0.0.0 alchemynteryield.jmp9.com
+0.0.0.0 alchemysocial.com
 0.0.0.0 alchemyworldwide.tt.omtrdc.net
 0.0.0.0 alciqcnfnhhs.c.richmetrics.com
 0.0.0.0 alcoa.co1.qualtrics.com
@@ -30053,6 +30060,7 @@
 0.0.0.0 alphacash.biz
 0.0.0.0 alphafinancialservices.net
 0.0.0.0 alphagirlz.mobi
+0.0.0.0 alphagodaddy.com
 0.0.0.0 alpinedrct.com
 0.0.0.0 alpint.adgear.com
 0.0.0.0 alpstag.adgear.com
@@ -30114,6 +30122,7 @@
 0.0.0.0 altpool.pro
 0.0.0.0 altpubli.com
 0.0.0.0 altria.demdex.net
+0.0.0.0 altrk.net
 0.0.0.0 altuntuval.com
 0.0.0.0 altura.speedera.net
 0.0.0.0 altusalliance.actonsoftware.com
@@ -30193,6 +30202,7 @@
 0.0.0.0 amazingfunnvideos.com
 0.0.0.0 amazinglyjvrucwx.download
 0.0.0.0 amazingvacationhotels.com
+0.0.0.0 amazon-cornerstone.com
 0.0.0.0 amazon-faq23szhkghk0d1uf.netdna-ssl.com
 0.0.0.0 amazon.poxo.com
 0.0.0.0 amazon.vrvm.com
@@ -30745,7 +30755,9 @@
 0.0.0.0 andinst2.actonsoftware.com
 0.0.0.0 andite.tk
 0.0.0.0 anditenatin.com
+0.0.0.0 andohs.net
 0.0.0.0 andoidtraffic.ru
+0.0.0.0 andomediagroup.com
 0.0.0.0 andrectesit.ru
 0.0.0.0 andreev.justclick.ru
 0.0.0.0 android-hilfe.de.intellitxt.com
@@ -33002,6 +33014,7 @@
 0.0.0.0 au.youmi.net
 0.0.0.0 au1.flamingtext.com
 0.0.0.0 au1.qualtrics.com
+0.0.0.0 au2m8.com
 0.0.0.0 auaop.com
 0.0.0.0 aubhiple2.com
 0.0.0.0 aubmolods.com
@@ -35986,6 +35999,7 @@
 0.0.0.0 bigbarn.ojrq.net
 0.0.0.0 bigblu-france.pxf.io
 0.0.0.0 bigblueparrot.optimove.net
+0.0.0.0 bigchoicegroup.com
 0.0.0.0 bigcommerce.evyy.net
 0.0.0.0 bigdata.g60.letvlb.com
 0.0.0.0 bigdate.biz
@@ -36767,6 +36781,7 @@
 0.0.0.0 bonusbitcoin.co
 0.0.0.0 bonusfapturbo.com
 0.0.0.0 bonxsqstn.com
+0.0.0.0 bonzai.ad
 0.0.0.0 bonzbuddy.com
 0.0.0.0 bonzibuddi.com
 0.0.0.0 bonzuna.com
@@ -37099,6 +37114,7 @@
 0.0.0.0 bre.eu.qualtrics.com
 0.0.0.0 bre.fyber.com
 0.0.0.0 breadapp.com
+0.0.0.0 breadpro.com
 0.0.0.0 breakingfeedz.com
 0.0.0.0 breakingnews2018.info
 0.0.0.0 breaksurvey.com
@@ -39637,6 +39653,7 @@
 0.0.0.0 calvinklein.adlegend.com
 0.0.0.0 calvinklein.btttag.com
 0.0.0.0 cam4tracking.com
+0.0.0.0 camads.net
 0.0.0.0 camakaroda.com
 0.0.0.0 camalbbuy.online
 0.0.0.0 camance.offerstrack.net
@@ -41383,6 +41400,8 @@
 0.0.0.0 ch2lb.checkm8.com
 0.0.0.0 chabg.top
 0.0.0.0 chachatool.com
+0.0.0.0 chachors.net
+0.0.0.0 chaghets.net
 0.0.0.0 chagnavstretchy.mirtesen.ru
 0.0.0.0 chaicdn.tk
 0.0.0.0 chainblock.science

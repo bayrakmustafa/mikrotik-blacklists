@@ -37,6 +37,7 @@
 0.0.0.0 cbox.im
 0.0.0.0 cdn.geni.us
 0.0.0.0 cdn.personaclick.com
+0.0.0.0 cdn.thequin.ai
 0.0.0.0 cdn-au.onetrust.com
 0.0.0.0 ciqepxipgs.com
 0.0.0.0 cmp.inmobi.com
@@ -103,6 +104,7 @@
 0.0.0.0 p.hgfdtujlknhkghf.site
 0.0.0.0 p8zh.adj.st
 0.0.0.0 parksoftreklam.com
+0.0.0.0 pisano.com.tr
 0.0.0.0 plat-form-vakif-onlinereklam-com.tk
 0.0.0.0 platform-onlinereklam-vakif-com.tk
 0.0.0.0 player.apester.com
@@ -140,7 +142,6 @@
 0.0.0.0 sahibindenalisveris-trparanguvende-mobildepartmani.com
 0.0.0.0 sap-traffic.com
 0.0.0.0 sbhreklamvakti.net
-0.0.0.0 sdk.postscrip.io
 0.0.0.0 showbet205.com
 0.0.0.0 snssdk1340.onelink.me
 0.0.0.0 srvccc.fish91826twenty.ga

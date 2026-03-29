@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 5,757
-# Updated: 3/18/2026  13:02 (1:02 PM CST)
+# Domains: 5,765
+# Updated: 3/26/2026  11:59 (11:59 AM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -383,6 +383,7 @@
 0.0.0.0 alibuy.click
 0.0.0.0 alibuy.live
 0.0.0.0 alicedeals.com
+0.0.0.0 alice-w.com
 0.0.0.0 alie.kr
 0.0.0.0 alien-traffic.com
 0.0.0.0 alientraffic.com
@@ -660,9 +661,11 @@
 0.0.0.0 biastonu.com
 0.0.0.0 bibl.es
 0.0.0.0 bibomart.live
+0.0.0.0 bigbigwinjiliwin63.online
 0.0.0.0 bigcc.cc
 0.0.0.0 biggo.tw
 0.0.0.0 bigmikebphx.live
+0.0.0.0 bigwinjiliwin63.online
 0.0.0.0 biibly.com
 0.0.0.0 biltiy.com
 0.0.0.0 binancetransactionf077171f1gl1od17ro1asecure.life
@@ -941,6 +944,7 @@
 0.0.0.0 cfcpz.sbs
 0.0.0.0 cfg.me
 0.0.0.0 c-fields-d.life
+0.0.0.0 cgatx.com
 0.0.0.0 cgreend.life
 0.0.0.0 cgyw.info
 0.0.0.0 chadkoesterincs.life
@@ -3139,6 +3143,7 @@
 0.0.0.0 mysl.nl
 0.0.0.0 mysurl.com
 0.0.0.0 mytat.me
+0.0.0.0 mytci.net
 0.0.0.0 mytd.cc
 0.0.0.0 my-testosterone-reviews.com
 0.0.0.0 mytiktok.life
@@ -4339,6 +4344,7 @@
 0.0.0.0 sms.club
 0.0.0.0 sm-s.in
 0.0.0.0 sms-my.com
+0.0.0.0 smst.ca
 0.0.0.0 smurl.fr
 0.0.0.0 smurl.link
 0.0.0.0 snapadd.net
@@ -4382,6 +4388,7 @@
 0.0.0.0 spidz.xyz
 0.0.0.0 spotifypigeon.live
 0.0.0.0 sprk.it
+0.0.0.0 sprkt.io
 0.0.0.0 spr.ly
 0.0.0.0 sproutingdiscipleship.com
 0.0.0.0 spx.re
@@ -5327,6 +5334,7 @@
 0.0.0.0 wee.so
 0.0.0.0 weeste.llc
 0.0.0.0 wee.wtf
+0.0.0.0 weewz.me
 0.0.0.0 wejdz.do
 0.0.0.0 wellnessreview.us
 0.0.0.0 wenk.io

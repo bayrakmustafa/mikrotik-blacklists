@@ -1,5 +1,5 @@
 # Easylist, parsed and mirrored by https://firebog.net
-# Updated 20MAR26 from https://easylist.to/easylist/easylist.txt
+# Updated 27MAR26 from https://easylist.to/easylist/easylist.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -9,51 +9,50 @@
 
 0.0.0.0 ad.moe.video
 0.0.0.0 alitems.com
-0.0.0.0 anacarahunts.cyou
-0.0.0.0 antiquavotary.cyou
-0.0.0.0 arbovkqarkm.in
+0.0.0.0 amatolsfoldure.cfd
 0.0.0.0 asg.prettytube.net
 0.0.0.0 auditude.com
-0.0.0.0 b2z7cv7hy4upnz.rest
-0.0.0.0 bahaymulley.com
-0.0.0.0 bertapert.com
-0.0.0.0 besetmetaphxat.cfd
+0.0.0.0 baroihaunchywauch.qpon
+0.0.0.0 boffcutter.qpon
 0.0.0.0 buyeasy.by
 0.0.0.0 cdn.hamwo.cloud
-0.0.0.0 chiefswipercoble.cfd
-0.0.0.0 christpaid.cyou
-0.0.0.0 comlquina.com
 0.0.0.0 cpm.appocean.media
+0.0.0.0 depotfrigage.qpon
 0.0.0.0 engine.eroge.com
-0.0.0.0 er9585w5njh5zr41u23o.cfd
 0.0.0.0 f5w.prettytube.net
+0.0.0.0 faughcampe.qpon
+0.0.0.0 feuagediapnoe.cyou
 0.0.0.0 go.bloxplay.com
-0.0.0.0 hailsdepoh.cfd
+0.0.0.0 gsxytzcnwtyht.online
 0.0.0.0 imasdk.googleapis.com
-0.0.0.0 jaildomhexace.shop
-0.0.0.0 jettonpeeredodalman.cyou
+0.0.0.0 jbalnemwgxsbp.space
 0.0.0.0 link.link.ru
 0.0.0.0 loadercdn.com
 0.0.0.0 monetag.com
+0.0.0.0 mrojeihalqsyl.online
 0.0.0.0 mweb-hb.presage.io
-0.0.0.0 nwpgavfr.com
-0.0.0.0 outroarberne.cyou
+0.0.0.0 ooscopeearlobe.qpon
 0.0.0.0 pips.taboola.com
 0.0.0.0 pirogad.tophosting101.com
 0.0.0.0 prebid.cwi.re
 0.0.0.0 proto2ad.durasite.net
-0.0.0.0 restrainfannylimb.com
+0.0.0.0 reknotpiratry.cyou
+0.0.0.0 ruotvwvvkhexn.com
+0.0.0.0 sagevatic.qpon
 0.0.0.0 srv.tunefindforfans.com
 0.0.0.0 sync.gsyndication.com
 0.0.0.0 targeting.vdo.ai
-0.0.0.0 tchaicolumna.cfd
-0.0.0.0 traffmgnt.name
+0.0.0.0 tazzasbustles.cfd
+0.0.0.0 teeming-comfortable.com
 0.0.0.0 unpin.hothomefuck.com
-0.0.0.0 vacuuahomonid.cfd
 0.0.0.0 vi1.prettytube.net
 0.0.0.0 videoplaza.tv
-0.0.0.0 wnwccsuyrll.com
+0.0.0.0 vipavkacrfujf.online
+0.0.0.0 wickenfilets.cfd
 0.0.0.0 wpnrtnmrewunrtok.xyz
-0.0.0.0 xujpwawufmce.in
-0.0.0.0 yscjkhowwo.com
-0.0.0.0 zinkghoster.cfd
+0.0.0.0 wygcjzjkryxfv.site
+0.0.0.0 yccsuvitctcyc.site
+0.0.0.0 yrixtfepqyfqx.site
+0.0.0.0 ytfikvbmz.com
+0.0.0.0 yyqrofyyvjfyo.space
+0.0.0.0 zlhtzcopykuvb.space

@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 26,154
-# Updated: 3/19/2026  18:42 (6:42 PM CST)
+# Domains: 26,317
+# Updated: 3/27/2026  15:50 (3:50 PM CST)
 #
 0.0.0.0 0063450bb8e5e3369eauthorized-choice.pro
 0.0.0.0 03ab2paradisecdn.com
@@ -528,12 +528,12 @@
 0.0.0.0 aaaaa266.com
 0.0.0.0 aaaaa662.com
 0.0.0.0 aaaaa855.com
+0.0.0.0 aaaacdn.com
 0.0.0.0 aaagency.ae
 0.0.0.0 a.aahen.site
 0.0.0.0 aa.at
 0.0.0.0 aa.birdgesdk.com
 0.0.0.0 a.ablat.site
-0.0.0.0 a.abres.xyz
 0.0.0.0 aabtest.asg-media.com
 0.0.0.0 aab.z030z.com
 0.0.0.0 aaca.online
@@ -557,13 +557,11 @@
 0.0.0.0 a.andropps.us
 0.0.0.0 aapliweb.com
 0.0.0.0 a.apyarvideo.xyz
-0.0.0.0 a.aramb.site
 0.0.0.0 a.ardont.xyz
 0.0.0.0 a.arkox.site
 0.0.0.0 aarmusa.com
 0.0.0.0 aarthpro.com
 0.0.0.0 aasthaad.com.np
-0.0.0.0 a.atrem.site
 0.0.0.0 a.atris.xyz
 0.0.0.0 aatv.co
 0.0.0.0 aavalue.com
@@ -607,7 +605,6 @@
 0.0.0.0 abc.superbet.rs
 0.0.0.0 ab.dickblick.com
 0.0.0.0 abeagle-public.buzzfeed.com
-0.0.0.0 a.bedont.xyz
 0.0.0.0 abeeb.online
 0.0.0.0 a.belom.site
 0.0.0.0 abelsontaylor.com
@@ -644,8 +641,6 @@
 0.0.0.0 a.brani.site
 0.0.0.0 a.brasov.net
 0.0.0.0 a.brauwelt.com
-0.0.0.0 a.breka.fit
-0.0.0.0 a.brene.site
 0.0.0.0 a.broim.xyz
 0.0.0.0 a.bronca.site
 0.0.0.0 abs.devicemed.dev
@@ -655,7 +650,6 @@
 0.0.0.0 absolutelyadvertising.com
 0.0.0.0 abtest.conteudo.uol
 0.0.0.0 abt.etherscan.com
-0.0.0.0 a.btrem.site
 0.0.0.0 a.bumog.xyz
 0.0.0.0 abw.fraza.ua
 0.0.0.0 abxxba.online
@@ -894,6 +888,7 @@
 0.0.0.0 adartsadvertising.com
 0.0.0.0 adarts.com
 0.0.0.0 adaseve.com
+0.0.0.0 adasgmp.cc
 0.0.0.0 adasgxsp.cc
 0.0.0.0 adashu.com
 0.0.0.0 adasia.my
@@ -2325,6 +2320,7 @@
 0.0.0.0 ads.elpasoheraldpost.com
 0.0.0.0 ads.eltiempo.co
 0.0.0.0 adsemble.com
+0.0.0.0 adsemirate.com
 0.0.0.0 ads.e-m-m-o.com
 0.0.0.0 adsemo.com
 0.0.0.0 ads.emolus.com
@@ -2995,6 +2991,7 @@
 0.0.0.0 ads.everquote.com
 0.0.0.0 ads.everything24.net
 0.0.0.0 ads.every.tv
+0.0.0.0 adsexo.com
 0.0.0.0 adsexpert.net
 0.0.0.0 ads.extrajaen.com
 0.0.0.0 ads.extremaduranegocios.com
@@ -4823,6 +4820,7 @@
 0.0.0.0 afzhul.site
 0.0.0.0 ag0oir9f.de
 0.0.0.0 agahpush.com
+0.0.0.0 agajx.com
 0.0.0.0 agamaadvertising.com
 0.0.0.0 agavanilliteom.com
 0.0.0.0 agcdn.auction.com
@@ -5039,6 +5037,7 @@
 0.0.0.0 a.labadena.com
 0.0.0.0 a.lakmus.xyz
 0.0.0.0 alaknandaindia.com
+0.0.0.0 alalos.com
 0.0.0.0 alan.sa
 0.0.0.0 alanwoodmarketing.com
 0.0.0.0 alaoena.xyz
@@ -5105,6 +5104,7 @@
 0.0.0.0 alspearowa.com
 0.0.0.0 altitudedigital.com.au
 0.0.0.0 altkraft.com
+0.0.0.0 altruisticminute.com
 0.0.0.0 altwebpush.com
 0.0.0.0 aluhutmafia.de
 0.0.0.0 alwayssecureadv.com
@@ -5145,6 +5145,7 @@
 0.0.0.0 amolio.fubo.tv
 0.0.0.0 a.moninas.store
 0.0.0.0 a.montafp.top
+0.0.0.0 ampcr.io
 0.0.0.0 amperagemarketing.com
 0.0.0.0 ampfeed.com
 0.0.0.0 ample-beat.pro
@@ -5504,6 +5505,7 @@
 0.0.0.0 atovub.com
 0.0.0.0 atozadvert.ae
 0.0.0.0 atozadvertising.com
+0.0.0.0 atozcityads.com
 0.0.0.0 a.trusa.xyz
 0.0.0.0 attekmi.com
 0.0.0.0 attendthinktank.com
@@ -5837,6 +5839,7 @@
 0.0.0.0 bcc-ssp.com
 0.0.0.0 bce924fa02fa.ru
 0.0.0.0 bcgccjhgbehjecihfah.world
+0.0.0.0 bcifcdcgciaigbbffah.world
 0.0.0.0 b.cinvetica.com
 0.0.0.0 bc-news2.ru
 0.0.0.0 bcnmonetize.com
@@ -5882,6 +5885,7 @@
 0.0.0.0 beesocialmarketing.co.uk
 0.0.0.0 beeviewd.com
 0.0.0.0 be.forklift.de
+0.0.0.0 begbjfecjaddbcehaai.world
 0.0.0.0 behaveapi.wpengine.com
 0.0.0.0 behavioral-banner.com
 0.0.0.0 behavioralbanner.com
@@ -5919,8 +5923,10 @@
 0.0.0.0 bestadagency.in
 0.0.0.0 bestadserve.com
 0.0.0.0 bestadsrv.com
+0.0.0.0 bestcontentfee.top
 0.0.0.0 bestcontenthost.com
 0.0.0.0 bestcontentnetwork.top
+0.0.0.0 bestcontentprogram.top
 0.0.0.0 best-cream.pro
 0.0.0.0 bestdeals.at
 0.0.0.0 bestmediapublicity.com
@@ -5951,14 +5957,17 @@
 0.0.0.0 bgajeddhdcjhbijhgaj.world
 0.0.0.0 bgal4349.de
 0.0.0.0 bgcdn.work
+0.0.0.0 bgdighfjfcfhgdhicaj.world
 0.0.0.0 b.getoutfrom.com
 0.0.0.0 bgkecb.com
 0.0.0.0 bgynsr.com
 0.0.0.0 b.hbidapp.com
 0.0.0.0 bhidaabhjcagahachaba.world
+0.0.0.0 bhnnop.com
 0.0.0.0 bhumido.com
 0.0.0.0 biancaenero.com
 0.0.0.0 bibbmedia.com
+0.0.0.0 bibfdjhgbeicbfajiaba.world
 0.0.0.0 bicytaxi.com
 0.0.0.0 bid4keywords.com
 0.0.0.0 bidbuddy.co.in
@@ -6053,6 +6062,7 @@
 0.0.0.0 bj.1010jz.com
 0.0.0.0 bj1052.online
 0.0.0.0 bjfgfgjifbbejfaiaabb.world
+0.0.0.0 bjjcbbjchhagggebdabb.world
 0.0.0.0 bjmweb.com
 0.0.0.0 bjpql.com
 0.0.0.0 bk4ad.club
@@ -6131,6 +6141,7 @@
 0.0.0.0 bn.co
 0.0.0.0 bndozm.com
 0.0.0.0 bnlif.com
+0.0.0.0 bnmkl.com
 0.0.0.0 bnmmnb.online
 0.0.0.0 bnrs-engine.shoop.de
 0.0.0.0 bnrs.esexa.online
@@ -6187,6 +6198,7 @@
 0.0.0.0 boostr.co.uk
 0.0.0.0 booyahadvertising.com
 0.0.0.0 borczdixon.com
+0.0.0.0 borhaj.com
 0.0.0.0 bossmanmedia.com.au
 0.0.0.0 bossyinternal.pro
 0.0.0.0 bostonglobemedia.com
@@ -6289,6 +6301,7 @@
 0.0.0.0 bs-advertising.com
 0.0.0.0 bsjgvtq.com
 0.0.0.0 b.slipstick.com
+0.0.0.0 bssaly.com
 0.0.0.0 bstigg.com
 0.0.0.0 btacreates.com
 0.0.0.0 b.tangible.net.nz
@@ -6471,6 +6484,8 @@
 0.0.0.0 cav.ai
 0.0.0.0 cavernousmost.pro
 0.0.0.0 cavernous-standard.pro
+0.0.0.0 cayocbdc.io
+0.0.0.0 cayo.earth
 0.0.0.0 cayo.global
 0.0.0.0 cayo.pro
 0.0.0.0 cayo.services
@@ -7326,6 +7341,7 @@
 0.0.0.0 crowlinc.com
 0.0.0.0 crrecommendedmark.org
 0.0.0.0 crt.kosovajob.com
+0.0.0.0 crto.vip
 0.0.0.0 crucialinteractive.com
 0.0.0.0 cruel-tongue.pro
 0.0.0.0 crushingconflict.pro
@@ -7385,6 +7401,7 @@
 0.0.0.0 cybershop-affiliate.jp
 0.0.0.0 cybertronads.com
 0.0.0.0 cyber-z.co.jp
+0.0.0.0 cylindrical-presentation.com
 0.0.0.0 cyrusson.com
 0.0.0.0 d0.sina.com.cn
 0.0.0.0 d1272serve.xyz
@@ -7476,6 +7493,7 @@
 0.0.0.0 daopush.com
 0.0.0.0 daotag.com
 0.0.0.0 dapperdeal.pro
+0.0.0.0 dapperinflation.com
 0.0.0.0 dapper-public.pro
 0.0.0.0 darchermedia.com
 0.0.0.0 dark-inside.pro
@@ -7606,6 +7624,7 @@
 0.0.0.0 deqph.com
 0.0.0.0 deqwas.co.jp
 0.0.0.0 derangeddollars.com
+0.0.0.0 derbypops.com
 0.0.0.0 derg.de
 0.0.0.0 dervalio.com
 0.0.0.0 desabrator.com
@@ -7830,6 +7849,7 @@
 0.0.0.0 doubleclick.pro
 0.0.0.0 doubleclick.ru.com
 0.0.0.0 doubleclick.thirdparty.ooyala.com
+0.0.0.0 downloadkernel.com
 0.0.0.0 downloads1qwe.ru
 0.0.0.0 downright-administration.pro
 0.0.0.0 downright-training.pro
@@ -8131,9 +8151,11 @@
 0.0.0.0 enquirermedia.com
 0.0.0.0 enspyredigital.com
 0.0.0.0 entelia-adserver.com
+0.0.0.0 entrig.com
 0.0.0.0 entwined.co.ke
 0.0.0.0 enveromedia.com
 0.0.0.0 envicionstudio.com.my
+0.0.0.0 envious-concept.com
 0.0.0.0 envious-impact.pro
 0.0.0.0 enviousinevitable.com
 0.0.0.0 envisionx.co
@@ -8159,7 +8181,6 @@
 0.0.0.0 equal-engineer.pro
 0.0.0.0 equativ.com
 0.0.0.0 equatorialboy.pro
-0.0.0.0 equatorialquality.pro
 0.0.0.0 equatorial-statement.pro
 0.0.0.0 equityme.com
 0.0.0.0 erasercash.com
@@ -8233,7 +8254,6 @@
 0.0.0.0 exchange.consumabletv.com
 0.0.0.0 exchange-flow.com
 0.0.0.0 exchange-traffic.com
-0.0.0.0 excitedassist.pro
 0.0.0.0 excitingspring.pro
 0.0.0.0 exclk.com
 0.0.0.0 exee.online
@@ -8467,7 +8487,6 @@
 0.0.0.0 firstpage.app
 0.0.0.0 firstrate.com.au
 0.0.0.0 firstsportmedia.com
-0.0.0.0 fishingtoolsbox.com
 0.0.0.0 fitad.com
 0.0.0.0 fit-ad.jp
 0.0.0.0 fitravel.net
@@ -8567,6 +8586,7 @@
 0.0.0.0 frap.frap.site
 0.0.0.0 fraudnomore.com
 0.0.0.0 frayed-common.pro
+0.0.0.0 frayedindividual.com
 0.0.0.0 frazzleart.com
 0.0.0.0 freakyglass.com
 0.0.0.0 free-ad-network.martinstools.com
@@ -8650,6 +8670,7 @@
 0.0.0.0 funneledaffiliate.com
 0.0.0.0 funnelenvy.com
 0.0.0.0 funnelpush.jp
+0.0.0.0 funny-collar.com
 0.0.0.0 funnydust.pro
 0.0.0.0 funoverflow.com
 0.0.0.0 furnstudio.com
@@ -8797,7 +8818,9 @@
 0.0.0.0 ghbps.com
 0.0.0.0 ghcvpd.com
 0.0.0.0 ghgh.online
+0.0.0.0 ghostads.io
 0.0.0.0 ghostcash.com
+0.0.0.0 ghostwoodalbum.com
 0.0.0.0 ghvgb.com
 0.0.0.0 ghzfj.com
 0.0.0.0 giant-league.pro
@@ -10279,6 +10302,7 @@
 0.0.0.0 lndonclkds.com
 0.0.0.0 loadads.com
 0.0.0.0 loadpays.com
+0.0.0.0 loathsomedead.com
 0.0.0.0 loathsome-weakness.pro
 0.0.0.0 localad.homedepot.com
 0.0.0.0 localamericaonline.com
@@ -11115,9 +11139,11 @@
 0.0.0.0 my.vistaarts.xyz
 0.0.0.0 mywaymedia.co
 0.0.0.0 mywebwala.com
+0.0.0.0 mz2v.com
 0.0.0.0 mzmm.online
 0.0.0.0 mzulenef.com
 0.0.0.0 n0600.com
+0.0.0.0 n0tify.pro
 0.0.0.0 n100adserv.com
 0.0.0.0 n101adserv.com
 0.0.0.0 n102adserv.com
@@ -11338,7 +11364,6 @@
 0.0.0.0 nmm-use1-prod-alb-pbs-server-7563893.us-east-1.elb.amazonaws.com
 0.0.0.0 nn.1010jz.com
 0.0.0.0 nn11001.com
-0.0.0.0 nn125.com
 0.0.0.0 nnaisn.com
 0.0.0.0 no3agency.com
 0.0.0.0 nobbymedia.com
@@ -11777,6 +11802,7 @@
 0.0.0.0 outlinemedia.in
 0.0.0.0 outlyingagency.pro
 0.0.0.0 outpush.io
+0.0.0.0 outrageous-event.com
 0.0.0.0 outreachmedia.ca
 0.0.0.0 outstanding-table.pro
 0.0.0.0 outthereadvertising.com
@@ -11788,6 +11814,7 @@
 0.0.0.0 overcooked-count.com
 0.0.0.0 overcookedlog.pro
 0.0.0.0 overcookedrange.pro
+0.0.0.0 overdue-capital.com
 0.0.0.0 overkirliaan.com
 0.0.0.0 overmewer.com
 0.0.0.0 overview2.virtuagirl.com
@@ -11863,6 +11890,7 @@
 0.0.0.0 panishgene.pro
 0.0.0.0 pantherainteractive.com
 0.0.0.0 pantheranetwork.com
+0.0.0.0 panxostack.com
 0.0.0.0 paradisecdn.com
 0.0.0.0 paradisehill.pro
 0.0.0.0 paradoxgroup.co
@@ -12002,6 +12030,7 @@
 0.0.0.0 perfoserver.com
 0.0.0.0 perf-serving.com
 0.0.0.0 perhoj.no
+0.0.0.0 perkytip.com
 0.0.0.0 perl-ads.perlhacks.com
 0.0.0.0 permission.io
 0.0.0.0 permodo.net
@@ -13163,6 +13192,7 @@
 0.0.0.0 realsexcash.com
 0.0.0.0 realtyww.info
 0.0.0.0 reashr.com
+0.0.0.0 reasonablepie.com
 0.0.0.0 rebelai.com
 0.0.0.0 rebelinteractivegroup.com
 0.0.0.0 rebikuny.com
@@ -13184,6 +13214,7 @@
 0.0.0.0 redgeark.com
 0.0.0.0 red-gmbh.com
 0.0.0.0 rediffusion.in
+0.0.0.0 redirectly.click
 0.0.0.0 redir-v4.tidalspring.xyz
 0.0.0.0 redir.wargaming.net
 0.0.0.0 redllama.ru
@@ -13274,6 +13305,7 @@
 0.0.0.0 resonatesolutions.com.au
 0.0.0.0 respondmedia.co.uk
 0.0.0.0 responsemine.com
+0.0.0.0 responsible-partner.com
 0.0.0.0 restafari.org
 0.0.0.0 resurrect.club
 0.0.0.0 retail9.com
@@ -14619,6 +14651,7 @@
 0.0.0.0 softlight.online
 0.0.0.0 softwarerumble.com
 0.0.0.0 soggy-duty.com
+0.0.0.0 soggy-surround.com
 0.0.0.0 soggywinner.pro
 0.0.0.0 sogo-ad.jp
 0.0.0.0 sohonet.com
@@ -14735,6 +14768,7 @@
 0.0.0.0 sqm8kkf.de
 0.0.0.0 squidad.com
 0.0.0.0 squigglyindustry.pro
+0.0.0.0 squigglystar.com
 0.0.0.0 squinbested.com
 0.0.0.0 squren.com
 0.0.0.0 srax.com
@@ -14770,6 +14804,7 @@
 0.0.0.0 ssp-web-request.igaw.io
 0.0.0.0 ssp.zeasn.tv
 0.0.0.0 sszhan.oss-cn-shenzhen.aliyuncs.com
+0.0.0.0 stableapp.net
 0.0.0.0 stable-mom.pro
 0.0.0.0 stacash.com
 0.0.0.0 st.afreecatv.com
@@ -15194,6 +15229,7 @@
 0.0.0.0 testyschedule.pro
 0.0.0.0 tet9kpgq.de
 0.0.0.0 tetramedia.org
+0.0.0.0 texascityads.com
 0.0.0.0 texttech.mobi
 0.0.0.0 teza.igraard.xyz
 0.0.0.0 tfcash.com
@@ -15309,13 +15345,13 @@
 0.0.0.0 thinklabcomms.com
 0.0.0.0 thinknearhub.com
 0.0.0.0 thirdpresence.com
-0.0.0.0 thisassistant.pro
 0.0.0.0 thisisarray.com
 0.0.0.0 thisisglobal.com
 0.0.0.0 thismoment.com
 0.0.0.0 thisobject.pro
 0.0.0.0 thojodawi.pro
 0.0.0.0 thornybeach.pro
+0.0.0.0 thorny-newspaper.com
 0.0.0.0 thoroughbred-advertising.co.uk
 0.0.0.0 thoroughengineer.pro
 0.0.0.0 thosiwhicy.pro
@@ -15381,6 +15417,7 @@
 0.0.0.0 toninjaska.com
 0.0.0.0 ton.twimg.com
 0.0.0.0 toodles.itv.com
+0.0.0.0 toolaward.com
 0.0.0.0 tools.services.tvn.pl
 0.0.0.0 tools.vpscash.nl
 0.0.0.0 toonlead.com
@@ -15461,6 +15498,7 @@
 0.0.0.0 trafficcharm.com
 0.0.0.0 trafficclub.com
 0.0.0.0 trafficcompany.com
+0.0.0.0 trafficcore.online
 0.0.0.0 traffic-exchange-scripts.com
 0.0.0.0 trafficfactory.com
 0.0.0.0 traffic-gate.com
@@ -15546,6 +15584,7 @@
 0.0.0.0 trivialintention.com
 0.0.0.0 trivver.com
 0.0.0.0 trizoneindia.com
+0.0.0.0 trkbrso.com
 0.0.0.0 trkdefbmedia.eu
 0.0.0.0 trk.rev-stripe.com
 0.0.0.0 trndsttrs.media
@@ -15560,7 +15599,6 @@
 0.0.0.0 trueoptin.com
 0.0.0.0 truepushmail.com
 0.0.0.0 truesearchengine.com
-0.0.0.0 trueselfkeys.com
 0.0.0.0 trumpyourads.com
 0.0.0.0 trustbadge.shopclimb.com
 0.0.0.0 trustedstack.com
@@ -15938,7 +15976,6 @@
 0.0.0.0 videoads.newsy.com
 0.0.0.0 videobloom.com
 0.0.0.0 videobridge.tv
-0.0.0.0 video.cdnako.com
 0.0.0.0 videocdnfor.com
 0.0.0.0 videocdnmetrika10.com
 0.0.0.0 videocdnmetrika11.com
@@ -16223,6 +16260,7 @@
 0.0.0.0 warlikearm.pro
 0.0.0.0 warnermediasales.co.uk
 0.0.0.0 warp90.com
+0.0.0.0 warpedguidance.com
 0.0.0.0 warpedwaffle.com
 0.0.0.0 warroominc.com
 0.0.0.0 waryboot.pro
@@ -16376,6 +16414,7 @@
 0.0.0.0 whitespacecreatives.com
 0.0.0.0 whitestarmediainc.com
 0.0.0.0 whitethoughts.in
+0.0.0.0 white-vehicle.com
 0.0.0.0 whitevox.com
 0.0.0.0 whitewalk.eu
 0.0.0.0 whitewolf-advertising.com
@@ -16473,6 +16512,7 @@
 0.0.0.0 wiggly-bathroom.pro
 0.0.0.0 wigzo.com
 0.0.0.0 wigzopush.com
+0.0.0.0 wikiquotations.com
 0.0.0.0 wikiwakywoo.com
 0.0.0.0 wilafhhbdyewgbd.xyz
 0.0.0.0 wild-army.com
@@ -16513,8 +16553,10 @@
 0.0.0.0 wishabi.ca
 0.0.0.0 wishfi.com
 0.0.0.0 withmedinacom.com
+0.0.0.0 withsounds.com
 0.0.0.0 wixlsrv.com
 0.0.0.0 wizardclicks.com.au
+0.0.0.0 wizardstrategy.com
 0.0.0.0 wizio.io
 0.0.0.0 wkads.com
 0.0.0.0 wl-nl.livescorebet.com
@@ -16537,6 +16579,7 @@
 0.0.0.0 wordstreamcdn.com
 0.0.0.0 wordyhall.pro
 0.0.0.0 workey.se
+0.0.0.0 workwithdrones.com
 0.0.0.0 worldfamousinc.com
 0.0.0.0 worldly-main.pro
 0.0.0.0 worldoffersdaily.com
@@ -16556,6 +16599,7 @@
 0.0.0.0 wosool.com
 0.0.0.0 wovifohe.pro
 0.0.0.0 wow-ads.de
+0.0.0.0 wowboosters.com
 0.0.0.0 wowlnk.com
 0.0.0.0 wowyowapi.com
 0.0.0.0 woxcreative.com

@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Mar 2026 10:56 UTC
-# Version: 2026.0319.1056.59
+# Last modified: 28 Mar 2026 20:44 UTC
+# Version: 2026.0328.2044.40
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3952
+# Number of entries: 3955
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -211,6 +211,7 @@
 0.0.0.0 family.adguarddns.com
 0.0.0.0 unfiltered.adguarddns.com
 0.0.0.0 admir21.ru
+0.0.0.0 dns.adnull.com
 0.0.0.0 dns.adrianlam.com
 0.0.0.0 adguard.adrianofrongillo.ovh
 0.0.0.0 y3suyx0cg2lewi2dmn.advaitghaisas.in
@@ -1028,6 +1029,10 @@
 0.0.0.0 us01.dns4me.net
 0.0.0.0 us02.dns4me.net
 0.0.0.0 adguard-koe.dns64.de
+0.0.0.0 srv01.dns64.de
+0.0.0.0 srv02.dns64.de
+0.0.0.0 srv03.dns64.de
+0.0.0.0 srv04.dns64.de
 0.0.0.0 dns8.org
 0.0.0.0 ns1.recursive.dnsbycomodo.com
 0.0.0.0 2.dnscrypt-cert.shield-2.dnsbycomodo.com
@@ -1227,6 +1232,7 @@
 0.0.0.0 seoul.dnsovertor.cc
 0.0.0.0 dnspod.com
 0.0.0.0 dnssilo.top
+0.0.0.0 dns.dnssilo.top
 0.0.0.0 bilidon.dnsuser.info
 0.0.0.0 ns.dnsviewer.org
 0.0.0.0 adblock-dot.dnswarden.com
@@ -1371,7 +1377,6 @@
 0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 unixfox.duckdns.org
 0.0.0.0 wired-guardian.duckdns.org
-0.0.0.0 wisehomeguard.duckdns.org
 0.0.0.0 workcavestl.duckdns.org
 0.0.0.0 x-o-x.duckdns.org
 0.0.0.0 x861g.duckdns.org
@@ -1571,6 +1576,7 @@
 0.0.0.0 st.flyzhouyc.win
 0.0.0.0 yin.flyzhouyc.win
 0.0.0.0 gateway.fomichev.cloud
+0.0.0.0 dns.foximao.cn
 0.0.0.0 de-f1.foxyfy.net
 0.0.0.0 dns.foxyfy.net
 0.0.0.0 es-ma.foxyfy.net
@@ -1657,6 +1663,7 @@
 0.0.0.0 dns.ginovs.nl
 0.0.0.0 dns.girino.org
 0.0.0.0 dns.giriprabhat.com
+0.0.0.0 doh.ptqy.gitv.tv
 0.0.0.0 h.gjrick.tw
 0.0.0.0 sdns22.gkonuralp.com
 0.0.0.0 gl33tch.pro
@@ -1672,7 +1679,6 @@
 0.0.0.0 dns.api.staging.globuscs.info
 0.0.0.0 dns.api.test.globuscs.info
 0.0.0.0 agh.gloom.nexus
-0.0.0.0 dns.glorydns.com
 0.0.0.0 dns.glsoft.ai
 0.0.0.0 dns.gnb09.id
 0.0.0.0 moph.go.th
@@ -1977,7 +1983,6 @@
 0.0.0.0 adguard02.dns.infrapod.nl
 0.0.0.0 ingenmannsland.online
 0.0.0.0 ad.innet.id
-0.0.0.0 inoainoa.fun
 0.0.0.0 inpssh.online
 0.0.0.0 qlf-doh.inria.fr
 0.0.0.0 premiumtier-network.instadart.net
@@ -2225,7 +2230,6 @@
 0.0.0.0 br.servers.legat.ml
 0.0.0.0 externalmobiel.lekdijk.online
 0.0.0.0 sndkcuf.lekun.me
-0.0.0.0 lelux.fi
 0.0.0.0 dns.lepilleur.com
 0.0.0.0 dns.lermer.nl
 0.0.0.0 lesuo.top
@@ -2294,6 +2298,7 @@
 0.0.0.0 home.luther.io
 0.0.0.0 d.luwei.date
 0.0.0.0 dns.lvl-network.de
+0.0.0.0 dns.lvolland.fr
 0.0.0.0 orau.lz0724.com
 0.0.0.0 orjp4.lz0724.com
 0.0.0.0 addns1.m-it.ro

@@ -1,8 +1,8 @@
 #
 #    File: Tunnels
 #    Info: VPNs & Proxies
-# Domains: 1,008
-# Updated: 2/2/2026  09:11 (9:11 AM CST)
+# Domains: 1,009
+# Updated: 3/26/2026  18:44 (6:44 PM CST)
 #
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 0x3d.lu
@@ -248,6 +248,7 @@
 0.0.0.0 finchvpn.com
 0.0.0.0 fishproxy.com
 0.0.0.0 fixproxy.com
+0.0.0.0 flarevpn.digital
 0.0.0.0 flashpull.com
 0.0.0.0 flashput.net
 0.0.0.0 flashputon.net

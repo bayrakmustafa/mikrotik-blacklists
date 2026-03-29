@@ -1,8 +1,8 @@
 #
 #    File: Gambling
 #    Info: Casino, gambling, poker, etc.
-# Domains: 9,504
-# Updated: 3/19/2026  18:42 (6:42 PM CST)
+# Domains: 9,537
+# Updated: 3/27/2026  15:50 (3:50 PM CST)
 #
 0.0.0.0 0009casino.com
 0.0.0.0 000-online-casino.biz
@@ -1160,6 +1160,7 @@
 0.0.0.0 betinin-online-slots.com
 0.0.0.0 betininslots.com
 0.0.0.0 betirocasino.com
+0.0.0.0 betitor.com
 0.0.0.0 betivocasino.com
 0.0.0.0 bet-links.com
 0.0.0.0 betmgm.com
@@ -1385,6 +1386,7 @@
 0.0.0.0 blacklotuscasino.com
 0.0.0.0 blacklotuscasino.org
 0.0.0.0 blacklotuscasino.top
+0.0.0.0 blindluck99.io
 0.0.0.0 blogonlinecasinos.com
 0.0.0.0 blogsongambling.com
 0.0.0.0 blueberry-lefilm.com
@@ -3071,6 +3073,7 @@
 0.0.0.0 catcasino622.com
 0.0.0.0 catcasino64.com
 0.0.0.0 catcasino656.com
+0.0.0.0 catcasino662.com
 0.0.0.0 catcasino703.com
 0.0.0.0 catcasino723.com
 0.0.0.0 catcasino746.com
@@ -3346,6 +3349,7 @@
 0.0.0.0 dahibet66.com
 0.0.0.0 dahibet68.com
 0.0.0.0 dahibet69.com
+0.0.0.0 dahibet93.com
 0.0.0.0 dahibet98.com
 0.0.0.0 dallascasinoevent.com
 0.0.0.0 dama-casinos.com
@@ -4135,6 +4139,7 @@
 0.0.0.0 giris-glorycasino.com
 0.0.0.0 girpasacasino.com
 0.0.0.0 gjcasinogames.com
+0.0.0.0 gladiatorsbet35.com
 0.0.0.0 globalcasinogamble.com
 0.0.0.0 global-casino-gaming.com
 0.0.0.0 globalcasino.online
@@ -4907,6 +4912,7 @@
 0.0.0.0 kazino-casinox667.ru
 0.0.0.0 kbrbook247.com
 0.0.0.0 kcasino.org
+0.0.0.0 kent356.com
 0.0.0.0 kent370.com
 0.0.0.0 kent389.com
 0.0.0.0 kent407.com
@@ -4918,6 +4924,8 @@
 0.0.0.0 kent733.com
 0.0.0.0 kent735.com
 0.0.0.0 kent870.com
+0.0.0.0 kent906.com
+0.0.0.0 kent928.com
 0.0.0.0 kent932.com
 0.0.0.0 kentcasino-159.top
 0.0.0.0 kentcasinobiz.com
@@ -5289,6 +5297,7 @@
 0.0.0.0 lolly-bet666.com
 0.0.0.0 lolly-bet999.com
 0.0.0.0 lolly-bet.com
+0.0.0.0 lolocasino47.com
 0.0.0.0 lonacionline.ci
 0.0.0.0 londonpartypoker.com
 0.0.0.0 lonestarcasino.com
@@ -7368,8 +7377,24 @@
 0.0.0.0 rizzio51.io
 0.0.0.0 rizzio77.io
 0.0.0.0 rizzio.io
+0.0.0.0 robobet13.com
+0.0.0.0 robobet14.com
+0.0.0.0 robobet15.com
+0.0.0.0 robobet16.com
+0.0.0.0 robobet18.com
 0.0.0.0 robobet1.com
+0.0.0.0 robobet22.com
+0.0.0.0 robobet24.com
+0.0.0.0 robobet25.com
+0.0.0.0 robobet26.com
+0.0.0.0 robobet27.com
+0.0.0.0 robobet29.com
+0.0.0.0 robobet30.com
+0.0.0.0 robobet32.com
+0.0.0.0 robobet34.com
+0.0.0.0 robobet35.com
 0.0.0.0 robobet3.com
+0.0.0.0 robobet9.com
 0.0.0.0 robobet.com
 0.0.0.0 rock7.art
 0.0.0.0 rockbet99.com
@@ -7380,6 +7405,7 @@
 0.0.0.0 rocket-playcasino.com
 0.0.0.0 rocketplay.com
 0.0.0.0 rockwin247.com
+0.0.0.0 roibets62.com
 0.0.0.0 roibets77.com
 0.0.0.0 roketbetcasino.com
 0.0.0.0 rollersgambling.com
@@ -7830,6 +7856,7 @@
 0.0.0.0 spinfevercasinos.com
 0.0.0.0 spiniacasinoinformatie.nl
 0.0.0.0 spinia-casino.top
+0.0.0.0 spinnycasino33.com
 0.0.0.0 spinnycasino66.com
 0.0.0.0 spinpalaceflashcasino24.com
 0.0.0.0 spinquestcasino.info
@@ -7838,9 +7865,11 @@
 0.0.0.0 spinsup-casino.com
 0.0.0.0 spinsupcasino.com
 0.0.0.0 spinsupcasinos.com
+0.0.0.0 spintexas70.com
 0.0.0.0 spintimecasino.uk
 0.0.0.0 spinvoyagegame.com
 0.0.0.0 spinxgames.com
+0.0.0.0 spinzz218.com
 0.0.0.0 spinzz88.com
 0.0.0.0 spinzz.com
 0.0.0.0 sportingbet.com.cdn.cloudflare.net
@@ -9020,9 +9049,13 @@
 0.0.0.0 wegotcasinos.com
 0.0.0.0 weiss-casino.org
 0.0.0.0 wellington-casino.be
+0.0.0.0 weltbet23.com
 0.0.0.0 westvirginiacasinos.com
 0.0.0.0 westwingmgmgrand.com
 0.0.0.0 wetrixxx-casino.com
+0.0.0.0 wettson30.com
+0.0.0.0 wettson7.com
+0.0.0.0 wettson.com
 0.0.0.0 wewin.asia
 0.0.0.0 wheretoplaycasino.net
 0.0.0.0 wheretoplayslots.net
