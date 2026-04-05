@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 5,765
-# Updated: 3/26/2026  11:59 (11:59 AM CST)
+# Domains: 5,771
+# Updated: 4/3/2026  15:04 (3:04 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -800,6 +800,7 @@
 0.0.0.0 boxingtrip.com
 0.0.0.0 bpdmv.com
 0.0.0.0 bp-gc.in
+0.0.0.0 bpjames.com
 0.0.0.0 bpl.kr
 0.0.0.0 bprl.site
 0.0.0.0 bpvkv.top
@@ -973,6 +974,7 @@
 0.0.0.0 chop.ad
 0.0.0.0 chort.me
 0.0.0.0 ch.run
+0.0.0.0 chuchik.com
 0.0.0.0 chudaitrieuview.info
 0.0.0.0 c-hud-aixxx.life
 0.0.0.0 chudaixxx.life
@@ -1867,6 +1869,7 @@
 0.0.0.0 gt7.de
 0.0.0.0 gtrv.info
 0.0.0.0 gubdw.com
+0.0.0.0 guelist.com
 0.0.0.0 gumtr.ee
 0.0.0.0 g-url.cn
 0.0.0.0 gurl.pro
@@ -2395,6 +2398,7 @@
 0.0.0.0 kosniem79.life
 0.0.0.0 kppgay.com
 0.0.0.0 k-qr.com
+0.0.0.0 krdtss.com
 0.0.0.0 kriizuh-rig-09.info
 0.0.0.0 krishnaraosivaramas.life
 0.0.0.0 kristal777.us
@@ -3255,6 +3259,7 @@
 0.0.0.0 noreplyadmin.live
 0.0.0.0 nouvelavenircheznous.com
 0.0.0.0 nov.link
+0.0.0.0 nowgamejiliwin63.online
 0.0.0.0 nowlinks.net
 0.0.0.0 nowtrade.live
 0.0.0.0 nq7.us
@@ -3913,6 +3918,7 @@
 0.0.0.0 sanilac.gives
 0.0.0.0 santuy.fun
 0.0.0.0 sap.yt
+0.0.0.0 saudepetrobras.com
 0.0.0.0 savelnk.com
 0.0.0.0 savenoperarte.com
 0.0.0.0 savetub.com

@@ -63,6 +63,7 @@
 0.0.0.0 efilli.com
 0.0.0.0 frknseo.info
 0.0.0.0 getshar.es
+0.0.0.0 gigya.com
 0.0.0.0 glixaing.com
 0.0.0.0 grimex.net
 0.0.0.0 hellosmpl.com

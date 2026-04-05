@@ -31713,7 +31713,6 @@
 0.0.0.0 api2.segment.io
 0.0.0.0 api2.testrequest.info
 0.0.0.0 api2.thesearchagency.net
-0.0.0.0 api2.wshareit.com
 0.0.0.0 api211.thefilter.com
 0.0.0.0 api28.thetrafficstat.net
 0.0.0.0 api28.webovernet.com
@@ -36181,6 +36180,7 @@
 0.0.0.0 bitcoingenerator.club
 0.0.0.0 bitcoinloophole.co
 0.0.0.0 bitcoinm3.com
+0.0.0.0 bitcoinpara.de
 0.0.0.0 bitcoinrobotplus.top
 0.0.0.0 bitcoins.lc
 0.0.0.0 bitcoinsfor.me
@@ -73180,6 +73180,7 @@
 0.0.0.0 metrics.winsupersite.com
 0.0.0.0 metrics.wpm.neustar.biz
 0.0.0.0 metrics.yoc.com
+0.0.0.0 metrics.zales.com
 0.0.0.0 metricskey.net
 0.0.0.0 metricsupdater.adswizz.com
 0.0.0.0 metrika.lookmovie.ag

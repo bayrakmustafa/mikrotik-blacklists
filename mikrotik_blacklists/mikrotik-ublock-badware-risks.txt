@@ -15,10 +15,12 @@
 0.0.0.0 soft-hub.site
 0.0.0.0 qsshc.xyz
 0.0.0.0 ncracked.com
+0.0.0.0 dr-community.online
 0.0.0.0 up-community.wiki
 0.0.0.0 crackdo.online
 0.0.0.0 sonvupload.xyz
 0.0.0.0 stupdownloadf.com
+0.0.0.0 fapello.xyz
 0.0.0.0 lcskincarecenter.com
 0.0.0.0 modii.xyz
 0.0.0.0 yyqxjp.vip
@@ -30,6 +32,7 @@
 0.0.0.0 kaiun-com.com
 0.0.0.0 budhump.com
 0.0.0.0 humpbuds.com
+0.0.0.0 pfunding-01.com
 0.0.0.0 for-tg.com
 0.0.0.0 heart-uranai.com
 0.0.0.0 dosudosuo.com
@@ -37,6 +40,7 @@
 0.0.0.0 circle7-bd.com
 0.0.0.0 6xy-zg.com
 0.0.0.0 happy-matome.com
+0.0.0.0 recruit-gold.com
 0.0.0.0 emoti-on.com
 0.0.0.0 jinsei-undesu.com
 0.0.0.0 mirusiru.online
@@ -62,6 +66,7 @@
 0.0.0.0 ju6yid2e0tuq.com
 0.0.0.0 ty5r6a0atu5r.com
 0.0.0.0 xir6y7ey3ate.com
+0.0.0.0 elephant-904.com
 0.0.0.0 mmsefdrkcdpsrkdr-meaha.com
 0.0.0.0 nwberjyhruvqxswo-qxwne.com
 0.0.0.0 pcnhdukovmhslmie-vgrbx.com
@@ -82,6 +87,7 @@
 0.0.0.0 watchdjav.online
 0.0.0.0 heattercer.com
 0.0.0.0 viruswarning*.web.core.windows.net
+0.0.0.0 themagisk.com
 0.0.0.0 z-lib.id
 0.0.0.0 go-to-zlibrary.com
 0.0.0.0 akyr3h9x5mb.com
@@ -163,6 +169,7 @@
 0.0.0.0 azuki-*.vercel.app
 0.0.0.0 base-swap-frontend-*.vercel.app
 0.0.0.0 alienxchain*.pages.dev
+0.0.0.0 tariprotocol.com
 0.0.0.0 bullishapp.cc
 0.0.0.0 metamask*.webflow.io
 0.0.0.0 mertamask.com
@@ -216,6 +223,8 @@
 0.0.0.0 ncloud.icu
 0.0.0.0 saocloud.icu
 0.0.0.0 deepseek-aiassistant.com
+0.0.0.0 deepseeklogin.com
+0.0.0.0 deepseeklogins.com
 0.0.0.0 deepseekapk.download
 0.0.0.0 deepseekapp.download
 0.0.0.0 irs.gov.*.com
@@ -237,6 +246,7 @@
 0.0.0.0 thor-swap.xyz
 0.0.0.0 rndex.xyz
 0.0.0.0 kodiak-finance.org
+0.0.0.0 alpaca-flnance.com
 0.0.0.0 theuni-swap.com
 0.0.0.0 us-ledger.io
 0.0.0.0 electrummonero.com
@@ -249,6 +259,8 @@
 0.0.0.0 npnjs.com
 0.0.0.0 ncewb8eo.cloud
 0.0.0.0 pttavm.*.com.tr
+0.0.0.0 z-lib.ai
+0.0.0.0 z-library.cc
 0.0.0.0 kms-pico-download.com
 0.0.0.0 kmspico.icu
 0.0.0.0 kmspicoativador.org
@@ -271,6 +283,7 @@
 0.0.0.0 blocchecker*.pages.dev
 0.0.0.0 xblocklist*.pages.dev
 0.0.0.0 xsuki*.pages.dev
+0.0.0.0 xblockchecker*.pages.dev
 0.0.0.0 lastpassrecovery.com
 0.0.0.0 eslpromasters.com
 0.0.0.0 eslplayers.com
@@ -315,6 +328,7 @@
 0.0.0.0 kodiakfinance-kodiak-finance.com
 0.0.0.0 electrum-data.cc
 0.0.0.0 chicavora.com
+0.0.0.0 ff-info-online.com
 0.0.0.0 ff-exchahge.cyou
 0.0.0.0 curve.sbs
 0.0.0.0 v3-yearn.org
@@ -339,6 +353,7 @@
 0.0.0.0 helpwithledgerdevice.com
 0.0.0.0 scanledgerapi.com
 0.0.0.0 kyberswap-kyber-swap.com
+0.0.0.0 exodusl.com
 0.0.0.0 simpleswapp.com
 0.0.0.0 fusebox-elavon.org
 0.0.0.0 suitee-trezorrsuite.com
@@ -362,6 +377,7 @@
 0.0.0.0 changenow-exchange.org
 0.0.0.0 simplswap.org
 0.0.0.0 official-ledgrlive.com
+0.0.0.0 jup-dex.org
 0.0.0.0 srvclouds.com
 0.0.0.0 asliceza.org
 0.0.0.0 wploits.com
