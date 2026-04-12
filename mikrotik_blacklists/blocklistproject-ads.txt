@@ -9606,6 +9606,7 @@
 0.0.0.0 a637.casalemedia.com
 0.0.0.0 a638.casalemedia.com
 0.0.0.0 a639.casalemedia.com
+0.0.0.0 a63t9o1azf.com
 0.0.0.0 a640.casalemedia.com
 0.0.0.0 a641.casalemedia.com
 0.0.0.0 a642.casalemedia.com
@@ -10138,6 +10139,7 @@
 0.0.0.0 abrilmidia.d1.sc.omtrdc.net
 0.0.0.0 abroad.api.comm.intl.miui.com
 0.0.0.0 abrolog.ru
+0.0.0.0 abrts.pro
 0.0.0.0 abruptroad.com
 0.0.0.0 abs-cdn.org
 0.0.0.0 abs-v2.proxistore.com
@@ -24665,6 +24667,7 @@
 0.0.0.0 adbroo.com
 0.0.0.0 adbrook.com
 0.0.0.0 adbsc.krmobi.com
+0.0.0.0 adbsys.icu
 0.0.0.0 adbtc.top
 0.0.0.0 adbucks.com
 0.0.0.0 adbucksbeta.brandreachsys.com
@@ -41874,6 +41877,7 @@
 0.0.0.0 cimb.demdex.net
 0.0.0.0 cimcshjoue.com
 0.0.0.0 cimetrix.inmobi.com
+0.0.0.0 cimoghuk.net
 0.0.0.0 cimpmvccrg.bid
 0.0.0.0 cinarspa.com
 0.0.0.0 cinefique.com
@@ -42320,6 +42324,7 @@
 0.0.0.0 clickability.net
 0.0.0.0 clickability.org
 0.0.0.0 clickad.com.pl
+0.0.0.0 clickadin.com
 0.0.0.0 clickads.name
 0.0.0.0 clickadscounter.com
 0.0.0.0 clickafiliados.com.br
@@ -42701,6 +42706,7 @@
 0.0.0.0 cloudgz-ecs.gravityzone.bitdefender.comin.getclicky.com
 0.0.0.0 cloudhostbanner.com
 0.0.0.0 cloudiiv.com
+0.0.0.0 cloudioo.net
 0.0.0.0 cloudixconnection.com
 0.0.0.0 cloudmedia.gdn
 0.0.0.0 cloudns.com
@@ -48307,6 +48313,7 @@
 0.0.0.0 deja.com
 0.0.0.0 dejc6myevt9c3vpjaiuuida91gvla1516681422.nuid.imrworldwide.com
 0.0.0.0 deka.demdex.net
+0.0.0.0 del-del-ete.com
 0.0.0.0 del.blueadsrv.com
 0.0.0.0 del.icio.us
 0.0.0.0 del2cdn.cpmstar.com
@@ -48419,6 +48426,9 @@
 0.0.0.0 delivery2.trafficjunky.net
 0.0.0.0 delivery3.trafficjunky.net
 0.0.0.0 delivery4.trafficjunky.net
+0.0.0.0 delivery45.com
+0.0.0.0 delivery47.com
+0.0.0.0 delivery49.com
 0.0.0.0 delivery5.trafficjunky.net
 0.0.0.0 delivery6.trafficjunky.net
 0.0.0.0 delivery9.trafficjunky.net
@@ -49904,6 +49914,7 @@
 0.0.0.0 doodlemobile.com
 0.0.0.0 doodles.uc.cn
 0.0.0.0 doogleonduty.com
+0.0.0.0 doomail.org
 0.0.0.0 doopads.com
 0.0.0.0 doorman.msas.media.net
 0.0.0.0 doorout.evergage.com
@@ -50534,6 +50545,7 @@
 0.0.0.0 duct5ntjian71.cloudfront.net
 0.0.0.0 dude.connexity.net
 0.0.0.0 dudelsa.com
+0.0.0.0 duetads.com
 0.0.0.0 dueybqnkkhzdh.bid
 0.0.0.0 dufue2m4sondk.cloudfront.net
 0.0.0.0 duggiads.com
@@ -51021,6 +51033,7 @@
 0.0.0.0 eaffzvnyj.com
 0.0.0.0 eafl3.voluumtrk.com
 0.0.0.0 eafrkrerdftwvibxhqqljcyrcezsl1507517260.nuid.imrworldwide.com
+0.0.0.0 eagleapi.io
 0.0.0.0 eaglerivercu.com.102.112.2o7.net
 0.0.0.0 eahkxyuezqvx.com
 0.0.0.0 eaidabmuxbqy.com
@@ -51490,6 +51503,7 @@
 0.0.0.0 eeroo.frost-electric-supply.com
 0.0.0.0 eetho.cruisingsmallship.com
 0.0.0.0 eetseemp.net
+0.0.0.0 eetsooso.net
 0.0.0.0 eeuroparts.7eer.net
 0.0.0.0 eev-a.tlnk.io
 0.0.0.0 eexnoxqcmrja.com
@@ -51781,6 +51795,7 @@
 0.0.0.0 ele.2cnt.net
 0.0.0.0 eleconomista.d1.sc.omtrdc.net
 0.0.0.0 electect.offerstrack.net
+0.0.0.0 electnext.com
 0.0.0.0 electorelyjs.download
 0.0.0.0 electricfireplaces.7eer.net
 0.0.0.0 electromoney.ma
@@ -52369,6 +52384,7 @@
 0.0.0.0 eptum.com
 0.0.0.0 eptwulil.com
 0.0.0.0 eptztrhirt.com
+0.0.0.0 epu.sh
 0.0.0.0 epufck.mirtesen.ru
 0.0.0.0 epuppets.evyy.net
 0.0.0.0 epvhmxyqa.bid
@@ -52966,6 +52982,7 @@
 0.0.0.0 euwyhbib.com
 0.0.0.0 euxisszoyader.com
 0.0.0.0 euym8eel.club
+0.0.0.0 euz.net
 0.0.0.0 euzlyrzg.com
 0.0.0.0 ev.ads.pointroll.com
 0.0.0.0 ev.izooto.com
@@ -58044,6 +58061,7 @@
 0.0.0.0 getmyimg.online
 0.0.0.0 getmynumber.net
 0.0.0.0 getoffersdirect.go2cloud.org
+0.0.0.0 getoptad360.com
 0.0.0.0 getpaidtosurfthenetmoney.homestead.com
 0.0.0.0 getresponse.admitad.com
 0.0.0.0 getreview.browsee.io
@@ -65420,6 +65438,7 @@
 0.0.0.0 isreportde01.webtrekk.net
 0.0.0.0 issuu-d.openx.net
 0.0.0.0 ist.go2cloud.org
+0.0.0.0 istana-impian.com
 0.0.0.0 istana-impian2.net
 0.0.0.0 istana3.net
 0.0.0.0 istanaiklan.com
@@ -75918,6 +75937,7 @@
 0.0.0.0 nativeadx.net
 0.0.0.0 nativeleads.net
 0.0.0.0 nativeplaybook.triplelift.com
+0.0.0.0 nativepu.sh
 0.0.0.0 nativeremedies.evyy.net
 0.0.0.0 nativex-sdk.appspot.com
 0.0.0.0 nativexxx.com
@@ -84940,6 +84960,7 @@
 0.0.0.0 publir-d.openx.net
 0.0.0.0 publish.pizzazzemail.com
 0.0.0.0 publish.vidavee.com
+0.0.0.0 publish.web.id
 0.0.0.0 publish4.com
 0.0.0.0 publisher-demos.sharethrough.com
 0.0.0.0 publisher-home.prod.pub.pagefair.com
@@ -98388,7 +98409,9 @@
 0.0.0.0 thewebgemnetwork.com
 0.0.0.0 theweek-d.openx.net
 0.0.0.0 thewheelof.com
+0.0.0.0 thewhizproducts.com
 0.0.0.0 thewinesteward.com
+0.0.0.0 thewise.com
 0.0.0.0 thewrap-d.openx.net
 0.0.0.0 theylike.org
 0.0.0.0 thezebra.evyy.net

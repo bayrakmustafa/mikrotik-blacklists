@@ -27,7 +27,6 @@
 0.0.0.0 ads.yenimedya.net
 0.0.0.0 adserver.adklik.com.tr
 0.0.0.0 adshare3.freedocast.com
-0.0.0.0 aff2.gittigidiyor.com
 0.0.0.0 affiliatenetworkhq.com
 0.0.0.0 affiliates.scorbet12.com
 0.0.0.0 aj2373.online

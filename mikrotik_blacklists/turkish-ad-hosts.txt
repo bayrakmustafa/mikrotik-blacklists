@@ -17,7 +17,6 @@
 0.0.0.0 aksamreklami.net
 0.0.0.0 aksamvaktireklam.com
 0.0.0.0 aksamvaktimreklamsx.net
-0.0.0.0 allaboutsymbian.uk.intellitxt.com
 0.0.0.0 amareklamizm.ml
 0.0.0.0 amareklamizm.gq
 0.0.0.0 analytics-dev.bettermeter.com

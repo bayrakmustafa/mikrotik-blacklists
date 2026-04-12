@@ -1,5 +1,5 @@
 # Easylist, parsed and mirrored by https://firebog.net
-# Updated 03APR26 from https://easylist.to/easylist/easylist.txt
+# Updated 10APR26 from https://easylist.to/easylist/easylist.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7,43 +7,69 @@
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://github.com/easylist/easylist#list-issues
 
+0.0.0.0 acarineleanderhealth.cyou
 0.0.0.0 ad.moe.video
 0.0.0.0 alitems.com
+0.0.0.0 aposiasunfishoutbend.cyou
 0.0.0.0 asg.prettytube.net
+0.0.0.0 atgnuwovfxcu.in
 0.0.0.0 auditude.com
-0.0.0.0 bitterstupid.com
-0.0.0.0 bowknotunflaky.cfd
+0.0.0.0 brinkmarko.com
 0.0.0.0 buyeasy.by
 0.0.0.0 cdn.hamwo.cloud
-0.0.0.0 coontieprimmed.cfd
 0.0.0.0 cpm.appocean.media
-0.0.0.0 curacoababyish.cyou
+0.0.0.0 cxfcjimhg.com
+0.0.0.0 dawnzemu.in
+0.0.0.0 ebulusmulita.shop
 0.0.0.0 engine.eroge.com
 0.0.0.0 f5w.prettytube.net
+0.0.0.0 fnmlyxokigkgs.site
+0.0.0.0 gnjjeoxgntzki.website
 0.0.0.0 go.bloxplay.com
+0.0.0.0 hkywvkwuuosigqh.com
 0.0.0.0 imasdk.googleapis.com
+0.0.0.0 irwelafmgxuja.online
+0.0.0.0 jqabemjlgisej.website
+0.0.0.0 knfuooxe.com
+0.0.0.0 lbbopwtbctjbb.website
+0.0.0.0 lfpjjgdjttypa.website
+0.0.0.0 lhdggwqwbyndg.online
 0.0.0.0 link.link.ru
+0.0.0.0 lintersbern.qpon
 0.0.0.0 loadercdn.com
-0.0.0.0 loveedaciticticca.cyou
-0.0.0.0 melupstep.qpon
+0.0.0.0 mohardinomys.cyou
 0.0.0.0 monetag.com
 0.0.0.0 mweb-hb.presage.io
-0.0.0.0 namvpgwru.com
-0.0.0.0 ogaireencheck.shop
-0.0.0.0 oleronmussick.cyou
-0.0.0.0 oxidisetinter.cyou
+0.0.0.0 njzyjuwxi.com
+0.0.0.0 oejlgtggxswx.com
+0.0.0.0 p9b9j3w4leot6ulhnw1cgtt1.rest
+0.0.0.0 pgfoxwqwtjtxu.online
 0.0.0.0 pips.taboola.com
 0.0.0.0 pirogad.tophosting101.com
+0.0.0.0 ploughvolary.qpon
+0.0.0.0 polymnymoriscocrible.qpon
 0.0.0.0 prebid.cwi.re
 0.0.0.0 proto2ad.durasite.net
-0.0.0.0 rimpledshop.shop
-0.0.0.0 sewageslampoon.shop
+0.0.0.0 qkignhzgdktgh.online
+0.0.0.0 qtiokogebgvdu.space
+0.0.0.0 rectoscaunch.cfd
+0.0.0.0 rofmtislcwspd.site
+0.0.0.0 rzbysubusbyzc.online
+0.0.0.0 scaloniclammer.com
+0.0.0.0 somehowbandore.com
 0.0.0.0 srv.tunefindforfans.com
+0.0.0.0 swarmertendrac.cyou
 0.0.0.0 sync.gsyndication.com
-0.0.0.0 tadopccsmyx.com
+0.0.0.0 t6riol5563pyzlbqvnpiq1j3cbbn.cfd
 0.0.0.0 targeting.vdo.ai
-0.0.0.0 tophoussapient.shop
+0.0.0.0 tongactless.cyou
 0.0.0.0 unpin.hothomefuck.com
+0.0.0.0 vbeywdzjmxzzq.site
 0.0.0.0 vi1.prettytube.net
 0.0.0.0 videoplaza.tv
+0.0.0.0 whgfzhcfvhkos.site
+0.0.0.0 wmvnhaffvx.com
 0.0.0.0 wpnrtnmrewunrtok.xyz
+0.0.0.0 wrasseselamin.cyou
+0.0.0.0 xzfsmnjotique.online
+0.0.0.0 zkwaefehqtlx.com

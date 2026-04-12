@@ -14775,7 +14775,6 @@
 0.0.0.0 scripts.withcabin.com
 0.0.0.0 scripts.zeit.de
 0.0.0.0 scripttags.justuno.com
-0.0.0.0 scriptwrapper.com
 0.0.0.0 scroll.com
 0.0.0.0 sctclick2.com
 0.0.0.0 scw0.com
