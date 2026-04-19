@@ -10219,6 +10219,7 @@
 0.0.0.0 acb.gbc.criteo.com
 0.0.0.0 acb.gbc.criteo.net
 0.0.0.0 acbacb9c.ipt.aol.com
+0.0.0.0 acbp0020171456.page.tl
 0.0.0.0 acbrupozabmdc.com
 0.0.0.0 acbsearch.com
 0.0.0.0 acbsuicxkoyef.com
@@ -23011,6 +23012,7 @@
 0.0.0.0 ad.gt.doubleclick.net
 0.0.0.0 ad.hani.co.kr
 0.0.0.0 ad.highsearch.co.kr
+0.0.0.0 ad.hirekmedia.hu
 0.0.0.0 ad.hit.gemius.pl
 0.0.0.0 ad.hodomobile.com
 0.0.0.0 ad.hornymatches.com
@@ -30677,6 +30679,7 @@
 0.0.0.0 analytics.tercept.com
 0.0.0.0 analytics.theminersunion.com
 0.0.0.0 analytics.thethao247.org
+0.0.0.0 analytics.thingx.tv
 0.0.0.0 analytics.tiltingpoint.io
 0.0.0.0 analytics.toast.com
 0.0.0.0 analytics.traidnt.net
@@ -32822,6 +32825,7 @@
 0.0.0.0 astraid.affise.com
 0.0.0.0 astral.brightcove.com
 0.0.0.0 astree.be
+0.0.0.0 astrocash.org
 0.0.0.0 astrologiya.mirtesen.ru
 0.0.0.0 astroportal-de.intellitxt.com
 0.0.0.0 astroportal.de.intellitxt.com
@@ -60825,6 +60829,7 @@
 0.0.0.0 hitiz.com
 0.0.0.0 hitline.biz
 0.0.0.0 hitlink.com
+0.0.0.0 hitlnk.com
 0.0.0.0 hitlogger.com
 0.0.0.0 hitmarkerjobs.com
 0.0.0.0 hitmaze-counters.net
@@ -64545,6 +64550,7 @@
 0.0.0.0 infoweb-coolinfo.tk
 0.0.0.0 infra-ad.com
 0.0.0.0 infra.kissmetrics.com
+0.0.0.0 infra.systems
 0.0.0.0 infra44.smartadserver.com
 0.0.0.0 infrabooking.algolia.com
 0.0.0.0 infrashift.com
@@ -64905,6 +64911,7 @@
 0.0.0.0 interclubtorredelgreco.it
 0.0.0.0 intercom-assets.wootric.com
 0.0.0.0 intercomm01.backtrace.io
+0.0.0.0 interdfp.com
 0.0.0.0 interedy.info
 0.0.0.0 interesnie-recepti.mirtesen.ru
 0.0.0.0 interesnienovosti321.mirtesen.ru
@@ -66975,6 +66982,7 @@
 0.0.0.0 jugmedia-3.t.domdex.com
 0.0.0.0 jugmedia-6.t.domdex.com
 0.0.0.0 juiceads.net
+0.0.0.0 juiceadv.net
 0.0.0.0 juicero.7eer.net
 0.0.0.0 juicypussyclips.com
 0.0.0.0 juifl-bvnr9.ads.tremorhub.com
@@ -67874,6 +67882,7 @@
 0.0.0.0 kissmyads.com
 0.0.0.0 kissmyads.go2jump.org
 0.0.0.0 kisstesting.com
+0.0.0.0 kistutch.net
 0.0.0.0 kisvtclf.bid
 0.0.0.0 kit5hgver.com
 0.0.0.0 kitabanget.com
@@ -68008,7 +68017,6 @@
 0.0.0.0 klyunker.ru
 0.0.0.0 klzvkrzluqnx.com
 0.0.0.0 km-sea.net
-0.0.0.0 kma.biz
 0.0.0.0 kmalnsqvyygwe.com
 0.0.0.0 kmart.btttag.com
 0.0.0.0 kmbbqmrnso.com
@@ -68105,6 +68113,7 @@
 0.0.0.0 kohlenhydrate-tabellen.de.intellitxt.com
 0.0.0.0 kohls.btttag.com
 0.0.0.0 kohls.tt.omtrdc.net
+0.0.0.0 koindut.com
 0.0.0.0 koins.info
 0.0.0.0 koinser.in
 0.0.0.0 koiper.com
@@ -68182,6 +68191,7 @@
 0.0.0.0 kotengens.net
 0.0.0.0 kotou-online.net
 0.0.0.0 kouraija.net
+0.0.0.0 koutobey.net
 0.0.0.0 kovadat.ru
 0.0.0.0 kovglrrlpqum.com
 0.0.0.0 koviovius.com
@@ -69296,6 +69306,7 @@
 0.0.0.0 leleorix.ru
 0.0.0.0 lelexw.com
 0.0.0.0 lemfama.ru
+0.0.0.0 lemitsuz.net
 0.0.0.0 lemlist.clickcease.com
 0.0.0.0 lemoncurve.widget.criteo.com
 0.0.0.0 lemondrone.moengage.com
@@ -69362,6 +69373,7 @@
 0.0.0.0 lestujzrpeom.bid
 0.0.0.0 leszvphhnytpk.com
 0.0.0.0 letadnew.com
+0.0.0.0 letaikay.net
 0.0.0.0 letempsinforme.club
 0.0.0.0 letholedriving.co.za
 0.0.0.0 letilyadothejob.com
@@ -70082,6 +70094,7 @@
 0.0.0.0 lnjrawgb.com
 0.0.0.0 lnk.onthe.io
 0.0.0.0 lnkd.demdex.net
+0.0.0.0 lnkfast.com
 0.0.0.0 lnkgo.com
 0.0.0.0 lnkgt.com
 0.0.0.0 lnkxfer8.com
@@ -70653,6 +70666,7 @@
 0.0.0.0 lowndestdhlpcpo.download
 0.0.0.0 lowqnzsxtmvb.bid
 0.0.0.0 loxmetwdjrmh.com
+0.0.0.0 loxtk.com
 0.0.0.0 loyanali.mirtesen.ru
 0.0.0.0 loyola.co1.qualtrics.com
 0.0.0.0 lozo-cpg-general.t.domdex.com
@@ -70841,6 +70855,7 @@
 0.0.0.0 lt.info.lgsmartad.com
 0.0.0.0 lt.tritondigital.com
 0.0.0.0 ltaporjivped.com
+0.0.0.0 ltassrv.com.s3.amazonaws.com
 0.0.0.0 ltbnvsfzevox.com
 0.0.0.0 ltcrabbit.com
 0.0.0.0 ltctrain.com
@@ -72337,6 +72352,7 @@
 0.0.0.0 mb.marathonbet.com
 0.0.0.0 mb.moatads.commb.moatads.com
 0.0.0.0 mb.propellerads.com
+0.0.0.0 mb38.com
 0.0.0.0 mb871.voluumtrk.com
 0.0.0.0 mbaas.optimove.net
 0.0.0.0 mbajaazbqdzc.com
@@ -93245,7 +93261,6 @@
 0.0.0.0 somethodox.info
 0.0.0.0 sommelier.zdbb.net
 0.0.0.0 sommons.co
-0.0.0.0 somniture.theglobeandmail.com
 0.0.0.0 somnoy.com
 0.0.0.0 somoto.affise.com
 0.0.0.0 somoto.g2afse.com
@@ -93752,7 +93767,6 @@
 0.0.0.0 srcu.com
 0.0.0.0 srec6.m-pathy.com
 0.0.0.0 srec7.m-pathy.com
-0.0.0.0 srepdata.gannettdigital.com
 0.0.0.0 srezrzsyqrikab.com
 0.0.0.0 srf.wemfbox.ch
 0.0.0.0 srfahyucqytfcdtmkcnexih3sllph1511354112.nuid.imrworldwide.com
@@ -95623,7 +95637,6 @@
 0.0.0.0 stats.multimediaconcepts.nl.re.getclicky.com
 0.0.0.0 stats.music.xiaomi.com
 0.0.0.0 stats.mvilivestats.com
-0.0.0.0 stats.nascar.com
 0.0.0.0 stats.nba.com.edgekey.net
 0.0.0.0 stats.nekapuzer.at
 0.0.0.0 stats.netnorth.co.uk

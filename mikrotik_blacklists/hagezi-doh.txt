@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 12 Apr 2026 11:39 UTC
-# Version: 2026.0412.1139.32
+# Last modified: 19 Apr 2026 09:24 UTC
+# Version: 2026.0419.0924.02
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3948
+# Number of entries: 3940
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -394,7 +394,6 @@
 0.0.0.0 doh.azoris.ovh
 0.0.0.0 sradg.eastus.cloudapp.azure.com
 0.0.0.0 sradg2.eastus.cloudapp.azure.com
-0.0.0.0 kawpad.southeastasia.cloudapp.azure.com
 0.0.0.0 doh1.b-cdn.net
 0.0.0.0 doh2.b-cdn.net
 0.0.0.0 dns.b33.network
@@ -601,7 +600,6 @@
 0.0.0.0 dns.chunghwamc.com
 0.0.0.0 oraclejp2.chungyu.com
 0.0.0.0 c.cicitt.ch
-0.0.0.0 doh.cippapp.com
 0.0.0.0 family.canadianshield.cira.ca
 0.0.0.0 private.canadianshield.cira.ca
 0.0.0.0 protected.canadianshield.cira.ca
@@ -1318,7 +1316,6 @@
 0.0.0.0 andryk111.duckdns.org
 0.0.0.0 andrykarcew.duckdns.org
 0.0.0.0 armm.duckdns.org
-0.0.0.0 baksabal.duckdns.org
 0.0.0.0 blamb.duckdns.org
 0.0.0.0 cdzopi.duckdns.org
 0.0.0.0 chynik.duckdns.org
@@ -1528,7 +1525,6 @@
 0.0.0.0 dns.faze.dev
 0.0.0.0 ns0.fdn.fr
 0.0.0.0 ns1.fdn.fr
-0.0.0.0 dns.fdue.de
 0.0.0.0 agh.feblab.click
 0.0.0.0 dns1.feear.se
 0.0.0.0 dns2.feear.se
@@ -1540,7 +1536,6 @@
 0.0.0.0 2.dnscrypt-cert.ffmuc.net
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
-0.0.0.0 dns.fifux.be
 0.0.0.0 dns.filipccz.eu
 0.0.0.0 fimoshinckaya-federation.site
 0.0.0.0 home.firetiresinc.com
@@ -1947,7 +1942,6 @@
 0.0.0.0 ilmxs.com
 0.0.0.0 noads.imbuffering.com
 0.0.0.0 dns.imchristian.de
-0.0.0.0 immadnez7.ru
 0.0.0.0 dns.immanuelschaffer.de
 0.0.0.0 doh.immerda.ch
 0.0.0.0 http-dns.imoim.net
@@ -1961,6 +1955,7 @@
 0.0.0.0 adblock.indianets.net
 0.0.0.0 dns.indybanipal.com
 0.0.0.0 dns.inforlogia.com
+0.0.0.0 dns.infosec.xyz
 0.0.0.0 doh.infracell.net
 0.0.0.0 adguard.infrapod.nl
 0.0.0.0 adguard01.infrapod.nl
@@ -2947,7 +2942,6 @@
 0.0.0.0 dns.quickline.ch
 0.0.0.0 doh.quickline.ch
 0.0.0.0 dot.quickline.ch
-0.0.0.0 dns.quickso.cn
 0.0.0.0 dns.quiet.rocks
 0.0.0.0 ant.dns.qwer.pw
 0.0.0.0 dog.dns.qwer.pw
@@ -2969,7 +2963,6 @@
 0.0.0.0 ginnungagap.rabenhain.net
 0.0.0.0 adguard.rabmoor.cz
 0.0.0.0 dns.api.rackspacecloud.com
-0.0.0.0 raj.pw
 0.0.0.0 ns.ral9005.org
 0.0.0.0 dns.ramansarda.com
 0.0.0.0 doh.rasmusminde.dk
@@ -3147,6 +3140,7 @@
 0.0.0.0 dns.sheggi.ch
 0.0.0.0 dns.shimul.me
 0.0.0.0 do.shimul.me
+0.0.0.0 shitblocker.com
 0.0.0.0 adguard.shoupperuser.com
 0.0.0.0 dns.shrike.ru
 0.0.0.0 penetrator.shurakenas.ru
@@ -3197,6 +3191,7 @@
 0.0.0.0 adguardhome.softcloud.pe
 0.0.0.0 clientdns3.softcom.net
 0.0.0.0 myprivityvpn.softether.net
+0.0.0.0 solaxy.live
 0.0.0.0 wtbd02.solowalk.top
 0.0.0.0 ns.solutics.ec
 0.0.0.0 ns.solutionsbest.de

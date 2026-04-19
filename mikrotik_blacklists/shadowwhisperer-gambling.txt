@@ -1,8 +1,8 @@
 #
 #    File: Gambling
 #    Info: Casino, gambling, poker, etc.
-# Domains: 9,547
-# Updated: 4/8/2026  13:50 (1:50 PM CST)
+# Domains: 9,553
+# Updated: 4/13/2026  10:19 (10:19 AM CST)
 #
 0.0.0.0 0009casino.com
 0.0.0.0 000-online-casino.biz
@@ -265,7 +265,6 @@
 0.0.0.0 3malinacasino.com
 0.0.0.0 3reyescasino.com
 0.0.0.0 3reyescasino-mx.top
-0.0.0.0 3snet.co
 0.0.0.0 40laki.com
 0.0.0.0 411-casinos.net
 0.0.0.0 41laki.com
@@ -1651,7 +1650,9 @@
 0.0.0.0 casibom898.com
 0.0.0.0 casibom9000.com
 0.0.0.0 casibom900.com
+0.0.0.0 casibom9016.com
 0.0.0.0 casibom9046.com
+0.0.0.0 casibom9068.com
 0.0.0.0 casibom922.com
 0.0.0.0 casibom999.com
 0.0.0.0 casibom.com
@@ -7213,8 +7214,12 @@
 0.0.0.0 qqjilicasino.com
 0.0.0.0 qualitybingo.com
 0.0.0.0 r7casino30.com
+0.0.0.0 r7casino346.com
+0.0.0.0 r7casino348.com
+0.0.0.0 r7casino396.com
 0.0.0.0 r7casino407.com
 0.0.0.0 r7casino40.com
+0.0.0.0 r7casino503.com
 0.0.0.0 r7casino597.com
 0.0.0.0 r7casinoamp1.ru
 0.0.0.0 r7casinoamp.ru

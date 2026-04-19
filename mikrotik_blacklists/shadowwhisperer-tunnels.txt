@@ -1,8 +1,8 @@
 #
 #    File: Tunnels
 #    Info: VPNs & Proxies
-# Domains: 1,011
-# Updated: 4/6/2026  10:31 (10:31 AM CST)
+# Domains: 1,013
+# Updated: 4/13/2026  10:19 (10:19 AM CST)
 #
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 0x3d.lu
@@ -108,6 +108,7 @@
 0.0.0.0 bolehvpn.net
 0.0.0.0 boomproxy.com
 0.0.0.0 brazilproxy.com
+0.0.0.0 bringyour.com
 0.0.0.0 browsec.com
 0.0.0.0 bru-be.prcdn.net
 0.0.0.0 btguard.com
@@ -500,7 +501,6 @@
 0.0.0.0 piaproxy.net
 0.0.0.0 piraproxy.org
 0.0.0.0 pirataproxy.com
-0.0.0.0 plainproxies.com
 0.0.0.0 pointtoserver.com
 0.0.0.0 polandgrows.com
 0.0.0.0 polargrizzly.com
@@ -896,6 +896,7 @@
 0.0.0.0 uproxy.vip
 0.0.0.0 uproxy.xyz
 0.0.0.0 urban-vpn.com
+0.0.0.0 ur.io
 0.0.0.0 usa-proxy.org
 0.0.0.0 usawebproxy.com
 0.0.0.0 usawebproxy.net

@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 26,592
-# Updated: 4/9/2026  16:45 (4:45 PM CST)
+# Domains: 26,627
+# Updated: 4/16/2026  10:17 (10:17 AM CST)
 #
 0.0.0.0 0063450bb8e5e3brave-friend.com
 0.0.0.0 03ab2paradisecdn.com
@@ -373,7 +373,6 @@
 0.0.0.0 71213zhazha.com
 0.0.0.0 71360.com
 0.0.0.0 717trk.com
-0.0.0.0 734map.net
 0.0.0.0 739trk.com
 0.0.0.0 75625358935.com
 0.0.0.0 768guangg1.oss-cn-guangzhou.aliyuncs.com
@@ -620,6 +619,7 @@
 0.0.0.0 ab.ferngrowth.com
 0.0.0.0 ab.forwank.com
 0.0.0.0 abfpictures.co.uk
+0.0.0.0 abfpush.com
 0.0.0.0 a.bgore.xyz
 0.0.0.0 abgroup.gr
 0.0.0.0 abhbb.online
@@ -647,6 +647,7 @@
 0.0.0.0 a.brani.site
 0.0.0.0 a.brasov.net
 0.0.0.0 a.brauwelt.com
+0.0.0.0 a.brene.site
 0.0.0.0 a.broim.xyz
 0.0.0.0 a.bronca.site
 0.0.0.0 abs.devicemed.dev
@@ -701,6 +702,7 @@
 0.0.0.0 acidicfix.pro
 0.0.0.0 acidicresist.pro
 0.0.0.0 a.cidont.xyz
+0.0.0.0 a.cilon.site
 0.0.0.0 acinet.in
 0.0.0.0 a.cingo.sbs
 0.0.0.0 ackhoo.com
@@ -1962,6 +1964,7 @@
 0.0.0.0 ads.ammoready.com
 0.0.0.0 ads.amna.gr
 0.0.0.0 ad.samnytt.se
+0.0.0.0 adsanalytics.org
 0.0.0.0 ads.andaluciabuenasnoticias.com
 0.0.0.0 ads.angels-bg.com
 0.0.0.0 ads.animationxpress.com
@@ -4816,6 +4819,7 @@
 0.0.0.0 a.ftrem.site
 0.0.0.0 a.fukoa.site
 0.0.0.0 a.fullpornoflix.net
+0.0.0.0 a.fynil.site
 0.0.0.0 a.fynox.xyz
 0.0.0.0 afzhul.site
 0.0.0.0 ag0oir9f.de
@@ -4874,6 +4878,7 @@
 0.0.0.0 agile.pressflex.net
 0.0.0.0 agilityads.com
 0.0.0.0 agilitydigitalmedia.com
+0.0.0.0 a.gimea.site
 0.0.0.0 a.gimes.site
 0.0.0.0 a.gimet.site
 0.0.0.0 agitated-uncle.pro
@@ -4901,7 +4906,6 @@
 0.0.0.0 aheadads.com
 0.0.0.0 aheadofthegamemarketing.com
 0.0.0.0 a.hefim.site
-0.0.0.0 a.hegoda.xyz
 0.0.0.0 a.hemyn.site
 0.0.0.0 ahernssa.com
 0.0.0.0 a.herto.xyz
@@ -4914,7 +4918,6 @@
 0.0.0.0 a.hreso.site
 0.0.0.0 a.hrient.xyz
 0.0.0.0 a.hruch.site
-0.0.0.0 a.htrem.site
 0.0.0.0 a.hugit.xyz
 0.0.0.0 ahuili.com
 0.0.0.0 a.humro.site
@@ -4945,7 +4948,6 @@
 0.0.0.0 a.ipelo.site
 0.0.0.0 aiplexads.com
 0.0.0.0 air-ads.net
-0.0.0.0 a.iramb.site
 0.0.0.0 airddesigns.com
 0.0.0.0 airfryertricks.com
 0.0.0.0 airnowmedia.com
@@ -5007,11 +5009,9 @@
 0.0.0.0 ajitad.co.kr
 0.0.0.0 ajitads.com
 0.0.0.0 a.jivem.site
-0.0.0.0 a.jogent.xyz
 0.0.0.0 a.jopel.site
 0.0.0.0 ajpromotions.in
 0.0.0.0 a.jramb.site
-0.0.0.0 a.jtren.site
 0.0.0.0 a.juggo.site
 0.0.0.0 a.juska.site
 0.0.0.0 ajxx91.online
@@ -5028,7 +5028,6 @@
 0.0.0.0 akiedge.com
 0.0.0.0 akm-media.com
 0.0.0.0 akohub.com
-0.0.0.0 a.kreps.xyz
 0.0.0.0 a.krishna.org
 0.0.0.0 akvertise.com
 0.0.0.0 a.labadena.com
@@ -5653,6 +5652,7 @@
 0.0.0.0 bandboxprints.com
 0.0.0.0 bandujo.com
 0.0.0.0 baneri.regionalne.rs
+0.0.0.0 banerpanel.live
 0.0.0.0 banery2.aptekagemini.pl
 0.0.0.0 banery.gemini.pl
 0.0.0.0 banery.mati.com.pl
@@ -6786,7 +6786,6 @@
 0.0.0.0 click-v4.celxkpdir.com
 0.0.0.0 click-v4.direxclkp.com
 0.0.0.0 click-v4.exclplatmain.com
-0.0.0.0 click-v4.exmnclk.com
 0.0.0.0 clickwerx.net
 0.0.0.0 clictree.com
 0.0.0.0 client-approval.com
@@ -7303,6 +7302,7 @@
 0.0.0.0 criteo.com.lv
 0.0.0.0 criteo.com.sg
 0.0.0.0 criteo.co.uk
+0.0.0.0 criteo.co.za
 0.0.0.0 criteo.cz
 0.0.0.0 criteo.dev
 0.0.0.0 criteo-direct.com
@@ -7324,6 +7324,7 @@
 0.0.0.0 criteo.markets
 0.0.0.0 criteo.me
 0.0.0.0 criteo.mobi
+0.0.0.0 criteo.org.cn
 0.0.0.0 criteo.paris
 0.0.0.0 criteo-pm.com
 0.0.0.0 criteopm.org
@@ -7337,6 +7338,7 @@
 0.0.0.0 criteo-technology.com
 0.0.0.0 criteotechnology.com
 0.0.0.0 criteo-technology.info
+0.0.0.0 criteo-technology.io
 0.0.0.0 criteo-technology.org
 0.0.0.0 criteo.tel
 0.0.0.0 criteotracking.com
@@ -8070,6 +8072,7 @@
 0.0.0.0 egumball.net
 0.0.0.0 egvyg.gamersroom.info
 0.0.0.0 egyptadvertise.com
+0.0.0.0 egyptdata.com
 0.0.0.0 ehddgfihjgfhadiiaach.world
 0.0.0.0 e-healthcaresolutions.com
 0.0.0.0 eidos.network
@@ -8470,12 +8473,18 @@
 0.0.0.0 ff12345cc.com
 0.0.0.0 ffb7df5a878b59e42e257c042f54bed2.com
 0.0.0.0 ffbtas.com
+0.0.0.0 ff.charmduo.site
 0.0.0.0 ff.datecraze.space
+0.0.0.0 ff.datenest.store
+0.0.0.0 ff.dreamdates.online
+0.0.0.0 ff.heartbeats.space
 0.0.0.0 ff.herospan.store
 0.0.0.0 ff.loveorbits.store
 0.0.0.0 ff.lovetrail.store
 0.0.0.0 ff.luli9.com
+0.0.0.0 ff.mellowroot.online
 0.0.0.0 ffprhp8r.de
+0.0.0.0 ff.sweetconnect.site
 0.0.0.0 ff.trakerton.com
 0.0.0.0 fggjifajhjigjegeaadd.world
 0.0.0.0 fgjhxldtbgxmid.com
@@ -8904,6 +8913,7 @@
 0.0.0.0 glamourbuckz.com
 0.0.0.0 glaring-fire.com
 0.0.0.0 glaringsimple.pro
+0.0.0.0 glass-bicycle.com
 0.0.0.0 glassview.com
 0.0.0.0 glawi.com
 0.0.0.0 glazeads.in
@@ -9102,6 +9112,7 @@
 0.0.0.0 grey.com
 0.0.0.0 greysell.in
 0.0.0.0 gridadvertising.com
+0.0.0.0 grifanme.com
 0.0.0.0 grim-currency.com
 0.0.0.0 grimmel.com.au
 0.0.0.0 grimy-project.pro
@@ -9317,6 +9328,7 @@
 0.0.0.0 hitpublish.digital
 0.0.0.0 h.itvnet.lv
 0.0.0.0 hjjevg.com
+0.0.0.0 hjklq.com
 0.0.0.0 hjtupiantz.com
 0.0.0.0 hkg3.aastocks.com
 0.0.0.0 hkg8.aastocks.com
@@ -9396,6 +9408,7 @@
 0.0.0.0 hssllq.com
 0.0.0.0 hsux.com
 0.0.0.0 htfywebpush.in
+0.0.0.0 htkcm.com
 0.0.0.0 html5maker.com
 0.0.0.0 http-f-darwin.hulustream.com
 0.0.0.0 htwueeruimy.com
@@ -9542,6 +9555,7 @@
 0.0.0.0 ilkwork.com
 0.0.0.0 illegalimprovement.pro
 0.0.0.0 illinformedad.com
+0.0.0.0 illinformedhistorian.com
 0.0.0.0 ill-play.pro
 0.0.0.0 ill-purchase.pro
 0.0.0.0 ill-repair.pro
@@ -9768,6 +9782,7 @@
 0.0.0.0 invamia.com
 0.0.0.0 invast.invast.site
 0.0.0.0 inventmyad.com
+0.0.0.0 inventorycache.com
 0.0.0.0 invmrkt.com
 0.0.0.0 invoke.vision
 0.0.0.0 inxyads.com
@@ -9975,6 +9990,7 @@
 0.0.0.0 junexclkmid.com
 0.0.0.0 junglesquare.com
 0.0.0.0 junkrat-tire.overbuff.com
+0.0.0.0 junmediadclikrmdi.com
 0.0.0.0 jurawelt.com
 0.0.0.0 jurawelt.de
 0.0.0.0 justbidit.xyz
@@ -10014,6 +10030,7 @@
 0.0.0.0 karammedia.co.uk
 0.0.0.0 karmaagency.com
 0.0.0.0 kasidirectory.co.za
+0.0.0.0 kastafor.com
 0.0.0.0 katuhus.com
 0.0.0.0 kavanga.com
 0.0.0.0 kbtzxl.com
@@ -10298,6 +10315,7 @@
 0.0.0.0 letsboldlygrow.com
 0.0.0.0 letsconnect.at
 0.0.0.0 letspushplugin.com
+0.0.0.0 letstry69.xyz
 0.0.0.0 leverinteractive.com
 0.0.0.0 levisanford.com
 0.0.0.0 lewebfacilement.com
@@ -10335,6 +10353,7 @@
 0.0.0.0 limpinggather.pro
 0.0.0.0 limpinguniversity.pro
 0.0.0.0 limpspray.pro
+0.0.0.0 linakso.xyz
 0.0.0.0 lincassa.com
 0.0.0.0 linkad.com
 0.0.0.0 linkback.danawa.com
@@ -10837,11 +10856,14 @@
 0.0.0.0 membernotifications.aol.com
 0.0.0.0 membersgram.com
 0.0.0.0 memevideoad.com
+0.0.0.0 memorablesample.com
 0.0.0.0 memy.tapeciarnia.pl
 0.0.0.0 menacing-awareness.pro
 0.0.0.0 menacingplate.pro
 0.0.0.0 mendocash.com
+0.0.0.0 mengozia.xyz
 0.0.0.0 mensdefence.info
+0.0.0.0 meorzoi.xyz
 0.0.0.0 mephophuglo.pro
 0.0.0.0 merchantadmanager.com
 0.0.0.0 merchantadmanager.net
@@ -11599,6 +11621,7 @@
 0.0.0.0 ocast.com
 0.0.0.0 occash.com
 0.0.0.0 oceanagency.dk
+0.0.0.0 oceancloudhosts.com
 0.0.0.0 oceanfall.xyz
 0.0.0.0 oceanmobi.com
 0.0.0.0 ocean.radios.rs
@@ -11906,6 +11929,7 @@
 0.0.0.0 overzoruaon.com
 0.0.0.0 ovhnextmillmedia.com
 0.0.0.0 owa.cncgc.ru
+0.0.0.0 owlthegoodies.com
 0.0.0.0 ox.24.kg
 0.0.0.0 oxalispulse.com
 0.0.0.0 oxa.lvz-service.de
@@ -12914,6 +12938,7 @@
 0.0.0.0 pushex.io
 0.0.0.0 pushex.net
 0.0.0.0 push.express
+0.0.0.0 pushfalcons.com
 0.0.0.0 pushfan.com
 0.0.0.0 push.ff.avast.com
 0.0.0.0 pushfire.de
@@ -14369,6 +14394,7 @@
 0.0.0.0 selfserveplus.com
 0.0.0.0 sellines.com
 0.0.0.0 sellozo.com
+0.0.0.0 s.elna1w.com
 0.0.0.0 semaads.com
 0.0.0.0 semeshycy.pro
 0.0.0.0 sem-express.com
@@ -15096,6 +15122,7 @@
 0.0.0.0 suomzilla.com
 0.0.0.0 superadbid.com
 0.0.0.0 superbuzz.io
+0.0.0.0 superficialentrance.com
 0.0.0.0 superflypartners.net
 0.0.0.0 superior-dish.pro
 0.0.0.0 superiorglove.pro
@@ -15106,6 +15133,7 @@
 0.0.0.0 surefootedmaintenance.com
 0.0.0.0 sureshdinakaran.com
 0.0.0.0 sureview.tv
+0.0.0.0 surftogether.net
 0.0.0.0 surprised-win.pro
 0.0.0.0 survey-alb-new-1082488714.us-east-1.elb.amazonaws.com
 0.0.0.0 sustainableadx.com
@@ -16072,6 +16100,7 @@
 0.0.0.0 vibrantskyline.com
 0.0.0.0 vicious-instruction.pro
 0.0.0.0 victorious-recommendation.pro
+0.0.0.0 victorynotif.com
 0.0.0.0 vidads.gr
 0.0.0.0 vidads.in
 0.0.0.0 vidasdefamosos.com
