@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Apr 2026 09:24 UTC
-# Version: 2026.0419.0924.02
+# Last modified: 26 Apr 2026 09:16 UTC
+# Version: 2026.0426.0916.28
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3940
+# Number of entries: 3931
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -437,7 +437,6 @@
 0.0.0.0 dns.bgeneto.com
 0.0.0.0 dns.bibica.net
 0.0.0.0 dns.bibitos.cc
-0.0.0.0 mydns.bielperes.me
 0.0.0.0 goga7777777.bissnes.org
 0.0.0.0 ns3.bit-trail.nl
 0.0.0.0 dns.bitdefender.net
@@ -521,7 +520,6 @@
 0.0.0.0 81xyz.brudnowski.eu
 0.0.0.0 adguard.bse4792.site
 0.0.0.0 doh.bt.com
-0.0.0.0 bubblex2.top
 0.0.0.0 goose.buckyfan.net
 0.0.0.0 doh.bugdns.com
 0.0.0.0 stratus.bugz.fr
@@ -995,14 +993,11 @@
 0.0.0.0 mikrobill.dns-cloud.net
 0.0.0.0 proariel.dns-dynamic.net
 0.0.0.0 dns-free.link
-0.0.0.0 dns1.dns-ga.de
-0.0.0.0 dns2.dns-ga.de
-0.0.0.0 dns3.dns-ga.de
-0.0.0.0 doh.dns-ga.de
 0.0.0.0 dns.dns-heimdall.com
 0.0.0.0 dns.dns-over-https.com
 0.0.0.0 i.dns-over-https.tk
 0.0.0.0 doh.dns4all.eu
+0.0.0.0 doh64.dns4all.eu
 0.0.0.0 dns4eu.online
 0.0.0.0 dns4me.net
 0.0.0.0 au01.dns4me.net
@@ -1387,7 +1382,6 @@
 0.0.0.0 flyloadguard.dynu.net
 0.0.0.0 quangdo92.dynu.net
 0.0.0.0 saomai.dynu.com
-0.0.0.0 gustamadh.dynv6.net
 0.0.0.0 dns.dynx.pro
 0.0.0.0 adg.dz.ax
 0.0.0.0 az.dz4fun.top
@@ -1733,7 +1727,6 @@
 0.0.0.0 dns.hannielzhang.com
 0.0.0.0 jp.hannielzhang.com
 0.0.0.0 d.hansj.cc
-0.0.0.0 dns.haoxuan.xyz
 0.0.0.0 resolver.haringstad.com
 0.0.0.0 resolver-eu.haringstad.com
 0.0.0.0 adguard.hartley.cloud
@@ -2928,6 +2921,7 @@
 0.0.0.0 dns.qrtz.club
 0.0.0.0 qstam.ru
 0.0.0.0 hostdare.qtxd.net
+0.0.0.0 alpha-dns.quad9.net
 0.0.0.0 dns.quad9.net
 0.0.0.0 dns-nosec.quad9.net
 0.0.0.0 dns10.quad9.net
@@ -3176,7 +3170,6 @@
 0.0.0.0 dns.slinkyman.net
 0.0.0.0 dns1.slowb.ro
 0.0.0.0 dns2.slowb.ro
-0.0.0.0 001.smallnode.net
 0.0.0.0 smartcamp.su
 0.0.0.0 dns.smartguard.io
 0.0.0.0 singy.smartq.dev
@@ -3585,8 +3578,6 @@
 0.0.0.0 dnsbk.wns.watch
 0.0.0.0 ag.wntrmute.net
 0.0.0.0 block-solution.wolfplaces.com
-0.0.0.0 woodbridge.club
-0.0.0.0 clearweb.woodbridge.club
 0.0.0.0 dns.woodyli.dev
 0.0.0.0 doh.ndmc.work.gd
 0.0.0.0 dds.wpme.pl

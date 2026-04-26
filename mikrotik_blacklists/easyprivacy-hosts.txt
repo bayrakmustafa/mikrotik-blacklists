@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 17APR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 24APR26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -2760,6 +2760,7 @@
 0.0.0.0 adless.io
 0.0.0.0 adl.kkguan.com
 0.0.0.0 admaxium.com
+0.0.0.0 admediasales.com
 0.0.0.0 admetrics.events
 0.0.0.0 admin.academyforconsciousleadership.net
 0.0.0.0 admin.net.fidorbank.uk
@@ -2796,6 +2797,7 @@
 0.0.0.0 advantageauburn.actonservice.com
 0.0.0.0 advantageind.actonservice.com
 0.0.0.0 advantages.americanexpress.com
+0.0.0.0 advertease.store
 0.0.0.0 advisor.eaglestrategies.com
 0.0.0.0 advisor.newyorklifeannuities.com
 0.0.0.0 advisor.raa.com
@@ -3792,6 +3794,7 @@
 0.0.0.0 attivoconsulting.actonservice.com
 0.0.0.0 a-t.topya.com
 0.0.0.0 atumanera.burgerking.com.mx
+0.0.0.0 audiencetrk.com
 0.0.0.0 audiencies.3cat.cat
 0.0.0.0 audiencies.ccma.cat
 0.0.0.0 audiofly.actonservice.com
@@ -4266,6 +4269,7 @@
 0.0.0.0 b.tate.it
 0.0.0.0 b.thechive.com
 0.0.0.0 b.thechivery.com
+0.0.0.0 btldr.net
 0.0.0.0 btn.listonic.com
 0.0.0.0 btn.rtl2.de
 0.0.0.0 b.todaytix.com
@@ -4504,6 +4508,7 @@
 0.0.0.0 click.glamsquad.com
 0.0.0.0 clickins.slixa.com
 0.0.0.0 click.instacartemail.com
+0.0.0.0 click.kataweb.it
 0.0.0.0 click.mail.carousell.com
 0.0.0.0 click.mail.thecarousell.com
 0.0.0.0 click.mail.theknot.com
@@ -4786,6 +4791,7 @@
 0.0.0.0 cookies.siemens-energy.com
 0.0.0.0 cookietracking.eatonpowersource.com
 0.0.0.0 cooking-app.lkk.com
+0.0.0.0 coolretargeting.com
 0.0.0.0 corporate.americanexpress.it
 0.0.0.0 corporatecard.americanexpress.nl
 0.0.0.0 corporatecards.americanexpress.com
@@ -5454,6 +5460,7 @@
 0.0.0.0 e403.pandasuite.io
 0.0.0.0 e428.tio.nl
 0.0.0.0 ea.catimini.com
+0.0.0.0 e-ads.com
 0.0.0.0 ea.franziskasager.de
 0.0.0.0 eagle.actonservice.com
 0.0.0.0 eagle.aon.com
@@ -8795,6 +8802,7 @@
 0.0.0.0 log.flight.qunar.com
 0.0.0.0 log.f-tra.com
 0.0.0.0 log.genyt.net
+0.0.0.0 logger.kataweb.it
 0.0.0.0 logger.omio.com
 0.0.0.0 logger.rm.uol.com.br
 0.0.0.0 logger.uol.com.br
@@ -8813,6 +8821,7 @@
 0.0.0.0 logs.naukri.com
 0.0.0.0 logstash-3.radio-canada.ca
 0.0.0.0 logs.theccaa.com
+0.0.0.0 logstracker.com
 0.0.0.0 logs.viavideo.digital
 0.0.0.0 logtail.com
 0.0.0.0 log.targetpush.co.kr
@@ -9288,6 +9297,7 @@
 0.0.0.0 mas.marsh.com
 0.0.0.0 master.cifraclub.com.br
 0.0.0.0 masternaut.actonservice.com
+0.0.0.0 match2one.net
 0.0.0.0 math.meistercody.com
 0.0.0.0 mat.lgdisplay.com
 0.0.0.0 matomo3.org
@@ -9929,6 +9939,7 @@
 0.0.0.0 m.premier.info.shutterstock.com
 0.0.0.0 m.providers.alto.com
 0.0.0.0 mp.sintra.ai
+0.0.0.0 mpstech.space
 0.0.0.0 mqojih.taschenkaufhaus.de
 0.0.0.0 m.realself.com
 0.0.0.0 mr.homedepot.ca
@@ -9939,6 +9950,7 @@
 0.0.0.0 msa-emea.secureforms.partnermcafee.com
 0.0.0.0 msa-uki.secureforms.partnermcafee.com
 0.0.0.0 msboul.gruenwelt.de
+0.0.0.0 msfunction.online
 0.0.0.0 msg.sqz.app
 0.0.0.0 m.shoppre.com
 0.0.0.0 m.shopprecouriers.com
@@ -10725,6 +10737,7 @@
 0.0.0.0 publicschoolworks.actonservice.com
 0.0.0.0 publish.tagstorm.com
 0.0.0.0 pulsar.ebay.com
+0.0.0.0 purcartz.com
 0.0.0.0 purple-hit.com
 0.0.0.0 purple.mongodb.com
 0.0.0.0 purpletalk.actonservice.com
@@ -10742,6 +10755,7 @@
 0.0.0.0 px.derstandard.at
 0.0.0.0 px.effirst.com
 0.0.0.0 pxl.indeed.com
+0.0.0.0 pxlnow.in
 0.0.0.0 pxlstat.com
 0.0.0.0 pxmzlk.redfin.com
 0.0.0.0 px.pandora.com
@@ -10842,6 +10856,7 @@
 0.0.0.0 readingpartners.actonservice.com
 0.0.0.0 read.medium.com
 0.0.0.0 read.meistercody.com
+0.0.0.0 re-ads.com
 0.0.0.0 ready.nerdery.com
 0.0.0.0 readytrainingonline.actonservice.com
 0.0.0.0 realbusiness.americanexpress.com
@@ -11036,6 +11051,7 @@
 0.0.0.0 rtgvwr.com
 0.0.0.0 rtmscl.com
 0.0.0.0 rt.newswire.ca
+0.0.0.0 rt-pixel.com
 0.0.0.0 rtpmqv.smakon.jp
 0.0.0.0 rt.prnewswire.com
 0.0.0.0 rtvision.actonservice.com
@@ -11738,6 +11754,7 @@
 0.0.0.0 shhoix0fuonj0hz6.net.fidor.de
 0.0.0.0 s.hm.com
 0.0.0.0 shop.anu-cosme.com
+0.0.0.0 shop-cart.app
 0.0.0.0 shop.lids.ca
 0.0.0.0 shopmetric.rediff.com
 0.0.0.0 shop.myaeon2go.com
@@ -11788,6 +11805,7 @@
 0.0.0.0 slotabrosuat.zharev.com
 0.0.0.0 slryca.meyou.jp
 0.0.0.0 sl.trycircle.com
+0.0.0.0 smartiwheel.com
 0.0.0.0 smartmetrics.co.uk
 0.0.0.0 smartworksforme.actonservice.com
 0.0.0.0 smb.info.shutterstock.com
@@ -12503,6 +12521,7 @@
 0.0.0.0 staging.refer.wagr.us
 0.0.0.0 stahhx.inversapub.com
 0.0.0.0 stahl.actonservice.com
+0.0.0.0 stalkoda.com
 0.0.0.0 stanburns.actonservice.com
 0.0.0.0 stan.xing.com
 0.0.0.0 starchild.odencat.com
@@ -13314,6 +13333,7 @@
 0.0.0.0 track.financialfairness.org.uk
 0.0.0.0 track.gleeph.net
 0.0.0.0 track.go.shokubai.co.jp
+0.0.0.0 trackier.com
 0.0.0.0 tracking1.questdiagnostics.com
 0.0.0.0 tracking1.tena.com
 0.0.0.0 tracking24.net
@@ -14399,6 +14419,7 @@
 0.0.0.0 web.e.professionalbuildingsupplies.co.uk
 0.0.0.0 web.e.pvccladding.com
 0.0.0.0 web.e.soakaways.com
+0.0.0.0 webevents.kayzen.io
 0.0.0.0 web.givingli.com
 0.0.0.0 web.health.childrenswi.org
 0.0.0.0 web.health.hannibalregional.org
@@ -14429,7 +14450,6 @@
 0.0.0.0 web.novuna.co.uk
 0.0.0.0 web.orionpharma.com
 0.0.0.0 web-perf.booking.com
-0.0.0.0 webpushstat.api.engagelab.cc
 0.0.0.0 website-tracking.smartx.com
 0.0.0.0 web.slimjoy.com
 0.0.0.0 web.slimjoy.cz

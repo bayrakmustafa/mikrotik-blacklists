@@ -13,12 +13,15 @@
 0.0.0.0 adsreklamizm.ga
 0.0.0.0 adsreklamizm.tk
 0.0.0.0 affiliate.migros.com.tr
-0.0.0.0 ak.oalsauwy.net
 0.0.0.0 aksamreklami.net
 0.0.0.0 aksamvaktireklam.com
 0.0.0.0 aksamvaktimreklamsx.net
+0.0.0.0 allaboutsymbian.uk.intellitxt.com
 0.0.0.0 amareklamizm.ml
 0.0.0.0 amareklamizm.gq
+0.0.0.0 amazonaax.com
+0.0.0.0 amazonclix.com
+0.0.0.0 analytics.flipperdevices.com
 0.0.0.0 analytics-dev.bettermeter.com
 0.0.0.0 anguishworst.com
 0.0.0.0 api.personaclick.com
@@ -90,6 +93,7 @@
 0.0.0.0 metoatesoglureklamcikral.net
 0.0.0.0 metoatesoglureklamkralidir.net
 0.0.0.0 metrics.vinted.it
+0.0.0.0 metrics4.data.hicloud.com
 0.0.0.0 moonvids.online
 0.0.0.0 nquw.adj.st
 0.0.0.0 oglenreklamiiaa.net
@@ -112,6 +116,7 @@
 0.0.0.0 prebit.the-ozone-project.com
 0.0.0.0 principlessilas.com
 0.0.0.0 privacy.gatekeeperconsent.com
+0.0.0.0 pugsgivehugs.com
 0.0.0.0 punosy.top
 0.0.0.0 px.airpr.com
 0.0.0.0 r.admob.com
@@ -141,6 +146,8 @@
 0.0.0.0 sahibindenalisveris-trparanguvende-mobildepartmani.com
 0.0.0.0 sap-traffic.com
 0.0.0.0 sbhreklamvakti.net
+0.0.0.0 sdki.truepush.com
+0.0.0.0 settings.crashlytics.com
 0.0.0.0 showbet205.com
 0.0.0.0 snssdk1340.onelink.me
 0.0.0.0 srvccc.fish91826twenty.ga
@@ -171,8 +178,10 @@
 0.0.0.0 vakifreklamkayit.tk
 0.0.0.0 vkf-onlinereklam-sayfasi.cf
 0.0.0.0 vstvstsa.com
+0.0.0.0 watchnewpics.space
 0.0.0.0 widgets.engageya.com
 0.0.0.0 ww38.main.termux-mirror.ml
 0.0.0.0 ww5.w3xs.com
 0.0.0.0 xmtvreklam3d.com
+0.0.0.0 youtube.cleverads.vn
 0.0.0.0 zpbpenn.com

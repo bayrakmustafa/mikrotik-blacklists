@@ -18,6 +18,7 @@
 0.0.0.0 ads-hl.noktamedya.com.tr
 0.0.0.0 ads-rouge.haber7.com
 0.0.0.0 ads-wordego.azureedge.net
+0.0.0.0 ads.code.com.tr
 0.0.0.0 ads.ihaberadserver.com
 0.0.0.0 ads.ilbetaff.com
 0.0.0.0 ads.kiosked.com

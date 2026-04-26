@@ -2002,6 +2002,7 @@
 0.0.0.0 hsdt.co
 0.0.0.0 hsrw.info
 0.0.0.0 hstpe.top
+0.0.0.0 hstx.eu
 0.0.0.0 hs-uk.co
 0.0.0.0 hszci.sbs
 0.0.0.0 htgi.ru
@@ -2975,6 +2976,7 @@
 0.0.0.0 mini-url.in
 0.0.0.0 miniurl.ir
 0.0.0.0 miniurl.top
+0.0.0.0 min.lc
 0.0.0.0 minl.in
 0.0.0.0 minny.link
 0.0.0.0 minu.be

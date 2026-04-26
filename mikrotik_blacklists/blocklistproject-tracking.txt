@@ -301,6 +301,7 @@
 0.0.0.0 analytics.trackerstatus.info
 0.0.0.0 analyze.wywy.com
 0.0.0.0 and.noahapps.jp
+0.0.0.0 anreson.net
 0.0.0.0 anthelabf.com
 0.0.0.0 anuncios.blogsfarm.com
 0.0.0.0 anuncios.sapo.pt
@@ -409,6 +410,7 @@
 0.0.0.0 bcplayer.net
 0.0.0.0 beacon.asda.com
 0.0.0.0 beacon.groceries.asda.com
+0.0.0.0 beaconsinspace.com
 0.0.0.0 behancemanage.com
 0.0.0.0 behavior.com
 0.0.0.0 behavioralmailing.com
@@ -430,6 +432,7 @@
 0.0.0.0 bettertargeting.com
 0.0.0.0 bettertradingsolutions.com
 0.0.0.0 bevyup.com
+0.0.0.0 bigbos.top
 0.0.0.0 bigdataexchange.com
 0.0.0.0 bigspeedpro.com
 0.0.0.0 bigtentresearch.com
@@ -579,6 +582,7 @@
 0.0.0.0 ccmdcampaigns.com
 0.0.0.0 ccmdemail.com
 0.0.0.0 ccmp.eu
+0.0.0.0 cctyly.com
 0.0.0.0 cdn-mxpnl.com
 0.0.0.0 cdnh1.net
 0.0.0.0 cdnh2.net
@@ -587,6 +591,8 @@
 0.0.0.0 chaintraffic.com
 0.0.0.0 cheekygirlz.info
 0.0.0.0 cheetahmail.com
+0.0.0.0 chicdn.net
+0.0.0.0 chinaheh.com
 0.0.0.0 chinashoesking.com
 0.0.0.0 choicestream.com
 0.0.0.0 choosealoan.com
@@ -858,6 +864,7 @@
 0.0.0.0 dealzcamp.com
 0.0.0.0 decibelinsight.com
 0.0.0.0 dedicated.domains
+0.0.0.0 deliverimp.com
 0.0.0.0 delivery.inserthtml.com
 0.0.0.0 deltadevconfirmsubscription.com
 0.0.0.0 deltadevcreatesend.com
@@ -911,6 +918,7 @@
 0.0.0.0 dispatcho3.com
 0.0.0.0 displaywords.com
 0.0.0.0 displaywords.net
+0.0.0.0 dleke.com
 0.0.0.0 dlqm.net
 0.0.0.0 dmtrk.net
 0.0.0.0 dnaxddnc.com
@@ -940,6 +948,7 @@
 0.0.0.0 dyntracker.de
 0.0.0.0 dzc-metrics.mzstatic.com
 0.0.0.0 e-mark.nl
+0.0.0.0 e701.net
 0.0.0.0 ebayenterprise.com
 0.0.0.0 ebaypartnernetwork.com
 0.0.0.0 echodevconfirmsubscription.com
@@ -1009,6 +1018,7 @@
 0.0.0.0 elabs15.com
 0.0.0.0 elabs16.com
 0.0.0.0 elabs2.com
+0.0.0.0 elabs3.com
 0.0.0.0 elabs4.com
 0.0.0.0 elabs5.com
 0.0.0.0 elabs6.com
@@ -1144,6 +1154,7 @@
 0.0.0.0 froo.com
 0.0.0.0 frtyg.com
 0.0.0.0 futureusmedia.com
+0.0.0.0 fyre.co
 0.0.0.0 g-bot.net
 0.0.0.0 gaheatmaps.com
 0.0.0.0 galacticoffers.com
@@ -1355,10 +1366,12 @@
 0.0.0.0 idgknowledgehub.com
 0.0.0.0 idgpublishing.com
 0.0.0.0 idqqimg.com
+0.0.0.0 igodigital.com
 0.0.0.0 igsonar.com
 0.0.0.0 iiad.com
 0.0.0.0 ilikeclick.com
 0.0.0.0 images.komplads.net
+0.0.0.0 images9999.com
 0.0.0.0 imbox.se
 0.0.0.0 imgclick.net
 0.0.0.0 impact-ad.com
@@ -1381,6 +1394,7 @@
 0.0.0.0 info.kugou.com
 0.0.0.0 informamx.info
 0.0.0.0 informiert-sein.com
+0.0.0.0 inmobi.info
 0.0.0.0 inmobiapis.com
 0.0.0.0 inmobipso.com
 0.0.0.0 innometrics.com
@@ -1439,6 +1453,7 @@
 0.0.0.0 justnavigators.com
 0.0.0.0 kaloo.ga
 0.0.0.0 kastatic.com
+0.0.0.0 kawa11.space
 0.0.0.0 kestrelfm.net
 0.0.0.0 keytui.com
 0.0.0.0 keyweego.com
@@ -1463,6 +1478,7 @@
 0.0.0.0 latestprizes.com
 0.0.0.0 latestprizes.net
 0.0.0.0 lctrk.com
+0.0.0.0 lds.lenovomm.com
 0.0.0.0 lead-01.com
 0.0.0.0 lead-30.com
 0.0.0.0 lead10.com
@@ -1541,6 +1557,7 @@
 0.0.0.0 marketing.lloydsbank.co.uk
 0.0.0.0 marketinghq.net
 0.0.0.0 markitcdn.com
+0.0.0.0 maskbaby.com.cn
 0.0.0.0 masnbc.com
 0.0.0.0 maxgtm.net
 0.0.0.0 mbd0.com
@@ -1584,8 +1601,10 @@
 0.0.0.0 metric.rediff.com
 0.0.0.0 metrics.aftonbladet.se
 0.0.0.0 metrics.nt.vc
+0.0.0.0 metrics.plex.tv
 0.0.0.0 metrics.tiscover.com
 0.0.0.0 metricswindow.com
+0.0.0.0 metrigo.com
 0.0.0.0 mgsvc.com
 0.0.0.0 microsoftpanel.com
 0.0.0.0 microsoftpanel.net
@@ -12020,6 +12039,7 @@
 0.0.0.0 qingcdn.com
 0.0.0.0 qsubmit.com
 0.0.0.0 qualityoffers.info
+0.0.0.0 quantcast.net
 0.0.0.0 quantillion.com
 0.0.0.0 quantserve.net
 0.0.0.0 qubit.com
@@ -12090,6 +12110,7 @@
 0.0.0.0 removal-services.org
 0.0.0.0 rename.com
 0.0.0.0 rename.net
+0.0.0.0 rencai56.com
 0.0.0.0 report-metrics.essentials3.net
 0.0.0.0 reportwindow.com
 0.0.0.0 research-int.com
@@ -12518,6 +12539,8 @@
 0.0.0.0 technorati.com
 0.0.0.0 technoratimedia.net
 0.0.0.0 tedglynn.com
+0.0.0.0 telemetry-experiment.cdn.mozilla.net
+0.0.0.0 telemetry.microsoft.com.nsatc.net
 0.0.0.0 televisions2compare.com
 0.0.0.0 tellme.com
 0.0.0.0 terrambmsads.com
@@ -12539,6 +12562,7 @@
 0.0.0.0 tiansue.com
 0.0.0.0 ticket-genie.com
 0.0.0.0 tickle.com
+0.0.0.0 tifbs.net
 0.0.0.0 tiger1yo.com
 0.0.0.0 tiles.cdn.mozilla.net
 0.0.0.0 timechange.space
@@ -12702,6 +12726,7 @@
 0.0.0.0 u.prizerewardportal.com
 0.0.0.0 ubiquitv.com
 0.0.0.0 ubiquitv.net
+0.0.0.0 ugg66.com
 0.0.0.0 umhali.com
 0.0.0.0 umhali.net
 0.0.0.0 umhali.org
@@ -12872,6 +12897,7 @@
 0.0.0.0 xct32.net
 0.0.0.0 xct33.net
 0.0.0.0 xhbaihehang.com
+0.0.0.0 xibei70.com
 0.0.0.0 xixiwan.net
 0.0.0.0 xploreroffers.com
 0.0.0.0 xs.gy
@@ -12884,6 +12910,7 @@
 0.0.0.0 yellowdragonsoft.com
 0.0.0.0 yenton.org
 0.0.0.0 yesware.com
+0.0.0.0 yinhaijuan.com
 0.0.0.0 yjoiunf.com
 0.0.0.0 ynwqls.com
 0.0.0.0 yotraff.com
@@ -12903,6 +12930,7 @@
 0.0.0.0 yssads.ddc.com
 0.0.0.0 yunjiasu-cdn.net
 0.0.0.0 yuq.me
+0.0.0.0 ywjxsp168.cn
 0.0.0.0 yygslb.com
 0.0.0.0 zanox-affiliate.mobi
 0.0.0.0 zanox-affiliate.net
