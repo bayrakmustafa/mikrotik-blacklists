@@ -52,6 +52,7 @@
 0.0.0.0 elephant-904.com
 0.0.0.0 datelove.cc
 0.0.0.0 duskspire-horizon.com
+0.0.0.0 aura-and-color.com
 0.0.0.0 p-e-a-c-h-p-e-a-c-h.com
 0.0.0.0 covert-messaging.com
 0.0.0.0 discreet-discussions.com
@@ -319,6 +320,11 @@
 0.0.0.0 helpwithledgerdevice.com
 0.0.0.0 scanledgerapi.com
 0.0.0.0 kyberswap-kyber-swap.com
+0.0.0.0 app-trust.co.com
+0.0.0.0 trastwallet.co.com
+0.0.0.0 trustwallett.co.com
+0.0.0.0 en-trust.co.com
+0.0.0.0 go-trust.co.com
 0.0.0.0 simpleswapp.com
 0.0.0.0 fusebox-elavon.org
 0.0.0.0 suitee-trezorrsuite.com
@@ -331,6 +337,7 @@
 0.0.0.0 trezorwalletsupport.com
 0.0.0.0 skinsmonkye.com
 0.0.0.0 skinsmnky.com
+0.0.0.0 trust-download.co.com
 0.0.0.0 ray-dium.cyou
 0.0.0.0 ldgerlive.us
 0.0.0.0 scotanomect.cc
@@ -354,9 +361,11 @@
 0.0.0.0 cyrexmods.cc
 0.0.0.0 anysoft.click
 0.0.0.0 canadamilksettlement.com
+0.0.0.0 ai-sogou.com.cn
 0.0.0.0 qishui-zn.hl.cn
 0.0.0.0 qishuide.com.cn
 0.0.0.0 shurufa-sogou.org.cn
+0.0.0.0 f-sogou.com.cn
 0.0.0.0 q-sogou.com.cn
 0.0.0.0 qishui-yinle.hl.cn
 0.0.0.0 www-office-wps.com.cn

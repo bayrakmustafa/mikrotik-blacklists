@@ -1,5 +1,5 @@
 # Easylist, parsed and mirrored by https://firebog.net
-# Updated 24APR26 from https://easylist.to/easylist/easylist.txt
+# Updated 01MAY26 from https://easylist.to/easylist/easylist.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7,62 +7,42 @@
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://github.com/easylist/easylist#list-issues
 
-0.0.0.0 38zho9oz9zpfrclr8pbkpl57vj9fy56.cfd
 0.0.0.0 ad.moe.video
 0.0.0.0 alitems.com
 0.0.0.0 asg.prettytube.net
 0.0.0.0 auditude.com
-0.0.0.0 bedsitetchingwicht.cyou
+0.0.0.0 bimahapiole.qpon
 0.0.0.0 buyeasy.by
-0.0.0.0 cajanreaping.qpon
 0.0.0.0 cdn.hamwo.cloud
 0.0.0.0 cpm.appocean.media
-0.0.0.0 dhaswilrehp.in
-0.0.0.0 eigksrjne.com
 0.0.0.0 engine.eroge.com
+0.0.0.0 engloomsitups.shop
 0.0.0.0 f5w.prettytube.net
-0.0.0.0 fbyqupcxpsuvj.site
-0.0.0.0 gfadvpljfwagd.online
-0.0.0.0 gfnovftlnkzlv.online
 0.0.0.0 go.bloxplay.com
-0.0.0.0 gzbivgztyxmdj.site
-0.0.0.0 iaexvgohptsof.space
+0.0.0.0 hippenbatton.cyou
+0.0.0.0 ifxephgaqlxcm.space
 0.0.0.0 imasdk.googleapis.com
-0.0.0.0 kickishsilt.cfd
-0.0.0.0 kllexrluawtuv.space
-0.0.0.0 lbjkrojavrquu.com
 0.0.0.0 link.link.ru
 0.0.0.0 loadercdn.com
-0.0.0.0 lpcci9ue6qb5je4e.rest
-0.0.0.0 mkehaniyybtru.online
+0.0.0.0 mbchpvbeujokh.online
 0.0.0.0 monetag.com
 0.0.0.0 mweb-hb.presage.io
-0.0.0.0 nyphgxjomnbne.online
-0.0.0.0 oyupblsn.com
-0.0.0.0 pagodacushvolapuk.qpon
-0.0.0.0 pikeletrabbity.cfd
+0.0.0.0 mythskalkvissaronic.cfd
+0.0.0.0 oqdwehdhhswex.online
+0.0.0.0 palissestrake.cfd
 0.0.0.0 pips.taboola.com
 0.0.0.0 pirogad.tophosting101.com
 0.0.0.0 prebid.cwi.re
 0.0.0.0 proto2ad.durasite.net
-0.0.0.0 pupahjjwokal.in
-0.0.0.0 pvzesryoifiit.online
 0.0.0.0 retailmedia-static.criteo.com
-0.0.0.0 retinttubba.cfd
-0.0.0.0 rrkbmhendbdv.com
-0.0.0.0 septemberbrightest.com
+0.0.0.0 rocksbrast.cfd
+0.0.0.0 soonishcercal.shop
 0.0.0.0 srv.tunefindforfans.com
 0.0.0.0 sync.gsyndication.com
 0.0.0.0 targeting.vdo.ai
-0.0.0.0 toftscoelia.shop
-0.0.0.0 unkemptbirth.com
+0.0.0.0 uncrudetheses.cfd
 0.0.0.0 unpin.hothomefuck.com
-0.0.0.0 upgwppobgtdzj.site
 0.0.0.0 vi1.prettytube.net
 0.0.0.0 videoplaza.tv
-0.0.0.0 vqzqxsuhpsrdo.space
 0.0.0.0 wpnrtnmrewunrtok.xyz
-0.0.0.0 xzklpylocwfzl.space
-0.0.0.0 yqcvqbvcadoqn.space
-0.0.0.0 yrdyoguzavclg.space
-0.0.0.0 yuksensoberjousts.cyou
+0.0.0.0 wudtxrhdjnthdw.com

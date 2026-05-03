@@ -1,8 +1,8 @@
 #
 #    File: Tunnels
 #    Info: VPNs & Proxies
-# Domains: 1,013
-# Updated: 4/13/2026  10:19 (10:19 AM CST)
+# Domains: 1,017
+# Updated: 4/29/2026  21:27 (9:27 PM CST)
 #
 0.0.0.0 0000a-fast-proxy.de
 0.0.0.0 0x3d.lu
@@ -239,6 +239,7 @@
 0.0.0.0 fastestvpn.com
 0.0.0.0 fastfoxvpn.com
 0.0.0.0 fastproxy.org
+0.0.0.0 fastproxy.win
 0.0.0.0 fastusaproxy.com
 0.0.0.0 fastvpn.im
 0.0.0.0 favoriteshoes.us
@@ -287,6 +288,7 @@
 0.0.0.0 gecko.fun
 0.0.0.0 geekproxy.com
 0.0.0.0 genmirror.com
+0.0.0.0 geonode.com
 0.0.0.0 geosurf.io
 0.0.0.0 geovpn.trendmicro.com
 0.0.0.0 geti2p.net
@@ -324,6 +326,7 @@
 0.0.0.0 hidenseek.org
 0.0.0.0 hideoxy.com
 0.0.0.0 hidester.com
+0.0.0.0 hidester.one
 0.0.0.0 hidethisip.net
 0.0.0.0 hideweb.org
 0.0.0.0 hit-proxy.com
@@ -556,6 +559,7 @@
 0.0.0.0 proxymesh.com
 0.0.0.0 proxyorb.com
 0.0.0.0 proxy.org
+0.0.0.0 proxypal.net
 0.0.0.0 proxyportals.info
 0.0.0.0 proxypy.org
 0.0.0.0 proxyrooms.com

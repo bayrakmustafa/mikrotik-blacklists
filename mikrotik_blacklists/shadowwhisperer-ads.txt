@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 26,641
-# Updated: 4/23/2026  16:55 (4:55 PM CST)
+# Domains: 26,666
+# Updated: 5/2/2026  22:01 (10:01 PM CST)
 #
 0.0.0.0 0063450bb8e5e3brave-friend.com
 0.0.0.0 03ab2paradisecdn.com
@@ -1669,6 +1669,7 @@
 0.0.0.0 adopt.media
 0.0.0.0 adopt-media.com
 0.0.0.0 adopx.com
+0.0.0.0 adorado.net
 0.0.0.0 adorama.rfvk.net
 0.0.0.0 adorca.com
 0.0.0.0 adoredstation.pro
@@ -1885,6 +1886,7 @@
 0.0.0.0 ads4bits.net
 0.0.0.0 ads4pics.com
 0.0.0.0 ads4.pro
+0.0.0.0 ads4.production-public.tubi.io
 0.0.0.0 ads.4x4brasil.com.br
 0.0.0.0 ads4you.xyz
 0.0.0.0 ads505.monitorulbt.ro
@@ -2078,6 +2080,7 @@
 0.0.0.0 ads.biglines.com
 0.0.0.0 ads.bigup.rocks
 0.0.0.0 ads.bihorjust.ro
+0.0.0.0 ads.bilauppbod.is
 0.0.0.0 ads.bilinmedia.net
 0.0.0.0 ads.bingos.jp
 0.0.0.0 ads.bio.do
@@ -2377,6 +2380,7 @@
 0.0.0.0 adserve.no
 0.0.0.0 adserve.oneindia.com
 0.0.0.0 adserve.pandragon.es
+0.0.0.0 adserve.pen6.cc
 0.0.0.0 adserver01.verio.com
 0.0.0.0 adserver02.vertismedia.co.uk
 0.0.0.0 adserver.0--x--0.com
@@ -2495,6 +2499,7 @@
 0.0.0.0 adserver.ciranna.de
 0.0.0.0 adserver.civishir.hu
 0.0.0.0 adserver.clasificadosonline.com
+0.0.0.0 adserver.cleon.tv
 0.0.0.0 adserver.clikcoin.com
 0.0.0.0 adserver.clubcrawlers.com
 0.0.0.0 adserver.clustermonkey.net
@@ -3028,6 +3033,7 @@
 0.0.0.0 adsfeed.brabys.com
 0.0.0.0 ads.felegyhazikozlony.hu
 0.0.0.0 ads.femina.mk
+0.0.0.0 ads.femtrap.com
 0.0.0.0 ads.ferienknaller.de
 0.0.0.0 ads.fetch-structure.fyi
 0.0.0.0 ads.ffxiah.com
@@ -3108,6 +3114,7 @@
 0.0.0.0 ads.ghz.gr
 0.0.0.0 ads.gigga.co
 0.0.0.0 ads.ginjfo.com
+0.0.0.0 ads.glamur.mk
 0.0.0.0 ads.global-communication.de
 0.0.0.0 ads.global-fashion-group.com
 0.0.0.0 ads.globalfrag.com
@@ -3217,6 +3224,7 @@
 0.0.0.0 ads.infobijeljina.com
 0.0.0.0 ads.infolot.es
 0.0.0.0 ads.informationnetworkwebsite.com
+0.0.0.0 ads.informator.ua
 0.0.0.0 ads.inka-magazin.de
 0.0.0.0 ads.inkrefuge.com
 0.0.0.0 ads.inovativnost.mk
@@ -5365,6 +5373,7 @@
 0.0.0.0 apse1-ssp-prod-adserv-alb-365694524.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 apse1-ssp-prod-bidder-alb-1413692931.ap-southeast-1.elb.amazonaws.com
 0.0.0.0 apse1-ssp-prod-syncweb-alb-1135453511.ap-southeast-1.elb.amazonaws.com
+0.0.0.0 apse2-ssp-prod-adserv-alb-82206463.ap-southeast-2.elb.amazonaws.com
 0.0.0.0 apt-inspection.pro
 0.0.0.0 aptivada.com
 0.0.0.0 apttechsols.com
@@ -5396,6 +5405,7 @@
 0.0.0.0 arke.com
 0.0.0.0 arkeleu.com
 0.0.0.0 arkesystems.com
+0.0.0.0 ark.tubi.video
 0.0.0.0 arlox.io
 0.0.0.0 armedialab.com
 0.0.0.0 armf7m02.de
@@ -5631,7 +5641,6 @@
 0.0.0.0 babyom.space
 0.0.0.0 back-dare.com
 0.0.0.0 back-drag.pro
-0.0.0.0 backtension.com
 0.0.0.0 back-to-top.appspot.com
 0.0.0.0 backtracks.fm
 0.0.0.0 bacon.forbes.com
@@ -7477,6 +7486,7 @@
 0.0.0.0 d2fucu4fhozx2v.cloudfront.net
 0.0.0.0 d2geju3h8qicv6.cloudfront.net
 0.0.0.0 d2h8zr0m6mus4x.cloudfront.net
+0.0.0.0 d2le8qewapxu2f.cloudfront.net
 0.0.0.0 d2n2mjq7zqikgh.cloudfront.net
 0.0.0.0 d2qv82yc3u9tc7.cloudfront.net
 0.0.0.0 d2t953dxm5i0o5.cloudfront.net
@@ -7484,6 +7494,7 @@
 0.0.0.0 d2ty8gaf6rmowa.cloudfront.net
 0.0.0.0 d2um2qdswy1tb0.cloudfront.net
 0.0.0.0 d2wt7w75gg2vz.cloudfront.net
+0.0.0.0 d2xv8w0swe9ojh.cloudfront.net
 0.0.0.0 d2xyyrj8sfie35.cloudfront.net
 0.0.0.0 d30pl5hav4s8uw.cloudfront.net
 0.0.0.0 d31otfhas71ais.cloudfront.net
@@ -7498,12 +7509,14 @@
 0.0.0.0 d3ik2vfsvyg6fu.cloudfront.net
 0.0.0.0 d3izsuga15s7v3.cloudfront.net
 0.0.0.0 d3k1w8lx8mqizo.cloudfront.net
+0.0.0.0 d3k6gt80y743t4.cloudfront.net
 0.0.0.0 d3l739e8r8y9v7.cloudfront.net
 0.0.0.0 d3pqayu4fds1ps.cloudfront.net
 0.0.0.0 d47wgg8.com
 0.0.0.0 d6.sina.com.cn
 0.0.0.0 d7.sina.com.cn
 0.0.0.0 d7x5nblzs94me.cloudfront.net
+0.0.0.0 d8ghbpr3r4dzt.cloudfront.net
 0.0.0.0 d8yw4927nnimu.cloudfront.net
 0.0.0.0 d9.sina.com.cn
 0.0.0.0 dab342ab8887461995aad393cb294948a5ce800ca279cd1027026d47.com
@@ -7822,6 +7835,7 @@
 0.0.0.0 distorted-source.com
 0.0.0.0 disturbdigital.com
 0.0.0.0 dithesetha.pro
+0.0.0.0 ditpnbs1ytkn9.cloudfront.net
 0.0.0.0 diving.marketing
 0.0.0.0 divisiond.com
 0.0.0.0 diwhuteshu.com
@@ -7837,6 +7851,7 @@
 0.0.0.0 djujxz.com
 0.0.0.0 djxdi.com
 0.0.0.0 dkadv.com
+0.0.0.0 dkbogvpt0vowq.cloudfront.net
 0.0.0.0 d.kfmlax.com
 0.0.0.0 dkfrh.com
 0.0.0.0 dkmadsnetwork.com
@@ -7844,6 +7859,7 @@
 0.0.0.0 dlads.cn
 0.0.0.0 dlgongfu.com
 0.0.0.0 dl.indexmovies.xyz
+0.0.0.0 dlpvhn0f8mnlz.cloudfront.net
 0.0.0.0 dmarc.net
 0.0.0.0 dmdj655uxuj8f.cloudfront.net
 0.0.0.0 dmhike.com
@@ -8077,6 +8093,7 @@
 0.0.0.0 edigfccghidjchhiaacf.world
 0.0.0.0 edmarketing.agency
 0.0.0.0 edm.pressflex.net
+0.0.0.0 edoinc.com
 0.0.0.0 educated-command.pro
 0.0.0.0 eeono.online
 0.0.0.0 eeqrlc.com
@@ -9252,6 +9269,7 @@
 0.0.0.0 harris-hmg.com
 0.0.0.0 harrismediallc.com
 0.0.0.0 harrisonbrownell.com
+0.0.0.0 harsh-dust.com
 0.0.0.0 harvestcreativeservices.com
 0.0.0.0 hashtagdigital.com
 0.0.0.0 hashtagd.net
@@ -9663,6 +9681,7 @@
 0.0.0.0 imwinnerkur.com
 0.0.0.0 inabsolor.com
 0.0.0.0 inawemedia.com
+0.0.0.0 inbake.com
 0.0.0.0 inbornbird.pro
 0.0.0.0 incentivated.com
 0.0.0.0 incentivenetwork.com
@@ -9802,7 +9821,6 @@
 0.0.0.0 intotheblueagency.com
 0.0.0.0 intra.click
 0.0.0.0 introbar.com
-0.0.0.0 introjava.com
 0.0.0.0 inuxu.com
 0.0.0.0 invamia.com
 0.0.0.0 invast.invast.site
@@ -13530,6 +13548,7 @@
 0.0.0.0 revive.kamioni.bg
 0.0.0.0 revive.lamaisonecologique.com
 0.0.0.0 revive.lr21.com
+0.0.0.0 revive.luxnet.io
 0.0.0.0 revive.magro.hu
 0.0.0.0 revive.malaymail.com
 0.0.0.0 revive-mdeport.mediosdeportivos.com
@@ -13557,6 +13576,7 @@
 0.0.0.0 revive.theaterkrant.nl
 0.0.0.0 revive.thebusinessjournal.com
 0.0.0.0 revive.tidssonen.no
+0.0.0.0 revive.timrecompensas.com.br
 0.0.0.0 revive.tn
 0.0.0.0 revive.unison.bg
 0.0.0.0 revive.vidal.fr
@@ -16155,6 +16175,7 @@
 0.0.0.0 videmob.com
 0.0.0.0 videoadserver.com
 0.0.0.0 videoadserving.tv
+0.0.0.0 videoads.lgtvcommon.com
 0.0.0.0 videoads.newsy.com
 0.0.0.0 videobloom.com
 0.0.0.0 videobridge.tv
@@ -16791,7 +16812,6 @@
 0.0.0.0 wrathful-cheek.pro
 0.0.0.0 wrathfulsafety.pro
 0.0.0.0 writhing-uncle.com
-0.0.0.0 writingcalls.com
 0.0.0.0 wrxads.golfwrx.com
 0.0.0.0 wry-kiss.pro
 0.0.0.0 wry-relation.pro

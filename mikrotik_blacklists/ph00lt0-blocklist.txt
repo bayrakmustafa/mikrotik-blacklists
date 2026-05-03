@@ -1825,7 +1825,6 @@
 0.0.0.0 analyticssuitefrontend-pa.googleapis.com
 0.0.0.0 analyz-it.be
 0.0.0.0 analyzati.com
-0.0.0.0 analyze-82dfgsi2.m-w.com
 0.0.0.0 analyze.ly
 0.0.0.0 anbieter-vergleich.ch
 0.0.0.0 ancestry.co.uk
@@ -7846,6 +7845,7 @@
 0.0.0.0 jokerstar.de
 0.0.0.0 jolandavleugel.nl
 0.0.0.0 jonathanbreedveld.com
+0.0.0.0 jonnhytech.com
 0.0.0.0 jooble.com
 0.0.0.0 jooule.com
 0.0.0.0 josef-strobl.de
@@ -9305,7 +9305,6 @@
 0.0.0.0 namogoo.com
 0.0.0.0 nanointeractive.com
 0.0.0.0 naqigs.com
-0.0.0.0 narrativ.com
 0.0.0.0 nasma.be
 0.0.0.0 nationaleomruilactie.nl
 0.0.0.0 nationbuilder.com

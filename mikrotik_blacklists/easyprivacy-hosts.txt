@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 24APR26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 01MAY26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -2924,6 +2924,7 @@
 0.0.0.0 a.munters.us
 0.0.0.0 ana.e-ticket.co.jp
 0.0.0.0 anal.baseserv.com
+0.0.0.0 analitika.derp.si
 0.0.0.0 analysis.prod.joyfru.jiji.com
 0.0.0.0 analysis.sooplive.co.kr
 0.0.0.0 analys.live
@@ -3812,6 +3813,7 @@
 0.0.0.0 autovistaintelligence.autovistagroup.com
 0.0.0.0 autovista-se.autovistagroup.com
 0.0.0.0 autozone.actonservice.com
+0.0.0.0 aux-log.bidmatic.io
 0.0.0.0 avads.net
 0.0.0.0 avai.actonservice.com
 0.0.0.0 avalere.actonservice.com
@@ -9370,6 +9372,7 @@
 0.0.0.0 med.delzicol.com
 0.0.0.0 med.gelnique.com
 0.0.0.0 medhyg.actonservice.com
+0.0.0.0 media-analytic.com
 0.0.0.0 mediacy.actonservice.com
 0.0.0.0 media.geinoschool-hikaku.net
 0.0.0.0 mediamathrdrt.com
@@ -9975,6 +9978,7 @@
 0.0.0.0 m.topya.com
 0.0.0.0 mt.plateiq.com
 0.0.0.0 mtr.fluor.com
+0.0.0.0 mtrics.cdc.gov
 0.0.0.0 m-t.topya.com
 0.0.0.0 mtuqnl.roomys-webstore.jp
 0.0.0.0 mtvgxt.partirpascher.com
@@ -10042,6 +10046,7 @@
 0.0.0.0 nanthealth.actonservice.com
 0.0.0.0 naoforge.net.jumia.com.ng
 0.0.0.0 narc-dc.actonservice.com
+0.0.0.0 narrativ.com
 0.0.0.0 nasi.etherscan.com
 0.0.0.0 nasscom.epoise.com
 0.0.0.0 nasscomtest.epoise.com
@@ -10677,6 +10682,7 @@
 0.0.0.0 prismtest.epoise.com
 0.0.0.0 privacy-api.9gag.com
 0.0.0.0 privacyfriendly.netlify.app
+0.0.0.0 privacy.reverso.net
 0.0.0.0 private.wccftech.com
 0.0.0.0 pro.bizportal.co.il
 0.0.0.0 processusmetier.ricoh.fr
@@ -14380,6 +14386,7 @@
 0.0.0.0 warfieldtech.actonservice.com
 0.0.0.0 warrenfcu.actonservice.com
 0.0.0.0 washlaundry.actonservice.com
+0.0.0.0 wa.slideshare.net
 0.0.0.0 wa.spring-gds.com
 0.0.0.0 wasserkraftwerkkessel.viessmann.ch
 0.0.0.0 watch.jawwy.tv

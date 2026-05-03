@@ -1,8 +1,8 @@
 #
 #    File: Dating
 #    Info: Dating Sites
-# Domains: 1,314
-# Updated: 4/1/2026  00:02 (12:02 AM CST)
+# Domains: 1,315
+# Updated: 4/29/2026  14:59 (2:59 PM CST)
 #
 0.0.0.0 1000-dating-sites.com
 0.0.0.0 100-best-dating-sites.com
@@ -602,6 +602,7 @@
 0.0.0.0 incontrilatex.it
 0.0.0.0 incontriromantici.it
 0.0.0.0 incontrisugardaddy.it
+0.0.0.0 incontriveloci.com
 0.0.0.0 incontrixadulti.it
 0.0.0.0 indiadatingplanet.com
 0.0.0.0 indiamatch.com

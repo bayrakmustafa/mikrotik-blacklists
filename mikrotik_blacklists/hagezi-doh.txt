@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 26 Apr 2026 09:16 UTC
-# Version: 2026.0426.0916.28
+# Last modified: 03 May 2026 10:13 UTC
+# Version: 2026.0503.1013.17
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3931
+# Number of entries: 3926
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -122,7 +122,6 @@
 0.0.0.0 my.8484848.cn
 0.0.0.0 dns.853852.xyz
 0.0.0.0 dns19.854000.xyz
-0.0.0.0 dns.866865.xyz
 0.0.0.0 tyo.883933770.xyz
 0.0.0.0 dns.886886886.xyz
 0.0.0.0 dns.888654.xyz
@@ -136,7 +135,6 @@
 0.0.0.0 de-passage.9273082020.ru
 0.0.0.0 jp.95576.app
 0.0.0.0 959818.xyz
-0.0.0.0 dd.961188.xyz
 0.0.0.0 bella.981377612.xyz
 0.0.0.0 9827015.xyz
 0.0.0.0 dns.985900.xyz
@@ -500,7 +498,6 @@
 0.0.0.0 dns4.bortus.io
 0.0.0.0 doh.bortzmeyer.fr
 0.0.0.0 cloudns.bosco.ovh
-0.0.0.0 botclassic.com
 0.0.0.0 dns.bovat.net
 0.0.0.0 adguard.boykevanvugt.nl
 0.0.0.0 adguard2.boykevanvugt.nl
@@ -798,7 +795,6 @@
 0.0.0.0 adguard.crestfallen.de
 0.0.0.0 cristianocosta.me
 0.0.0.0 dns.itsec.crolla.net
-0.0.0.0 cryptd.space
 0.0.0.0 doh-ipv6.crypto.sx
 0.0.0.0 dohipv6.crypto.sx
 0.0.0.0 odoh.crypto.sx
@@ -951,7 +947,6 @@
 0.0.0.0 dns.dhemant.observer
 0.0.0.0 dns.isp.dhoho.net
 0.0.0.0 dns.diarbagus.id
-0.0.0.0 adguard.dientutronghuong.com
 0.0.0.0 dns.digitale-gesellschaft.ch
 0.0.0.0 dns1.digitale-gesellschaft.ch
 0.0.0.0 dns2.digitale-gesellschaft.ch
@@ -992,7 +987,6 @@
 0.0.0.0 dns.dns-53.us
 0.0.0.0 mikrobill.dns-cloud.net
 0.0.0.0 proariel.dns-dynamic.net
-0.0.0.0 dns-free.link
 0.0.0.0 dns.dns-heimdall.com
 0.0.0.0 dns.dns-over-https.com
 0.0.0.0 i.dns-over-https.tk
@@ -1795,6 +1789,7 @@
 0.0.0.0 dns.horcrux.vip
 0.0.0.0 horus-team.com
 0.0.0.0 dns.horus-team.com
+0.0.0.0 dns.internal.hosmatic.com
 0.0.0.0 v1552270.hosted-by-vdsina.ru
 0.0.0.0 resolver1.hosting-cloud.net
 0.0.0.0 resolver2.hosting-cloud.net
@@ -2369,6 +2364,7 @@
 0.0.0.0 doh.mmmalia.com
 0.0.0.0 dns.mnet-online.de
 0.0.0.0 dns.mni.li
+0.0.0.0 moamao.shop
 0.0.0.0 dnstls.mobik.com
 0.0.0.0 query.mobyds.com
 0.0.0.0 doh.mochou.site
