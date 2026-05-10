@@ -1,8 +1,8 @@
 #
 #    File: Gambling
 #    Info: Casino, gambling, poker, etc.
-# Domains: 9,553
-# Updated: 4/13/2026  10:19 (10:19 AM CST)
+# Domains: 9,554
+# Updated: 5/8/2026  09:07 (9:07 AM CST)
 #
 0.0.0.0 0009casino.com
 0.0.0.0 000-online-casino.biz
@@ -4290,6 +4290,7 @@
 0.0.0.0 gothamcitygrandcasino.com
 0.0.0.0 gotoponlinecasinos.com
 0.0.0.0 goxbetcasino.info
+0.0.0.0 gpwa.org
 0.0.0.0 grafcasino.com
 0.0.0.0 grand-casino.com
 0.0.0.0 grandcasino.email

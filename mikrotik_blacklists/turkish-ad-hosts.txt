@@ -9,7 +9,6 @@
 0.0.0.0 aan.amazon.com.tr
 0.0.0.0 aan.amazon.com.tr.home
 0.0.0.0 abundantservantexact.com
-0.0.0.0 adoni-nea.com
 0.0.0.0 adsreklamizm.ga
 0.0.0.0 adsreklamizm.tk
 0.0.0.0 affiliate.migros.com.tr
@@ -80,7 +79,6 @@
 0.0.0.0 lh.limosiwooable.com
 0.0.0.0 lider90.com
 0.0.0.0 lovy.llykjmzqkzkyy.top
-0.0.0.0 lu9xve2c97l898gjjxv4.ballercap.com
 0.0.0.0 lu9xve2c97l898gjjxv4.instantlymodern.com
 0.0.0.0 mc2tnzs73p3554cjc7h876m-gfm4.device.marketingcloudapis.com
 0.0.0.0 mcfk02nd3k8q7w75g9yxxcc6yj20.device.marketingcloudapis.com

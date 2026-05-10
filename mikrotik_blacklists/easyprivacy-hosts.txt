@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 01MAY26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 08MAY26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -6767,7 +6767,6 @@
 0.0.0.0 gotoaws.dresslily.com
 0.0.0.0 gotoaws.rosegal.com
 0.0.0.0 gotoaws.zaful.com
-0.0.0.0 gotoda.co
 0.0.0.0 gotoexp.dresslily.com
 0.0.0.0 goto.nearlist.com
 0.0.0.0 go.toonboom.com
@@ -7025,7 +7024,6 @@
 0.0.0.0 hstatstest.hepsiburada.com
 0.0.0.0 htcnbx.odkarla.cz
 0.0.0.0 htc.oaken.com
-0.0.0.0 htplayground.com
 0.0.0.0 huaxiang.eastmoney.com
 0.0.0.0 hubert.branch.rocks
 0.0.0.0 hu-business.vodafone.com
@@ -12503,6 +12501,7 @@
 0.0.0.0 sstats.whattopack.com
 0.0.0.0 sst.bwt.com
 0.0.0.0 sst.cooperativa.cl
+0.0.0.0 sst.fdiintelligence.com
 0.0.0.0 sstm.sport2000.fr
 0.0.0.0 sswhitedental.actonservice.com
 0.0.0.0 s.swishpick.com
@@ -13324,6 +13323,7 @@
 0.0.0.0 tracker.adcluster.com.tr
 0.0.0.0 tracker.affiliate.iqbroker.com
 0.0.0.0 tracker.atrapalo.com
+0.0.0.0 tracker-beam.tempo.co
 0.0.0.0 tracker.blutv.com
 0.0.0.0 tracker.comagic.ru
 0.0.0.0 tracker.digitalcamp.co.kr

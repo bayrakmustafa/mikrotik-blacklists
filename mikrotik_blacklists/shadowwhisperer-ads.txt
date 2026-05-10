@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 26,666
-# Updated: 5/2/2026  22:01 (10:01 PM CST)
+# Domains: 26,679
+# Updated: 5/8/2026  16:54 (4:54 PM CST)
 #
 0.0.0.0 0063450bb8e5e3brave-friend.com
 0.0.0.0 03ab2paradisecdn.com
@@ -450,6 +450,7 @@
 0.0.0.0 99adverts.com
 0.0.0.0 99gt7.com
 0.0.0.0 9a6cds03.com
+0.0.0.0 9ads.net
 0.0.0.0 9alb.com
 0.0.0.0 9d2f5063ef584031341b48895ba0605aeb70d4c8a683a838968635eb.com
 0.0.0.0 9gj21.de
@@ -1382,6 +1383,7 @@
 0.0.0.0 ad.kase.kz
 0.0.0.0 adkclicker.fr
 0.0.0.0 adkconvert.com
+0.0.0.0 ad.kddi-fs.com
 0.0.0.0 ad.kids-model-audition.com
 0.0.0.0 adkingsagency.com
 0.0.0.0 ad.kino-teatr.ua
@@ -7456,11 +7458,14 @@
 0.0.0.0 cylindrical-presentation.com
 0.0.0.0 cyrusson.com
 0.0.0.0 d0.sina.com.cn
+0.0.0.0 d11ywwiwbp5w99.cloudfront.net
 0.0.0.0 d1272serve.xyz
+0.0.0.0 d143rkb68zww8w.cloudfront.net
 0.0.0.0 d14bfzriit2hkf.cloudfront.net
 0.0.0.0 d17obvysu89dac.cloudfront.net
 0.0.0.0 d17pjd9ul3l2d4.cloudfront.net
 0.0.0.0 d185y8fkx3tp2z.cloudfront.net
+0.0.0.0 d1960jnnm1hn35.cloudfront.net
 0.0.0.0 d1bk6lwzdwelz0.cloudfront.net
 0.0.0.0 d1by1tbuh4ktib.cloudfront.net
 0.0.0.0 d1cgrmilfgg1y.cloudfront.net
@@ -8567,6 +8572,7 @@
 0.0.0.0 fingertip.click
 0.0.0.0 finishedequivalent.pro
 0.0.0.0 fireads.network
+0.0.0.0 firecrown.com
 0.0.0.0 firedropdownandwin.website
 0.0.0.0 fireflycreative.in
 0.0.0.0 firelead.com
@@ -8582,6 +8588,7 @@
 0.0.0.0 firstpage.app
 0.0.0.0 firstrate.com.au
 0.0.0.0 firstsportmedia.com
+0.0.0.0 fishingtoolsbox.com
 0.0.0.0 fitad.com
 0.0.0.0 fit-ad.jp
 0.0.0.0 fitravel.net
@@ -8590,6 +8597,7 @@
 0.0.0.0 fixed-dump.pro
 0.0.0.0 fixelapp.com
 0.0.0.0 fiyifo.com
+0.0.0.0 fjordsand.com
 0.0.0.0 flakybasket.pro
 0.0.0.0 flakypresentation.pro
 0.0.0.0 flamboyant-concern.pro
@@ -12288,6 +12296,7 @@
 0.0.0.0 p.febads.shop
 0.0.0.0 p.fedykr.com
 0.0.0.0 p.fegivja.com
+0.0.0.0 pfiuyt.com
 0.0.0.0 pfka.ru
 0.0.0.0 p.flaw.cloud
 0.0.0.0 pfo.biz
@@ -12323,6 +12332,7 @@
 0.0.0.0 pi4.piczhq.com
 0.0.0.0 piads.vn
 0.0.0.0 p.ianjumb.com
+0.0.0.0 pianwela.xyz
 0.0.0.0 piau.in
 0.0.0.0 pic1025.com
 0.0.0.0 pic1.58cdn.com.cn
@@ -12356,6 +12366,7 @@
 0.0.0.0 pinpointadv.com
 0.0.0.0 pinsoftek.com
 0.0.0.0 pioneeradvertiser.com
+0.0.0.0 piotyo.xyz
 0.0.0.0 pipaani.com
 0.0.0.0 pipoka.net
 0.0.0.0 piq-ocaa.space
@@ -12433,6 +12444,7 @@
 0.0.0.0 plowh.com
 0.0.0.0 p.lownoc.org
 0.0.0.0 plrsrvcs.com
+0.0.0.0 plrst.com
 0.0.0.0 plrvq.com
 0.0.0.0 pluggedlabs.com
 0.0.0.0 pluginnetwork.net
@@ -12908,6 +12920,7 @@
 0.0.0.0 publizitatea.eragin.com
 0.0.0.0 publy.com
 0.0.0.0 pubmnet.com
+0.0.0.0 pubmonetize.io
 0.0.0.0 puboise.com
 0.0.0.0 pub.olyrix.com
 0.0.0.0 pub.oumma.com
@@ -13209,10 +13222,12 @@
 0.0.0.0 quadravision.co.in
 0.0.0.0 quad.se
 0.0.0.0 quadsolution.com
+0.0.0.0 quagfa.com
 0.0.0.0 quaint-address.pro
 0.0.0.0 quaintlake.com
 0.0.0.0 qualgrow.com
 0.0.0.0 quallsbenson.com
+0.0.0.0 quaocns.xyz
 0.0.0.0 quarrelsomestatus.pro
 0.0.0.0 quartermedia.com
 0.0.0.0 quattro.agency
@@ -13246,6 +13261,7 @@
 0.0.0.0 qwocz.com
 0.0.0.0 qwpeg.com
 0.0.0.0 qwqw.online
+0.0.0.0 qyusgj.xyz
 0.0.0.0 qyxwfe.com
 0.0.0.0 qzppd.com
 0.0.0.0 r0ckeet.com
@@ -13311,9 +13327,11 @@
 0.0.0.0 ratesadagency.com
 0.0.0.0 rating-widget.com
 0.0.0.0 rationfantasticwheel.xyz
+0.0.0.0 rausfml.com
 0.0.0.0 ravalads.com
 0.0.0.0 ravalamin.com
 0.0.0.0 ravaquinal.com
+0.0.0.0 ravaynore.com
 0.0.0.0 ravenapp.dev
 0.0.0.0 ra.wellsmedia.com
 0.0.0.0 rawfuckingcash.com
@@ -13345,6 +13363,7 @@
 0.0.0.0 reach.slowtwitch.com
 0.0.0.0 readmo.yahoo.com
 0.0.0.0 readyaccess.pro
+0.0.0.0 reagend.com
 0.0.0.0 reaim.me
 0.0.0.0 realexercise.pro
 0.0.0.0 realimpact.in
@@ -13679,6 +13698,7 @@
 0.0.0.0 rocoads.net
 0.0.0.0 rodirgix.com
 0.0.0.0 roduster.com
+0.0.0.0 roemoss.com
 0.0.0.0 rogersmedia.com
 0.0.0.0 rogersmediasales.com
 0.0.0.0 rogerssportsandmedia.com
@@ -14436,7 +14456,6 @@
 0.0.0.0 secure.meilleurmedia.com
 0.0.0.0 securesolutionfilter.com
 0.0.0.0 secure.studieren.de
-0.0.0.0 securityannex.net
 0.0.0.0 securitychecksafe.com
 0.0.0.0 secyourads.com
 0.0.0.0 seedadscdn.com
@@ -14673,6 +14692,7 @@
 0.0.0.0 similar-volume.pro
 0.0.0.0 simpleapps.store
 0.0.0.0 simplemission.pro
+0.0.0.0 simpleworld.online
 0.0.0.0 simplistic-intention.pro
 0.0.0.0 simplistic-king.pro
 0.0.0.0 simplisticpitch.pro
@@ -15414,6 +15434,7 @@
 0.0.0.0 teser.net
 0.0.0.0 tespray-dicity.com
 0.0.0.0 test2.maxx.ddac.ru
+0.0.0.0 testad.gpwa.org
 0.0.0.0 testfcm.com
 0.0.0.0 testpublisher009.com
 0.0.0.0 testsite34.com
@@ -15806,6 +15827,7 @@
 0.0.0.0 trybrick.com
 0.0.0.0 trycourier.com
 0.0.0.0 trydigilant.com
+0.0.0.0 trygravity.ai
 0.0.0.0 tryinteract.com
 0.0.0.0 tryvoxpopme.com
 0.0.0.0 tsadvertising.com

@@ -1,8 +1,8 @@
 #
 #    File: Chat
 #    Info: Chat Dialog Boxes
-# Domains: 500
-# Updated: 4/22/2026  12:50 (12:50 PM CST)
+# Domains: 502
+# Updated: 5/8/2026  16:54 (4:54 PM CST)
 #
 0.0.0.0 1talking.net
 0.0.0.0 accpi.org
@@ -84,6 +84,7 @@
 0.0.0.0 chat.freshdesk.com
 0.0.0.0 chatgen.ai
 0.0.0.0 chatgen-cdn.azureedge.net
+0.0.0.0 chatgot.io
 0.0.0.0 chat.icedrive.net
 0.0.0.0 chatidcdn.com
 0.0.0.0 chatid.com
@@ -146,6 +147,7 @@
 0.0.0.0 dealereprocesschat.com
 0.0.0.0 decagon.ai
 0.0.0.0 deepconverse.com
+0.0.0.0 devrev.ai
 0.0.0.0 directtalk.com.br
 0.0.0.0 direqt.ai
 0.0.0.0 dixa.com

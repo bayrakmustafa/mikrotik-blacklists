@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 03 May 2026 10:13 UTC
-# Version: 2026.0503.1013.17
+# Last modified: 10 May 2026 09:45 UTC
+# Version: 2026.0510.0945.03
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3926
+# Number of entries: 3910
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -20,7 +20,6 @@
 0.0.0.0 adblock.0815cloud.de
 0.0.0.0 passwordsafe.0815cloud.de
 0.0.0.0 wlan.0815cloud.de
-0.0.0.0 cdn.0ms.dev
 0.0.0.0 dns.0ooo.icu
 0.0.0.0 1.0rz.space
 0.0.0.0 2.0rz.space
@@ -58,6 +57,7 @@
 0.0.0.0 adhome.2011101.xyz
 0.0.0.0 vps.202316.xyz
 0.0.0.0 220913.xyz
+0.0.0.0 dns.23-4.cn
 0.0.0.0 233py.com
 0.0.0.0 dns.233py.com
 0.0.0.0 doh.233py.com
@@ -369,6 +369,7 @@
 0.0.0.0 atsilva.link
 0.0.0.0 dns.atsilva.link
 0.0.0.0 atsssgo.xyz
+0.0.0.0 dns.auapi.fun
 0.0.0.0 auberge78.site
 0.0.0.0 dns.audet.cloud
 0.0.0.0 dns.auffray.org
@@ -405,6 +406,7 @@
 0.0.0.0 safe-guard.badbotdev.xyz
 0.0.0.0 dns.bai0012.com
 0.0.0.0 dnscdn.bai0012.com
+0.0.0.0 dns.baishiyuan.cn
 0.0.0.0 adguard.baltes.info
 0.0.0.0 bancuh.com
 0.0.0.0 fr-dns1.bancuh.com
@@ -644,6 +646,8 @@
 0.0.0.0 opera.cloudflare-dns.com
 0.0.0.0 security.cloudflare-dns.com
 0.0.0.0 tor.cloudflare-dns.com
+0.0.0.0 cloudflare-gateway.com
+0.0.0.0 frd4wvnobp.cloudflare-gateway.com
 0.0.0.0 api.cloudflareclient.com
 0.0.0.0 cloudflaredns.com
 0.0.0.0 cloudflareresolve.com
@@ -1013,6 +1017,8 @@
 0.0.0.0 srv03.dns64.de
 0.0.0.0 srv04.dns64.de
 0.0.0.0 dns8.org
+0.0.0.0 alpha.dnsbunker.org
+0.0.0.0 bravo.dnsbunker.org
 0.0.0.0 ns1.recursive.dnsbycomodo.com
 0.0.0.0 ns2.recursive.dnsbycomodo.com
 0.0.0.0 2.dnscrypt-cert.shield-2.dnsbycomodo.com
@@ -1347,7 +1353,6 @@
 0.0.0.0 site-3.duckdns.org
 0.0.0.0 soporte-premium.duckdns.org
 0.0.0.0 surviil.duckdns.org
-0.0.0.0 testapp-0-1-1.duckdns.org
 0.0.0.0 thaibksri.duckdns.org
 0.0.0.0 theadblocksg.duckdns.org
 0.0.0.0 ts653d.duckdns.org
@@ -1375,7 +1380,6 @@
 0.0.0.0 adguard.ekhozie.dynu.net
 0.0.0.0 flyloadguard.dynu.net
 0.0.0.0 quangdo92.dynu.net
-0.0.0.0 saomai.dynu.com
 0.0.0.0 dns.dynx.pro
 0.0.0.0 adg.dz.ax
 0.0.0.0 az.dz4fun.top
@@ -1655,7 +1659,6 @@
 0.0.0.0 roadesdyn.go.ro
 0.0.0.0 ux.go20.cf
 0.0.0.0 dns.goertz.digital
-0.0.0.0 panel.gogolvpn.com
 0.0.0.0 eime.goip.de
 0.0.0.0 dohsg.goitoi.co
 0.0.0.0 dns.goldplate.org
@@ -1686,7 +1689,6 @@
 0.0.0.0 grunwald-marc.de
 0.0.0.0 vps.grussenmeyer.com
 0.0.0.0 dns.gsmseti.net
-0.0.0.0 ms.gswsfh2021.site
 0.0.0.0 bigseal1.gu-natee.uk
 0.0.0.0 guanmengkai.com
 0.0.0.0 dns.guard.io
@@ -1925,8 +1927,6 @@
 0.0.0.0 public.dns.iij.jp
 0.0.0.0 ikarosalpha.xyz
 0.0.0.0 dns.ikataruto.com
-0.0.0.0 mnsvless.ikwb.com
-0.0.0.0 ilinhy.com
 0.0.0.0 ilmxs.com
 0.0.0.0 noads.imbuffering.com
 0.0.0.0 dns.imchristian.de
@@ -1998,7 +1998,6 @@
 0.0.0.0 fvpn.jarvishome.ru
 0.0.0.0 hk.jason666.top
 0.0.0.0 adguard.jaydub.cloud
-0.0.0.0 aghome.jcconnell.com
 0.0.0.0 argus1.jcconnell.com
 0.0.0.0 jcdns.fun
 0.0.0.0 doh.jeroenhd.nl
@@ -2151,7 +2150,6 @@
 0.0.0.0 dns.krol.cloud
 0.0.0.0 kstdownload.com
 0.0.0.0 dns.kugoapps.com
-0.0.0.0 adguard.kujoe.com
 0.0.0.0 dns.kukal.cz
 0.0.0.0 agh.kul-lippek.de
 0.0.0.0 dns.kusoneko.moe
@@ -2163,7 +2161,6 @@
 0.0.0.0 dns.kzrz.pl
 0.0.0.0 dns.l337.site
 0.0.0.0 dns.l6.ee
-0.0.0.0 ns1.lab321.pro
 0.0.0.0 dns.labar.re
 0.0.0.0 dns.labnekotest.site
 0.0.0.0 doh.lacontrevoie.fr
@@ -2189,7 +2186,6 @@
 0.0.0.0 leecurrylawfirm.com
 0.0.0.0 adblock.leenit.kr
 0.0.0.0 yarp.lefolgoc.net
-0.0.0.0 br.servers.legat.ml
 0.0.0.0 externalmobiel.lekdijk.online
 0.0.0.0 sndkcuf.lekun.me
 0.0.0.0 dns.lepilleur.com
@@ -2218,7 +2214,6 @@
 0.0.0.0 africadns1.liquidtelecom.net
 0.0.0.0 africadns2.liquidtelecom.net
 0.0.0.0 sers.lirlab.su
-0.0.0.0 dns.liruz.fr
 0.0.0.0 dns.listo.click
 0.0.0.0 dns.lithvik.com
 0.0.0.0 dns.litong.dev
@@ -2242,7 +2237,6 @@
 0.0.0.0 deweerd.loseyourip.com
 0.0.0.0 ddd.loukky.com
 0.0.0.0 ddd3.loukky.com
-0.0.0.0 lovekers.cn
 0.0.0.0 n5.lsasss.com
 0.0.0.0 dns.lsho.top
 0.0.0.0 lslnyjq.uk
@@ -2264,7 +2258,6 @@
 0.0.0.0 orau.lz0724.com
 0.0.0.0 orjp4.lz0724.com
 0.0.0.0 addns1.m-it.ro
-0.0.0.0 ag.m0fo.com
 0.0.0.0 v971850.macloud.host
 0.0.0.0 dns.mafyuh.io
 0.0.0.0 guard.magic-pics.tk
@@ -2353,7 +2346,6 @@
 0.0.0.0 mikezhang.xyz
 0.0.0.0 dns.mikopono.nl
 0.0.0.0 rwkdwpwsyv48.mikopono.nl
-0.0.0.0 dns.milkpie.one
 0.0.0.0 dns.millernetwork.uk
 0.0.0.0 aitkcrev.minhduc.pw
 0.0.0.0 minilla.store
@@ -2364,7 +2356,6 @@
 0.0.0.0 doh.mmmalia.com
 0.0.0.0 dns.mnet-online.de
 0.0.0.0 dns.mni.li
-0.0.0.0 moamao.shop
 0.0.0.0 dnstls.mobik.com
 0.0.0.0 query.mobyds.com
 0.0.0.0 doh.mochou.site
@@ -2446,7 +2437,6 @@
 0.0.0.0 dns.velyn.my.id
 0.0.0.0 dns.vmath.my.id
 0.0.0.0 zapranet.my.id
-0.0.0.0 vds2380673.my-ihor.ru
 0.0.0.0 filter.myaddr.io
 0.0.0.0 myadg.ru
 0.0.0.0 as6604t-04.myasustor.com
@@ -2550,7 +2540,6 @@
 0.0.0.0 br.lfac.net.br
 0.0.0.0 us.lfac.net.br
 0.0.0.0 doh.max.net.id
-0.0.0.0 ns.net.kg
 0.0.0.0 doh.palapa.net.id
 0.0.0.0 doh.sww.net.id
 0.0.0.0 homelab.terabit.net.id
@@ -2564,7 +2553,6 @@
 0.0.0.0 dns.netvpn.net
 0.0.0.0 cube.neubsi.at
 0.0.0.0 dns.neubsi.at
-0.0.0.0 katherine-dns.newcore.cl
 0.0.0.0 doh.nexen.cloud
 0.0.0.0 doh.luigi.nexific.it
 0.0.0.0 dns.nextdns.io
@@ -2654,7 +2642,6 @@
 0.0.0.0 dns.npe.bz
 0.0.0.0 adguard.npglocal.com
 0.0.0.0 ns.cd
-0.0.0.0 xpen.ns01.info
 0.0.0.0 x.ns1net.com
 0.0.0.0 ns3.com
 0.0.0.0 dnscache0.ns71.net
@@ -2928,7 +2915,6 @@
 0.0.0.0 2.dnscrypt-cert.quad9.net
 0.0.0.0 dns.quanhd.net
 0.0.0.0 quantumpulse.dev
-0.0.0.0 quic.lol
 0.0.0.0 dns.quickline.ch
 0.0.0.0 doh.quickline.ch
 0.0.0.0 dot.quickline.ch
@@ -3178,7 +3164,6 @@
 0.0.0.0 ag.snrka.ru
 0.0.0.0 guard.sntrk.ru
 0.0.0.0 adguardhome.softcloud.pe
-0.0.0.0 clientdns3.softcom.net
 0.0.0.0 myprivityvpn.softether.net
 0.0.0.0 solaxy.live
 0.0.0.0 wtbd02.solowalk.top
@@ -3383,7 +3368,6 @@
 0.0.0.0 asia.tri-dns.net
 0.0.0.0 eu.tri-dns.net
 0.0.0.0 tributh.net
-0.0.0.0 dns.trifanov-online.ru
 0.0.0.0 sq.trin.icu
 0.0.0.0 doh.tritan-bb.net
 0.0.0.0 trovs.ru
@@ -3433,7 +3417,6 @@
 0.0.0.0 ines.zfn.uni-bremen.de
 0.0.0.0 galileo.math.unipd.it
 0.0.0.0 dns.unitech.company
-0.0.0.0 dns.unitynetwork.ru
 0.0.0.0 unp.im
 0.0.0.0 resolver.unstoppable.io
 0.0.0.0 doh.unveildns.com
@@ -3680,7 +3663,6 @@
 0.0.0.0 adg.yybyy.wiki
 0.0.0.0 dns.daemon.za.net
 0.0.0.0 zabolotskikh.dev
-0.0.0.0 dns.zachbosh.com
 0.0.0.0 adguard.zachitect.com
 0.0.0.0 zakaria.website
 0.0.0.0 sdns.zakaria.website
@@ -3709,7 +3691,6 @@
 0.0.0.0 zougloub.eu
 0.0.0.0 d.zscale.gq
 0.0.0.0 ztv.su
-0.0.0.0 lookup.zucx.net
 0.0.0.0 dns.zui.lol
 0.0.0.0 zulkas.top
 0.0.0.0 ams.core.access.zznet.fun
