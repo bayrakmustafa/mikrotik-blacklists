@@ -115,6 +115,7 @@
 0.0.0.0 principlessilas.com
 0.0.0.0 privacy.gatekeeperconsent.com
 0.0.0.0 pugsgivehugs.com
+0.0.0.0 punosy.best
 0.0.0.0 punosy.top
 0.0.0.0 px.airpr.com
 0.0.0.0 r.admob.com

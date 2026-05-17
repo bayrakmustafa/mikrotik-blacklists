@@ -1,8 +1,8 @@
 #
 #    File: Cryptocurrency
 #    Info: Bitcoin, Ethereum, Mining, etc
-# Domains: 1,266
-# Updated: 11/20/2025  01:23 (1:23 AM CST)
+# Domains: 1,271
+# Updated: 5/17/2026  01:16 (1:16 AM CST)
 #
 0.0.0.0 0slot.trade
 0.0.0.0 10102.io
@@ -420,6 +420,11 @@
 0.0.0.0 etherzero.org
 0.0.0.0 ethpool.org
 0.0.0.0 ethwmine.com
+0.0.0.0 etica.io
+0.0.0.0 eticanomics.net
+0.0.0.0 eticaprotocol.org
+0.0.0.0 eticascan.org
+0.0.0.0 etica-stats.org
 0.0.0.0 etorostatic.com
 0.0.0.0 evepool.pw
 0.0.0.0 evergreencoin.org

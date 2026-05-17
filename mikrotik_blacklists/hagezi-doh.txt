@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 10 May 2026 09:45 UTC
-# Version: 2026.0510.0945.03
+# Last modified: 17 May 2026 09:41 UTC
+# Version: 2026.0517.0941.38
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3910
+# Number of entries: 3915
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -392,7 +392,6 @@
 0.0.0.0 dns.azfar.my
 0.0.0.0 doh.azoris.ovh
 0.0.0.0 sradg.eastus.cloudapp.azure.com
-0.0.0.0 sradg2.eastus.cloudapp.azure.com
 0.0.0.0 doh1.b-cdn.net
 0.0.0.0 doh2.b-cdn.net
 0.0.0.0 dns.b33.network
@@ -510,14 +509,12 @@
 0.0.0.0 dns.brembeck.cloud
 0.0.0.0 dns.briac-mlb.fr
 0.0.0.0 dns.system.brianhong.kr
-0.0.0.0 ag.brianlee.fun
 0.0.0.0 dns.brionesserver.net
 0.0.0.0 agh.broaddy.com
 0.0.0.0 dns.brono.cloud
 0.0.0.0 home.bruckmoser.it
 0.0.0.0 81.brudnowski.eu
 0.0.0.0 81xyz.brudnowski.eu
-0.0.0.0 adguard.bse4792.site
 0.0.0.0 doh.bt.com
 0.0.0.0 goose.buckyfan.net
 0.0.0.0 doh.bugdns.com
@@ -693,13 +690,8 @@
 0.0.0.0 dns-one.lins.co.tt
 0.0.0.0 dns-three.lins.co.tt
 0.0.0.0 guard.lumusimc.co.uk
-0.0.0.0 adg.mnml.co.in
 0.0.0.0 dns.neilzone.co.uk
-0.0.0.0 dns.nerdytechgeeks.co.za
-0.0.0.0 ns.nerdytechgeeks.co.za
-0.0.0.0 ns01.nerdytechgeeks.co.za
 0.0.0.0 ns02.nerdytechgeeks.co.za
-0.0.0.0 ns03.nerdytechgeeks.co.za
 0.0.0.0 home.norvrandt.co.uk
 0.0.0.0 dns.nzxti5.co.uk
 0.0.0.0 dns.oliviertv.co.za
@@ -1371,7 +1363,6 @@
 0.0.0.0 duyyen.tk
 0.0.0.0 dvgarm.com
 0.0.0.0 atlantic.dyn1.de
-0.0.0.0 dns.dyn1.de
 0.0.0.0 akhilkalwakurthy.dyndns.org
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 roucious.dyndns-remote.com
@@ -1380,7 +1371,7 @@
 0.0.0.0 adguard.ekhozie.dynu.net
 0.0.0.0 flyloadguard.dynu.net
 0.0.0.0 quangdo92.dynu.net
-0.0.0.0 dns.dynx.pro
+0.0.0.0 saomai.dynu.com
 0.0.0.0 adg.dz.ax
 0.0.0.0 az.dz4fun.top
 0.0.0.0 dns.dzkji.cn
@@ -1422,7 +1413,6 @@
 0.0.0.0 enclosr.co
 0.0.0.0 gdns.end.pub
 0.0.0.0 hk.end.pub
-0.0.0.0 adguard.ender.fr
 0.0.0.0 dns.engineer-lib.ru
 0.0.0.0 dnssec.dns.enginyring.com
 0.0.0.0 dns01.enginyring.com
@@ -1528,6 +1518,7 @@
 0.0.0.0 2.dnscrypt-cert.ffmuc.net
 0.0.0.0 dns.ffnw.de
 0.0.0.0 fidelius.top
+0.0.0.0 dns.fifux.be
 0.0.0.0 dns.filipccz.eu
 0.0.0.0 fimoshinckaya-federation.site
 0.0.0.0 home.firetiresinc.com
@@ -1587,6 +1578,7 @@
 0.0.0.0 zuk.freemyip.com
 0.0.0.0 dns.freopc.fr
 0.0.0.0 dns.freyja.pw
+0.0.0.0 dns.friezer.eu
 0.0.0.0 frkn.frkn.cloud
 0.0.0.0 ivica-vulas.from.hr
 0.0.0.0 dns.froth.zone
@@ -1720,6 +1712,7 @@
 0.0.0.0 dns.hanahira.dev
 0.0.0.0 adguard.haneulo.com
 0.0.0.0 dns.hanmey.de
+0.0.0.0 hanniel.tech
 0.0.0.0 dns.hannielzhang.com
 0.0.0.0 jp.hannielzhang.com
 0.0.0.0 d.hansj.cc
@@ -1927,7 +1920,9 @@
 0.0.0.0 public.dns.iij.jp
 0.0.0.0 ikarosalpha.xyz
 0.0.0.0 dns.ikataruto.com
+0.0.0.0 ilinhy.com
 0.0.0.0 ilmxs.com
+0.0.0.0 dns.imaicool.com
 0.0.0.0 noads.imbuffering.com
 0.0.0.0 dns.imchristian.de
 0.0.0.0 dns.immanuelschaffer.de
@@ -2069,6 +2064,7 @@
 0.0.0.0 kallemarc.de
 0.0.0.0 adguard.kalyanmudumby.com
 0.0.0.0 dns.kamilszczepanski.com
+0.0.0.0 jp.kano.sh
 0.0.0.0 adguard.kantinyoyok.xyz
 0.0.0.0 dns.kapite.in
 0.0.0.0 dns.kapoww.tk
@@ -2188,6 +2184,7 @@
 0.0.0.0 yarp.lefolgoc.net
 0.0.0.0 externalmobiel.lekdijk.online
 0.0.0.0 sndkcuf.lekun.me
+0.0.0.0 lelux.fi
 0.0.0.0 dns.lepilleur.com
 0.0.0.0 dns.lermer.nl
 0.0.0.0 lesuo.top
@@ -2332,6 +2329,7 @@
 0.0.0.0 next.miao.ninja
 0.0.0.0 dns.michelo.cl
 0.0.0.0 ss.microbaidu.com
+0.0.0.0 doh.micronets.in
 0.0.0.0 dns.midping.ir
 0.0.0.0 dns.mihalcea.eu
 0.0.0.0 agh.mihanentalpo.me
@@ -2758,6 +2756,7 @@
 0.0.0.0 wg.pastorov.ru
 0.0.0.0 nas.patrick-antoine.fr
 0.0.0.0 dns.paxavemedia.com
+0.0.0.0 loan.paymdm.xyz
 0.0.0.0 vps-ovh.pb2004.pl
 0.0.0.0 dns.pccoach.nl
 0.0.0.0 pcgo.fun
@@ -2765,6 +2764,7 @@
 0.0.0.0 pdnssrvagh.online
 0.0.0.0 dns.peb-schmidt.de
 0.0.0.0 fuchur.pentament.de
+0.0.0.0 pepetio.xyz
 0.0.0.0 dns.periactes.com
 0.0.0.0 dns0.permafrostmiami.com
 0.0.0.0 dns.pernika.net
@@ -3214,6 +3214,7 @@
 0.0.0.0 structoriumwings.ru
 0.0.0.0 dns.stud.cloud
 0.0.0.0 la-doh.stuptech.com
+0.0.0.0 doh.sublime9.xyz
 0.0.0.0 doh.suche.org
 0.0.0.0 dns.suhaila.dev
 0.0.0.0 resolver.sunet.se
@@ -3357,6 +3358,7 @@
 0.0.0.0 chronicle14.tplinkdns.com
 0.0.0.0 ebpmc.tplinkdns.com
 0.0.0.0 ngk81hc.tplinkdns.com
+0.0.0.0 dns.tracker.ink
 0.0.0.0 access.traders-friend.com
 0.0.0.0 resolv1.trash.net
 0.0.0.0 resolv2.trash.net
@@ -3479,6 +3481,7 @@
 0.0.0.0 vlad.dns.vladpro.ru
 0.0.0.0 dns.vlo.cc
 0.0.0.0 dns.vmisch.tech
+0.0.0.0 dns.vod11.xyz
 0.0.0.0 dns.volsap.ovh
 0.0.0.0 vorlif.org
 0.0.0.0 adguard.vozersky.com
@@ -3609,6 +3612,7 @@
 0.0.0.0 dns.xwdmw.xyz
 0.0.0.0 dns.xwu.us
 0.0.0.0 r7ws-poco-f3.dns.xwu.us
+0.0.0.0 v2.xx3210766.live
 0.0.0.0 dns.xydustc.me
 0.0.0.0 v1.xylto.com
 0.0.0.0 dns.y2f.xyz

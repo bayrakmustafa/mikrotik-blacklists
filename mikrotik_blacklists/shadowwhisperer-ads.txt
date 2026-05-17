@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 26,679
-# Updated: 5/8/2026  16:54 (4:54 PM CST)
+# Domains: 26,744
+# Updated: 5/17/2026  01:16 (1:16 AM CST)
 #
 0.0.0.0 0063450bb8e5e3brave-friend.com
 0.0.0.0 03ab2paradisecdn.com
@@ -643,7 +643,6 @@
 0.0.0.0 aboutsage.com
 0.0.0.0 abovead.com
 0.0.0.0 aboveandbeyond.digital
-0.0.0.0 abovechat.com
 0.0.0.0 abovethefold.co.in
 0.0.0.0 abraco-debra.be
 0.0.0.0 a.bramb.site
@@ -1313,7 +1312,6 @@
 0.0.0.0 adimages.footymad.net
 0.0.0.0 adimages.gns.go.com
 0.0.0.0 adimages.marriagetrac.com
-0.0.0.0 adimages.microcenter.com
 0.0.0.0 adimages.proforums.com
 0.0.0.0 adimages.realtor.com
 0.0.0.0 adimages.startribune.com
@@ -4112,6 +4110,7 @@
 0.0.0.0 adswell.ru
 0.0.0.0 ads.wellspublishing.com
 0.0.0.0 ads.welovetennis.fr
+0.0.0.0 ads.wenet.pl
 0.0.0.0 ads.wesped.com
 0.0.0.0 ads.wesped.es
 0.0.0.0 ads.wettforum.info
@@ -4433,7 +4432,6 @@
 0.0.0.0 advertisingagencyinhyderabad.com
 0.0.0.0 advertising-alliance.de
 0.0.0.0 advertising.amazon.com.be
-0.0.0.0 advertising.amazon.dev
 0.0.0.0 advertising.artcity2008.com
 0.0.0.0 advertising.asia
 0.0.0.0 advertising.at
@@ -5099,6 +5097,7 @@
 0.0.0.0 alleswegenmicha.de
 0.0.0.0 alleythecat.com
 0.0.0.0 allgrad.site
+0.0.0.0 allhoney.pro
 0.0.0.0 allinviews.com
 0.0.0.0 all-kick.pro
 0.0.0.0 allroll.com
@@ -5125,6 +5124,7 @@
 0.0.0.0 altruisticminute.com
 0.0.0.0 altwebpush.com
 0.0.0.0 aluhutmafia.de
+0.0.0.0 alwaysahorse.com
 0.0.0.0 alwayssecureadv.com
 0.0.0.0 alwqfajh.com
 0.0.0.0 a.maple-sky.com
@@ -5832,6 +5832,7 @@
 0.0.0.0 banneryear.io
 0.0.0.0 bapa215.top
 0.0.0.0 baradvertisingusa.com
+0.0.0.0 barbadoshello.com
 0.0.0.0 barcindia.in
 0.0.0.0 barf-ads.us
 0.0.0.0 barkernyc.com
@@ -6313,7 +6314,6 @@
 0.0.0.0 brillmedia.co
 0.0.0.0 brimbus.com
 0.0.0.0 brinkads.com
-0.0.0.0 briskedge.net
 0.0.0.0 brisk-surgery.pro
 0.0.0.0 britopush.com
 0.0.0.0 britsexcash.com
@@ -6334,7 +6334,6 @@
 0.0.0.0 browserupdate.org
 0.0.0.0 brsrv-id.com
 0.0.0.0 bruceads.com
-0.0.0.0 brunchforher.com
 0.0.0.0 bryzr.com
 0.0.0.0 bs-advertising.com
 0.0.0.0 bsjgvtq.com
@@ -6891,7 +6890,6 @@
 0.0.0.0 coinisnetwork.com
 0.0.0.0 coin.network
 0.0.0.0 coinpayu.com
-0.0.0.0 coldcallpro.com
 0.0.0.0 collabollc.com
 0.0.0.0 collectcent.co
 0.0.0.0 collectcent.com
@@ -6980,6 +6978,7 @@
 0.0.0.0 constant.co
 0.0.0.0 constantcopy.pro
 0.0.0.0 constructionad.network
+0.0.0.0 consultantchow.com
 0.0.0.0 consultwebs.com
 0.0.0.0 consumedmedia.com
 0.0.0.0 contactus.blob.core.windows.net
@@ -7022,6 +7021,7 @@
 0.0.0.0 convertise.io
 0.0.0.0 convertzoom.com
 0.0.0.0 cooins.mobi
+0.0.0.0 cookedvisit.pro
 0.0.0.0 cookiebanner.phusion.nl
 0.0.0.0 cookie-bar.conversionbear.com
 0.0.0.0 cookiebar.hulkapps.com
@@ -7268,7 +7268,6 @@
 0.0.0.0 craftsmanplus.com
 0.0.0.0 craftydish.com
 0.0.0.0 crakrevenue.com
-0.0.0.0 craterbox.com
 0.0.0.0 crcgrilses.com
 0.0.0.0 crcvba.com
 0.0.0.0 crdl.io
@@ -7574,7 +7573,6 @@
 0.0.0.0 data.cdgtw.net
 0.0.0.0 datadrives.ai
 0.0.0.0 datapop.com
-0.0.0.0 datastoried.com
 0.0.0.0 datspush.com
 0.0.0.0 davidcliveprice.com
 0.0.0.0 davidnudescash.com
@@ -7688,7 +7686,6 @@
 0.0.0.0 deqph.com
 0.0.0.0 deqwas.co.jp
 0.0.0.0 derangeddollars.com
-0.0.0.0 derbypops.com
 0.0.0.0 derg.de
 0.0.0.0 dervalio.com
 0.0.0.0 desabrator.com
@@ -8037,7 +8034,6 @@
 0.0.0.0 earlyfortune.pro
 0.0.0.0 earnest-monitor.com
 0.0.0.0 earnest-payment.com
-0.0.0.0 earthyfarm.com
 0.0.0.0 easilyshopping.pro
 0.0.0.0 eastcoastadvertising.net
 0.0.0.0 easy-ad.no
@@ -8100,6 +8096,7 @@
 0.0.0.0 edm.pressflex.net
 0.0.0.0 edoinc.com
 0.0.0.0 educated-command.pro
+0.0.0.0 educrated.com
 0.0.0.0 eeono.online
 0.0.0.0 eeqrlc.com
 0.0.0.0 effectv.com
@@ -8184,7 +8181,6 @@
 0.0.0.0 enchanted-stretch.pro
 0.0.0.0 encontextadvertising.com
 0.0.0.0 encoremetrics.com
-0.0.0.0 endlesstrust.com
 0.0.0.0 endnewjimcrow.org
 0.0.0.0 endorsedby.com
 0.0.0.0 energeticshot.com
@@ -8266,6 +8262,7 @@
 0.0.0.0 eqmpw.com
 0.0.0.0 eqolot.com
 0.0.0.0 equal-engineer.pro
+0.0.0.0 equalfall.pro
 0.0.0.0 equativ.com
 0.0.0.0 equatorialboy.pro
 0.0.0.0 equatorial-statement.pro
@@ -8366,7 +8363,6 @@
 0.0.0.0 expmnclick.com
 0.0.0.0 expoclknu.com
 0.0.0.0 extendad.com
-0.0.0.0 extramonies.com
 0.0.0.0 extraneous-box.com
 0.0.0.0 extraneousstudy.pro
 0.0.0.0 extras.prairiemountainmedia.com
@@ -8476,7 +8472,6 @@
 0.0.0.0 fdcjadjdeiacbhihaadb.world
 0.0.0.0 fdma-media.com
 0.0.0.0 fdzev.com
-0.0.0.0 fearlessfeast.com
 0.0.0.0 fearlessmedia.com
 0.0.0.0 fearless-middle.pro
 0.0.0.0 fechjdbadcjcfgaidadb.world
@@ -8592,12 +8587,12 @@
 0.0.0.0 fitad.com
 0.0.0.0 fit-ad.jp
 0.0.0.0 fitravel.net
+0.0.0.0 fittingjob.pro
 0.0.0.0 fitting-whole.pro
 0.0.0.0 fixedclerk.pro
 0.0.0.0 fixed-dump.pro
 0.0.0.0 fixelapp.com
 0.0.0.0 fiyifo.com
-0.0.0.0 fjordsand.com
 0.0.0.0 flakybasket.pro
 0.0.0.0 flakypresentation.pro
 0.0.0.0 flamboyant-concern.pro
@@ -8608,6 +8603,7 @@
 0.0.0.0 flashy-economy.com
 0.0.0.0 flat-car.pro
 0.0.0.0 flatironmedia.com
+0.0.0.0 flavedo.io
 0.0.0.0 flawed-earth.pro
 0.0.0.0 flawlesssubstance.com
 0.0.0.0 fleshpays.com
@@ -8779,7 +8775,6 @@
 0.0.0.0 funnelpush.jp
 0.0.0.0 funny-collar.com
 0.0.0.0 funnydust.pro
-0.0.0.0 funoverflow.com
 0.0.0.0 furnstudio.com
 0.0.0.0 fuse-ad.com
 0.0.0.0 fuseideas.com
@@ -8863,7 +8858,6 @@
 0.0.0.0 ge8.getfto.com
 0.0.0.0 gecdwmkee.com
 0.0.0.0 gedeg.online
-0.0.0.0 geekactive.com
 0.0.0.0 gek-aquo.space
 0.0.0.0 gelirartisi.com
 0.0.0.0 gemgain.net
@@ -9067,7 +9061,6 @@
 0.0.0.0 go.metabet.io
 0.0.0.0 goneto.xyz
 0.0.0.0 gonewland.com
-0.0.0.0 goodbark.com
 0.0.0.0 goodidea.ae
 0.0.0.0 good-investment.pro
 0.0.0.0 goodjoyads.net
@@ -9162,6 +9155,7 @@
 0.0.0.0 grey.com
 0.0.0.0 greysell.in
 0.0.0.0 gridadvertising.com
+0.0.0.0 gridoffers.com
 0.0.0.0 grifanme.com
 0.0.0.0 grim-currency.com
 0.0.0.0 grimmel.com.au
@@ -9338,6 +9332,7 @@
 0.0.0.0 herofi.com
 0.0.0.0 herolens.com
 0.0.0.0 hero.rs
+0.0.0.0 hertechlife.com
 0.0.0.0 hewasinlo-bid.com
 0.0.0.0 hexiim.de
 0.0.0.0 hexovythi.pro
@@ -9869,6 +9864,7 @@
 0.0.0.0 ironpulley.com
 0.0.0.0 ironsrc.mobi
 0.0.0.0 irresponsible-year.pro
+0.0.0.0 irritatingfog.com
 0.0.0.0 irv.si
 0.0.0.0 i.shareasale.com
 0.0.0.0 ishas.in
@@ -10006,6 +10002,7 @@
 0.0.0.0 joyads.net
 0.0.0.0 joyfulassistant.pro
 0.0.0.0 joyfulfloor.pro
+0.0.0.0 joyfulkeen.com
 0.0.0.0 joyfulvibe.com
 0.0.0.0 joyous-goal.pro
 0.0.0.0 joyous-storage.pro
@@ -10028,6 +10025,7 @@
 0.0.0.0 js.mangajp.top
 0.0.0.0 js.mangapro.top
 0.0.0.0 jubace.com
+0.0.0.0 jubilantcascade.com
 0.0.0.0 jubileeplumbinginc.com
 0.0.0.0 jugularnyc.com
 0.0.0.0 juicemobile.com
@@ -10396,7 +10394,6 @@
 0.0.0.0 like.etao.com
 0.0.0.0 likenotify.com
 0.0.0.0 lilhasibat.com
-0.0.0.0 lilydreamer.com
 0.0.0.0 limelightmedia.ng
 0.0.0.0 limited-bird.pro
 0.0.0.0 limitedmusic.pro
@@ -10841,6 +10838,7 @@
 0.0.0.0 medianetadvertising.com
 0.0.0.0 mediaocean.com
 0.0.0.0 media.on.betrivers.ca
+0.0.0.0 mediaone.com
 0.0.0.0 mediapal.net
 0.0.0.0 mediaplanet.tv
 0.0.0.0 media.planpokera.com
@@ -10925,6 +10923,7 @@
 0.0.0.0 meritmile.com
 0.0.0.0 merkelsdienstwagen.de
 0.0.0.0 merry-hearing.pro
+0.0.0.0 merryopal.com
 0.0.0.0 mertzrentacar.com
 0.0.0.0 messagepk.com
 0.0.0.0 messageverify.click
@@ -11432,6 +11431,7 @@
 0.0.0.0 newadserver.com
 0.0.0.0 newage.agency
 0.0.0.0 newage.ro
+0.0.0.0 newartreview.com
 0.0.0.0 newbesthd.pro
 0.0.0.0 newcard.pro
 0.0.0.0 newcastilloadvertising.com
@@ -11473,6 +11473,7 @@
 0.0.0.0 nextadagency.com
 0.0.0.0 next-ad.co
 0.0.0.0 nexta.io
+0.0.0.0 nextclass.pro
 0.0.0.0 nextdigital.co.id
 0.0.0.0 nextleadgeneration.com
 0.0.0.0 nextlevel.sl
@@ -12453,6 +12454,7 @@
 0.0.0.0 plus.ag
 0.0.0.0 pluseight.co.uk
 0.0.0.0 plush-region.pro
+0.0.0.0 plus.timesofindia.com
 0.0.0.0 plus.tourispo.com
 0.0.0.0 plutoclean.com
 0.0.0.0 pluto.sina.cn
@@ -12657,7 +12659,6 @@
 0.0.0.0 pressenger.com
 0.0.0.0 presspatron.com
 0.0.0.0 prestanciatechnologies.com
-0.0.0.0 prettybicycle.com
 0.0.0.0 preventrobots.com
 0.0.0.0 previous-trip.pro
 0.0.0.0 pricey-shock.pro
@@ -13391,10 +13392,13 @@
 0.0.0.0 recentdistance.pro
 0.0.0.0 receptix.us
 0.0.0.0 rechiol.info
+0.0.0.0 reckless-message.pro
 0.0.0.0 reckless-relative.com
+0.0.0.0 reckless-variation.pro
 0.0.0.0 recollectsideway.com
 0.0.0.0 recommendation-hybrid.wpdigital.net
 0.0.0.0 recommendation-newsletter.wpdigital.net
+0.0.0.0 reco.slike.in
 0.0.0.0 recreativdesign.com
 0.0.0.0 recruiting-ads.de
 0.0.0.0 rectanglebd.com
@@ -13423,6 +13427,7 @@
 0.0.0.0 ref.techniknews.net
 0.0.0.0 regal-diet.pro
 0.0.0.0 regalrisemedia.com
+0.0.0.0 regenergize.com
 0.0.0.0 regentcomm.com
 0.0.0.0 regie.5by5.fr
 0.0.0.0 regie.armenews.com
@@ -14174,6 +14179,7 @@
 0.0.0.0 safemud.pro
 0.0.0.0 safeplacegaming.com
 0.0.0.0 safevisitors.net
+0.0.0.0 sagargift.com
 0.0.0.0 sagum.org
 0.0.0.0 sahilzenterprises.com
 0.0.0.0 sailundu.xyz
@@ -14282,6 +14288,7 @@
 0.0.0.0 sdf3rt243.cc
 0.0.0.0 sdfer.xyz
 0.0.0.0 sdk.ffxpub.com
+0.0.0.0 sdk-notification-service.cloudbees.io
 0.0.0.0 sdqk.me
 0.0.0.0 s.ds0yue.com
 0.0.0.0 s.ds239w.com
@@ -14608,6 +14615,7 @@
 0.0.0.0 sharpmedia.eu
 0.0.0.0 s.hdpornblue.lol
 0.0.0.0 sheafmediagroup.com
+0.0.0.0 sheideal.com
 0.0.0.0 sherwoodsutton.pro
 0.0.0.0 shestrozo.com
 0.0.0.0 shestugele.pro
@@ -15222,7 +15230,6 @@
 0.0.0.0 surprised-win.pro
 0.0.0.0 survey-alb-new-1082488714.us-east-1.elb.amazonaws.com
 0.0.0.0 sustainableadx.com
-0.0.0.0 sustaindenim.com
 0.0.0.0 suwhythoglo.com
 0.0.0.0 suxhap.com
 0.0.0.0 svc-prod-us.liveshopping.bambuser.com
@@ -15962,6 +15969,7 @@
 0.0.0.0 unative.com
 0.0.0.0 unaware-bend.pro
 0.0.0.0 unaware-ice.pro
+0.0.0.0 unawarepatience.pro
 0.0.0.0 uncobalionr.com
 0.0.0.0 uncommon-dealer.pro
 0.0.0.0 understatedstock.pro
@@ -16021,6 +16029,8 @@
 0.0.0.0 untidy-log.pro
 0.0.0.0 untimely-hate.pro
 0.0.0.0 untimely-patient.pro
+0.0.0.0 untimely-proof.pro
+0.0.0.0 untimely-way.pro
 0.0.0.0 untriednegative.com
 0.0.0.0 unuu.online
 0.0.0.0 unwelcomemovie.pro

@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 08MAY26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 15MAY26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -3114,6 +3114,7 @@
 0.0.0.0 api-websystems.landing.ni.com
 0.0.0.0 apiwmda.58.com.cn
 0.0.0.0 apllogistics.actonservice.com
+0.0.0.0 apm.qwant.com
 0.0.0.0 app.1112.com
 0.0.0.0 app1.maatwerkonline.nl
 0.0.0.0 app2.220cordncode.com
@@ -4400,6 +4401,7 @@
 0.0.0.0 cdns.brsrvr.com
 0.0.0.0 cdn.sy-d.io
 0.0.0.0 cdp.cifinancial.com
+0.0.0.0 cdp.howtotrade.com
 0.0.0.0 cdtm.cdiscount.com
 0.0.0.0 celigo.actonservice.com
 0.0.0.0 cellstats.mako.co.il
@@ -5114,6 +5116,7 @@
 0.0.0.0 ddm.frandroid.com
 0.0.0.0 ddnahc.mesbagages.com
 0.0.0.0 ddome-tag.blablacar.com
+0.0.0.0 dd.qwant.com
 0.0.0.0 ddqwdh.sofastyle.jp
 0.0.0.0 dd.seloger-bureaux-commerces.com
 0.0.0.0 dd.seloger.com
@@ -10835,6 +10838,7 @@
 0.0.0.0 raf.postnl.be
 0.0.0.0 raf.postnl.nl
 0.0.0.0 rakuten.actonservice.com
+0.0.0.0 ralf.curvo.eu
 0.0.0.0 randstad.epoise.com
 0.0.0.0 randstadtest.epoise.com
 0.0.0.0 rankhit.china.com

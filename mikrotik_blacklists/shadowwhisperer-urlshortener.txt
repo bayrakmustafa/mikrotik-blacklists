@@ -2603,7 +2603,6 @@
 0.0.0.0 linkjp.org
 0.0.0.0 linkjust.com
 0.0.0.0 linkkp.com
-0.0.0.0 linkku.me
 0.0.0.0 linklada.com
 0.0.0.0 linklyhq.com
 0.0.0.0 linkmain.bio
@@ -5328,7 +5327,6 @@
 0.0.0.0 webi.li
 0.0.0.0 webinfos.info
 0.0.0.0 weblink.biz
-0.0.0.0 webmienphi.net
 0.0.0.0 webprografor.live
 0.0.0.0 webprotech.live
 0.0.0.0 webrc.net
