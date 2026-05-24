@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 15MAY26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 22MAY26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4390,7 +4390,6 @@
 0.0.0.0 cdanjoyner4374.myre.io
 0.0.0.0 cdapi.collegedunia.com
 0.0.0.0 cdl2.booksy.com
-0.0.0.0 cdl.booksy.com
 0.0.0.0 cdl.lvsafe.io
 0.0.0.0 cdn1.skrill.com
 0.0.0.0 cdn7.baunetz.de
@@ -10256,6 +10255,7 @@
 0.0.0.0 oms.mymcmurray.com
 0.0.0.0 oms.nhllive.com
 0.0.0.0 oms.ocean985.com
+0.0.0.0 om-ssl.consorsbank.de
 0.0.0.0 oms.venere.com
 0.0.0.0 omtrdc.jobstreet.vn
 0.0.0.0 om.venere.com
@@ -10830,6 +10830,7 @@
 0.0.0.0 qzqfud.casamineira.com.br
 0.0.0.0 r.3hentai.net
 0.0.0.0 r42tag.com
+0.0.0.0 raac33.net
 0.0.0.0 rabbit.donald.cat
 0.0.0.0 racemanager-app.sapsailing.com
 0.0.0.0 radar.imgsmail.ru
@@ -12463,6 +12464,7 @@
 0.0.0.0 ssc.wa.gto.db.com
 0.0.0.0 ssdc.easybank.at
 0.0.0.0 ssfllp.actonservice.com
+0.0.0.0 ss.hellotushy.com
 0.0.0.0 s.sick.com
 0.0.0.0 ssl.motorcycleshows.com
 0.0.0.0 ssl.o.auspost.com.au
@@ -14338,7 +14340,6 @@
 0.0.0.0 vkanalytics.net
 0.0.0.0 vllsuv.skatedeluxe.com
 0.0.0.0 v.minu.be
-0.0.0.0 vm.target-video.com
 0.0.0.0 v.myvoleo.com
 0.0.0.0 vmzqqmlpwwmazjnio.com
 0.0.0.0 vnlvxi.vivastreet.co.uk

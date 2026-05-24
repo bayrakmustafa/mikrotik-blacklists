@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 17 May 2026 09:41 UTC
-# Version: 2026.0517.0941.38
+# Last modified: 24 May 2026 10:08 UTC
+# Version: 2026.0524.1008.30
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3915
+# Number of entries: 3872
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -1009,8 +1009,6 @@
 0.0.0.0 srv03.dns64.de
 0.0.0.0 srv04.dns64.de
 0.0.0.0 dns8.org
-0.0.0.0 alpha.dnsbunker.org
-0.0.0.0 bravo.dnsbunker.org
 0.0.0.0 ns1.recursive.dnsbycomodo.com
 0.0.0.0 ns2.recursive.dnsbycomodo.com
 0.0.0.0 2.dnscrypt-cert.shield-2.dnsbycomodo.com
@@ -1195,13 +1193,6 @@
 0.0.0.0 dnsguard.pub
 0.0.0.0 dns.dnsguard.pub
 0.0.0.0 dns.dnshome.de
-0.0.0.0 doh.dnslify.com
-0.0.0.0 a.ns.dnslify.com
-0.0.0.0 b.ns.dnslify.com
-0.0.0.0 a.family.ns.dnslify.com
-0.0.0.0 b.family.ns.dnslify.com
-0.0.0.0 a.safe.ns.dnslify.com
-0.0.0.0 b.safe.ns.dnslify.com
 0.0.0.0 dnslow.me
 0.0.0.0 adguard2.dnsovertor.cc
 0.0.0.0 chuncheon.dnsovertor.cc
@@ -1341,7 +1332,6 @@
 0.0.0.0 rexdns.duckdns.org
 0.0.0.0 sabeendns.duckdns.org
 0.0.0.0 salvadoserver.duckdns.org
-0.0.0.0 site-2.duckdns.org
 0.0.0.0 site-3.duckdns.org
 0.0.0.0 soporte-premium.duckdns.org
 0.0.0.0 surviil.duckdns.org
@@ -1349,7 +1339,6 @@
 0.0.0.0 theadblocksg.duckdns.org
 0.0.0.0 ts653d.duckdns.org
 0.0.0.0 tuandns.duckdns.org
-0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 unixfox.duckdns.org
 0.0.0.0 wired-guardian.duckdns.org
 0.0.0.0 workcavestl.duckdns.org
@@ -1371,7 +1360,6 @@
 0.0.0.0 adguard.ekhozie.dynu.net
 0.0.0.0 flyloadguard.dynu.net
 0.0.0.0 quangdo92.dynu.net
-0.0.0.0 saomai.dynu.com
 0.0.0.0 adg.dz.ax
 0.0.0.0 az.dz4fun.top
 0.0.0.0 dns.dzkji.cn
@@ -1504,7 +1492,6 @@
 0.0.0.0 dns.farshmc.ru
 0.0.0.0 adh.fastpacefixit.info
 0.0.0.0 adguardhome.favrep.ovh
-0.0.0.0 dns.faze.dev
 0.0.0.0 ns0.fdn.fr
 0.0.0.0 ns1.fdn.fr
 0.0.0.0 agh.feblab.click
@@ -1590,6 +1577,7 @@
 0.0.0.0 funti.cc
 0.0.0.0 funtikspb.ru
 0.0.0.0 doh.funtopia.tv
+0.0.0.0 dns.furrix.zone
 0.0.0.0 dns.furrydns.de
 0.0.0.0 furrytech.io
 0.0.0.0 doh.futa.app
@@ -1741,7 +1729,6 @@
 0.0.0.0 hg8.asia
 0.0.0.0 hgrps.eu
 0.0.0.0 dns.sgp.hicn.site
-0.0.0.0 adg.meviusberry.hidns.co
 0.0.0.0 mail.hilton-groups.com
 0.0.0.0 himedns.com
 0.0.0.0 dns.hinet.net
@@ -1921,7 +1908,6 @@
 0.0.0.0 ikarosalpha.xyz
 0.0.0.0 dns.ikataruto.com
 0.0.0.0 ilinhy.com
-0.0.0.0 ilmxs.com
 0.0.0.0 dns.imaicool.com
 0.0.0.0 noads.imbuffering.com
 0.0.0.0 dns.imchristian.de
@@ -2064,8 +2050,6 @@
 0.0.0.0 kallemarc.de
 0.0.0.0 adguard.kalyanmudumby.com
 0.0.0.0 dns.kamilszczepanski.com
-0.0.0.0 jp.kano.sh
-0.0.0.0 adguard.kantinyoyok.xyz
 0.0.0.0 dns.kapite.in
 0.0.0.0 dns.kapoww.tk
 0.0.0.0 dns.karadag.me
@@ -2145,7 +2129,6 @@
 0.0.0.0 xray.krnl.eu
 0.0.0.0 dns.krol.cloud
 0.0.0.0 kstdownload.com
-0.0.0.0 dns.kugoapps.com
 0.0.0.0 dns.kukal.cz
 0.0.0.0 agh.kul-lippek.de
 0.0.0.0 dns.kusoneko.moe
@@ -2182,7 +2165,6 @@
 0.0.0.0 leecurrylawfirm.com
 0.0.0.0 adblock.leenit.kr
 0.0.0.0 yarp.lefolgoc.net
-0.0.0.0 externalmobiel.lekdijk.online
 0.0.0.0 sndkcuf.lekun.me
 0.0.0.0 lelux.fi
 0.0.0.0 dns.lepilleur.com
@@ -2270,7 +2252,6 @@
 0.0.0.0 dns.malanser.ru
 0.0.0.0 dns.malhuda.com
 0.0.0.0 dns.mandre.dev
-0.0.0.0 doh.manish.ltd
 0.0.0.0 adguard.manmademagic.com
 0.0.0.0 dns.maolaohei.xyz
 0.0.0.0 dns.maomaovpn.com
@@ -2290,7 +2271,6 @@
 0.0.0.0 mastergad.me
 0.0.0.0 masters-of-cloud.de
 0.0.0.0 dns.mateo.ovh
-0.0.0.0 dns.mathewakhil.online
 0.0.0.0 rasp.matthias-iwer.de
 0.0.0.0 dns.matthias-prost.com
 0.0.0.0 maxfong.cc
@@ -2330,7 +2310,6 @@
 0.0.0.0 dns.michelo.cl
 0.0.0.0 ss.microbaidu.com
 0.0.0.0 doh.micronets.in
-0.0.0.0 dns.midping.ir
 0.0.0.0 dns.mihalcea.eu
 0.0.0.0 agh.mihanentalpo.me
 0.0.0.0 dns.mihanentalpo.me
@@ -2369,7 +2348,6 @@
 0.0.0.0 dns.moonssif.com
 0.0.0.0 dns.moonwx.net
 0.0.0.0 akunamatata8888.mooo.com
-0.0.0.0 alexj123.mooo.com
 0.0.0.0 disinformer.mooo.com
 0.0.0.0 e23a.mooo.com
 0.0.0.0 riga91197.mooo.com
@@ -2734,7 +2712,6 @@
 0.0.0.0 dns.ourvau.lt
 0.0.0.0 addns.ovalie.ovh
 0.0.0.0 vps-1f675aa1.vps.ovh.us
-0.0.0.0 dns.ovpn.bond
 0.0.0.0 1a.ns.ozer.im
 0.0.0.0 1b.ns.ozer.im
 0.0.0.0 doh.p2cdn.cn
@@ -2779,7 +2756,6 @@
 0.0.0.0 phantom3c.net
 0.0.0.0 dns.phantom3c.net
 0.0.0.0 mydns.phatna.net
-0.0.0.0 dns.phatnt.org
 0.0.0.0 dns.phillipjberry.net
 0.0.0.0 philqoo.com
 0.0.0.0 dns.philqoo.com
@@ -2796,7 +2772,6 @@
 0.0.0.0 kronos.plan9-dns.com
 0.0.0.0 pluton.plan9-dns.com
 0.0.0.0 hydra.plan9-ns1.com
-0.0.0.0 draco.plan9-ns2.com
 0.0.0.0 door.plasmadancer.ru
 0.0.0.0 secure-dns.pleumkungz.com
 0.0.0.0 thanos.pleumkungz.com
@@ -3169,7 +3144,6 @@
 0.0.0.0 wtbd02.solowalk.top
 0.0.0.0 ns.solutics.ec
 0.0.0.0 ns.solutionsbest.de
-0.0.0.0 bwg.sooda.moe
 0.0.0.0 adguard.spaceindex.net
 0.0.0.0 lomoff.spb.ru
 0.0.0.0 wifrousl.spdns.de
@@ -3183,7 +3157,6 @@
 0.0.0.0 resolve.srv-pro.de
 0.0.0.0 resolve02.srv-pro.de
 0.0.0.0 resolve2.srv-pro.de
-0.0.0.0 adguard.sscw.win
 0.0.0.0 ssh-storage.ru
 0.0.0.0 dns.sshub.win
 0.0.0.0 doh.ntu.ssooss.win
@@ -3272,7 +3245,6 @@
 0.0.0.0 dns.techcpu.net
 0.0.0.0 dns1.techeasy.org
 0.0.0.0 adguard.techlike.in
-0.0.0.0 vpn.technicule.info
 0.0.0.0 dns1.techniverse.net
 0.0.0.0 doh.technochat.in
 0.0.0.0 dns.technologycage.com
@@ -3295,12 +3267,6 @@
 0.0.0.0 iana.tenta.io
 0.0.0.0 opennic.tenta.io
 0.0.0.0 ag.teqilla.tk
-0.0.0.0 au.teradns.org
-0.0.0.0 de.teradns.org
-0.0.0.0 ny.teradns.org
-0.0.0.0 sg.teradns.org
-0.0.0.0 tx.teradns.org
-0.0.0.0 uk.teradns.org
 0.0.0.0 apne1.dns.terumi.club
 0.0.0.0 dns.soldier.terumi.club
 0.0.0.0 dns.tesem.dog
@@ -3450,7 +3416,6 @@
 0.0.0.0 dns.veikus.com
 0.0.0.0 dns.vemo.cc
 0.0.0.0 dns.venclous.org
-0.0.0.0 securedns.vendorvista.xyz
 0.0.0.0 veraris.online
 0.0.0.0 vernikpro.ru
 0.0.0.0 dns.vietdns.vn
@@ -3487,9 +3452,7 @@
 0.0.0.0 adguard.vozersky.com
 0.0.0.0 killads.vpms.xyz
 0.0.0.0 vpnhellings.nl
-0.0.0.0 adguard.vpnkitakitsune.com
 0.0.0.0 dns.vps.pw
-0.0.0.0 vtcuong.site
 0.0.0.0 vuivn.site
 0.0.0.0 ns1.vuivn.site
 0.0.0.0 ns2.vuivn.site
@@ -3540,7 +3503,6 @@
 0.0.0.0 doh-rs.whalebone.io
 0.0.0.0 whatcaniplay.com
 0.0.0.0 bwh.why4free.top
-0.0.0.0 dns.wibenson.cloud
 0.0.0.0 dns1-secure.wifire.it
 0.0.0.0 adguard.wifri.space
 0.0.0.0 wikimediadns.org
@@ -3605,16 +3567,13 @@
 0.0.0.0 doh.xorlet.ru
 0.0.0.0 adgh.xrossj.top
 0.0.0.0 look.xshentx.org
-0.0.0.0 dns.xuann.my
 0.0.0.0 dns.xuming.studio
 0.0.0.0 dns.xusqui.com
 0.0.0.0 dns.xv.fi
-0.0.0.0 dns.xwdmw.xyz
 0.0.0.0 dns.xwu.us
 0.0.0.0 r7ws-poco-f3.dns.xwu.us
 0.0.0.0 v2.xx3210766.live
 0.0.0.0 dns.xydustc.me
-0.0.0.0 v1.xylto.com
 0.0.0.0 dns.y2f.xyz
 0.0.0.0 dns.yameenassotally.com
 0.0.0.0 2.dnscrypt-cert.browser.yandex.net
@@ -3632,7 +3591,6 @@
 0.0.0.0 dns.yatima.tv
 0.0.0.0 adguard.yavuztutcu.net
 0.0.0.0 adguardhome.yavuztutcu.net
-0.0.0.0 lion.yazilimatolye.com
 0.0.0.0 ychen.cf
 0.0.0.0 ychen.gq
 0.0.0.0 biba.ydns.eu
@@ -3664,7 +3622,6 @@
 0.0.0.0 dns.yuzia.cc
 0.0.0.0 dns.yyaan.com
 0.0.0.0 dns.yyaan.top
-0.0.0.0 adg.yybyy.wiki
 0.0.0.0 dns.daemon.za.net
 0.0.0.0 zabolotskikh.dev
 0.0.0.0 adguard.zachitect.com
@@ -3677,6 +3634,7 @@
 0.0.0.0 zdn.ro
 0.0.0.0 register.zedzander.com
 0.0.0.0 dns.zemows.industries
+0.0.0.0 doh.zephyrus.id
 0.0.0.0 adguard-kartoffel.zernico.de
 0.0.0.0 oraclejp01.zerotorez.com
 0.0.0.0 dns.zfsystem.tech

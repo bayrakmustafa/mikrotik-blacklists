@@ -1,8 +1,8 @@
 #
 #    File: Ads
 #    Info: Advertisements, Banners, Widgets & Push Notifications
-# Domains: 26,744
-# Updated: 5/17/2026  01:16 (1:16 AM CST)
+# Domains: 26,754
+# Updated: 5/20/2026  15:20 (3:20 PM CST)
 #
 0.0.0.0 0063450bb8e5e3brave-friend.com
 0.0.0.0 03ab2paradisecdn.com
@@ -1876,6 +1876,7 @@
 0.0.0.0 ads2.smartlytechs.com
 0.0.0.0 ads2.terazteatr.pl
 0.0.0.0 ads.2tk.pl
+0.0.0.0 ads2.webdrive.no
 0.0.0.0 ads2.welovetennis.fr
 0.0.0.0 ads2.westca.com
 0.0.0.0 ads.360stepeni.mk
@@ -1951,6 +1952,7 @@
 0.0.0.0 ads.alcorconhoy.com
 0.0.0.0 ads.alexander-walz.de
 0.0.0.0 ads.alfwebservices.com
+0.0.0.0 ads.alive.com
 0.0.0.0 ads.allenbrothers.co.uk
 0.0.0.0 adsalliance.xyz
 0.0.0.0 ads.almakos.com
@@ -3643,6 +3645,7 @@
 0.0.0.0 ads.pesmojprijatelj.si
 0.0.0.0 ads.petitesaffiches.fr
 0.0.0.0 ads.petitpapanoel.be
+0.0.0.0 ads.pfl.ua
 0.0.0.0 ad-sphere.eu
 0.0.0.0 ads.philipp-mayr.de
 0.0.0.0 ads.photopoint.ee
@@ -5178,6 +5181,7 @@
 0.0.0.0 amrytt.com
 0.0.0.0 ams.londonschoolofmarketing.com
 0.0.0.0 amspbs.com
+0.0.0.0 a.muloqot.uz
 0.0.0.0 amusing-location.pro
 0.0.0.0 amusingrole.pro
 0.0.0.0 amx1.net
@@ -6556,6 +6560,7 @@
 0.0.0.0 cdaas.americanexpress.com
 0.0.0.0 cdadhafjgjdchbbhiabd.world
 0.0.0.0 c.dcdn.es
+0.0.0.0 cdeffgcgabffgjaeaabd.world
 0.0.0.0 cdfr.hot4k.org
 0.0.0.0 cdm.cursecdn.com
 0.0.0.0 cdn1.buffalochip.com
@@ -6640,9 +6645,11 @@
 0.0.0.0 ceylonmedia.com
 0.0.0.0 cf2.vuze.com
 0.0.0.0 cfad.1agency.de
+0.0.0.0 cfccciecgdiacadffabe.world
 0.0.0.0 cfetas.com
 0.0.0.0 cf-trickplay.aux.pv-cdn.net
 0.0.0.0 cgiadvertising.com
+0.0.0.0 cgjjaafjcgaehbgghabf.world
 0.0.0.0 c.gotoxxxtube.com
 0.0.0.0 chachophigy.pro
 0.0.0.0 chameleoncreation.com
@@ -7712,6 +7719,7 @@
 0.0.0.0 devsonsadvertising.com
 0.0.0.0 dev.verticalmediabrands.com
 0.0.0.0 dev-vertiv-xrwidgets-enh0cfcpfmhwh0az.z01.azurefd.net
+0.0.0.0 dewapush.com
 0.0.0.0 df782abg.de
 0.0.0.0 dfa.pressflex.net
 0.0.0.0 dfnb-ads.com
@@ -8583,7 +8591,6 @@
 0.0.0.0 firstpage.app
 0.0.0.0 firstrate.com.au
 0.0.0.0 firstsportmedia.com
-0.0.0.0 fishingtoolsbox.com
 0.0.0.0 fitad.com
 0.0.0.0 fit-ad.jp
 0.0.0.0 fitravel.net
@@ -9037,6 +9044,7 @@
 0.0.0.0 goblin.hupu.com
 0.0.0.0 goclicker.com
 0.0.0.0 go.cmrdr.com
+0.0.0.0 goddesslamps.com
 0.0.0.0 go.delmovip.com
 0.0.0.0 godigilant.com
 0.0.0.0 godigipro.com
@@ -10282,6 +10290,7 @@
 0.0.0.0 laughlin.com
 0.0.0.0 launchdigital.agency
 0.0.0.0 laurenlabeled.com
+0.0.0.0 lavaorganic.com
 0.0.0.0 lavisheat.com
 0.0.0.0 lavish-joke.pro
 0.0.0.0 lawclick.co.uk
@@ -11682,7 +11691,6 @@
 0.0.0.0 ocast.com
 0.0.0.0 occash.com
 0.0.0.0 oceanagency.dk
-0.0.0.0 oceancloudhosts.com
 0.0.0.0 oceanfall.xyz
 0.0.0.0 oceanmobi.com
 0.0.0.0 ocean.radios.rs
@@ -11819,6 +11827,7 @@
 0.0.0.0 onetrust.techservices.illinois.edu
 0.0.0.0 onetruth.io
 0.0.0.0 oneway.mobi
+0.0.0.0 onivo.online
 0.0.0.0 onladv.com
 0.0.0.0 onlineadvertisingacademy.com
 0.0.0.0 onlineadvertisingagency.com.ph
@@ -13103,6 +13112,7 @@
 0.0.0.0 pushpros.com
 0.0.0.0 pushpros.tech
 0.0.0.0 pushpush.io
+0.0.0.0 pushrelay.com
 0.0.0.0 pushresponse.net
 0.0.0.0 pushrocket.one
 0.0.0.0 push.rollout.io
@@ -13526,7 +13536,6 @@
 0.0.0.0 revenuemakerdata.com
 0.0.0.0 revenuex.co
 0.0.0.0 rev.fanimani.pl
-0.0.0.0 rev.iq
 0.0.0.0 revistavanityfair.contentondemand.es
 0.0.0.0 revive2023.crosshosting.com.ar
 0.0.0.0 revive2.panicmarketing.net
@@ -14572,6 +14581,7 @@
 0.0.0.0 setupad.com
 0.0.0.0 setupad-com.videoplayerhub.com
 0.0.0.0 setupcmp.com
+0.0.0.0 setuptrust.com
 0.0.0.0 sexinfinity.cc
 0.0.0.0 sex-infos.ch
 0.0.0.0 sexinin.com
@@ -14741,7 +14751,9 @@
 0.0.0.0 slickjump.com
 0.0.0.0 slickjump.org
 0.0.0.0 slideawesome.com
+0.0.0.0 sli.do
 0.0.0.0 slido.com
+0.0.0.0 slietap.com
 0.0.0.0 slimcut.com
 0.0.0.0 slim-jury.pro
 0.0.0.0 slingshot.com
@@ -14886,6 +14898,7 @@
 0.0.0.0 sorrowfulcredit.pro
 0.0.0.0 sorrowfulsuggestion.pro
 0.0.0.0 sortanoisy.com
+0.0.0.0 sorucall.com
 0.0.0.0 sosyalviews.com
 0.0.0.0 soulfulthought.pro
 0.0.0.0 soulpepper.com
@@ -14998,6 +15011,7 @@
 0.0.0.0 srvqck23.com
 0.0.0.0 srvqck25.com
 0.0.0.0 srvqck2.com
+0.0.0.0 srvqck3.com
 0.0.0.0 srvqck4.com
 0.0.0.0 srvqck5.com
 0.0.0.0 srvqck6.com
@@ -15085,6 +15099,7 @@
 0.0.0.0 stats-dss4018-serving.com
 0.0.0.0 stats-dss4045-serving.com
 0.0.0.0 stats-dss4049-serving.com
+0.0.0.0 staygg.com
 0.0.0.0 stcontent.net
 0.0.0.0 stc-sp.zadn.vn
 0.0.0.0 std.wpcdn.pl
@@ -15847,6 +15862,7 @@
 0.0.0.0 ttm2.org
 0.0.0.0 ttmspl.com
 0.0.0.0 tt.wl-cornholio.com
+0.0.0.0 tuaos.xyz
 0.0.0.0 tubbyconversation.pro
 0.0.0.0 tubby-fish.pro
 0.0.0.0 tubetraffic.com
@@ -15903,12 +15919,15 @@
 0.0.0.0 typsad.com
 0.0.0.0 tyrads.com
 0.0.0.0 tytstudio.com
+0.0.0.0 tzaho.com
 0.0.0.0 tzbirdcod.com
 0.0.0.0 tznpxp.com
 0.0.0.0 tzpeachcod.com
 0.0.0.0 u0052.com
+0.0.0.0 u0054.com
 0.0.0.0 u0059.com
 0.0.0.0 u0063.com
+0.0.0.0 u0064.com
 0.0.0.0 u1022.com
 0.0.0.0 u1044.com
 0.0.0.0 u1669.com
@@ -15946,6 +15965,7 @@
 0.0.0.0 uglyaffair.pro
 0.0.0.0 uglybeginning.com
 0.0.0.0 uglycash.team
+0.0.0.0 ugopkl.com
 0.0.0.0 ujtjjj.com
 0.0.0.0 uk-advertising.weather.com
 0.0.0.0 uk.boffinsoft.com
@@ -16108,7 +16128,6 @@
 0.0.0.0 uze-mobility.group
 0.0.0.0 uzkvpu.com
 0.0.0.0 v12data.com
-0.0.0.0 v2006.com
 0.0.0.0 vacant-speech.com
 0.0.0.0 vads.stellaplus.xyz
 0.0.0.0 vainspring.com
@@ -16154,6 +16173,7 @@
 0.0.0.0 veeplay.com
 0.0.0.0 veeso.co
 0.0.0.0 veezy.one
+0.0.0.0 vehosw.com
 0.0.0.0 velawcity.com
 0.0.0.0 veltorra.com
 0.0.0.0 velvetyambition.pro
@@ -16162,6 +16182,7 @@
 0.0.0.0 vendiadvertising.com
 0.0.0.0 veneficus.co.uk
 0.0.0.0 venerated-emotion.pro
+0.0.0.0 venkrana.com
 0.0.0.0 venueadnetwork.com
 0.0.0.0 venusta.nl
 0.0.0.0 veominfotech.com
@@ -16360,6 +16381,7 @@
 0.0.0.0 vidillion.com
 0.0.0.0 vidiom.net
 0.0.0.0 vidtomp3.com
+0.0.0.0 viewlnk.com
 0.0.0.0 viewst.com
 0.0.0.0 vifzod.com
 0.0.0.0 vigilant-carry.pro
@@ -16433,6 +16455,7 @@
 0.0.0.0 voiseadserver.com
 0.0.0.0 voisetech.com
 0.0.0.0 vola.ad
+0.0.0.0 volatintptr.com
 0.0.0.0 voljr.com
 0.0.0.0 volt.africa
 0.0.0.0 voltaxam.com
@@ -16465,6 +16488,7 @@
 0.0.0.0 vubihowhe.com
 0.0.0.0 vuekvgiam.com
 0.0.0.0 vuftouks.com
+0.0.0.0 vugnubier.com
 0.0.0.0 vupulse-api-production.s3.amazonaws.com
 0.0.0.0 vvpty.com
 0.0.0.0 vwijf.com

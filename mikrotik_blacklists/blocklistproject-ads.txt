@@ -24702,6 +24702,7 @@
 0.0.0.0 adbutler.us
 0.0.0.0 adbuyer.com
 0.0.0.0 adbuyer2.lycos.com
+0.0.0.0 adbuyer3.lycos.com
 0.0.0.0 adbuzz.com.tr
 0.0.0.0 adc-api-19-node.herokuapp.com
 0.0.0.0 adc.go2cloud.org
@@ -24721,6 +24722,7 @@
 0.0.0.0 adcde.com
 0.0.0.0 adcdn.mobile.beautyplus.com
 0.0.0.0 adcenter.mdf.se
+0.0.0.0 adcenter.net
 0.0.0.0 adcenter.nu
 0.0.0.0 adcentric.go2cloud.org
 0.0.0.0 adcept.net
@@ -25228,6 +25230,7 @@
 0.0.0.0 admachina.com.s.pstl.live
 0.0.0.0 admagnet.com
 0.0.0.0 admagnet.go2cloud.org
+0.0.0.0 admagnet.net
 0.0.0.0 admail.admicro.vn
 0.0.0.0 admail.am
 0.0.0.0 admamba.com
@@ -26956,6 +26959,8 @@
 0.0.0.0 ads.triada.bg
 0.0.0.0 ads.tribalfusion.com
 0.0.0.0 ads.triongames.com
+0.0.0.0 ads.tripod.lycos.it
+0.0.0.0 ads.tripod.lycos.nl
 0.0.0.0 ads.tripod.spray.se
 0.0.0.0 ads.truongton.net
 0.0.0.0 ads.tubemogul.com
@@ -27105,6 +27110,7 @@
 0.0.0.0 ads1.livepromotools.com
 0.0.0.0 ads1.matichon.co.th
 0.0.0.0 ads1.mb.datingadzone.com
+0.0.0.0 ads1.mediacapital.pt
 0.0.0.0 ads1.mediaops.com.br
 0.0.0.0 ads1.mocean.mobi
 0.0.0.0 ads1.mojiva.com
@@ -27439,6 +27445,7 @@
 0.0.0.0 ads3.bangkokpost.co.th
 0.0.0.0 ads3.bigasia.com
 0.0.0.0 ads3.condenet.com
+0.0.0.0 ads3.contentabc.com
 0.0.0.0 ads3.focalink.com
 0.0.0.0 ads3.hpg.com.br
 0.0.0.0 ads3.jubii.dk
@@ -34603,6 +34610,7 @@
 0.0.0.0 banners.crack.ru
 0.0.0.0 banners.datecs.bg
 0.0.0.0 banners.deseoasiatico.com
+0.0.0.0 banners.dine.com
 0.0.0.0 banners.dir.bg
 0.0.0.0 banners.directnic.com
 0.0.0.0 banners.dol.gr
@@ -42441,6 +42449,7 @@
 0.0.0.0 clickcdn.xda-developers.com
 0.0.0.0 clickchecker.co.uk
 0.0.0.0 clickcloud.info
+0.0.0.0 clickcompare.co.uk
 0.0.0.0 clickconversion.net
 0.0.0.0 clickdealer.com
 0.0.0.0 clickdealer.go2cloud.org
@@ -58702,6 +58711,7 @@
 0.0.0.0 gloussuz.com
 0.0.0.0 glov.pxf.io
 0.0.0.0 glowpok.rawr.gold
+0.0.0.0 gloyah.net
 0.0.0.0 glpyiiahtdmaan.com
 0.0.0.0 glslciwwvtxn.com
 0.0.0.0 gltpstgjnyb.com
@@ -60936,6 +60946,7 @@
 0.0.0.0 hit.tripod.lycos.es
 0.0.0.0 hit.tripod.lycos.it
 0.0.0.0 hit.tripod.lycos.nl
+0.0.0.0 hit.webcentre.lycos.co.uk
 0.0.0.0 hit1.hotlog.ru
 0.0.0.0 hit13.hotlog.ru
 0.0.0.0 hit14.hotlog.ru
@@ -62380,6 +62391,7 @@
 0.0.0.0 i1fotddfczzjlqrjmbcbpmic1k0nj1515420190.nuid.imrworldwide.com
 0.0.0.0 i1img.com
 0.0.0.0 i1k2c.voluumtrk.com
+0.0.0.0 i1media.no
 0.0.0.0 i1qbhvfnnwojdkysklz80oqi5jpsy1507501502.nuid.imrworldwide.com
 0.0.0.0 i1slv.voluumtrk.com
 0.0.0.0 i2.bb.contentdef.com
@@ -65720,6 +65732,7 @@
 0.0.0.0 itrealstory.com
 0.0.0.0 itrengia.com
 0.0.0.0 itroq.voluumtrk.com
+0.0.0.0 its-that-easy.com
 0.0.0.0 itsde.widget.criteo.com
 0.0.0.0 itservicesphuket.com
 0.0.0.0 itsibdi.info
@@ -73055,10 +73068,12 @@
 0.0.0.0 mediavine-d.openx.net
 0.0.0.0 mediawhite.adk2x.com
 0.0.0.0 mediaworlditnew.inpref.com
+0.0.0.0 mediax.angloinfo.com
 0.0.0.0 mediaxds.fuse-ad.com
 0.0.0.0 mediaxds.go2affise.com
 0.0.0.0 mediaxpedia.g2afse.com
 0.0.0.0 mediayoutube.com
+0.0.0.0 mediaz.angloinfo.com
 0.0.0.0 mediciinternet.go2cloud.org
 0.0.0.0 medicinetizer.ru
 0.0.0.0 medienhaus.nuggad.net
@@ -73127,6 +73142,7 @@
 0.0.0.0 meganz.pushresponse.net
 0.0.0.0 megapopads.com
 0.0.0.0 megappu.com
+0.0.0.0 megapu.sh
 0.0.0.0 megartb.com
 0.0.0.0 megast.at
 0.0.0.0 megastat.net
@@ -75677,6 +75693,7 @@
 0.0.0.0 mylevfpqmlt.com
 0.0.0.0 mylhebhwgim.com
 0.0.0.0 mylifeads.info
+0.0.0.0 mylink-today.com
 0.0.0.0 mylinkbox.com
 0.0.0.0 mylistenetwork.go2cloud.org
 0.0.0.0 mylittlepony.onthe.io
@@ -87023,6 +87040,7 @@
 0.0.0.0 ranking-liste.de
 0.0.0.0 ranking-street.de
 0.0.0.0 ranking.rakuten.co.jp
+0.0.0.0 rankingchart.de
 0.0.0.0 rankingpartner.com
 0.0.0.0 ranks.com
 0.0.0.0 rankseller.de
@@ -87792,6 +87810,7 @@
 0.0.0.0 remotead-internal.cnet.com
 0.0.0.0 remotead.cnet.com
 0.0.0.0 remotefilez.info
+0.0.0.0 remox.com
 0.0.0.0 remtoaku.net
 0.0.0.0 remyyadan.online.fr
 0.0.0.0 renaissanto.com
@@ -88141,6 +88160,7 @@
 0.0.0.0 reviveads.faktor.bg
 0.0.0.0 revivestar.com
 0.0.0.0 revlabs.go2cloud.org
+0.0.0.0 revlift.io
 0.0.0.0 revmob-creatives.s3.amazonaws.com
 0.0.0.0 revmobmobileadnetwork.com
 0.0.0.0 revnuehub.com
@@ -90724,6 +90744,7 @@
 0.0.0.0 scriptall.gq
 0.0.0.0 scriptall.ml
 0.0.0.0 scriptall.tk
+0.0.0.0 scripte-monster.de
 0.0.0.0 scripthost-msm.marketo.com
 0.0.0.0 scriptlinklocalhost.iatric.com
 0.0.0.0 scripts-staging.mediavine.com
@@ -93113,6 +93134,7 @@
 0.0.0.0 smartadserver.es
 0.0.0.0 smartadserver.fr
 0.0.0.0 smartadserver.mgr.consensu.org
+0.0.0.0 smartadtags.com
 0.0.0.0 smartadv.ru
 0.0.0.0 smartaffiliate.de
 0.0.0.0 smartass.g2afse.com
@@ -93223,6 +93245,7 @@
 0.0.0.0 smowtion.com
 0.0.0.0 smpbhfiwr.com
 0.0.0.0 smpbzsjpk.com
+0.0.0.0 smpgfx.com
 0.0.0.0 smpl.hit.ppdb.pl
 0.0.0.0 smrcek.com
 0.0.0.0 smrk.io
@@ -96742,6 +96765,7 @@
 0.0.0.0 surfertracker.com
 0.0.0.0 surfingprizes.com
 0.0.0.0 surfline.com.102.112.2o7.net
+0.0.0.0 surfmusik-adserver.de
 0.0.0.0 surfpush.com
 0.0.0.0 surge.bombora.com
 0.0.0.0 surgelesssomdpninp.download
@@ -98203,6 +98227,7 @@
 0.0.0.0 tepmpemrixd.com
 0.0.0.0 teprom.it
 0.0.0.0 teqceeivmpvv.com
+0.0.0.0 teracent.net
 0.0.0.0 teracycle.net
 0.0.0.0 teraful.net
 0.0.0.0 terapist.onthe.io
@@ -98900,6 +98925,7 @@
 0.0.0.0 tickstory.7eer.net
 0.0.0.0 ticktockhealth.com
 0.0.0.0 ticpqxnv.com
+0.0.0.0 ticrite.com
 0.0.0.0 tictacti.adk2x.com
 0.0.0.0 tidafors.xyz
 0.0.0.0 tidalkqbvnxk.download
@@ -99024,6 +99050,7 @@
 0.0.0.0 tiswsdusmdig.com
 0.0.0.0 titan.advertserve.com
 0.0.0.0 titan.infra.systems
+0.0.0.0 titanads5.com
 0.0.0.0 titangate-d.openx.net
 0.0.0.0 titania.marfeel.com
 0.0.0.0 titon.info
@@ -99321,6 +99348,7 @@
 0.0.0.0 toftofcal.com
 0.0.0.0 toftokiy.net
 0.0.0.0 tofurkey.urbanairship.com
+0.0.0.0 togenron.com
 0.0.0.0 toget.ru
 0.0.0.0 togfcqfvarpq.com
 0.0.0.0 toggl.com.re.getclicky.com
@@ -99438,6 +99466,7 @@
 0.0.0.0 tooso.ai
 0.0.0.0 toothbrushnote.com
 0.0.0.0 toothsome-crook.fun
+0.0.0.0 top-casting-termine.de
 0.0.0.0 top-games.me
 0.0.0.0 top-newsrustoria.ru
 0.0.0.0 top-sponsor.com
@@ -99593,6 +99622,7 @@
 0.0.0.0 totdorancaltert.club
 0.0.0.0 totesisotoner.7eer.net
 0.0.0.0 totifiquo.com
+0.0.0.0 totogetica.com
 0.0.0.0 totrack.ru
 0.0.0.0 totsinuts.ru
 0.0.0.0 totvsaexihbe.com
@@ -101207,6 +101237,7 @@
 0.0.0.0 trikroacha.com
 0.0.0.0 trillium.offerstrack.net
 0.0.0.0 trimfinancial.pxf.io
+0.0.0.0 trimpur.com
 0.0.0.0 trinaturk.evergage.com
 0.0.0.0 trinity.qualtrics.com
 0.0.0.0 trinitymirror-d.openx.net
@@ -102643,6 +102674,8 @@
 0.0.0.0 uehkcendtuxt.com
 0.0.0.0 uehtuvguuf.com
 0.0.0.0 uejnzoaayhr.com
+0.0.0.0 uel-uel-fie.com
+0.0.0.0 uelllwrite.com
 0.0.0.0 uembrcfeuwtsjy.com
 0.0.0.0 uemjnvyn.com
 0.0.0.0 uenetwork.go2cloud.org
@@ -103786,6 +103819,7 @@
 0.0.0.0 usenet.pw
 0.0.0.0 usenet.raidrush.org
 0.0.0.0 usenetnl.download
+0.0.0.0 usenetpassport.com
 0.0.0.0 useorthe.com
 0.0.0.0 user-actrk.com
 0.0.0.0 user-agent-tracker.herokuapp.com
@@ -110652,7 +110686,6 @@
 0.0.0.0 webproworld.com
 0.0.0.0 webqs.ru
 0.0.0.0 webr.emv2.com
-0.0.0.0 webreseau.com
 0.0.0.0 webroot.adlegend.com
 0.0.0.0 webroot.needle.com
 0.0.0.0 webroot.qualtrics.com

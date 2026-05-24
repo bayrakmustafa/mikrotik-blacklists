@@ -4065,7 +4065,9 @@
 0.0.0.0 condenastdigital.com
 0.0.0.0 conectys.com
 0.0.0.0 conf.xiniuz.com
+0.0.0.0 confe.dc.oppomobile.com
 0.0.0.0 confection.io
+0.0.0.0 conff.dc.oppomobile.com
 0.0.0.0 confiant-integrations.freetls.fastly.net
 0.0.0.0 confiant.com
 0.0.0.0 confidentialityemail.com
@@ -5221,6 +5223,7 @@
 0.0.0.0 dpmonline.com
 0.0.0.0 dpvmx.com
 0.0.0.0 dr.cash
+0.0.0.0 dragate.dc.oppomobile.com
 0.0.0.0 dragoncent.com
 0.0.0.0 drbanner.com
 0.0.0.0 drdwy.com
@@ -12619,6 +12622,7 @@
 0.0.0.0 tapinator.com
 0.0.0.0 tapjoy.cn
 0.0.0.0 taptapdigital.com
+0.0.0.0 target-video.com
 0.0.0.0 target.aws.amazon.com
 0.0.0.0 target.digitalaudience.io
 0.0.0.0 target.my.com

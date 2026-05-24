@@ -1,8 +1,8 @@
 #
 #    File: Tracking
 #    Info: Analytics, Diagnostics, Metrics, Public IP, Location
-# Domains: 114,374
-# Updated: 5/17/2026  01:16 (1:16 AM CST)
+# Domains: 114,392
+# Updated: 5/20/2026  15:20 (3:20 PM CST)
 #
 0.0.0.0 000-000-37645t2783296323fn2.calibrescientifics.com
 0.0.0.0 01009.wikihoster.de
@@ -1256,6 +1256,7 @@
 0.0.0.0 alphatraff.com
 0.0.0.0 alpha.vminnovations.com
 0.0.0.0 alpinebikesmail.com
+0.0.0.0 alpine-mtb.eu
 0.0.0.0 alqau.com
 0.0.0.0 als.manuelfritschi.ch
 0.0.0.0 alt1-safebrowsing.google.com
@@ -1311,6 +1312,7 @@
 0.0.0.0 americas-comms.axis.com
 0.0.0.0 a.merkelt.it
 0.0.0.0 a.mesa.be
+0.0.0.0 amethystthicket.com
 0.0.0.0 amia.orion.education.fr
 0.0.0.0 a.mibank.com
 0.0.0.0 a.mi-imc.com
@@ -1533,6 +1535,7 @@
 0.0.0.0 a.munters.in
 0.0.0.0 amusinggirls.com
 0.0.0.0 amvvbn9trk.com
+0.0.0.0 an70gp4wtrk.com
 0.0.0.0 ana7.inews24.com
 0.0.0.0 ana.ables.cloud
 0.0.0.0 ana.adblockpodcast.com
@@ -14916,6 +14919,7 @@
 0.0.0.0 cert.telemetry.ros.rockstargames.com
 0.0.0.0 cert-webanalytics.lexisnexis.com
 0.0.0.0 ceruleanchime.com
+0.0.0.0 cestlavieland.site
 0.0.0.0 cet-analytics.ceteris.ag
 0.0.0.0 cfa.advisorchannel.com
 0.0.0.0 cfa.mystreetscape.com
@@ -19072,6 +19076,7 @@
 0.0.0.0 d.e.havertys.com
 0.0.0.0 d.e.helloworld.com.au
 0.0.0.0 d.eigenrama2-townhome.com
+0.0.0.0 deipar.com
 0.0.0.0 d.ekaamakeupacademy.com
 0.0.0.0 del250.in
 0.0.0.0 delacon.com.au
@@ -19235,6 +19240,7 @@
 0.0.0.0 d.freetable.com
 0.0.0.0 dfsu.vbuuren.nl
 0.0.0.0 df.thumbtack.com
+0.0.0.0 dg3wbb7trk.com
 0.0.0.0 dg5vmaxujtsbb.cloudfront.net
 0.0.0.0 d.gaertenundmehr.ch
 0.0.0.0 dgbixniqt3.execute-api.us-east-2.amazonaws.com
@@ -19334,6 +19340,7 @@
 0.0.0.0 digituplus.com
 0.0.0.0 digt213trk.com
 0.0.0.0 diktus.de
+0.0.0.0 dillduck24.info
 0.0.0.0 dimins.com
 0.0.0.0 d.info.buzzfeed.com
 0.0.0.0 ding.wix.com
@@ -23518,6 +23525,7 @@
 0.0.0.0 gzoyotth.goldentime.dk
 0.0.0.0 gzpskr.no1lounges.com
 0.0.0.0 h198.moneyweek.com
+0.0.0.0 h1ghnh6t.com
 0.0.0.0 h1.hiltonhonors.com
 0.0.0.0 h1tbit.com
 0.0.0.0 h2x3d0d.com
@@ -25013,6 +25021,7 @@
 0.0.0.0 itpuk-mms.itpro.co.uk
 0.0.0.0 itrackly.com
 0.0.0.0 itrendy.pl
+0.0.0.0 iurene.com
 0.0.0.0 ivanhoe.io
 0.0.0.0 ivastudio.ai
 0.0.0.0 iv.hendriksontwerp.nl
@@ -25033,11 +25042,13 @@
 0.0.0.0 izsmetrics.wyndhamrewards.com
 0.0.0.0 j121.controlglobal.com
 0.0.0.0 j14mctquw9.execute-api.us-east-1.amazonaws.com
+0.0.0.0 j2nm7c6trk.com
 0.0.0.0 j5h3s0nf.com
 0.0.0.0 j730.lovesac.com
 0.0.0.0 j74g3jhs.com
 0.0.0.0 j7nmzxcv2p.com
 0.0.0.0 j9fgedkt.com
+0.0.0.0 j9trnw4w.com
 0.0.0.0 ja1trk.com
 0.0.0.0 jabfgji.r.tsp1-brevo.net
 0.0.0.0 jabmo.app
@@ -25313,6 +25324,7 @@
 0.0.0.0 kinanalyticsinc.com
 0.0.0.0 kinanalyticsweb.com
 0.0.0.0 kinanalyticswise.com
+0.0.0.0 kindhush.com
 0.0.0.0 kindleconsulting.com
 0.0.0.0 kineo-analytics.com
 0.0.0.0 kinesis.ap-east-1.amazonaws.com
@@ -36222,6 +36234,7 @@
 0.0.0.0 mncvfly3qtrk.com
 0.0.0.0 mndtrk.com
 0.0.0.0 m.notestothesoul.org
+0.0.0.0 mn-pbox-525.top
 0.0.0.0 mntn.com
 0.0.0.0 mntr.cafecito.app
 0.0.0.0 mn.virtualflipformula.io
@@ -36806,6 +36819,7 @@
 0.0.0.0 nebulousripple.com
 0.0.0.0 nectar.run
 0.0.0.0 needinsights.com
+0.0.0.0 needlessnorth.com
 0.0.0.0 need-the-approval-today.com
 0.0.0.0 need-your-approval-today.com
 0.0.0.0 nefnje8trk.com
@@ -45049,6 +45063,7 @@
 0.0.0.0 q249.parade.com
 0.0.0.0 q252.travelportland.com
 0.0.0.0 q852.healio.com
+0.0.0.0 q85ehcrh.com
 0.0.0.0 q8gqt.thuysvers.nl
 0.0.0.0 q8mng7trk.com
 0.0.0.0 qa4zclq.com
@@ -61513,6 +61528,7 @@
 0.0.0.0 stats.teslascout.com
 0.0.0.0 stats.testbiotech.org
 0.0.0.0 stats.testboy.de
+0.0.0.0 stats-test.pod.fo
 0.0.0.0 stats.teteamodeler.com
 0.0.0.0 stat.stettfurt.ch
 0.0.0.0 stats.texelinformatie.nl
@@ -64852,6 +64868,7 @@
 0.0.0.0 tracking.angelinos.com
 0.0.0.0 tracking.anhaenger-bayreuth.de
 0.0.0.0 tracking.anti-stress-team.de
+0.0.0.0 tracking-ap.hawksearch.com
 0.0.0.0 tracking.apiation.net
 0.0.0.0 tracking-api.bmw.com
 0.0.0.0 tracking-api.production.g2.com
@@ -65205,6 +65222,7 @@
 0.0.0.0 tracking.thebpwshop.com
 0.0.0.0 tracking.themitchellsagency.com
 0.0.0.0 tracking.theoceancleanup.com
+0.0.0.0 tracking.thinkabt.com
 0.0.0.0 tracking.ticketingbox.com
 0.0.0.0 tracking.tidningsgava.se
 0.0.0.0 tracking.topachat.com
@@ -65884,7 +65902,6 @@
 0.0.0.0 trk.dragos.com
 0.0.0.0 trk.dzr.io
 0.0.0.0 trk.effg.net
-0.0.0.0 trk.elasticemail.com
 0.0.0.0 trk.emailforyou.co.uk
 0.0.0.0 trk.faithandlibertymail.com
 0.0.0.0 trk.fbr.group
@@ -66232,6 +66249,7 @@
 0.0.0.0 tutorialstreet.ru
 0.0.0.0 tutorthing.com
 0.0.0.0 tutta.site
+0.0.0.0 tuutrk.com
 0.0.0.0 tv52trk.com
 0.0.0.0 t.vallier.es
 0.0.0.0 tv-api.blivenyc.com
@@ -66313,6 +66331,7 @@
 0.0.0.0 t.zoomiescanada.ca
 0.0.0.0 t.zsystartup.com
 0.0.0.0 u148.fiercewireless.com
+0.0.0.0 u16qczyh.com
 0.0.0.0 u44.pnc.com
 0.0.0.0 u45.pnc.com
 0.0.0.0 u47.pnc.com
@@ -66352,6 +66371,7 @@
 0.0.0.0 uc.eon.de
 0.0.0.0 ucfs.sendpro360.pitneybowes.com
 0.0.0.0 ucmapi.americanexpress.com
+0.0.0.0 ucq6j7trk.com
 0.0.0.0 uc.srgd.ch
 0.0.0.0 udata.namespace.so
 0.0.0.0 udbdf.huya.com
@@ -67358,6 +67378,7 @@
 0.0.0.0 watermarkinsights.com
 0.0.0.0 water.mastermeter.com
 0.0.0.0 watersmart.com
+0.0.0.0 water-tree.com
 0.0.0.0 waterywrist.com
 0.0.0.0 watsonanalytics.com
 0.0.0.0 watson.vpnrevie.ws

@@ -1987,6 +1987,8 @@
 0.0.0.0 proxy-creator-shadow-browser-3.duckdns.org
 0.0.0.0 rizzgodmogger.duckdns.org
 0.0.0.0 shadowbrowser.duckdns.org
+0.0.0.0 site-2.duckdns.org
+0.0.0.0 tungdnsne.duckdns.org
 0.0.0.0 welovemath123.duckdns.org
 0.0.0.0 welovescience123.duckdns.org
 0.0.0.0 butidontwanttacos.duia.us
@@ -1999,6 +2001,7 @@
 0.0.0.0 interstaller-ae.dynipv6.de
 0.0.0.0 interstellar-ad.dynipv6.de
 0.0.0.0 majimekun.dynipv6.de
+0.0.0.0 saomai.dynu.com
 0.0.0.0 getjumpscared.dynv6.net
 0.0.0.0 ineedmymoney.dynv6.net
 0.0.0.0 treesareplanted.dynv6.net
@@ -2337,6 +2340,7 @@
 0.0.0.0 zva-186.global.ssl.fastly.net
 0.0.0.0 hence.fatdiary.org
 0.0.0.0 api.fatibara.com
+0.0.0.0 dns.faze.dev
 0.0.0.0 vpn.fdn.fr
 0.0.0.0 vpn-rw.fdn.fr
 0.0.0.0 vpn1.fdn.fr
@@ -2654,6 +2658,7 @@
 0.0.0.0 tasks.gov.heronquays.com
 0.0.0.0 connorisnotawesomesaucelolz.heronquays.com
 0.0.0.0 zavierissoawesomesauce.heronquays.com
+0.0.0.0 adg.meviusberry.hidns.co
 0.0.0.0 codinggamesforkids.highdesertcoders.com
 0.0.0.0 educational2learn.highdesertcoders.com
 0.0.0.0 learn.highdesertcoders.com
@@ -3068,6 +3073,8 @@
 0.0.0.0 so.kaiak.top
 0.0.0.0 supposing.kaiak.top
 0.0.0.0 toe.kaiak.top
+0.0.0.0 jp.kano.sh
+0.0.0.0 adguard.kantinyoyok.xyz
 0.0.0.0 raiseyouryayaya.katan.ro
 0.0.0.0 ram.kdot.cam
 0.0.0.0 geo.keepsolidcdn.com
@@ -3115,6 +3122,7 @@
 0.0.0.0 calc.ktf.li
 0.0.0.0 learnfrench.ktx.ro
 0.0.0.0 orbit.craft.kuede.info
+0.0.0.0 dns.kugoapps.com
 0.0.0.0 learn.kugya.com
 0.0.0.0 course.excel.kump.si
 0.0.0.0 ram.kunar.baby
@@ -3168,6 +3176,7 @@
 0.0.0.0 proxysocket.learntechnologyapp.com
 0.0.0.0 wiselines.lebrija.org
 0.0.0.0 directory.leeschoolsk12.org
+0.0.0.0 externalmobiel.lekdijk.online
 0.0.0.0 skill.vocab.lekovic.ca
 0.0.0.0 art.lexvoip.com
 0.0.0.0 assignments.lhost.dev
@@ -3210,6 +3219,7 @@
 0.0.0.0 selenite.luxurytransport.com.signup.luxurytransport.rs
 0.0.0.0 iloveshrek.madhacker.biz
 0.0.0.0 programs.mangorefreshers.com
+0.0.0.0 doh.manish.ltd
 0.0.0.0 easycoding.manutec.co
 0.0.0.0 keenliterature.manutec.co
 0.0.0.0 proalgebra.manutec.co
@@ -3236,6 +3246,7 @@
 0.0.0.0 idea.work.mastergolfasia.com
 0.0.0.0 media.level.mastergolfworld.com
 0.0.0.0 piano.login.mastergolfworld.hk
+0.0.0.0 dns.mathewakhil.online
 0.0.0.0 vm.mathfilm.dk
 0.0.0.0 aisd.mathforkids.buzz
 0.0.0.0 cfisd.mathforkids.buzz
@@ -3267,6 +3278,7 @@
 0.0.0.0 world.prep.micatonetwork.net
 0.0.0.0 proxysmart.microyiappstudio.com
 0.0.0.0 www-proxy.midoghanam.site
+0.0.0.0 dns.midping.ir
 0.0.0.0 math.midtech.cl
 0.0.0.0 best-dev24.mielone.org
 0.0.0.0 www-proxy.migastep.com
@@ -3303,6 +3315,7 @@
 0.0.0.0 hi.gyatt.mooo.com
 0.0.0.0 lengua.insti.mooo.com
 0.0.0.0 8o00imq7asda.mooo.com
+0.0.0.0 alexj123.mooo.com
 0.0.0.0 allcowswilldefinitelygo.mooo.com
 0.0.0.0 bashathegenius.mooo.com
 0.0.0.0 coconutlizzy.mooo.com
@@ -3620,6 +3633,7 @@
 0.0.0.0 vps-3183c6bd.vps.ovh.ca
 0.0.0.0 vps-33e5a7f3.vps.ovh.us
 0.0.0.0 vps-d38e82a1.vps.ovh.us
+0.0.0.0 dns.ovpn.bond
 0.0.0.0 www-proxy.p2pear.asia
 0.0.0.0 topic.teach.pacbell.hk
 0.0.0.0 solve.write.pacificbellinternational.com
@@ -3713,6 +3727,7 @@
 0.0.0.0 manwhyisschoolhard.pepikutan.net
 0.0.0.0 homework.maths.percentages.perona.cl
 0.0.0.0 next.pettica.com
+0.0.0.0 dns.phatnt.org
 0.0.0.0 gojoiscoolbutweird.photo-frame.com
 0.0.0.0 fern.ub.phuri.cc
 0.0.0.0 quasar.ub.phuri.cc
@@ -3722,6 +3737,7 @@
 0.0.0.0 happynewdestenation.pintravel.ro
 0.0.0.0 lousiana-history-careers-ixl-geoly-education.pittentrepreneur.com
 0.0.0.0 67dircen67.pjabbari.com
+0.0.0.0 draco.plan9-ns2.com
 0.0.0.0 sdtfghjbnm.152-53-136-204.plesk.page
 0.0.0.0 wws.152-53-136-204.plesk.page
 0.0.0.0 104-243-38-18.plesk.page
@@ -4080,6 +4096,7 @@
 0.0.0.0 pteryla.solicituddemateriales.cl
 0.0.0.0 imfroggingit.soloo.win
 0.0.0.0 algebra.somgelida.net
+0.0.0.0 bwg.sooda.moe
 0.0.0.0 thtghrabf.soon.it
 0.0.0.0 r.soraapp.gq
 0.0.0.0 sentry.soraapp.gq
@@ -4122,6 +4139,7 @@
 0.0.0.0 thjk.srv64.de
 0.0.0.0 remballtriedthis.srvdns.de
 0.0.0.0 uniub.srvdns.de
+0.0.0.0 adguard.sscw.win
 0.0.0.0 www-web.sshub.win
 0.0.0.0 205.209.125.106.sslip.io
 0.0.0.0 158.69.222.114.sslip.io
@@ -4324,6 +4342,7 @@
 0.0.0.0 grammar.techmaxasia.com
 0.0.0.0 llc.techmaxasia.com
 0.0.0.0 sainttech.techmaxasia.com
+0.0.0.0 vpn.technicule.info
 0.0.0.0 vapor.techno.pics
 0.0.0.0 essay.gov.technologybriefingcenter.com
 0.0.0.0 platform.techsmart.tk
@@ -4339,6 +4358,12 @@
 0.0.0.0 mathlearning.tejidosdedignidad.org
 0.0.0.0 socialstudieshistory.tejidosdedignidad.org
 0.0.0.0 vpn-tw.teng.sh
+0.0.0.0 au.teradns.org
+0.0.0.0 de.teradns.org
+0.0.0.0 ny.teradns.org
+0.0.0.0 sg.teradns.org
+0.0.0.0 tx.teradns.org
+0.0.0.0 uk.teradns.org
 0.0.0.0 supported.testing4fun.xyz
 0.0.0.0 trade.my.texmotive.com
 0.0.0.0 foil.thanatos.com
@@ -4599,6 +4624,7 @@
 0.0.0.0 dontgoonyoufuckingdegenerates.vaultnoir.com
 0.0.0.0 ibribeillegals.vaultnoir.com
 0.0.0.0 waguri.vawars.com
+0.0.0.0 securedns.vendorvista.xyz
 0.0.0.0 bookings.verandahotels.com
 0.0.0.0 fer.verandahotels.com
 0.0.0.0 playernation.verandahotels.com
@@ -4684,6 +4710,7 @@
 0.0.0.0 vpn.vosjes.cloud
 0.0.0.0 yuzu-4.vpn64.de
 0.0.0.0 proxy.vpner.com
+0.0.0.0 adguard.vpnkitakitsune.com
 0.0.0.0 api.vpnlumos.com
 0.0.0.0 antispam.vpnvps.com
 0.0.0.0 antispam.vpsvpn.com
@@ -4762,6 +4789,7 @@
 0.0.0.0 1d02o93u1092d0.weebly.com
 0.0.0.0 drive.google.com.wesp.fi
 0.0.0.0 math.westkis.com
+0.0.0.0 dns.wibenson.cloud
 0.0.0.0 hammerhead-shark.wifizone.org
 0.0.0.0 utale.snowdin.wiki.gd
 0.0.0.0 mathematics-pemdas.wiki.gd
@@ -4811,12 +4839,16 @@
 0.0.0.0 state.mass.xpatholiday.com
 0.0.0.0 aphistorytutoring.xtremeflooringandmfg.com
 0.0.0.0 sainttech.xtremeflooringandmfg.com
+0.0.0.0 dns.xuann.my
 0.0.0.0 app.xvpncdn.com
+0.0.0.0 dns.xwdmw.xyz
+0.0.0.0 v1.xylto.com
 0.0.0.0 state.know.yacht-therapy.net
 0.0.0.0 email.yan.ch
 0.0.0.0 shawtagramma.yao.cl
 0.0.0.0 vinnyisbunslol.yao.cl
 0.0.0.0 phew.yasantala.com
+0.0.0.0 lion.yazilimatolye.com
 0.0.0.0 emmett.ydns.eu
 0.0.0.0 endis.ydns.eu
 0.0.0.0 poobungus.ydns.eu
@@ -4828,6 +4860,7 @@
 0.0.0.0 v22013121930515853.yourvserver.net
 0.0.0.0 op.yt47v.cfd
 0.0.0.0 www-p.yvseann.com
+0.0.0.0 adg.yybyy.wiki
 0.0.0.0 ask.teaching.za.com
 0.0.0.0 dupepower.zanity.net
 0.0.0.0 bananakun.zapto.org
@@ -8867,6 +8900,7 @@
 0.0.0.0 ilcsdnkf.com
 0.0.0.0 ilhoyml8z94bkq5h87sgmh.online
 0.0.0.0 ilink-a.com
+0.0.0.0 ilmxs.com
 0.0.0.0 iloveandroiddlvpn.com
 0.0.0.0 iloveandroidvpn.com
 0.0.0.0 ilovecheapestvpn.com
@@ -10788,11 +10822,8 @@
 0.0.0.0 onesy.top
 0.0.0.0 onevpn.com
 0.0.0.0 onion.am
-0.0.0.0 onion.city
 0.0.0.0 onion.dog
-0.0.0.0 onion.lt
 0.0.0.0 onion.lu
-0.0.0.0 onion.ly
 0.0.0.0 onlineanonymizer.com
 0.0.0.0 onlineproxy.co
 0.0.0.0 onlineproxy.eu
@@ -13234,6 +13265,7 @@
 0.0.0.0 vsiquiqk.com
 0.0.0.0 vstkp.click
 0.0.0.0 vtbimdkh.com
+0.0.0.0 vtcuong.site
 0.0.0.0 vthiawvu.com
 0.0.0.0 vthrnrwrbtq2n1xpjt5d.online
 0.0.0.0 vul-trio.ru

@@ -82,6 +82,7 @@
 0.0.0.0 viruswarning*.web.core.windows.net
 0.0.0.0 go-to-zlibrary.com
 0.0.0.0 ilil.in
+0.0.0.0 cloud.tnewstraffic.com
 0.0.0.0 vnote-*.myqcloud.com
 0.0.0.0 clickhereecraigslist.tripod.com
 0.0.0.0 testra*-covid.weebly.com

@@ -1,8 +1,8 @@
 #
 #    File: Gambling
 #    Info: Casino, gambling, poker, etc.
-# Domains: 9,555
-# Updated: 5/12/2026  17:52 (5:52 PM CST)
+# Domains: 9,558
+# Updated: 5/20/2026  15:20 (3:20 PM CST)
 #
 0.0.0.0 0009casino.com
 0.0.0.0 000-online-casino.biz
@@ -3082,6 +3082,7 @@
 0.0.0.0 catcasino807.com
 0.0.0.0 catcasino820.com
 0.0.0.0 catcasino830.com
+0.0.0.0 catcasino849.com
 0.0.0.0 catcasino902.com
 0.0.0.0 catcasino989.com
 0.0.0.0 catcasino993.com
@@ -3423,6 +3424,7 @@
 0.0.0.0 dlfbook.games
 0.0.0.0 dlx-casino.org
 0.0.0.0 dogecoin-casino-us.top
+0.0.0.0 dollarmills.com
 0.0.0.0 dollycasino102.com
 0.0.0.0 dollycasino.one
 0.0.0.0 dollycasinos.com
@@ -7220,6 +7222,7 @@
 0.0.0.0 r7casino396.com
 0.0.0.0 r7casino407.com
 0.0.0.0 r7casino40.com
+0.0.0.0 r7casino482.com
 0.0.0.0 r7casino503.com
 0.0.0.0 r7casino597.com
 0.0.0.0 r7casinoamp1.ru

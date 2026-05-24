@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 5,776
-# Updated: 4/13/2026  10:19 (10:19 AM CST)
+# Domains: 5,778
+# Updated: 5/20/2026  15:20 (3:20 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -86,6 +86,7 @@
 0.0.0.0 233.be
 0.0.0.0 23.fyi
 0.0.0.0 247superhost.com
+0.0.0.0 24ml.de
 0.0.0.0 256.so
 0.0.0.0 27g.ru
 0.0.0.0 2b1s.zacharyhurdle.com
@@ -2603,6 +2604,7 @@
 0.0.0.0 linkjp.org
 0.0.0.0 linkjust.com
 0.0.0.0 linkkp.com
+0.0.0.0 linkku.me
 0.0.0.0 linklada.com
 0.0.0.0 linklyhq.com
 0.0.0.0 linkmain.bio
@@ -3629,6 +3631,7 @@
 0.0.0.0 q.2qyq.vip
 0.0.0.0 q8at.link
 0.0.0.0 qain.si
+0.0.0.0 qaza.info
 0.0.0.0 qb.dk
 0.0.0.0 qcutul2702.life
 0.0.0.0 qdl.pw
