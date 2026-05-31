@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 24 May 2026 10:08 UTC
-# Version: 2026.0524.1008.30
+# Last modified: 30 May 2026 11:03 UTC
+# Version: 2026.0530.1103.17
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3872
+# Number of entries: 3876
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -673,6 +673,7 @@
 0.0.0.0 teamspeak.adriason.co.uk
 0.0.0.0 adguard.cell.co.id
 0.0.0.0 dns.chaosen3.co.uk
+0.0.0.0 jb1doh.cipherdns.co.za
 0.0.0.0 dns-01.computerservices.co.nz
 0.0.0.0 dns-02.computerservices.co.nz
 0.0.0.0 crusnik80.co.za
@@ -709,6 +710,7 @@
 0.0.0.0 doh.tsmu.co.id
 0.0.0.0 dns1.understandingcyber.co.uk
 0.0.0.0 dns.unknown-universe.co.uk
+0.0.0.0 doh.vpsdns.co.za
 0.0.0.0 dns.walshnet.co.uk
 0.0.0.0 augne.dns.walshnet.co.uk
 0.0.0.0 aviemore.dns.walshnet.co.uk
@@ -750,6 +752,7 @@
 0.0.0.0 dns.netraptor.com.au
 0.0.0.0 dns.oceanprint.com.br
 0.0.0.0 dns.polatarasan.com.tr
+0.0.0.0 dns.weixin.qq.com.cn
 0.0.0.0 dns.redhosting.com.ar
 0.0.0.0 host94.rheingold.com.ua
 0.0.0.0 cloud.securifi.com.my
@@ -2551,6 +2554,7 @@
 0.0.0.0 dns.nick-slowinski.de
 0.0.0.0 nickcan.xyz
 0.0.0.0 dns.nicolas.vip
+0.0.0.0 doh-dilution-to-upstreams-adguardhome.nicolas-dorriere.fr
 0.0.0.0 doh-own-recursion.nicolas-dorriere.fr
 0.0.0.0 doh-random-upstream.nicolas-dorriere.fr
 0.0.0.0 nicsezcheckfbi.gov
@@ -3068,6 +3072,7 @@
 0.0.0.0 dns1.serdcebolit.ru
 0.0.0.0 forzalaquila.servebeer.com
 0.0.0.0 privatnas.servebeer.com
+0.0.0.0 doh.serverhost.no
 0.0.0.0 adguard.servernation.xyz
 0.0.0.0 node9.servernode.store
 0.0.0.0 adguard.serverrune.be

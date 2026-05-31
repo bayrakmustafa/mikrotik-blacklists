@@ -9,6 +9,7 @@
 0.0.0.0 aan.amazon.com.tr
 0.0.0.0 aan.amazon.com.tr.home
 0.0.0.0 abundantservantexact.com
+0.0.0.0 adoni-nea.com
 0.0.0.0 adsreklamizm.ga
 0.0.0.0 adsreklamizm.tk
 0.0.0.0 affiliate.migros.com.tr

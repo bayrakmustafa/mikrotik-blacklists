@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 22MAY26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 29MAY26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -9599,6 +9599,7 @@
 0.0.0.0 metrics.morethings.digital
 0.0.0.0 metrics.mrporter.com
 0.0.0.0 metrics.mrrooter.com
+0.0.0.0 metrics.mtcgame.com
 0.0.0.0 metrics.mum.edu
 0.0.0.0 metrics.mycareforward.com
 0.0.0.0 metrics.myclubwyndham.com

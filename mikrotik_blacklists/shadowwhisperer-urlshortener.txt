@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 5,778
-# Updated: 5/20/2026  15:20 (3:20 PM CST)
+# Domains: 5,794
+# Updated: 5/28/2026  23:13 (11:13 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -663,6 +663,7 @@
 0.0.0.0 biastonu.com
 0.0.0.0 bibl.es
 0.0.0.0 bibomart.live
+0.0.0.0 bidsforkids.org
 0.0.0.0 bigbigwinjiliwin63.online
 0.0.0.0 bigcc.cc
 0.0.0.0 biggo.tw
@@ -695,6 +696,7 @@
 0.0.0.0 bitj.us
 0.0.0.0 bitl.app
 0.0.0.0 bitlee.site
+0.0.0.0 bitlink.one
 0.0.0.0 bitli.pro
 0.0.0.0 bitl.to
 0.0.0.0 bitly1.ru
@@ -1620,6 +1622,7 @@
 0.0.0.0 fortunium.xyz
 0.0.0.0 fovre.sbs
 0.0.0.0 fpfro.sbs
+0.0.0.0 fpr.li
 0.0.0.0 fqbgk.com
 0.0.0.0 freefc24code.life
 0.0.0.0 freegamesjiliwin63.online
@@ -1699,6 +1702,7 @@
 0.0.0.0 gdanstum.net
 0.0.0.0 gdtikx.com
 0.0.0.0 geefi.me
+0.0.0.0 geefi.net
 0.0.0.0 geetlink.com
 0.0.0.0 gef.me
 0.0.0.0 gegeshidzedato10.life
@@ -1750,6 +1754,7 @@
 0.0.0.0 ghxgw.com
 0.0.0.0 gil.re
 0.0.0.0 girlte.ch
+0.0.0.0 givecharleston.org
 0.0.0.0 giv.red
 0.0.0.0 gj.al
 0.0.0.0 gkurl.us
@@ -1901,6 +1906,7 @@
 0.0.0.0 harachi.info
 0.0.0.0 harapan777.love
 0.0.0.0 harleyned.live
+0.0.0.0 harounbillets.com
 0.0.0.0 has.coffee
 0.0.0.0 hass.win
 0.0.0.0 hatl.ink
@@ -1949,6 +1955,7 @@
 0.0.0.0 highwayproapp.com
 0.0.0.0 hil.ink
 0.0.0.0 hirummy.best
+0.0.0.0 hiurls.com
 0.0.0.0 hivy.net
 0.0.0.0 hjseq.top
 0.0.0.0 hkwvi.top
@@ -2816,6 +2823,7 @@
 0.0.0.0 macrinaperez.live
 0.0.0.0 madondressokwanda2.life
 0.0.0.0 maejo.link
+0.0.0.0 magatxt.us
 0.0.0.0 magaus.co
 0.0.0.0 magaus.net
 0.0.0.0 magaus.org
@@ -4246,6 +4254,7 @@
 0.0.0.0 shrt.lat
 0.0.0.0 sh-rt.link
 0.0.0.0 shrt-l.ink
+0.0.0.0 shrtlist.com
 0.0.0.0 shrtlk.click
 0.0.0.0 shrtlnk.com
 0.0.0.0 shrtme.link
@@ -4302,6 +4311,7 @@
 0.0.0.0 siteurl.ink
 0.0.0.0 situsslotzeus.store
 0.0.0.0 sjev.info
+0.0.0.0 ski.gd
 0.0.0.0 skiplinko.com
 0.0.0.0 skiplinks.net
 0.0.0.0 skippy.online
@@ -4351,6 +4361,7 @@
 0.0.0.0 smll.cc
 0.0.0.0 smlr.site
 0.0.0.0 smo.do
+0.0.0.0 smoll.click
 0.0.0.0 smoner.com
 0.0.0.0 smr.sh
 0.0.0.0 smr.to
@@ -4587,6 +4598,7 @@
 0.0.0.0 texas88vvip.org
 0.0.0.0 texasbisa.org
 0.0.0.0 texn.cc
+0.0.0.0 textmydeals.com
 0.0.0.0 tfg2000.de
 0.0.0.0 tfushort.com
 0.0.0.0 tgbe.link
@@ -4987,6 +4999,7 @@
 0.0.0.0 url.1.hubs.vn
 0.0.0.0 url1.io
 0.0.0.0 url2a.site
+0.0.0.0 url2go.pro
 0.0.0.0 url2.in
 0.0.0.0 url2s.com
 0.0.0.0 url302x.icu
@@ -5092,6 +5105,7 @@
 0.0.0.0 urlshort.rest
 0.0.0.0 urlshortx.com
 0.0.0.0 urlshort.xyz
+0.0.0.0 urlshoter.com
 0.0.0.0 urlshrt.link
 0.0.0.0 urls.ie
 0.0.0.0 urlsmall.com
@@ -5133,6 +5147,7 @@
 0.0.0.0 userlinks.in
 0.0.0.0 useshort.com
 0.0.0.0 usf.services
+0.0.0.0 usglife.com
 0.0.0.0 usheethe.com
 0.0.0.0 ushort.me
 0.0.0.0 usmfs.info
@@ -5187,6 +5202,7 @@
 0.0.0.0 vea.link
 0.0.0.0 veall.mom
 0.0.0.0 vegalinks.net
+0.0.0.0 vegamoveis.link
 0.0.0.0 vehi.co
 0.0.0.0 vejacomo.online
 0.0.0.0 vellygearswiki.live
