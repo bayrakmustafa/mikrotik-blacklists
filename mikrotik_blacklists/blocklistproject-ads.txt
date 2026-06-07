@@ -8120,7 +8120,6 @@
 0.0.0.0 a.kuchebraska.com
 0.0.0.0 a.lazyswipe.com
 0.0.0.0 a.liktirov.com
-0.0.0.0 a.line.me
 0.0.0.0 a.livefreefunwith.me
 0.0.0.0 a.localytics.com
 0.0.0.0 a.lokipodi.com
@@ -24997,6 +24996,7 @@
 0.0.0.0 adfeed.appier.net
 0.0.0.0 adfeed.pagefair.net
 0.0.0.0 adfeeds.stuff.co.nz
+0.0.0.0 adfeedstrk.com
 0.0.0.0 adfest.com
 0.0.0.0 adfever.fr.intellitxt.com
 0.0.0.0 adfiles.auditude.com
@@ -29004,6 +29004,7 @@
 0.0.0.0 adzhits.com
 0.0.0.0 adzhub.com
 0.0.0.0 adzincome.in
+0.0.0.0 adzintext.com
 0.0.0.0 adzip.s3.amazonaws.com
 0.0.0.0 adzjunction.g2afse.com
 0.0.0.0 adzjzewsma.cf
@@ -33509,6 +33510,7 @@
 0.0.0.0 awmcenter.eu
 0.0.0.0 awmcounter.de
 0.0.0.0 awmpartners.com
+0.0.0.0 awmserve.com
 0.0.0.0 awnyohgtmb.com
 0.0.0.0 awogbtinorwx.com
 0.0.0.0 awos8.voluumtrk.com
@@ -33928,6 +33930,7 @@
 0.0.0.0 bab.frb.io
 0.0.0.0 babanetwork.vidible.tv
 0.0.0.0 babble-prod-us-east-1.swrve.com
+0.0.0.0 babbnrs.com
 0.0.0.0 babeljs.algolia.com
 0.0.0.0 babes.go2cloud.org
 0.0.0.0 babes.picrush.com
@@ -34022,6 +34025,7 @@
 0.0.0.0 badskies.com
 0.0.0.0 badslopes.com
 0.0.0.0 badstairs.com
+0.0.0.0 badtopwitch.work
 0.0.0.0 badv.wp.pl
 0.0.0.0 badwords.onthe.io
 0.0.0.0 bae093b2b20fde784.com
@@ -34075,6 +34079,7 @@
 0.0.0.0 bam-5.nr-data.net
 0.0.0.0 bam-bam-slam.com
 0.0.0.0 bambar.net
+0.0.0.0 bambarmedia.com
 0.0.0.0 bambergerkennanchitinous.com
 0.0.0.0 bamboo.districtm.net
 0.0.0.0 bamboo.revcontent.com
@@ -34095,6 +34100,7 @@
 0.0.0.0 bancvue.co1.qualtrics.com
 0.0.0.0 bandaomodel.com
 0.0.0.0 bandarpoker88.com
+0.0.0.0 bandelcot.com
 0.0.0.0 bandlane.com
 0.0.0.0 bandoc.d-group.co.il
 0.0.0.0 bandpage.go2cloud.org
@@ -36956,6 +36962,7 @@
 0.0.0.0 booztdk.widget.criteo.com
 0.0.0.0 booztfi.widget.criteo.com
 0.0.0.0 booztse.widget.criteo.com
+0.0.0.0 bop-bop-bam.com
 0.0.0.0 boplhfqz.com
 0.0.0.0 bopsgoxon.download
 0.0.0.0 boqdapoiv.com
@@ -41354,6 +41361,7 @@
 0.0.0.0 centurylink.com.102.112.2o7.net
 0.0.0.0 centurylink.inq.com
 0.0.0.0 centurylink.touchcommerce.com
+0.0.0.0 centwrite.com
 0.0.0.0 cep.co1.qualtrics.com
 0.0.0.0 cepailru.com
 0.0.0.0 cepereh.ru
@@ -43386,6 +43394,7 @@
 0.0.0.0 coding.1100011.ir
 0.0.0.0 codingagent.com
 0.0.0.0 coed-d.openx.net
+0.0.0.0 coedmediagroup.com
 0.0.0.0 coepzyavjda.com
 0.0.0.0 cofc.qualtrics.com
 0.0.0.0 cofc360.qualtrics.com
@@ -51255,6 +51264,7 @@
 0.0.0.0 easy-hit-counter.com
 0.0.0.0 easy.gameanalytics.com
 0.0.0.0 easy.mmoney.services
+0.0.0.0 easyaccess.mobi
 0.0.0.0 easyadvertonline.com
 0.0.0.0 easybizservizi.it
 0.0.0.0 easycash202.offerstrack.net
@@ -51508,7 +51518,6 @@
 0.0.0.0 edfthzanlsyse.com
 0.0.0.0 edge-ash2.cxense.com
 0.0.0.0 edge-ash3.cxense.com
-0.0.0.0 edge-dl.andomedia.com
 0.0.0.0 edge-dmpgw.cxense.com
 0.0.0.0 edge-elb.api.brightcove.com
 0.0.0.0 edge-hz2.cxense.com
@@ -52159,6 +52168,7 @@
 0.0.0.0 eminer.net
 0.0.0.0 emirdzzvhviv.com
 0.0.0.0 emisjawidgeet.onet.pl
+0.0.0.0 emkarto.fun
 0.0.0.0 eml.appnexus.com
 0.0.0.0 emma.onthe.io
 0.0.0.0 emmaempire.de.intellitxt.com
@@ -53550,6 +53560,7 @@
 0.0.0.0 expmine.pro
 0.0.0.0 expn.agkn.com
 0.0.0.0 expo9.exponential.com
+0.0.0.0 expocrack.com
 0.0.0.0 expogrim.com
 0.0.0.0 exponderle.pro
 0.0.0.0 expoperfumes.com.mx
@@ -54154,6 +54165,7 @@
 0.0.0.0 fandango.sc.omtrdc.net
 0.0.0.0 fandango.tt.omtrdc.net
 0.0.0.0 fandangostore.wgiftcard.com
+0.0.0.0 fandelcot.com
 0.0.0.0 fandmo.com
 0.0.0.0 fandommetrics.com
 0.0.0.0 fanduel.pxf.io
@@ -58658,6 +58670,7 @@
 0.0.0.0 gllkdkxygckb.com
 0.0.0.0 glmaamwyjkx.com
 0.0.0.0 glnqvqbedbmvtcdzcokrfczopbddhopygrvrnlgmalgvhnsfsc.com
+0.0.0.0 glo-glo-oom.com
 0.0.0.0 gloalrie.com
 0.0.0.0 globadmedia.com
 0.0.0.0 global-adsrv.com
@@ -60247,6 +60260,7 @@
 0.0.0.0 has.go2cloud.org
 0.0.0.0 has.it
 0.0.0.0 hasbro.com.102.112.2o7.net
+0.0.0.0 hash-hash-tag.com
 0.0.0.0 hash-to-coins.com
 0.0.0.0 hash93rgof.mentalist.kameleoon.com
 0.0.0.0 hashalre.uk
@@ -60308,6 +60322,7 @@
 0.0.0.0 havakhosh.com
 0.0.0.0 havamedia.net
 0.0.0.0 havas.adswizz.com
+0.0.0.0 havenwrite.com
 0.0.0.0 haverdash.pxf.io
 0.0.0.0 haverford.co1.qualtrics.com
 0.0.0.0 havijrat.zapto.org
@@ -61662,6 +61677,7 @@
 0.0.0.0 hr.info.lgsmartad.com
 0.0.0.0 hr.phone.igexin.com
 0.0.0.0 hr.talk.igexin.com
+0.0.0.0 hrahdmon.com
 0.0.0.0 hraina.com
 0.0.0.0 hranere.info
 0.0.0.0 hraowdzgs.com
@@ -65331,6 +65347,7 @@
 0.0.0.0 iopjpldd.com
 0.0.0.0 iopodx.de
 0.0.0.0 ioppxhhtgbydsj.com
+0.0.0.0 ioredi.com
 0.0.0.0 ioryejnzvbbluh.bid
 0.0.0.0 ios-quinoa-config-prod.sense360eng.com.herokudns.com
 0.0.0.0 ios-quinoa-personal-identify-prod.sense360eng.com.herokudns.com
@@ -68910,6 +68927,8 @@
 0.0.0.0 la-api.open.uc.cn
 0.0.0.0 la-chi.outbrain.com
 0.0.0.0 la-gw.clickability.com
+0.0.0.0 la-la-moon.com
+0.0.0.0 la-la-sf.com
 0.0.0.0 la-only.outbrain.com
 0.0.0.0 la-secure-origin-c.clickability.com
 0.0.0.0 la-trc.taboola.com
@@ -69018,6 +69037,7 @@
 0.0.0.0 lanchaeanly.pro
 0.0.0.0 lanco-flower.ir
 0.0.0.0 land1.adszx.pro
+0.0.0.0 landelcut.com
 0.0.0.0 lander.bestsmartlink.xyz
 0.0.0.0 lander.inuvo.com
 0.0.0.0 landing-review.admin.mgid.com
@@ -70292,6 +70312,7 @@
 0.0.0.0 lmjxrhph.com
 0.0.0.0 lmlttrack.com
 0.0.0.0 lmlvzeeag.com
+0.0.0.0 lmn-pou-win.com
 0.0.0.0 lmoda01.webtrekk.net
 0.0.0.0 lmoqmsagyjcurg.bid
 0.0.0.0 lmrlanov.com
@@ -73134,6 +73155,7 @@
 0.0.0.0 medyanet.sdk.beemray.com
 0.0.0.0 meeaowsxneps.com
 0.0.0.0 meepo.meitustat.com
+0.0.0.0 meepwrite.com
 0.0.0.0 meet.adx1.com
 0.0.0.0 meet.exponential.com
 0.0.0.0 meet.fitanalytics.com
@@ -76799,6 +76821,7 @@
 0.0.0.0 news.trendovo.com.ua
 0.0.0.0 news.uodoo.com
 0.0.0.0 news4cars.com
+0.0.0.0 newsadst.com
 0.0.0.0 newsadstream.com
 0.0.0.0 newsandpolik.ru
 0.0.0.0 newsarmor.com
@@ -77514,6 +77537,7 @@
 0.0.0.0 nordice01.webtrekk.net
 0.0.0.0 nordichardware.se
 0.0.0.0 noredirecto.redirectme.net
+0.0.0.0 norentisol.com
 0.0.0.0 norma-external-collect.meizu.com
 0.0.0.0 normalexchange.com
 0.0.0.0 normygvd.bid
@@ -78292,6 +78316,7 @@
 0.0.0.0 ny7f6goy.bid
 0.0.0.0 nya.tessko.ru
 0.0.0.0 nyacampwk.com
+0.0.0.0 nyadmcncserve-05y06a.com
 0.0.0.0 nyaisjsghvj.bid
 0.0.0.0 nyandcompany.com.ssl.sc.omtrdc.net
 0.0.0.0 nyantai.uodoo.com
@@ -80259,6 +80284,7 @@
 0.0.0.0 otmolod.ru
 0.0.0.0 otmonog.info
 0.0.0.0 otmsrv.com
+0.0.0.0 otnolabttmup.com
 0.0.0.0 otohondavungtau.com
 0.0.0.0 otologistxyrdfmy.download
 0.0.0.0 otoxkqlivsqr.com
@@ -84353,6 +84379,7 @@
 0.0.0.0 premium.naturalnews.tv
 0.0.0.0 premium.pubnative.net
 0.0.0.0 premiumastrology.go2cloud.org
+0.0.0.0 premiumbesucher.de
 0.0.0.0 premiumdownloaden.de
 0.0.0.0 premiumholidayoffers.com
 0.0.0.0 premiumminer.com
@@ -100388,6 +100415,7 @@
 0.0.0.0 track.umeng.com
 0.0.0.0 track.understandsolar.com
 0.0.0.0 track.undressingpics.work
+0.0.0.0 track.upaknee.com
 0.0.0.0 track.v2.sslsecure1.com
 0.0.0.0 track.vatgia.com
 0.0.0.0 track.vdo.ai

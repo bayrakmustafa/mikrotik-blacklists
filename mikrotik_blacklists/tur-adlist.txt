@@ -73,6 +73,7 @@
 0.0.0.0 howmanyview.com
 0.0.0.0 installadpro.com
 0.0.0.0 iosexy.com
+0.0.0.0 istatistik.gazetevatan.com
 0.0.0.0 istatistik.milliyet.com.tr
 0.0.0.0 jeoldkhy.com
 0.0.0.0 kralseo.info
@@ -119,7 +120,6 @@
 0.0.0.0 rp.yefeneri2.com
 0.0.0.0 rs.chip.com.tr
 0.0.0.0 s.adklik.com.tr
-0.0.0.0 salutationcheerlessdemote.com
 0.0.0.0 sanalytics.boomerangtv.com.tr
 0.0.0.0 searchanalytics.turkcell.com.tr
 0.0.0.0 slhgfdsir.com

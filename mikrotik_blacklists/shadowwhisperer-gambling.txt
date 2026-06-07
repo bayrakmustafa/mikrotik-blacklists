@@ -1,8 +1,8 @@
 #
 #    File: Gambling
 #    Info: Casino, gambling, poker, etc.
-# Domains: 9,588
-# Updated: 5/28/2026  23:13 (11:13 PM CST)
+# Domains: 9,590
+# Updated: 6/1/2026  21:06 (9:06 PM CST)
 #
 0.0.0.0 0009casino.com
 0.0.0.0 000-online-casino.biz
@@ -5055,6 +5055,7 @@
 0.0.0.0 kucasinotructuyen.com
 0.0.0.0 kucasino.ws
 0.0.0.0 kucingsbotop.com
+0.0.0.0 kudosbet.com
 0.0.0.0 kuekngam.com
 0.0.0.0 kuekyam.com
 0.0.0.0 kuwaiticasino.com
@@ -8007,6 +8008,7 @@
 0.0.0.0 sultanbetcasino.org
 0.0.0.0 summitgoon.com
 0.0.0.0 sunsetcasino.pl
+0.0.0.0 superbet.ro
 0.0.0.0 superbowlgamblingsites.com
 0.0.0.0 supercasino.com
 0.0.0.0 supercasinohero.com

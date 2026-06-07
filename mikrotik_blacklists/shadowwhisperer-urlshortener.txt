@@ -1,8 +1,8 @@
 #
 #    File: UrlShortener
 #    Info: URL Shorteners. Can be used to mask malicious domains
-# Domains: 5,794
-# Updated: 5/28/2026  23:13 (11:13 PM CST)
+# Domains: 5,802
+# Updated: 6/1/2026  12:56 (12:56 PM CST)
 #
 0.0.0.0 00oo.lol
 0.0.0.0 010.at
@@ -358,6 +358,7 @@
 0.0.0.0 aisc.live
 0.0.0.0 aitoys7.live
 0.0.0.0 aitwwl.co
+0.0.0.0 aje.biz.id
 0.0.0.0 ajher.com
 0.0.0.0 aka.ci
 0.0.0.0 aka.my
@@ -574,6 +575,7 @@
 0.0.0.0 azx.az
 0.0.0.0 b0.ro
 0.0.0.0 b0t.at
+0.0.0.0 b1.fr
 0.0.0.0 b1url.com
 0.0.0.0 b22.in
 0.0.0.0 b2g.tech
@@ -1125,6 +1127,7 @@
 0.0.0.0 curious-cat.live
 0.0.0.0 curl.pk
 0.0.0.0 curl.ro
+0.0.0.0 curts.me
 0.0.0.0 customers.my
 0.0.0.0 customurlshortener.com
 0.0.0.0 cut2.ir
@@ -1189,6 +1192,7 @@
 0.0.0.0 dataurbia.com
 0.0.0.0 datenami.tw
 0.0.0.0 dave-cutter.life
+0.0.0.0 davidepuzzo.cloud
 0.0.0.0 davidheardmemorialhardheadyderby.com
 0.0.0.0 davidlloydjr.com
 0.0.0.0 daviesscountyrepublicans.org
@@ -3577,6 +3581,7 @@
 0.0.0.0 prime-link.net
 0.0.0.0 prince-0210th-akur.info
 0.0.0.0 princessbabybratx.live
+0.0.0.0 princessproms.com
 0.0.0.0 printplase.life
 0.0.0.0 p-r.io
 0.0.0.0 privad0.com
@@ -3936,6 +3941,7 @@
 0.0.0.0 saudepetrobras.com
 0.0.0.0 savelnk.com
 0.0.0.0 savenoperarte.com
+0.0.0.0 savetext.us
 0.0.0.0 savetub.com
 0.0.0.0 savg.in
 0.0.0.0 savyour.app
@@ -3956,6 +3962,7 @@
 0.0.0.0 sbwiki.site
 0.0.0.0 sbz.kr
 0.0.0.0 sc1o.com
+0.0.0.0 scalboostclub.com
 0.0.0.0 scanlah.com
 0.0.0.0 scanqris.me
 0.0.0.0 scbet88vvip.org
@@ -5315,6 +5322,7 @@
 0.0.0.0 wallets.my
 0.0.0.0 wall.sh
 0.0.0.0 walpolevoterguide2024.com
+0.0.0.0 waltersauto.net
 0.0.0.0 wangzhanzhubo.com
 0.0.0.0 waqmx.sbs
 0.0.0.0 warung.vip

@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 29MAY26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 05JUN26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -2941,6 +2941,7 @@
 0.0.0.0 analytics-api.klickly.com
 0.0.0.0 analyticsapi.qogita.com
 0.0.0.0 analytics.argeton.com
+0.0.0.0 analytics.atom.com
 0.0.0.0 analytics.autozone.com
 0.0.0.0 analytics.avis.de
 0.0.0.0 analytics.awhr.com
@@ -3802,7 +3803,6 @@
 0.0.0.0 audiofly.actonservice.com
 0.0.0.0 au.interface.com
 0.0.0.0 aurelianlending.actonservice.com
-0.0.0.0 aurum.tirto.id
 0.0.0.0 australiarevival.com
 0.0.0.0 auth.carte-gr.total.fr
 0.0.0.0 authentic3d.actonservice.com
@@ -4553,6 +4553,7 @@
 0.0.0.0 click.uol.com.br
 0.0.0.0 click.vocus.com
 0.0.0.0 clientlog.music.163.com
+0.0.0.0 client-logs-a.wbx2.com
 0.0.0.0 clients.belairdirect.com
 0.0.0.0 clients.intact.ca
 0.0.0.0 clients.nbc-insurance.ca
@@ -6194,7 +6195,6 @@
 0.0.0.0 fzu4.bysidecar.com
 0.0.0.0 g10102301085.co
 0.0.0.0 g10300385420.co
-0.0.0.0 g10498469755.co
 0.0.0.0 g11686975765.co
 0.0.0.0 g11885060100.co
 0.0.0.0 g1188506010.co
@@ -10814,6 +10814,7 @@
 0.0.0.0 q.skiplino.com
 0.0.0.0 qt5jl7r111h7.allesvoormijnvakantie.nl
 0.0.0.0 qualitas-app.hotdoc.com.au
+0.0.0.0 queen-one.net
 0.0.0.0 quest.epoise.com
 0.0.0.0 questintegrity.actonservice.com
 0.0.0.0 question.snapiio.com
@@ -14098,6 +14099,7 @@
 0.0.0.0 try.postmuseapp.com
 0.0.0.0 try.tableausoftware.com
 0.0.0.0 tsa.taxslayer.com
+0.0.0.0 tsa.webex.com
 0.0.0.0 t-s.cellcept.com
 0.0.0.0 t.service.thetimes.co.uk
 0.0.0.0 t-s.fuzeon.com
@@ -14192,6 +14194,7 @@
 0.0.0.0 ulidoo.montblanc.com
 0.0.0.0 ulinyo.bandito.com.tr
 0.0.0.0 ulutlv.esprit.fr
+0.0.0.0 umami.dev
 0.0.0.0 umami.flixer.su
 0.0.0.0 umami.vidfast.pro
 0.0.0.0 umami.wakarimasen.moe
@@ -14598,6 +14601,7 @@
 0.0.0.0 x.allabout.co.jp
 0.0.0.0 xbshje.smartbag.com.br
 0.0.0.0 xcojhb.unitysquare.co.kr
+0.0.0.0 x.designboom.com
 0.0.0.0 xdvdrg.globalindustrial.com
 0.0.0.0 xfzcds.netprint.ru
 0.0.0.0 x.gldn.io
