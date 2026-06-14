@@ -3352,7 +3352,6 @@
 0.0.0.0 15-204-247-166.plesk.page
 0.0.0.0 152-53-170-32.plesk.page
 0.0.0.0 152-53-36-82.plesk.page
-0.0.0.0 158-69-222-114.plesk.page
 0.0.0.0 159-195-59-55.plesk.page
 0.0.0.0 205-209-125-106.plesk.page
 0.0.0.0 37-27-88-135.plesk.page
@@ -12138,7 +12137,6 @@
 0.0.0.0 vtbimdkh.com
 0.0.0.0 vthiawvu.com
 0.0.0.0 vthrnrwrbtq2n1xpjt5d.online
-0.0.0.0 vuivn.site
 0.0.0.0 vul-trio.ru
 0.0.0.0 vultrio.ru
 0.0.0.0 vundekra.com

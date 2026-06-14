@@ -525,7 +525,6 @@
 0.0.0.0 7dml.netstack.lat
 0.0.0.0 7fsjtcf.bolettreatise.in.net
 0.0.0.0 7fsk.bexla9rin.in.net
-0.0.0.0 7g5swyfn.bazipoop.com
 0.0.0.0 7kutx52w.glassterrible.in.net
 0.0.0.0 7lluqhl.hollow-spark.in.net
 0.0.0.0 7louefau.microservice-compass.digital
@@ -581,7 +580,6 @@
 0.0.0.0 8rxhman.sylov3er.in.net
 0.0.0.0 8uasm.keysum.in.net
 0.0.0.0 8ugxvfg.decommiss-mint.bet
-0.0.0.0 8vjdfz8n.basketballiran.bet
 0.0.0.0 8vxgsoq9.cokefun.in.net
 0.0.0.0 8xorq0f0.after-diacritic.digital
 0.0.0.0 8xtx6dv2.gothiccathedralblueprint.digital
@@ -870,6 +868,7 @@
 0.0.0.0 apex.wintercoldlab.lat
 0.0.0.0 apex3stormlink.cyberpeaklink.garden
 0.0.0.0 apex7stormweb.vectorstarcity.garden
+0.0.0.0 apgagls.bonuliautoparts.com
 0.0.0.0 apgjh.latticeharbinger.in.net
 0.0.0.0 api-cluster.structuralgridhub.in.net
 0.0.0.0 api-endpoint.vectorforge.in.net
@@ -2681,7 +2680,6 @@
 0.0.0.0 cmvpokng.qul4xorin.in.net
 0.0.0.0 cmzgymj.betobet90.com
 0.0.0.0 cnjcb.bovlare7x.in.net
-0.0.0.0 cnpaintequipment.com
 0.0.0.0 cntainrs-folders-giped-green-hub.garden
 0.0.0.0 cnybvst9.1zorelin.lat
 0.0.0.0 co1o-grid.greecesco7es.in.net
@@ -3658,7 +3656,6 @@
 0.0.0.0 dkrbvhs.jamjahani.site
 0.0.0.0 dl9p.de1xpamil.in.net
 0.0.0.0 dlkcsdq.hotbet90app.com
-0.0.0.0 dlklyo.jamjahani2026.football
 0.0.0.0 dlnhov4.granulatetouch.in.net
 0.0.0.0 dmnoyvf.diet-lanolin.in.net
 0.0.0.0 dn17wscb.svolota-player.in.net
@@ -3839,6 +3836,7 @@
 0.0.0.0 dual-api.goodtwain.in.net
 0.0.0.0 dual-stream.symmetricalflow.in.net
 0.0.0.0 ducond.brisklume.in.net
+0.0.0.0 dufnsng.daqotransformers.com
 0.0.0.0 duizlfe.funbet24.bet
 0.0.0.0 dull7siteview.inertianetway.bet
 0.0.0.0 dusdyna.dombove.in.net
@@ -5136,7 +5134,6 @@
 0.0.0.0 g7-db-point.velocicorsa.in.net
 0.0.0.0 g8uxn2.crestfall.in.net
 0.0.0.0 g9jy.dickina-exagger.in.net
-0.0.0.0 gadomamada.com
 0.0.0.0 gadvzmy.lampaoszlopbolt.hu
 0.0.0.0 gala-net.galactoview.in.net
 0.0.0.0 gala-v11.galactoview.in.net
@@ -5404,7 +5401,6 @@
 0.0.0.0 ggwpcheats.xyz
 0.0.0.0 ggzne8.pra5noxel.in.net
 0.0.0.0 gh6fn4zq.i90.bet
-0.0.0.0 ghanioilandgas.com
 0.0.0.0 ghost-api.abstractlogic.in.net
 0.0.0.0 ghost-node-0.fiumeveloce.in.net
 0.0.0.0 ghost-node-x.froidespace.in.net
@@ -5535,7 +5531,6 @@
 0.0.0.0 gnashhusks.courses
 0.0.0.0 gnqv4r.boxemoj.surf
 0.0.0.0 go-99.miravento.in.net
-0.0.0.0 go.cmplistsonline.com
 0.0.0.0 go1d-leaf.inept-tail.in.net
 0.0.0.0 go1d8-core.mav8loren.lat
 0.0.0.0 goal5-list.active-phase-net.in.net
@@ -5830,6 +5825,7 @@
 0.0.0.0 hash3-list.zeq9lora.in.net
 0.0.0.0 hash3logicway.cryptosyncflow.bet
 0.0.0.0 hasmysql.christmas
+0.0.0.0 hasteb.in
 0.0.0.0 hasvideoproxy.christmas
 0.0.0.0 hatvtf.globalcontact.hu
 0.0.0.0 hauinn.to2virex.in.net
@@ -6554,6 +6550,7 @@
 0.0.0.0 islelaunch.quantumventurex.in.net
 0.0.0.0 islsta.zori6mav.lat
 0.0.0.0 isochronous-cyclotron-beam.garden
+0.0.0.0 isvfuzb.nasbt.com
 0.0.0.0 isy00.po9vtirel.in.net
 0.0.0.0 it-irrigatn-cntrl-network-go.garden
 0.0.0.0 it.clouditapp.pics
@@ -6734,6 +6731,7 @@
 0.0.0.0 k4-sync-auth.ventonovo.in.net
 0.0.0.0 k5-dist-z07.versicodex.in.net
 0.0.0.0 k56gfm6.tempiso.in.net
+0.0.0.0 k5k1f5zd.cloudzone.tr
 0.0.0.0 k7-sync-v2.fossaflow.in.net
 0.0.0.0 k77.vokriz.in.net
 0.0.0.0 k7r11.exoruby.in.net
@@ -6765,7 +6763,9 @@
 0.0.0.0 kb0xbi23.buildingstab.in.net
 0.0.0.0 kbbnzve.cnjiaju.vip
 0.0.0.0 kbyoix.div0rceskis5ing.pics
+0.0.0.0 kctwkqq.airtechmedical.com
 0.0.0.0 kdffa87z.1zarelin.lat
+0.0.0.0 kdwuzpk.yutongdrying.com
 0.0.0.0 ke3srk.dashjore.in.net
 0.0.0.0 keepmeshnode.piva1save.surf
 0.0.0.0 keilo-jermailer.com
@@ -7619,7 +7619,6 @@
 0.0.0.0 madrigalscythianphenologist.courses
 0.0.0.0 madroxreborn.lol
 0.0.0.0 magic-hub.assyrfantasy.in.net
-0.0.0.0 magina.online
 0.0.0.0 maglev-propulsion-system.garden
 0.0.0.0 mahcr.banhidileadershipacademy.hu
 0.0.0.0 mail-box2.kiv5leren.in.net
@@ -8064,7 +8063,6 @@
 0.0.0.0 mn4wr.desola-tidle.in.net
 0.0.0.0 mn776-t.dervishcore.in.net
 0.0.0.0 mndchnr.clin8company.in.net
-0.0.0.0 mnejbrs.volleyball.vin
 0.0.0.0 mnkggwzm.crispychickencutlets.digital
 0.0.0.0 mntdtg1.runfast.in.net
 0.0.0.0 mnwgjp.bo2rdreluct.in.net
@@ -8525,7 +8523,6 @@
 0.0.0.0 nky0.vex8talin.in.net
 0.0.0.0 nl6rhf.lakepit.in.net
 0.0.0.0 nlcygd.withregw.in.net
-0.0.0.0 nllyafb.basketballbet.org
 0.0.0.0 nmgixmc.catflow.in.net
 0.0.0.0 nmnntl.bet303casino.com
 0.0.0.0 nmno.cash-guys.in.net
@@ -8744,6 +8741,7 @@
 0.0.0.0 nova.podril1ak2.online
 0.0.0.0 nova.powertechlink.lat
 0.0.0.0 novacinder.digital
+0.0.0.0 nozeunl.xfgautoparts.com
 0.0.0.0 npawoli.jamjahani.world
 0.0.0.0 npcmrc.identify-celebrate.in.net
 0.0.0.0 npmx.photot-sudok.in.net
@@ -9212,7 +9210,6 @@
 0.0.0.0 packetrelay.wiki
 0.0.0.0 packnoirland.raxonviewunit.garden
 0.0.0.0 packnoirland7.vortextaskbit.garden
-0.0.0.0 pacsuhw1.pishbini90.bet
 0.0.0.0 padaj0.barankad1sin.in.net
 0.0.0.0 page-link3.de4xpamil.in.net
 0.0.0.0 page-link6.de8xporel.in.net
@@ -10764,7 +10761,6 @@
 0.0.0.0 s1gna1-track.plotsafe.in.net
 0.0.0.0 s1ovv-cast.tr4cefox.in.net
 0.0.0.0 s3-web-infra.ferroviva.in.net
-0.0.0.0 s3.g.s4.mega.io
 0.0.0.0 s3.mgirbvre.top
 0.0.0.0 s3cre-plate.highjoke.in.net
 0.0.0.0 s3unirpm.bet90land.com
@@ -10926,6 +10922,7 @@
 0.0.0.0 sdkwinter.moondev.in.net
 0.0.0.0 sdnzyq.botanical-control-system.garden
 0.0.0.0 sdsa.light-parcel.in.net
+0.0.0.0 seahohx.saas-systems.hu
 0.0.0.0 search-svc.howaskfor.in.net
 0.0.0.0 secret-api.cryptovault.in.net
 0.0.0.0 sectransi.f0xharbor.in.net
@@ -11995,6 +11992,7 @@
 0.0.0.0 storagegust.keystonebloom.in.net
 0.0.0.0 storapowe.sunnode.in.net
 0.0.0.0 store-house6.sy7loden.in.net
+0.0.0.0 store-standoff2-gold.shop
 0.0.0.0 store-vault.ryesears.in.net
 0.0.0.0 store4-data.urban-motion-app.in.net
 0.0.0.0 storefield.cr0wnfern.in.net
@@ -14470,8 +14468,6 @@
 0.0.0.0 whites-hirt2.ra4xovin.in.net
 0.0.0.0 whnmkwvj.frosthaven.garden
 0.0.0.0 whpayment.ru
-0.0.0.0 whrc.ru
-0.0.0.0 whreceiverrrrrrrrr.ru
 0.0.0.0 whtempdomain.com
 0.0.0.0 wi1d-array.rentcad.in.net
 0.0.0.0 wide-telemetry.regionaltelemetry.in.net
@@ -14691,6 +14687,7 @@
 0.0.0.0 xeeeto.ant5pender.in.net
 0.0.0.0 xeft5.peta1un.garden
 0.0.0.0 xehramf.batkascript.in.net
+0.0.0.0 xelecqe.yutongdrying.com
 0.0.0.0 xenomorphhiveintel.christmas
 0.0.0.0 xfuhz.n1ghtlark.in.net
 0.0.0.0 xg6xtld1.diet-lanolin.in.net

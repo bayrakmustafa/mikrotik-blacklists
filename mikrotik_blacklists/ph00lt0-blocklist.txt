@@ -668,7 +668,6 @@
 0.0.0.0 a.mailmunch.co
 0.0.0.0 a.newsadoo.com
 0.0.0.0 a.nytimes.com
-0.0.0.0 a.omappapi.com
 0.0.0.0 a.publir.com
 0.0.0.0 a.qiao024.com
 0.0.0.0 a.rltd.io
@@ -1203,6 +1202,7 @@
 0.0.0.0 ads2.msads.net
 0.0.0.0 ads2.web1tv.de
 0.0.0.0 ads360.cn
+0.0.0.0 adsappier.com
 0.0.0.0 adsbridge.com
 0.0.0.0 adscale.com
 0.0.0.0 adscaspion.appspot.com
@@ -1449,6 +1449,7 @@
 0.0.0.0 advertise-solution.nl
 0.0.0.0 advertising-api-eu.amazon.com
 0.0.0.0 advertising-module.api.dpgmedia.cloud
+0.0.0.0 advertising.a2z.com
 0.0.0.0 advertising.amazon.dev
 0.0.0.0 advertising.apple.com
 0.0.0.0 advertising.cn
@@ -2031,6 +2032,7 @@
 0.0.0.0 app-ab41.marketo.com
 0.0.0.0 app-ads-txt.com
 0.0.0.0 app-advertise.zhihuishu.com
+0.0.0.0 app-analytics-services-att.com
 0.0.0.0 app-cdn.minepi.com
 0.0.0.0 app-chatsworthweb-prod.azurewebsites.net
 0.0.0.0 app-digitalgate-prd-ol.azurewebsites.net
@@ -2227,6 +2229,7 @@
 0.0.0.0 askgamblers.com
 0.0.0.0 asksid.ai
 0.0.0.0 askyourself.app
+0.0.0.0 asnapieu.com
 0.0.0.0 asocks.com
 0.0.0.0 aspire.io
 0.0.0.0 assertcom.de
@@ -3060,7 +3063,6 @@
 0.0.0.0 bullseyenorth.com
 0.0.0.0 bunchbox.co
 0.0.0.0 bungie.net
-0.0.0.0 bunnings.com.au
 0.0.0.0 bunnycdn.ru
 0.0.0.0 bur.nu
 0.0.0.0 bureaulidwienvandeven.nl
@@ -3610,6 +3612,7 @@
 0.0.0.0 chat-assets.frontapp.com
 0.0.0.0 chat-insights.getstream.io
 0.0.0.0 chat-us.libanswers.com
+0.0.0.0 chat-widget.d3x.ai
 0.0.0.0 chat.covid19.go.id
 0.0.0.0 chat.ind.nl
 0.0.0.0 chat.kindlycdn.com
@@ -3849,7 +3852,6 @@
 0.0.0.0 cloudcone.com
 0.0.0.0 cloudflareresearch.com
 0.0.0.0 cloudfront.xp-assets.aiv-cdn.net
-0.0.0.0 cloudimg.io
 0.0.0.0 cloudiq.com
 0.0.0.0 cloudlogobox.com
 0.0.0.0 cloudly.space
@@ -5375,6 +5377,7 @@
 0.0.0.0 easyautotagging.com
 0.0.0.0 easybrain.com
 0.0.0.0 easygdpr.b-cdn.net
+0.0.0.0 easylockdownapp.com
 0.0.0.0 easyplatform.com
 0.0.0.0 easypromo.nz
 0.0.0.0 easypromosapp.com
@@ -5452,6 +5455,7 @@
 0.0.0.0 ej3.xyz
 0.0.0.0 ekata.com
 0.0.0.0 ekipa.mk
+0.0.0.0 ekomi.com
 0.0.0.0 ekomi.de
 0.0.0.0 ekomiapps.de
 0.0.0.0 eksiup.com
@@ -5545,6 +5549,7 @@
 0.0.0.0 en.yeahmobi.com
 0.0.0.0 en25.com
 0.0.0.0 enable.co.il
+0.0.0.0 enalyzer.com
 0.0.0.0 encharge.io
 0.0.0.0 encyclopaediabritann.tt.omtrdc.net
 0.0.0.0 end.nmo-ep.nl
@@ -5554,6 +5559,7 @@
 0.0.0.0 endpoint2.collection.sumologic.com
 0.0.0.0 enepal.net
 0.0.0.0 energetischhuis.nl
+0.0.0.0 energieprofimoegle.de
 0.0.0.0 energokst.kz
 0.0.0.0 energyarts.com
 0.0.0.0 energyhealingzone.com
@@ -5850,6 +5856,7 @@
 0.0.0.0 federatedmedia.net
 0.0.0.0 federatedml-pa.googleapis.com
 0.0.0.0 feed.baidu.com
+0.0.0.0 feedback-ekomi.com
 0.0.0.0 feedback-pa.clients6.google.com
 0.0.0.0 feedback-pa.googleapis.com
 0.0.0.0 feedback.bol.com
@@ -5949,6 +5956,7 @@
 0.0.0.0 fixthephoto.com
 0.0.0.0 flagship.io
 0.0.0.0 flareapp.io
+0.0.0.0 flash4kiptv.com
 0.0.0.0 flattr.com
 0.0.0.0 flexgirlz2000.com
 0.0.0.0 flexireg.net
@@ -6665,6 +6673,8 @@
 0.0.0.0 gtminet.net
 0.0.0.0 gtmniddocks.herokuapp.com
 0.0.0.0 gtmucs.cn
+0.0.0.0 gtranslate.io
+0.0.0.0 gtranslate.net
 0.0.0.0 guangzhuiyuan.com
 0.0.0.0 guenther.de
 0.0.0.0 guess.union2.50bang.org
@@ -7992,7 +8002,6 @@
 0.0.0.0 jungshim.org
 0.0.0.0 junubos.org
 0.0.0.0 jusha.com
-0.0.0.0 justanswer.com
 0.0.0.0 justdunnebaking.co.uk
 0.0.0.0 justflow.nl
 0.0.0.0 justtag.com
@@ -8160,6 +8169,7 @@
 0.0.0.0 kortinguitnodiging.nl
 0.0.0.0 kosmo-call.de
 0.0.0.0 kosmocall.de
+0.0.0.0 kosmosbv.nl
 0.0.0.0 kostenloseerotik.org
 0.0.0.0 kota-yoshida.com
 0.0.0.0 kparser.com
@@ -8182,6 +8192,7 @@
 0.0.0.0 ku9377.com
 0.0.0.0 kuaikan.netmon.360safe.com
 0.0.0.0 kubient.com
+0.0.0.0 kudobuzz.com
 0.0.0.0 kudosresearch.com
 0.0.0.0 kuguopush.com
 0.0.0.0 kuka.norobet.de
@@ -8247,6 +8258,7 @@
 0.0.0.0 lc.cx
 0.0.0.0 lcdn-locator.apple.com
 0.0.0.0 lcdn-registration.apple.com
+0.0.0.0 lcp.bio
 0.0.0.0 lcs.dev.surepush.cn
 0.0.0.0 ld.paddle.com
 0.0.0.0 ldf-df.com
@@ -8996,6 +9008,7 @@
 0.0.0.0 metricool.com
 0.0.0.0 metrics-collector.cloudability.com
 0.0.0.0 metrics-drcn.dt.hicloud.com
+0.0.0.0 metrics-ingress.svc.vinted.com
 0.0.0.0 metrics.agent.datadoghq.com
 0.0.0.0 metrics.data.hicloud.com
 0.0.0.0 metrics.dropwizard.io
@@ -9549,6 +9562,7 @@
 0.0.0.0 nitroapps.co
 0.0.0.0 niurenw.com
 0.0.0.0 nixos-metrics.cachix.org
+0.0.0.0 njdaisen.com
 0.0.0.0 njdijiani.com
 0.0.0.0 njfsk.com
 0.0.0.0 njlottery.com
@@ -9935,6 +9949,7 @@
 0.0.0.0 organizer.bizzabo.com
 0.0.0.0 oribi.io
 0.0.0.0 orion-natuurgeneeskunde.nl
+0.0.0.0 orion.bendingspoons.com
 0.0.0.0 orit-zilberman.com
 0.0.0.0 orjq.net
 0.0.0.0 orthofyto.com
@@ -10124,6 +10139,7 @@
 0.0.0.0 pay-per-leads.com
 0.0.0.0 pay.mobile.sina.cn
 0.0.0.0 pay838.com
+0.0.0.0 payment.rewards.brave.com
 0.0.0.0 payments.amazon.com
 0.0.0.0 paypalusa.me
 0.0.0.0 paywall.production.ippen.space
@@ -11095,6 +11111,7 @@
 0.0.0.0 retency.com
 0.0.0.0 retrainthebrain.org
 0.0.0.0 returngo.ai
+0.0.0.0 reunir.com
 0.0.0.0 rev.balkanmediagroup.com
 0.0.0.0 rev.fapdu.com
 0.0.0.0 revealads.appspot.com
@@ -11220,6 +11237,7 @@
 0.0.0.0 rover.ebay.nl
 0.0.0.0 rover.ebay.ph
 0.0.0.0 rover.ebay.pl
+0.0.0.0 rowzone.com
 0.0.0.0 royal-panda.ca
 0.0.0.0 royalcasino.dk
 0.0.0.0 roymartina.com
@@ -11504,6 +11522,7 @@
 0.0.0.0 sdkapp.uve.weibo.com
 0.0.0.0 sdkinit.taobao.com
 0.0.0.0 sdkintgiad.apple.com
+0.0.0.0 sdkopmetrics-eu.dsp-api.moloco.com
 0.0.0.0 sdlmedia.com
 0.0.0.0 sdn.kugou.com
 0.0.0.0 sdsp.ipinyou.com
@@ -11728,6 +11747,7 @@
 0.0.0.0 shopapps.in
 0.0.0.0 shopboard.ltd
 0.0.0.0 shopdirect.com
+0.0.0.0 shopicial.com
 0.0.0.0 shopify-gtm-suite.getelevar.com
 0.0.0.0 shopify.admetrics.events
 0.0.0.0 shopkick.com
@@ -12032,6 +12052,7 @@
 0.0.0.0 speegleconstructionllc.com
 0.0.0.0 sph.com.sg
 0.0.0.0 sphdigital.com
+0.0.0.0 spheremall.com
 0.0.0.0 spicegems.com
 0.0.0.0 spicymobile.pl
 0.0.0.0 spidersense.bendingspoons.com
@@ -12411,6 +12432,7 @@
 0.0.0.0 subscriptions.smartrecruiters.com
 0.0.0.0 subswin.com
 0.0.0.0 sucodb.com
+0.0.0.0 suggestions.bol.com
 0.0.0.0 suggestqueries.google.com
 0.0.0.0 suhasforvirginia.com
 0.0.0.0 sukigyik.xyz
@@ -12681,6 +12703,7 @@
 0.0.0.0 tcmclassics.org
 0.0.0.0 tcmworld.org
 0.0.0.0 tcommunity.linkedin.com
+0.0.0.0 td-pixel.c.appier.net
 0.0.0.0 td.com
 0.0.0.0 td.intelliresponse.com
 0.0.0.0 tdn.da-services.ch
@@ -12987,10 +13010,12 @@
 0.0.0.0 tracking.copernica.net
 0.0.0.0 tracking.dekbed-discounter.nl
 0.0.0.0 tracking.elektramat.nl
+0.0.0.0 tracking.eu.miui.com
 0.0.0.0 tracking.immobilienscout24.at
 0.0.0.0 tracking.lindner-group.com
 0.0.0.0 tracking.ov-chipkaart.nl
 0.0.0.0 tracking.printabout.nl
+0.0.0.0 tracking.smartwatchbanden.nl
 0.0.0.0 tracking.swap.fm
 0.0.0.0 tracking.vviinn.com
 0.0.0.0 tracking.ws-connex.de
@@ -13790,6 +13815,7 @@
 0.0.0.0 widgets.shopifyapps.com
 0.0.0.0 widgets.sprinklecontent.com
 0.0.0.0 widgets.wp.com
+0.0.0.0 widgetsmith.app
 0.0.0.0 widilo.co.uk
 0.0.0.0 wijkopenautos.nl
 0.0.0.0 wijwedden.net

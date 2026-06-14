@@ -25123,6 +25123,7 @@
 0.0.0.0 adimg.zdnet.com
 0.0.0.0 adimg1.chosun.net
 0.0.0.0 adimg3.search.naver.net
+0.0.0.0 adimise.com
 0.0.0.0 adimmix.com
 0.0.0.0 adimperia.com
 0.0.0.0 adimpression.net
@@ -35681,6 +35682,7 @@
 0.0.0.0 bestevernews.com
 0.0.0.0 bestevernews.net
 0.0.0.0 bestfindsite.com
+0.0.0.0 bestforexpartners.com
 0.0.0.0 bestforexplmdb.com
 0.0.0.0 bestfwdservice.com
 0.0.0.0 bestgame.directory
@@ -36252,6 +36254,7 @@
 0.0.0.0 birpidnl.com
 0.0.0.0 birslhmnnc.com
 0.0.0.0 birthdayexpress.speedera.net
+0.0.0.0 biskerando.com
 0.0.0.0 bist.ailsg.com
 0.0.0.0 bistr4.ru
 0.0.0.0 bistroduy.ru
@@ -37203,6 +37206,7 @@
 0.0.0.0 brattest3.2cnt.net
 0.0.0.0 brattest4.2cnt.net
 0.0.0.0 bratwurstsktrllgfj.download
+0.0.0.0 braun634.com
 0.0.0.0 bravads.g2afse.com
 0.0.0.0 bravenet-internet.t.domdex.com
 0.0.0.0 bravenet.com
@@ -49127,6 +49131,7 @@
 0.0.0.0 dh.uc.cn
 0.0.0.0 dh2xbuwg.com
 0.0.0.0 dh956.com
+0.0.0.0 dhads.net
 0.0.0.0 dhaomvok.com
 0.0.0.0 dhawk.parrable.com
 0.0.0.0 dhc.pxf.io
@@ -84075,6 +84080,7 @@
 0.0.0.0 portech315.net
 0.0.0.0 portfold.com
 0.0.0.0 portfolio.julianwilke.com
+0.0.0.0 portkingric.net
 0.0.0.0 portlandstate.qualtrics.com
 0.0.0.0 portraitphotographygroup.com
 0.0.0.0 portriverhotel.com
@@ -84568,6 +84574,7 @@
 0.0.0.0 pro-advertising.com
 0.0.0.0 pro-kc-sc-hybris-fo.cloudapp.net
 0.0.0.0 pro-pay.7eer.net
+0.0.0.0 pro-pro-go.com
 0.0.0.0 pro.buysellads.com
 0.0.0.0 pro.i-doctor.co.kr
 0.0.0.0 pro6e.com
@@ -84840,6 +84847,7 @@
 0.0.0.0 propvideo.net
 0.0.0.0 proranktracker.com
 0.0.0.0 proratepgehzyd.download
+0.0.0.0 prorentisol.com
 0.0.0.0 proroofers.info
 0.0.0.0 proserve-stag.urbanairship.com
 0.0.0.0 proserve.urbanairship.com
@@ -86129,6 +86137,7 @@
 0.0.0.0 qeivncvk.com
 0.0.0.0 qejed9qduj6ksohwglavh22q7fwxg1510276722.nuid.imrworldwide.com
 0.0.0.0 qekmxaimxkok.com
+0.0.0.0 qel-qel-fie.com
 0.0.0.0 qelbvlacy.com
 0.0.0.0 qeld.jmp9.com
 0.0.0.0 qelg44ki6t.mentalist.kameleoon.com
@@ -86602,6 +86611,7 @@
 0.0.0.0 queensuniversityguide.com
 0.0.0.0 queepofoffer.bid
 0.0.0.0 queerestxyxlws.download
+0.0.0.0 quensillo.com
 0.0.0.0 queronamoro.com
 0.0.0.0 query-0.gameanalytics.com
 0.0.0.0 query-1.gameanalytics.com
@@ -88383,6 +88393,7 @@
 0.0.0.0 rianovosti.d1.sc.omtrdc.net
 0.0.0.0 riaxuuidsnws.bid
 0.0.0.0 ribbon.india.com
+0.0.0.0 ric-ric-rum.com
 0.0.0.0 rich-agent.s3.amazonaws.com
 0.0.0.0 rich-media-dynamic-ads-api.l.doubleclick.net
 0.0.0.0 richard.ittest.33across.com
@@ -88486,6 +88497,7 @@
 0.0.0.0 riwdydttgbczku.com
 0.0.0.0 riwjpbpvkl.com
 0.0.0.0 rix1g.voluumtrk.com
+0.0.0.0 rixaka.com
 0.0.0.0 rixhkb6xw6ssiutu5ll3pwf0eyzbc1510264071.nuid.imrworldwide.com
 0.0.0.0 rixpjpjl.com
 0.0.0.0 rixxvqexdlgrl.com
@@ -90452,6 +90464,7 @@
 0.0.0.0 samsungthailand.demdex.net
 0.0.0.0 samsungus.btttag.com
 0.0.0.0 samtrack1.com
+0.0.0.0 samvinva.info
 0.0.0.0 san.casalemedia.com
 0.0.0.0 san.coremetrics.com
 0.0.0.0 san.fyber.com
@@ -90596,6 +90609,7 @@
 0.0.0.0 sb8ra.voluumtrk.com
 0.0.0.0 sbardlhk.com
 0.0.0.0 sbcglobal.net
+0.0.0.0 sbcpower.com
 0.0.0.0 sbdedksgqu.com
 0.0.0.0 sbdhealth.go2cloud.org
 0.0.0.0 sbdufkkcp.bid
@@ -93060,6 +93074,7 @@
 0.0.0.0 slidedeck.ojrq.net
 0.0.0.0 slient.ucdl.pp.uc.cn
 0.0.0.0 slightlyoffcenter.net
+0.0.0.0 slikslik.com
 0.0.0.0 slimgipnoz.ru
 0.0.0.0 slimtrade.com
 0.0.0.0 slimxxxtubeacn.dnset.com
@@ -93292,6 +93307,7 @@
 0.0.0.0 smiinformer1.com
 0.0.0.0 smile.7eer.net
 0.0.0.0 smilepop.com
+0.0.0.0 smileycentral.com
 0.0.0.0 smilingsock.com
 0.0.0.0 smilingwaves.com
 0.0.0.0 smilyes4u.com
@@ -93594,6 +93610,7 @@
 0.0.0.0 soka-adserver.c1exchange.com
 0.0.0.0 soka.co1.qualtrics.com
 0.0.0.0 sokanffuyinr.com
+0.0.0.0 sokitosa.com
 0.0.0.0 sokminden.info
 0.0.0.0 soknm.com
 0.0.0.0 soko.ai
@@ -93602,6 +93619,8 @@
 0.0.0.0 sol2.iberdrola.com
 0.0.0.0 sol21.casino
 0.0.0.0 solanog.com
+0.0.0.0 solapoka.com
+0.0.0.0 solarmosa.com
 0.0.0.0 solarwindsworldwidellc.demdex.net
 0.0.0.0 solarworld01.webtrekk.net
 0.0.0.0 soldi.msn.it
@@ -93689,6 +93708,7 @@
 0.0.0.0 soodatmish.com
 0.0.0.0 soogiedsoafm.download
 0.0.0.0 soosidsiofd.pw
+0.0.0.0 soosooka.com
 0.0.0.0 soothsitlppfwm.download
 0.0.0.0 soozbqtavp.com
 0.0.0.0 sophi.io
@@ -93957,6 +93977,7 @@
 0.0.0.0 sponsoredlinks.nationalgeographic.com
 0.0.0.0 sponsoredtweets.com
 0.0.0.0 sponsorexpress.de
+0.0.0.0 sponsormob.com
 0.0.0.0 sponsorpalace.com
 0.0.0.0 sponsorpool.net
 0.0.0.0 sponsors.s2ki.com
@@ -94160,6 +94181,7 @@
 0.0.0.0 srf.wemfbox.ch
 0.0.0.0 srfahyucqytfcdtmkcnexih3sllph1511354112.nuid.imrworldwide.com
 0.0.0.0 srfizvugkheq.com
+0.0.0.0 srgev.com
 0.0.0.0 srgszwexkpehb.com
 0.0.0.0 srhovuokux.com
 0.0.0.0 sri.co1.qualtrics.com
@@ -97513,6 +97535,7 @@
 0.0.0.0 tacastas.com
 0.0.0.0 tacchisexy.com
 0.0.0.0 tackledoyuzsfx.download
+0.0.0.0 tacrater.com
 0.0.0.0 tacticalrepublic-d.openx.net
 0.0.0.0 tactics.ojrq.net
 0.0.0.0 tadaeizih.com
@@ -99269,6 +99292,7 @@
 0.0.0.0 tlnrlrsquvcx.bid
 0.0.0.0 tlnwnphf.bid
 0.0.0.0 tlog.hiido.com
+0.0.0.0 tlootas.org
 0.0.0.0 tlp-01.kameleoon.com
 0.0.0.0 tlp-02.kameleoon.com
 0.0.0.0 tlp-03.kameleoon.com
@@ -100337,7 +100361,6 @@
 0.0.0.0 track.shemalefuckingmachines.com
 0.0.0.0 track.shemalescenes.com
 0.0.0.0 track.sheshuge.com
-0.0.0.0 track.shiksha.com
 0.0.0.0 track.shockingcocks.com
 0.0.0.0 track.siennawest.com
 0.0.0.0 track.sigfig.com
@@ -101261,6 +101284,7 @@
 0.0.0.0 trends.taboola.com
 0.0.0.0 trends.vdo.ai
 0.0.0.0 trenews.ru
+0.0.0.0 trenpyle.com
 0.0.0.0 trentu.qualtrics.com
 0.0.0.0 trepit.pro
 0.0.0.0 tresalacarta.2cnt.net
@@ -101480,6 +101504,7 @@
 0.0.0.0 trocado.top
 0.0.0.0 trocado.vip
 0.0.0.0 trollzeweb.com
+0.0.0.0 trombocrack.com
 0.0.0.0 tromen.ru
 0.0.0.0 trongi.info
 0.0.0.0 troopersiccy.bravejournal.com
@@ -103345,6 +103370,7 @@
 0.0.0.0 unmdrnuzgel.com
 0.0.0.0 unmhxfutdmxcdw.com
 0.0.0.0 unmisinterpretable.club
+0.0.0.0 unoblotto.net
 0.0.0.0 unolis.ru
 0.0.0.0 unpacifiedeaecmq.download
 0.0.0.0 unpaid-20.btrll.com
@@ -109221,6 +109247,7 @@
 0.0.0.0 viokan.xvhod.ru
 0.0.0.0 vip-p0rtal.services
 0.0.0.0 vip-silpada-com.ct.impactradius.com
+0.0.0.0 vip-vip-vup.com
 0.0.0.0 vip.evyy.net
 0.0.0.0 vip3.adcash.com
 0.0.0.0 vip32-t.mookie1.com
@@ -110910,6 +110937,7 @@
 0.0.0.0 wedtor.com
 0.0.0.0 wedwcmjo.com
 0.0.0.0 weecia.7173.clicksurecpa.com
+0.0.0.0 weedazou.net
 0.0.0.0 weedoit.fr
 0.0.0.0 week.mediacache.clickability.com
 0.0.0.0 weeklyprizewinner.com-net.info
@@ -112896,6 +112924,8 @@
 0.0.0.0 xegvnhpwytev.com
 0.0.0.0 xeirmdgphdl.com
 0.0.0.0 xeiwcnwmlv.com
+0.0.0.0 xel-xel-fie.com
+0.0.0.0 xelllwrite.com
 0.0.0.0 xellvrgouivty.com
 0.0.0.0 xeminer.net
 0.0.0.0 xenafiter.000webhostapp.com
@@ -114531,6 +114561,7 @@
 0.0.0.0 yunyi.talk.igexin.com
 0.0.0.0 yupcqrxdg.com
 0.0.0.0 yupfiles.club
+0.0.0.0 yupfiles.net
 0.0.0.0 yupfiles.org
 0.0.0.0 yupiromo.ru
 0.0.0.0 yuppy.2cnt.net
@@ -114688,7 +114719,6 @@
 0.0.0.0 z.adcpm.com
 0.0.0.0 z.applovin.com
 0.0.0.0 z.cdn.adbetnet.com
-0.0.0.0 z.cdn.braun634.com
 0.0.0.0 z.ceotrk.com
 0.0.0.0 z.cnzz.com
 0.0.0.0 z.exoclick.com
@@ -115068,6 +115098,8 @@
 0.0.0.0 zeight.offerstrack.net
 0.0.0.0 zeit02.webtrekk.net
 0.0.0.0 zeitonl.ivwbox.de
+0.0.0.0 zel-zel-fie.com
+0.0.0.0 zelllwrite.com
 0.0.0.0 zelxtujtigbx.com
 0.0.0.0 zemeho.adswizz.com
 0.0.0.0 zemoumisfortune.review
@@ -115081,6 +115113,7 @@
 0.0.0.0 zenhppyad.com
 0.0.0.0 zenimaxmedia.d1.sc.omtrdc.net
 0.0.0.0 zenithperformance.go2cloud.org
+0.0.0.0 zenkreka.com
 0.0.0.0 zenlivestats.com
 0.0.0.0 zenmine.pro
 0.0.0.0 zenmxapps.com
@@ -115455,6 +115488,7 @@
 0.0.0.0 zo1.sierra-boa.com
 0.0.0.0 zoacaups.net
 0.0.0.0 zoafoaho.net
+0.0.0.0 zoagremo.net
 0.0.0.0 zobsibzczd.com
 0.0.0.0 zodiak-d.openx.net
 0.0.0.0 zodorxfj.bid

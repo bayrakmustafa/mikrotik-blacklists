@@ -16,7 +16,6 @@
 0.0.0.0 aksamreklami.net
 0.0.0.0 aksamvaktireklam.com
 0.0.0.0 aksamvaktimreklamsx.net
-0.0.0.0 allaboutsymbian.uk.intellitxt.com
 0.0.0.0 amareklamizm.ml
 0.0.0.0 amareklamizm.gq
 0.0.0.0 amazonaax.com
@@ -46,7 +45,6 @@
 0.0.0.0 config-api.internet.apps.samsung.com
 0.0.0.0 core-waw-1.wildcard.dns.army
 0.0.0.0 csm.nl3.eu.criteo.net
-0.0.0.0 d3c.life
 0.0.0.0 d692b70a4e.a6dc99d1a8.com
 0.0.0.0 d899faa8b1.79b1c4498b.com
 0.0.0.0 da37c08c29.36b7ca5028.com
@@ -144,7 +142,6 @@
 0.0.0.0 sahibindenalisveris-trparanguvende-mobildepartmani.com
 0.0.0.0 sap-traffic.com
 0.0.0.0 sbhreklamvakti.net
-0.0.0.0 sdki.truepush.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 showbet205.com
 0.0.0.0 snssdk1340.onelink.me

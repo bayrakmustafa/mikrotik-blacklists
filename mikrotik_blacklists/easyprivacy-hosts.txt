@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 05JUN26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 12JUN26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -36,7 +36,6 @@
 0.0.0.0 19035955.loyalty.tajawal.com
 0.0.0.0 19035955.mktg.tajawal.com
 0.0.0.0 1bliq.io
-0.0.0.0 1cros.net
 0.0.0.0 1e90.pandasuite.io
 0.0.0.0 1.ftb.al
 0.0.0.0 1hb4jkt1u2d.probemas.com
@@ -67,7 +66,6 @@
 0.0.0.0 3plworldwide.actonservice.com
 0.0.0.0 3skickasurf.tre.se
 0.0.0.0 40caidaylimpia.catzolab.net
-0.0.0.0 4251.tech
 0.0.0.0 4399stat.5054399.com
 0.0.0.0 46rtpw.ru
 0.0.0.0 492733704185584515.academyforconsciousculture.com
@@ -2517,7 +2515,6 @@
 0.0.0.0 aarpgfi.newyorklife.com
 0.0.0.0 aarpgli.newyorklife.com
 0.0.0.0 a.audi.fr
-0.0.0.0 aaxwall.com
 0.0.0.0 aa.zdnet.com
 0.0.0.0 aazfby.auto.de
 0.0.0.0 abastur.ubmmexico.com
@@ -2890,7 +2887,6 @@
 0.0.0.0 al.mtrxs.dev
 0.0.0.0 al.mtrx.travel
 0.0.0.0 alp1.drimki.fr
-0.0.0.0 alpha1trk.com
 0.0.0.0 alpha.go.levelbank.com
 0.0.0.0 alphasimplex.actonservice.com
 0.0.0.0 alquiler.aldflex.es
@@ -4376,7 +4372,6 @@
 0.0.0.0 carte.fleet-page.total.fr
 0.0.0.0 cartoon.hardalist.com
 0.0.0.0 cats.d20.rs
-0.0.0.0 catsunrunjam.com
 0.0.0.0 cattell.loanzify.app
 0.0.0.0 c.autozen.tv
 0.0.0.0 cbc.pnc.com
@@ -5035,7 +5030,6 @@
 0.0.0.0 data.notificaciones.ficohsa.com
 0.0.0.0 data.notification.servicenow.com
 0.0.0.0 data.nrk.no
-0.0.0.0 dataofpages.com
 0.0.0.0 data.openerotik.com
 0.0.0.0 data.orders.costco.com
 0.0.0.0 data.ouigo.com
@@ -5116,7 +5110,6 @@
 0.0.0.0 ddm.frandroid.com
 0.0.0.0 ddnahc.mesbagages.com
 0.0.0.0 ddome-tag.blablacar.com
-0.0.0.0 dd.qwant.com
 0.0.0.0 ddqwdh.sofastyle.jp
 0.0.0.0 dd.seloger-bureaux-commerces.com
 0.0.0.0 dd.seloger.com
@@ -5798,7 +5791,6 @@
 0.0.0.0 emails.investigationdiscovery.com
 0.0.0.0 email-smartech.branch.rocks
 0.0.0.0 emails.motortrend.com
-0.0.0.0 emailsnow.info
 0.0.0.0 email.social.avasecurity.com
 0.0.0.0 email.social.f5.com
 0.0.0.0 email.social.qualtrics.com
@@ -7043,7 +7035,6 @@
 0.0.0.0 hzzyhl.jobs.ch
 0.0.0.0 i218435.net
 0.0.0.0 ia84berzxy7v.de.themoneytizer.com
-0.0.0.0 ia-dmp.com
 0.0.0.0 ia.ekstrabladet.dk
 0.0.0.0 i.airtel.in
 0.0.0.0 iam-rum-intake.datadoghq.com
@@ -7614,7 +7605,6 @@
 0.0.0.0 j2i0.mathon.fr
 0.0.0.0 jagransolutions.com.actonservice.com
 0.0.0.0 jambwe.transsibinfo.com
-0.0.0.0 jams.wiki
 0.0.0.0 japan.secureforms.partnermcafee.com
 0.0.0.0 javs.actonservice.com
 0.0.0.0 jc917x3.adaptive.marketing
@@ -7763,7 +7753,6 @@
 0.0.0.0 koowiu.obchod-vtp.cz
 0.0.0.0 kotopoulathanasis.openapp.link
 0.0.0.0 kpfvaq.schuhe.de
-0.0.0.0 k.qwant.com
 0.0.0.0 kratosdefense.actonservice.com
 0.0.0.0 krgoad.mauboussin.fr
 0.0.0.0 kristechwire.actonservice.com
@@ -8589,7 +8578,6 @@
 0.0.0.0 links.thedyrt.com
 0.0.0.0 links.theinfatuation.com
 0.0.0.0 links.thephoenix.org
-0.0.0.0 links.thriveglobal.com
 0.0.0.0 link.stickybeak.co
 0.0.0.0 links.tlc.com
 0.0.0.0 link.stockalarm.io
@@ -9838,7 +9826,6 @@
 0.0.0.0 mini-site.larksuite-marketing.com
 0.0.0.0 minstats.xyz
 0.0.0.0 m.ioicommunity.com.my
-0.0.0.0 mircheigeshoa.com
 0.0.0.0 mirec.ubmmexico.com
 0.0.0.0 m.irl.com
 0.0.0.0 m.irlmail.org
@@ -9926,7 +9913,6 @@
 0.0.0.0 moreinfo.onnowdigital.com
 0.0.0.0 morganfranklin.actonservice.com
 0.0.0.0 m.origin.com.au
-0.0.0.0 mors22.com
 0.0.0.0 mortgage.equifax.com
 0.0.0.0 motista.actonservice.com
 0.0.0.0 motu-teamblue.services
@@ -10751,7 +10737,6 @@
 0.0.0.0 purpletalk.actonservice.com
 0.0.0.0 pushmaster-cdn.xyz
 0.0.0.0 pushspring.actonservice.com
-0.0.0.0 pushvisit.xyz
 0.0.0.0 putphc.zuhre.com.tr
 0.0.0.0 puzzle.spiriteq.com
 0.0.0.0 pv.ltn.com.tw
@@ -10832,7 +10817,6 @@
 0.0.0.0 qzqfud.casamineira.com.br
 0.0.0.0 r.3hentai.net
 0.0.0.0 r42tag.com
-0.0.0.0 raac33.net
 0.0.0.0 rabbit.donald.cat
 0.0.0.0 racemanager-app.sapsailing.com
 0.0.0.0 radar.imgsmail.ru
@@ -11226,6 +11210,7 @@
 0.0.0.0 sealingdev.actonservice.com
 0.0.0.0 seamarketny.actonservice.com
 0.0.0.0 search.anonymous.ads.brave.com
+0.0.0.0 seaskypro.com
 0.0.0.0 seb.sharpmarketing.eu
 0.0.0.0 secmetrics.friendscout24.it
 0.0.0.0 secmetrics.rakuten-checkout.de
@@ -12528,7 +12513,6 @@
 0.0.0.0 staging-link.docyt.com
 0.0.0.0 staging.link.findeck.de
 0.0.0.0 staging-link.kol.store
-0.0.0.0 staging-links.thriveglobal.com
 0.0.0.0 staging.narrateapp.com
 0.0.0.0 staging-refer.rooam.co
 0.0.0.0 staging.refer.wagr.us
@@ -12567,7 +12551,6 @@
 0.0.0.0 stat.caijing.com.cn
 0.0.0.0 stat.funshion.net
 0.0.0.0 statistic2.reichelt.de
-0.0.0.0 statisticplatform.com
 0.0.0.0 statistic.qzone.qq.com
 0.0.0.0 statistics.csob.cz
 0.0.0.0 statistics.darkreader.app
@@ -12699,6 +12682,7 @@
 0.0.0.0 stats.nddmed.com
 0.0.0.0 stats.newsweek.com
 0.0.0.0 stats.nhk.or.jp
+0.0.0.0 stats.nkkk.de
 0.0.0.0 stats.nortonhealthcare.com
 0.0.0.0 stats.nothingbutnylon.com
 0.0.0.0 stats.nyteknik.se
@@ -12786,6 +12770,7 @@
 0.0.0.0 stats.vacationclub.com
 0.0.0.0 stats.vanityprojects.com
 0.0.0.0 stats.vattenfall.nl
+0.0.0.0 stats.velarium.cc
 0.0.0.0 stats.vidbinge.com
 0.0.0.0 stats.videasy.net
 0.0.0.0 stats.wachstum.at
@@ -13147,7 +13132,6 @@
 0.0.0.0 test.swa.info
 0.0.0.0 test.thei.co
 0.0.0.0 test.thomsonreuters.com
-0.0.0.0 test.vast
 0.0.0.0 t.factorform.com
 0.0.0.0 t.freelancer.com
 0.0.0.0 tfunqc.domonet.jp
@@ -13634,7 +13618,6 @@
 0.0.0.0 track.roomster.com
 0.0.0.0 track.rundschau-online.de
 0.0.0.0 trackr.vivenu.com
-0.0.0.0 track-selectmedia.com
 0.0.0.0 track.shop.atleticodemadrid.com
 0.0.0.0 track.sodapdf.com
 0.0.0.0 track.spothero.com
@@ -13659,7 +13642,6 @@
 0.0.0.0 trail.thomsonreuters.com.hk
 0.0.0.0 trail.thomsonreuters.com.my
 0.0.0.0 training.thunderhead.com
-0.0.0.0 trakle01.online
 0.0.0.0 tr.alex.espmp-agfr.net
 0.0.0.0 tr.allopneus.com
 0.0.0.0 tr.animations.alticemedia.com
@@ -14169,6 +14151,7 @@
 0.0.0.0 ucmetrics.unicreditgroup.eu
 0.0.0.0 ucmetrics.unicredit.it
 0.0.0.0 udblog.huya.com
+0.0.0.0 ud.galaxus.ch
 0.0.0.0 ud.galaxus.de
 0.0.0.0 udr9.livera.nl
 0.0.0.0 udr.uol.com.br
@@ -14196,7 +14179,6 @@
 0.0.0.0 ulutlv.esprit.fr
 0.0.0.0 umami.dev
 0.0.0.0 umami.flixer.su
-0.0.0.0 umami.vidfast.pro
 0.0.0.0 umami.wakarimasen.moe
 0.0.0.0 um.contentstudio.io
 0.0.0.0 umiaob.kireibiz.jp

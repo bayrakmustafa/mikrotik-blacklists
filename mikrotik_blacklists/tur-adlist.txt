@@ -33,7 +33,6 @@
 0.0.0.0 aj2373.online
 0.0.0.0 ajansblue.net
 0.0.0.0 analytic.turkiyefinans.com.tr
-0.0.0.0 api.data.ciceksepeti.com
 0.0.0.0 api.opencandy.com
 0.0.0.0 api.recommendedsw.com
 0.0.0.0 api.rubic.com.tr
@@ -79,7 +78,6 @@
 0.0.0.0 kralseo.info
 0.0.0.0 krmwbimfpndwui.top
 0.0.0.0 launchingonsetwhirlwind.com
-0.0.0.0 lightning.boomerangtv.com.tr
 0.0.0.0 log.newsbreak.com.tr
 0.0.0.0 logger-07.vty.dailymotion.com
 0.0.0.0 logger-08.vty.dailymotion.com
@@ -114,19 +112,16 @@
 0.0.0.0 rebrand.ly
 0.0.0.0 ref.gitadres.com
 0.0.0.0 regadsgx.com
-0.0.0.0 rek2.tascatlasa.com
 0.0.0.0 reklamint.com
 0.0.0.0 reklamsoft.com
 0.0.0.0 rp.yefeneri2.com
 0.0.0.0 rs.chip.com.tr
 0.0.0.0 s.adklik.com.tr
-0.0.0.0 sanalytics.boomerangtv.com.tr
 0.0.0.0 searchanalytics.turkcell.com.tr
 0.0.0.0 slhgfdsir.com
 0.0.0.0 smrtbnr.club
 0.0.0.0 smrtbnr.info
 0.0.0.0 smrtcdn.club
-0.0.0.0 softreklam.com
 0.0.0.0 stats.acunn.com
 0.0.0.0 stats.posta.com.tr
 0.0.0.0 stats.yenicaggazetesi.com.tr

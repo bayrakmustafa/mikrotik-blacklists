@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 07 Jun 2026 08:02 UTC
-# Version: 2026.0607.0802.01
+# Last modified: 14 Jun 2026 07:31 UTC
+# Version: 2026.0614.0731.35
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3854
+# Number of entries: 3892
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -20,6 +20,7 @@
 0.0.0.0 adblock.0815cloud.de
 0.0.0.0 passwordsafe.0815cloud.de
 0.0.0.0 wlan.0815cloud.de
+0.0.0.0 cdn.0ms.dev
 0.0.0.0 dns.0ooo.icu
 0.0.0.0 1.0rz.space
 0.0.0.0 2.0rz.space
@@ -244,6 +245,7 @@
 0.0.0.0 dns.aicreate360.com
 0.0.0.0 aicx99.shop
 0.0.0.0 adb.aiec.vn
+0.0.0.0 aihe.app
 0.0.0.0 doh.aipps.vip
 0.0.0.0 dns.airmaxcloud.uk
 0.0.0.0 dns.airns.net
@@ -324,11 +326,14 @@
 0.0.0.0 ag.apollohct.com
 0.0.0.0 ds.appl.pk
 0.0.0.0 doh.dns.apple.com
+0.0.0.0 mask-api.fe.apple-dns.net
 0.0.0.0 dns.applewebkit.dev
 0.0.0.0 doh.applied-privacy.net
 0.0.0.0 dot1.applied-privacy.net
 0.0.0.0 dot1.appliedprivacy.net
 0.0.0.0 dns.aquilenet.fr
+0.0.0.0 dns.arapurayil.com
+0.0.0.0 2.dnscrypt-cert.dns.arapurayil.com
 0.0.0.0 arashi.solutions
 0.0.0.0 adguard.arashi.solutions
 0.0.0.0 invidious.arashi.solutions
@@ -494,6 +499,7 @@
 0.0.0.0 dns4.bortus.io
 0.0.0.0 doh.bortzmeyer.fr
 0.0.0.0 cloudns.bosco.ovh
+0.0.0.0 botclassic.com
 0.0.0.0 dns.bovat.net
 0.0.0.0 adguard.boykevanvugt.nl
 0.0.0.0 adguard2.boykevanvugt.nl
@@ -1229,6 +1235,7 @@
 0.0.0.0 de-ber.doh.sb
 0.0.0.0 de-dus.doh.sb
 0.0.0.0 de-fra.doh.sb
+0.0.0.0 dns.doh.best
 0.0.0.0 ee-tll.doh.sb
 0.0.0.0 eu.doh.sb
 0.0.0.0 europe.doh.sb
@@ -1289,6 +1296,7 @@
 0.0.0.0 yukito.duanzx.top
 0.0.0.0 adfreemb.duckdns.org
 0.0.0.0 adgrm.duckdns.org
+0.0.0.0 adguardcalpena.duckdns.org
 0.0.0.0 andryk111.duckdns.org
 0.0.0.0 andrykarcew.duckdns.org
 0.0.0.0 armm.duckdns.org
@@ -1331,6 +1339,7 @@
 0.0.0.0 rexdns.duckdns.org
 0.0.0.0 sabeendns.duckdns.org
 0.0.0.0 salvadoserver.duckdns.org
+0.0.0.0 site-2.duckdns.org
 0.0.0.0 site-3.duckdns.org
 0.0.0.0 soporte-premium.duckdns.org
 0.0.0.0 surviil.duckdns.org
@@ -1351,14 +1360,20 @@
 0.0.0.0 duyyen.tk
 0.0.0.0 dvgarm.com
 0.0.0.0 atlantic.dyn1.de
+0.0.0.0 dns.dyn1.de
 0.0.0.0 akhilkalwakurthy.dyndns.org
 0.0.0.0 ueni.dyndns.org
 0.0.0.0 roucious.dyndns-remote.com
+0.0.0.0 resolver1.dyndnsinternetguide.com
+0.0.0.0 resolver2.dyndnsinternetguide.com
 0.0.0.0 rafi.dynns.com
 0.0.0.0 ccadguard.dynu.net
 0.0.0.0 adguard.ekhozie.dynu.net
 0.0.0.0 flyloadguard.dynu.net
 0.0.0.0 quangdo92.dynu.net
+0.0.0.0 saomai.dynu.com
+0.0.0.0 gustamadh.dynv6.net
+0.0.0.0 dns.dynx.pro
 0.0.0.0 adg.dz.ax
 0.0.0.0 az.dz4fun.top
 0.0.0.0 dns.dzkji.cn
@@ -1439,6 +1454,8 @@
 0.0.0.0 clic.eu.org
 0.0.0.0 resolver.dns.eban.eu.org
 0.0.0.0 doh.excdn.eu.org
+0.0.0.0 dns.de.futuredns.eu.org
+0.0.0.0 dns.us.futuredns.eu.org
 0.0.0.0 doh.greenwood.eu.org
 0.0.0.0 sweethome.in.eu.org
 0.0.0.0 kaiser.int.eu.org
@@ -1704,6 +1721,7 @@
 0.0.0.0 dns.hannielzhang.com
 0.0.0.0 jp.hannielzhang.com
 0.0.0.0 d.hansj.cc
+0.0.0.0 dns.haoxuan.xyz
 0.0.0.0 resolver.haringstad.com
 0.0.0.0 resolver-eu.haringstad.com
 0.0.0.0 adguard.hartley.cloud
@@ -1906,6 +1924,7 @@
 0.0.0.0 public.dns.iij.jp
 0.0.0.0 ikarosalpha.xyz
 0.0.0.0 dns.ikataruto.com
+0.0.0.0 mnsvless.ikwb.com
 0.0.0.0 ilinhy.com
 0.0.0.0 dns.imaicool.com
 0.0.0.0 noads.imbuffering.com
@@ -2268,6 +2287,7 @@
 0.0.0.0 mastergad.me
 0.0.0.0 masters-of-cloud.de
 0.0.0.0 dns.mateo.ovh
+0.0.0.0 dns.mathewakhil.online
 0.0.0.0 rasp.matthias-iwer.de
 0.0.0.0 dns.matthias-prost.com
 0.0.0.0 maxfong.cc
@@ -2323,6 +2343,7 @@
 0.0.0.0 dns.millernetwork.uk
 0.0.0.0 aitkcrev.minhduc.pw
 0.0.0.0 minilla.store
+0.0.0.0 dns.mipauns.com
 0.0.0.0 guard.miracloud.fr
 0.0.0.0 netcup.mismat.ch
 0.0.0.0 mistasinresolver.ru
@@ -2399,6 +2420,7 @@
 0.0.0.0 dns.velyn.my.id
 0.0.0.0 dns.vmath.my.id
 0.0.0.0 zapranet.my.id
+0.0.0.0 vds2380673.my-ihor.ru
 0.0.0.0 filter.myaddr.io
 0.0.0.0 myadg.ru
 0.0.0.0 as6604t-04.myasustor.com
@@ -2431,6 +2453,7 @@
 0.0.0.0 fwgw.orangepipc.mywire.org
 0.0.0.0 dns.mzjtechnology.com
 0.0.0.0 dns.mzrme.cn
+0.0.0.0 n0.eu
 0.0.0.0 pdns1.n00b.fr
 0.0.0.0 dns.n23.io
 0.0.0.0 n8nmegapixar.online
@@ -2603,6 +2626,7 @@
 0.0.0.0 dns.npe.bz
 0.0.0.0 adguard.npglocal.com
 0.0.0.0 ns.cd
+0.0.0.0 xpen.ns01.info
 0.0.0.0 x.ns1net.com
 0.0.0.0 ns3.com
 0.0.0.0 dnscache0.ns71.net
@@ -2689,6 +2713,7 @@
 0.0.0.0 dns.osmenoga.com
 0.0.0.0 wireguard.osmenoga.com
 0.0.0.0 dns.ostfriese.org
+0.0.0.0 dns.oszx.co
 0.0.0.0 adguard.ota.moe
 0.0.0.0 adguard2.ota.moe
 0.0.0.0 adguard3.ota.moe
@@ -2745,6 +2770,17 @@
 0.0.0.0 philqoo.com
 0.0.0.0 dns.philqoo.com
 0.0.0.0 phongg.vn
+0.0.0.0 doh.centraleu.pi-dns.com
+0.0.0.0 dot.centraleu.pi-dns.com
+0.0.0.0 doh.pi-dns.com
+0.0.0.0 doh.eastas.pi-dns.com
+0.0.0.0 dot.eastas.pi-dns.com
+0.0.0.0 doh.eastau.pi-dns.com
+0.0.0.0 dot.eastau.pi-dns.com
+0.0.0.0 doh.eastus.pi-dns.com
+0.0.0.0 doh.northeu.pi-dns.com
+0.0.0.0 dot.northeu.pi-dns.com
+0.0.0.0 doh.westeu.pi-dns.com
 0.0.0.0 adguard.piekacz.pl
 0.0.0.0 dns.pierzchlewicz.pl
 0.0.0.0 dns.pieterdherde.com
@@ -2874,6 +2910,7 @@
 0.0.0.0 2.dnscrypt-cert.quad9.net
 0.0.0.0 dns.quanhd.net
 0.0.0.0 quantumpulse.dev
+0.0.0.0 quic.lol
 0.0.0.0 dns.quickline.ch
 0.0.0.0 doh.quickline.ch
 0.0.0.0 dot.quickline.ch
@@ -3440,6 +3477,9 @@
 0.0.0.0 killads.vpms.xyz
 0.0.0.0 vpnhellings.nl
 0.0.0.0 dns.vps.pw
+0.0.0.0 vuivn.site
+0.0.0.0 ns1.vuivn.site
+0.0.0.0 ns2.vuivn.site
 0.0.0.0 45.32.17.58.vultrusercontent.com
 0.0.0.0 solution.w10.life
 0.0.0.0 dns.w3ctag.org

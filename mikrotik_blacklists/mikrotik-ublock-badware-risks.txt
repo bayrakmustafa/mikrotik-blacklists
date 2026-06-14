@@ -112,7 +112,6 @@
 0.0.0.0 nhantienquocte*.vercel.app
 0.0.0.0 westernunion*.wixsite.com
 0.0.0.0 marketplace-item-*.000.pe
-0.0.0.0 iqpoll.cn
 0.0.0.0 electrum.is
 0.0.0.0 ajmaboxanherulv*.b-cdn.net
 0.0.0.0 anti-automation-v*.b-cdn.net
@@ -147,14 +146,12 @@
 0.0.0.0 kodiak-finance.org
 0.0.0.0 us-ledger.io
 0.0.0.0 en-bitcoin.org
-0.0.0.0 applynow-jobs.com
 0.0.0.0 charliechaplin7eont.space
 0.0.0.0 stellar-blade.click
 0.0.0.0 ncewb8eo.cloud
 0.0.0.0 z-lib.ai
 0.0.0.0 z-library.cc
 0.0.0.0 oficial-kmspico.com
-0.0.0.0 profullversion.net
 0.0.0.0 hltvorg.com
 0.0.0.0 phila.revenue*.cc
 0.0.0.0 guardan.io

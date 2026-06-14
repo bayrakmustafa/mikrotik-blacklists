@@ -1003,7 +1003,6 @@
 0.0.0.0 ekomi-us.com
 0.0.0.0 ekomi.asia
 0.0.0.0 ekomi.biz
-0.0.0.0 ekomi.com
 0.0.0.0 ekomi.fr
 0.0.0.0 ekomi.info
 0.0.0.0 ekomi.mobi

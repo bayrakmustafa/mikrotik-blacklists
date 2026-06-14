@@ -2,7 +2,7 @@
 #    File: Chat
 #    Info: Chat Dialog Boxes
 # Domains: 503
-# Updated: 6/4/2026  00:19 (12:19 AM CST)
+# Updated: 6/8/2026  19:46 (7:46 PM CST)
 #
 0.0.0.0 1talking.net
 0.0.0.0 accpi.org
