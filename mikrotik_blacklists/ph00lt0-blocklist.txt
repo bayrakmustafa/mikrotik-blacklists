@@ -246,6 +246,7 @@
 0.0.0.0 24go.co
 0.0.0.0 24hstatic.com
 0.0.0.0 24i.com
+0.0.0.0 24log.fr
 0.0.0.0 24media.gr
 0.0.0.0 24sata.hr
 0.0.0.0 24sata.tech
@@ -482,6 +483,7 @@
 0.0.0.0 57union.com
 0.0.0.0 58.com
 0.0.0.0 58dp.net
+0.0.0.0 5aug.com
 0.0.0.0 5bir.xyz
 0.0.0.0 5d3x.net
 0.0.0.0 5d79bce7-5d2b-427e-a6c4-b89b6c7bf048.edge.permutive.app
@@ -8002,6 +8004,7 @@
 0.0.0.0 jungshim.org
 0.0.0.0 junubos.org
 0.0.0.0 jusha.com
+0.0.0.0 justanswer.com
 0.0.0.0 justdunnebaking.co.uk
 0.0.0.0 justflow.nl
 0.0.0.0 justtag.com

@@ -36,11 +36,13 @@
 0.0.0.0 api.opencandy.com
 0.0.0.0 api.recommendedsw.com
 0.0.0.0 api.rubic.com.tr
+0.0.0.0 asdqweq.com
 0.0.0.0 b.cdn.md
 0.0.0.0 basvformu1.xyz
 0.0.0.0 basvformu2.xyz
 0.0.0.0 basvformu4.xyz
 0.0.0.0 beelert.com
+0.0.0.0 betcdn.biz
 0.0.0.0 cdn.bispd.com
 0.0.0.0 cdn.cdndp.com
 0.0.0.0 cdn.file2desktop.com
@@ -64,6 +66,7 @@
 0.0.0.0 getshar.es
 0.0.0.0 gigya.com
 0.0.0.0 glixaing.com
+0.0.0.0 gravityrd-services.com
 0.0.0.0 grimex.net
 0.0.0.0 hellosmpl.com
 0.0.0.0 hit.demirorenteknoloji.com
@@ -75,6 +78,7 @@
 0.0.0.0 istatistik.gazetevatan.com
 0.0.0.0 istatistik.milliyet.com.tr
 0.0.0.0 jeoldkhy.com
+0.0.0.0 kingads.mobi
 0.0.0.0 kralseo.info
 0.0.0.0 krmwbimfpndwui.top
 0.0.0.0 launchingonsetwhirlwind.com
@@ -100,7 +104,6 @@
 0.0.0.0 p.d.1enm.com
 0.0.0.0 p.milliyet.com.tr
 0.0.0.0 partnersapi.bilio.com
-0.0.0.0 pnsdkapi.turktelekom.com.tr
 0.0.0.0 ptreklam.com
 0.0.0.0 ptreklam.com.tr
 0.0.0.0 ptreklamcrv.com.tr
@@ -126,6 +129,7 @@
 0.0.0.0 stats.posta.com.tr
 0.0.0.0 stats.yenicaggazetesi.com.tr
 0.0.0.0 stopblyat.tk
+0.0.0.0 tarpitbar.com
 0.0.0.0 thresholdeliminate.com
 0.0.0.0 top10.yazete.com
 0.0.0.0 track.vitringez.com
@@ -141,11 +145,10 @@
 0.0.0.0 vxhrhnvtucv.com
 0.0.0.0 ww3.smartadserver.com
 0.0.0.0 ycreklam.com
-0.0.0.0 yedimedia.net
 0.0.0.0 yes999.cf
 0.0.0.0 yes999.ga
 0.0.0.0 yes999.gq
 0.0.0.0 yes999.ml
 0.0.0.0 yes999.tk
-0.0.0.0 yoursitestatstube.ru
+0.0.0.0 yfzbn.com
 0.0.0.0 youtubex.top

@@ -1,9 +1,11 @@
 0.0.0.0 3swu.adj.st
 0.0.0.0 510002161.collect.igodigital.com
+0.0.0.0 595tuchuang.com
 0.0.0.0 74b967be3a.68069795d1.com
 0.0.0.0 77b0619134.fc29334d79.com
 0.0.0.0 7fb6f12dd2.17dc91dc49.com
 0.0.0.0 7t4g.adj.st
+0.0.0.0 8881img.com
 0.0.0.0 a.jhfhdkhkh.site
 0.0.0.0 a50f745777.6061de8597.com
 0.0.0.0 aan.amazon.com.tr
@@ -21,6 +23,7 @@
 0.0.0.0 amazonaax.com
 0.0.0.0 amazonclix.com
 0.0.0.0 analytics.flipperdevices.com
+0.0.0.0 analytics.halkbank.com.tr
 0.0.0.0 analytics-dev.bettermeter.com
 0.0.0.0 anguishworst.com
 0.0.0.0 api.personaclick.com
@@ -29,6 +32,7 @@
 0.0.0.0 b.pub.network
 0.0.0.0 b-cdn.cnnturk.com
 0.0.0.0 b-cdn.hurriyet.com.tr
+0.0.0.0 b-cdn.milliyet.com.tr
 0.0.0.0 b-cdn.posta.com.tr
 0.0.0.0 bande2az.com
 0.0.0.0 bireysel-reklam-sayfamiz.tk
@@ -48,6 +52,7 @@
 0.0.0.0 d692b70a4e.a6dc99d1a8.com
 0.0.0.0 d899faa8b1.79b1c4498b.com
 0.0.0.0 da37c08c29.36b7ca5028.com
+0.0.0.0 dai.google.com
 0.0.0.0 demo.criteo.com
 0.0.0.0 denizfirsatlarimbasvuru.xyz
 0.0.0.0 digital-vakifbank-reklam-web.tk
@@ -63,6 +68,7 @@
 0.0.0.0 fri4esianewheywr90itrage.com
 0.0.0.0 gercekkampanyareklami.com
 0.0.0.0 gk.achatecogida.com
+0.0.0.0 glochatuji.com
 0.0.0.0 googlereklamsayfalari.com
 0.0.0.0 greekroo.xyz
 0.0.0.0 guldurenreklam.com
@@ -74,9 +80,11 @@
 0.0.0.0 iscep-stories.commencis.com
 0.0.0.0 kaanbabaads.net
 0.0.0.0 kampanyadiyariherseyburda.xyz
+0.0.0.0 kvezz.com
 0.0.0.0 kz.rebakeassets.com
 0.0.0.0 lh.limosiwooable.com
 0.0.0.0 lider90.com
+0.0.0.0 limurol.com
 0.0.0.0 lovy.llykjmzqkzkyy.top
 0.0.0.0 lu9xve2c97l898gjjxv4.instantlymodern.com
 0.0.0.0 mc2tnzs73p3554cjc7h876m-gfm4.device.marketingcloudapis.com
@@ -92,6 +100,7 @@
 0.0.0.0 metrics.vinted.it
 0.0.0.0 metrics4.data.hicloud.com
 0.0.0.0 moonvids.online
+0.0.0.0 news-muheji.com
 0.0.0.0 nquw.adj.st
 0.0.0.0 oglenreklamiiaa.net
 0.0.0.0 oglenreklamiixs.net
@@ -104,7 +113,6 @@
 0.0.0.0 p.hgfdtujlknhkghf.site
 0.0.0.0 p8zh.adj.st
 0.0.0.0 parksoftreklam.com
-0.0.0.0 pisano.com.tr
 0.0.0.0 plat-form-vakif-onlinereklam-com.tk
 0.0.0.0 platform-onlinereklam-vakif-com.tk
 0.0.0.0 player.apester.com
@@ -113,6 +121,7 @@
 0.0.0.0 prebit.the-ozone-project.com
 0.0.0.0 principlessilas.com
 0.0.0.0 privacy.gatekeeperconsent.com
+0.0.0.0 proftrafficcounter.com
 0.0.0.0 punosy.top
 0.0.0.0 px.airpr.com
 0.0.0.0 r.admob.com
@@ -137,13 +146,17 @@
 0.0.0.0 reklamseverinsanlar.net
 0.0.0.0 ri.eightvowrinkle.com
 0.0.0.0 router.miwifi.com
+0.0.0.0 rtbrennab.com
 0.0.0.0 sabahreklamireha.net
 0.0.0.0 sabahreklamvaktms.net
+0.0.0.0 sadjklq.com
 0.0.0.0 sahibindenalisveris-trparanguvende-mobildepartmani.com
 0.0.0.0 sap-traffic.com
 0.0.0.0 sbhreklamvakti.net
+0.0.0.0 seal.globalsign.com
 0.0.0.0 settings.crashlytics.com
 0.0.0.0 showbet205.com
+0.0.0.0 slidecaffeinecrown.com
 0.0.0.0 snssdk1340.onelink.me
 0.0.0.0 srvccc.fish91826twenty.ga
 0.0.0.0 ssp.programattik.com
@@ -153,6 +166,7 @@
 0.0.0.0 stun.voiparound.com
 0.0.0.0 subesiz-vakifonlinbasvuru.chickenkiller.com
 0.0.0.0 syndication.magsrv.com
+0.0.0.0 tacticschangebabysitting.com
 0.0.0.0 taxismaned.top
 0.0.0.0 terms.internet.apps.samsung.com
 0.0.0.0 the.gatekeeperconsent.com

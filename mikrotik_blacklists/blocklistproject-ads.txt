@@ -28142,6 +28142,7 @@
 0.0.0.0 adsfs-in.oppomobile.com
 0.0.0.0 adsfundi.com
 0.0.0.0 adsfundi.net
+0.0.0.0 adsfuse.com
 0.0.0.0 adsgloo.go2affise.com
 0.0.0.0 adsglow.net
 0.0.0.0 adshare.freedocast.com
@@ -30906,6 +30907,7 @@
 0.0.0.0 anmvuuhgo.com
 0.0.0.0 annaslinens.ojrq.net
 0.0.0.0 annies.evergage.com
+0.0.0.0 announcement.ru
 0.0.0.0 annualinternetsurvey.com
 0.0.0.0 annuncio.com.do
 0.0.0.0 anobufefig.com
@@ -33686,6 +33688,7 @@
 0.0.0.0 aznmedia.go2cloud.org
 0.0.0.0 azofucrzkkaa.com
 0.0.0.0 azointel.com
+0.0.0.0 azorbe.com
 0.0.0.0 azqmmfhmfnpsvb.bid
 0.0.0.0 azrimet.info
 0.0.0.0 azrjdlvlsxihbd.com
@@ -35594,6 +35597,7 @@
 0.0.0.0 belstat.at
 0.0.0.0 belstat.ch
 0.0.0.0 belvertising.be
+0.0.0.0 belwrite.com
 0.0.0.0 bench.7eer.net
 0.0.0.0 bench.uc.cn
 0.0.0.0 benchbrands.com
@@ -40140,6 +40144,7 @@
 0.0.0.0 catsarea.com
 0.0.0.0 catucamedia.g2afse.com
 0.0.0.0 catwhatsup.org
+0.0.0.0 catwrite.com
 0.0.0.0 catz4.com
 0.0.0.0 caucqpoeg.com
 0.0.0.0 caughinga.info
@@ -47691,6 +47696,7 @@
 0.0.0.0 data-cl-in.ads.oppomobile.com
 0.0.0.0 data-collector.streaming.adswizz.com
 0.0.0.0 data-collector.voodoo-ads.io
+0.0.0.0 data-data-vac.com
 0.0.0.0 data-days.com
 0.0.0.0 data-eroadvertising.com
 0.0.0.0 data-ext.vungle.com
@@ -47988,6 +47994,7 @@
 0.0.0.0 dating.ezstatic.com
 0.0.0.0 dating.mgid.com
 0.0.0.0 datingadnetwork.com
+0.0.0.0 datingcensored.com
 0.0.0.0 datingidol.com
 0.0.0.0 datingnow.mobi
 0.0.0.0 datingoffersmedia.go2cloud.org
@@ -49997,6 +50004,7 @@
 0.0.0.0 doghoust.net
 0.0.0.0 doglickz.club
 0.0.0.0 dogrose18.com
+0.0.0.0 dogwrite.com
 0.0.0.0 dogwuyrspt.com
 0.0.0.0 dohhehsgnxfl.com
 0.0.0.0 dohillright.com
@@ -56811,6 +56819,7 @@
 0.0.0.0 freesoftwarelive.com
 0.0.0.0 freesoftwarestation.com
 0.0.0.0 freestat.pl
+0.0.0.0 freestats.biz
 0.0.0.0 freestats.me
 0.0.0.0 freestats.org
 0.0.0.0 freestats.tk
@@ -56825,6 +56834,8 @@
 0.0.0.0 freewha.com
 0.0.0.0 freewrinklecream.com
 0.0.0.0 frefxzrmcdxdmi.com
+0.0.0.0 freihit.de
+0.0.0.0 fremaks.net
 0.0.0.0 fremescentptwvzl.download
 0.0.0.0 french01.offerstrack.net
 0.0.0.0 frenchmanicure.de.intellitxt.com
@@ -62457,6 +62468,7 @@
 0.0.0.0 i2.onthe.io
 0.0.0.0 i2.putags.com
 0.0.0.0 i2.static.mf.ma.spartan.contentdef.com
+0.0.0.0 i22lo.com
 0.0.0.0 i2casting.com
 0.0.0.0 i2s.carambo.la
 0.0.0.0 i2tbouv3zp.kameleoon.eu
@@ -69101,6 +69113,7 @@
 0.0.0.0 laredouteie.widget.criteo.com
 0.0.0.0 laredoutese.widget.criteo.com
 0.0.0.0 laredouteus.widget.criteo.com
+0.0.0.0 larentisol.com
 0.0.0.0 lareson.com
 0.0.0.0 large-format.net
 0.0.0.0 largebe.widget.criteo.com
@@ -71327,6 +71340,7 @@
 0.0.0.0 lwvdeqfhswg.com
 0.0.0.0 lwverlag01.webtrekk.net
 0.0.0.0 lww.evergage.com
+0.0.0.0 lwxjg.com
 0.0.0.0 lwxkgejswn.com
 0.0.0.0 lwyjxvbcjkstxy.com
 0.0.0.0 lwysswaxnutn.com
@@ -75570,6 +75584,7 @@
 0.0.0.0 my-mediaprima.videoplaza.tv
 0.0.0.0 my-pc-cleaner.org
 0.0.0.0 my-rigs.com
+0.0.0.0 my-stats.info
 0.0.0.0 my-tutor.pxf.io
 0.0.0.0 my-uq.com
 0.0.0.0 my.ad.lgsmartad.com
@@ -77502,6 +77517,7 @@
 0.0.0.0 noithatshop.vn
 0.0.0.0 nojbconvtg.com
 0.0.0.0 nojs.green-red.com
+0.0.0.0 nokaut.link
 0.0.0.0 nokby.voluumtrk.com
 0.0.0.0 nokswnfvghee.com
 0.0.0.0 noletdint.com
@@ -79716,6 +79732,7 @@
 0.0.0.0 openstat.com
 0.0.0.0 openstat.ru
 0.0.0.0 opentable.co.uk.d1.sc.omtrdc.net
+0.0.0.0 opentracking.ru
 0.0.0.0 openvenue.com
 0.0.0.0 openvideoads.com
 0.0.0.0 openvideoads.org
@@ -82024,6 +82041,7 @@
 0.0.0.0 pdk-v4.pops.fastly-insights.com
 0.0.0.0 pdl.gionee.com
 0.0.0.0 pdm8kxw7.website
+0.0.0.0 pdmp.jp
 0.0.0.0 pdnoucwb.com
 0.0.0.0 pdns1.ultradns.net
 0.0.0.0 pdns2.ultradns.net
@@ -84526,6 +84544,7 @@
 0.0.0.0 prishla.info
 0.0.0.0 prism.connexity.net
 0.0.0.0 prismaprofits.go2cloud.org
+0.0.0.0 pritesol.com
 0.0.0.0 privacy.adcolony.com
 0.0.0.0 privacy.crwdcntrl.net
 0.0.0.0 privacy.ensighten.com
@@ -85112,6 +85131,7 @@
 0.0.0.0 ptrahwwg.com
 0.0.0.0 ptrcache.brandreachsys.com
 0.0.0.0 ptrck.ru
+0.0.0.0 ptrfc.com
 0.0.0.0 ptrk-wn.com
 0.0.0.0 ptrqrnadg.com
 0.0.0.0 ptsdnvgn.bid
@@ -91494,6 +91514,7 @@
 0.0.0.0 semipool.com
 0.0.0.0 semiyun.com
 0.0.0.0 semrush.com
+0.0.0.0 semtracker.de
 0.0.0.0 semvdooatmd.bid
 0.0.0.0 sencelles.info
 0.0.0.0 send4fun.com
@@ -96288,6 +96309,7 @@
 0.0.0.0 stekcwrdwohbch.com
 0.0.0.0 stencee.com
 0.0.0.0 stencef.com
+0.0.0.0 step-step-go.com
 0.0.0.0 stepan-fe.go.mail.ru
 0.0.0.0 stepank.justclick.ru
 0.0.0.0 stephaniekantis.7eer.net
@@ -97681,6 +97703,7 @@
 0.0.0.0 takyake.ru
 0.0.0.0 talab.org
 0.0.0.0 talar.iad-03.braze.com
+0.0.0.0 talaropa.com
 0.0.0.0 talentedsteel.com
 0.0.0.0 talententerprise360.qualtrics.com
 0.0.0.0 talentum225720.112.2o7.net
@@ -98275,6 +98298,7 @@
 0.0.0.0 telusmobility.inq.com
 0.0.0.0 telusmobility.touchcommerce.com
 0.0.0.0 telvanil.ru
+0.0.0.0 telwrite.com
 0.0.0.0 temaferte.com
 0.0.0.0 temai.m.taobao.com
 0.0.0.0 temai.taobao.com
@@ -99008,6 +99032,7 @@
 0.0.0.0 tibrashadow.ru
 0.0.0.0 tibzpgmogjqa.com
 0.0.0.0 tic-tic-bam.com
+0.0.0.0 tic-tic-toc.com
 0.0.0.0 tic.googlesyndication.com
 0.0.0.0 tical.us.qualtrics.com
 0.0.0.0 ticker.api.prd.innopage.com
@@ -99112,6 +99137,7 @@
 0.0.0.0 tin.pornoset.org
 0.0.0.0 tin.xpornoset.com
 0.0.0.0 ting.7eer.net
+0.0.0.0 tingrinter.com
 0.0.0.0 tingyunea.meitustat.com
 0.0.0.0 tinhot.uodoo.com
 0.0.0.0 tinkerta.com
@@ -99492,6 +99518,7 @@
 0.0.0.0 tomalinoalambres.com.ar
 0.0.0.0 tomas.datanom.fi
 0.0.0.0 tomato.yeaheamobi.com
+0.0.0.0 tomekas.com
 0.0.0.0 tomiz-notifications.veinteractive.com
 0.0.0.0 tommy-hilfiger.evyy.net
 0.0.0.0 tommyjohn.evyy.net
@@ -99687,7 +99714,9 @@
 0.0.0.0 torontostar-uat.adgear.com
 0.0.0.0 torontostar.adgear.com
 0.0.0.0 toroptotrab.ru
+0.0.0.0 torpsol.com
 0.0.0.0 torque.bittorrent.com
+0.0.0.0 torrango.com
 0.0.0.0 torrent-anime.ru
 0.0.0.0 torrent-trackers.ru
 0.0.0.0 torrent.pw
@@ -104219,6 +104248,7 @@
 0.0.0.0 utmtrk2.smileycentral.com
 0.0.0.0 utngexelkv.com
 0.0.0.0 utnkeaqurjca.com
+0.0.0.0 utokapa.com
 0.0.0.0 utop.ir
 0.0.0.0 utopiad.com
 0.0.0.0 utorido.com
@@ -104344,6 +104374,7 @@
 0.0.0.0 uxbewzrfyp.com
 0.0.0.0 uxeclrwtyk.mentalist.kameleoon.com
 0.0.0.0 uxel.everesttech.net
+0.0.0.0 uxernab.com
 0.0.0.0 uxferkyskxont.bid
 0.0.0.0 uxibiysrllgnn.com
 0.0.0.0 uxjekaexjsxe.bid

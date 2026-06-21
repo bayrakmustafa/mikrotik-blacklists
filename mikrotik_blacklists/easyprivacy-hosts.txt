@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 12JUN26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 19JUN26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -2995,6 +2995,7 @@
 0.0.0.0 analytics.martinandosa.com
 0.0.0.0 analytics.massivwerthaus.at
 0.0.0.0 analytics.metro.de
+0.0.0.0 analytics.mgm.gov.tr
 0.0.0.0 analytics.midas-antilles.fr
 0.0.0.0 analytics.midas.pt
 0.0.0.0 analytics.midas.re
@@ -4220,7 +4221,6 @@
 0.0.0.0 brmuvif.eccocar.com
 0.0.0.0 brmuvon.eccocar.com
 0.0.0.0 brnc.seidecor.com.br
-0.0.0.0 broadstreet.ai
 0.0.0.0 b.rohde-schwarz.com
 0.0.0.0 bronxvanilla.openapp.link
 0.0.0.0 brooklynway.openapp.link
@@ -5021,7 +5021,6 @@
 0.0.0.0 data.manga-passion.de
 0.0.0.0 data.marketing.onemarketinguxp.com
 0.0.0.0 data.marketing.perficientdemo.com
-0.0.0.0 data.minute.ly
 0.0.0.0 data.mktg.nfl.com
 0.0.0.0 data.myhealth.riteaid.com
 0.0.0.0 data.newsletter.italia.it
@@ -5107,6 +5106,7 @@
 0.0.0.0 d.delahorro.app
 0.0.0.0 ddlbr.timesclub.co
 0.0.0.0 ddlcvm.clas.style
+0.0.0.0 ddlnk.net
 0.0.0.0 ddm.frandroid.com
 0.0.0.0 ddnahc.mesbagages.com
 0.0.0.0 ddome-tag.blablacar.com
@@ -8722,7 +8722,6 @@
 0.0.0.0 link.zipsit.com
 0.0.0.0 link.zulily.com
 0.0.0.0 link.zurp.com
-0.0.0.0 lipstat.com
 0.0.0.0 li.rtl2.de
 0.0.0.0 listen.trakks.com
 0.0.0.0 listen.tunein.com
@@ -10498,6 +10497,7 @@
 0.0.0.0 p.ianmjones.com
 0.0.0.0 picarro.actonservice.com
 0.0.0.0 picis.optum.com
+0.0.0.0 p.imgur.gg
 0.0.0.0 pine.clk.click
 0.0.0.0 pine.nervecentral.com
 0.0.0.0 ping.anizm.net
@@ -10688,7 +10688,6 @@
 0.0.0.0 profiling.martela.com
 0.0.0.0 profiling.normet.com
 0.0.0.0 profit.edc.ca
-0.0.0.0 proftrafficcounter.com
 0.0.0.0 progmxs.com
 0.0.0.0 progressivedev.actonservice.com
 0.0.0.0 pro.jig.space
@@ -12682,7 +12681,6 @@
 0.0.0.0 stats.nddmed.com
 0.0.0.0 stats.newsweek.com
 0.0.0.0 stats.nhk.or.jp
-0.0.0.0 stats.nkkk.de
 0.0.0.0 stats.nortonhealthcare.com
 0.0.0.0 stats.nothingbutnylon.com
 0.0.0.0 stats.nyteknik.se
@@ -13382,8 +13380,6 @@
 0.0.0.0 tracking.businessdirect.bt.com
 0.0.0.0 tracking.cairn.info
 0.0.0.0 trackingcareers.accenture.com
-0.0.0.0 tracking.cds.dmm.co.jp
-0.0.0.0 tracking.cds.dmm.com
 0.0.0.0 tracking.cengage.com
 0.0.0.0 tracking.cenomicenters.com
 0.0.0.0 tracking.cerdmann.com
@@ -14376,6 +14372,7 @@
 0.0.0.0 wa.postnl.nl
 0.0.0.0 warfieldtech.actonservice.com
 0.0.0.0 warrenfcu.actonservice.com
+0.0.0.0 wart.val.town
 0.0.0.0 washlaundry.actonservice.com
 0.0.0.0 wa.slideshare.net
 0.0.0.0 wa.spring-gds.com
