@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 19JUN26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 26JUN26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -2677,7 +2677,6 @@
 0.0.0.0 abmail.info.amaro.com
 0.0.0.0 abmail.peak.net
 0.0.0.0 abmail.test.iheart.com
-0.0.0.0 a.boredpanda.bio
 0.0.0.0 ab.perfumesclub.com
 0.0.0.0 abracon.actonservice.com
 0.0.0.0 absoft.actonservice.com
@@ -4962,6 +4961,7 @@
 0.0.0.0 da.hornbach.sk
 0.0.0.0 daifez.thebay.com
 0.0.0.0 danielsmoving.actonservice.com
+0.0.0.0 dap.hindustantimes.com
 0.0.0.0 d-app.progressive.com
 0.0.0.0 dart.onjoyri.de
 0.0.0.0 dashboardbntest.branchcustom.xyz
@@ -6914,6 +6914,7 @@
 0.0.0.0 hello.steadyapp.com
 0.0.0.0 hello.wellocution.com
 0.0.0.0 herbgreencolumn.com
+0.0.0.0 herbstarsbuilding.com
 0.0.0.0 hesconet.actonservice.com
 0.0.0.0 hf.forevernetworks.com
 0.0.0.0 hfmogh.piatradesign.ro
@@ -10790,6 +10791,7 @@
 0.0.0.0 qm.redbull.com
 0.0.0.0 q.nasdaq.com
 0.0.0.0 qntm.pro
+0.0.0.0 qovani.com
 0.0.0.0 qqwxxf.levi.co.kr
 0.0.0.0 qrcode.visit-thassos.com
 0.0.0.0 qreport.qunar.com
@@ -11618,7 +11620,6 @@
 0.0.0.0 sf5q8gbnve37.branch.salesfloor.net
 0.0.0.0 sffirecu.actonservice.com
 0.0.0.0 sf.groc.press
-0.0.0.0 sf-insights.io
 0.0.0.0 s.fission.codes
 0.0.0.0 sfpc.changehealthcare.com
 0.0.0.0 sf-test.groc.press
@@ -13008,6 +13009,7 @@
 0.0.0.0 t.birchlane.com
 0.0.0.0 tbjasp.cyrillus.de
 0.0.0.0 t.blablacar.com
+0.0.0.0 tblcontent.com
 0.0.0.0 t.budweisergardens.com
 0.0.0.0 t.bukalapak.com
 0.0.0.0 t.bztest.origin.com.au

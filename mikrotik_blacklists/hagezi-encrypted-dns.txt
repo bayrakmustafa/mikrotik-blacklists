@@ -2377,6 +2377,7 @@
 0.0.0.0 easyliterature.gearenergy.com
 0.0.0.0 learnvcsa.gearenergy.com
 0.0.0.0 bg.geek.nz
+0.0.0.0 www-proxy.gelaxiz.xyz
 0.0.0.0 nodes.gen4.ninja
 0.0.0.0 play-games-at.geometry-games.online
 0.0.0.0 rammerhead.geometry-games.online
@@ -4679,7 +4680,6 @@
 0.0.0.0 4j9echn8mdr.online
 0.0.0.0 4l0qpkh5i4gwifmeb.online
 0.0.0.0 4proxy.de
-0.0.0.0 4q577yay.online
 0.0.0.0 4thunter.net
 0.0.0.0 4vtw3ktojjadh0xlr.online
 0.0.0.0 5-vpn.mom
@@ -4750,7 +4750,6 @@
 0.0.0.0 89yq10wlfdf.online
 0.0.0.0 8d4fac431a6657d7a3c2846f37b02c2e03719dc9.com
 0.0.0.0 8duc6yogvj.site
-0.0.0.0 8ebyz2sa2.online
 0.0.0.0 8f19246a8b2b8b9bf42d63d919f06bb0ece902da.com
 0.0.0.0 8locuezmc1dm219uo.online
 0.0.0.0 8mvnbml4uxmm.online
@@ -6341,6 +6340,7 @@
 0.0.0.0 croxyproxy.app
 0.0.0.0 croxyproxy.best
 0.0.0.0 croxyproxy.com
+0.0.0.0 croxyproxy.id
 0.0.0.0 croxyproxy.net
 0.0.0.0 croxyproxy.rocks
 0.0.0.0 croxyproxy.vip
@@ -6655,6 +6655,7 @@
 0.0.0.0 doniuniu.com
 0.0.0.0 donord.net
 0.0.0.0 donpv.com
+0.0.0.0 donsalvatore.info
 0.0.0.0 dontblockme.org
 0.0.0.0 dontfilter.us
 0.0.0.0 donwloda.com
@@ -8518,7 +8519,6 @@
 0.0.0.0 hriscanskaadventistickacrkva.com
 0.0.0.0 hrj939rzl.online
 0.0.0.0 hrzn1.site
-0.0.0.0 hs5vae2vi.online
 0.0.0.0 hshdytfp.com
 0.0.0.0 hsnjx4a.online
 0.0.0.0 hsyun.cloud
@@ -8564,7 +8564,6 @@
 0.0.0.0 hxp.info
 0.0.0.0 hxr.app
 0.0.0.0 hxs.info
-0.0.0.0 hxtvk7y8j.online
 0.0.0.0 hxv.app
 0.0.0.0 hxwnkrnn.cc
 0.0.0.0 hxxxxx.name
@@ -8765,6 +8764,7 @@
 0.0.0.0 ixl.plus
 0.0.0.0 ixl.rocks
 0.0.0.0 ixl.works
+0.0.0.0 ixls.top
 0.0.0.0 ixpjclmh.com
 0.0.0.0 ixumequs.com
 0.0.0.0 j166.net
@@ -9041,7 +9041,6 @@
 0.0.0.0 kizvpn.ru
 0.0.0.0 kk89hecrq.online
 0.0.0.0 kkkkk.click
-0.0.0.0 kl-lets.com
 0.0.0.0 klavino.ru
 0.0.0.0 klctextor5ag.online
 0.0.0.0 klevoro.ru
@@ -10126,7 +10125,6 @@
 0.0.0.0 n6j3iyl.online
 0.0.0.0 n8ogo8f3kjb.online
 0.0.0.0 nahidontneed.help
-0.0.0.0 nahsdmgjuvmyp.online
 0.0.0.0 naichacloud.net
 0.0.0.0 naichayun.net
 0.0.0.0 naiko.cloud
@@ -10397,7 +10395,6 @@
 0.0.0.0 nym.network
 0.0.0.0 nymtech.net
 0.0.0.0 nymvpn.com
-0.0.0.0 nzdf3hp.online
 0.0.0.0 nzkfuwrf.com
 0.0.0.0 o-faster.cc
 0.0.0.0 oajbubnksxtmwkqamhkddryu.online
@@ -11665,6 +11662,7 @@
 0.0.0.0 siteunblocked.lol
 0.0.0.0 siteunblocked.space
 0.0.0.0 siteunblocked.xyz
+0.0.0.0 sitev3.org
 0.0.0.0 sitework.info
 0.0.0.0 sitx2.cc
 0.0.0.0 sjaarzmo.com
@@ -12231,6 +12229,9 @@
 0.0.0.0 torvpn.com
 0.0.0.0 torvpn.lol
 0.0.0.0 totallyacdn.com
+0.0.0.0 totallynotaproxy.com
+0.0.0.0 totallynotaproxy.info
+0.0.0.0 totallynotaproxy.org
 0.0.0.0 totalvpn.com
 0.0.0.0 totorocloud.cc
 0.0.0.0 totorocloud.info
@@ -12388,7 +12389,6 @@
 0.0.0.0 ujrmdtrq.cc
 0.0.0.0 ujsrxts.com
 0.0.0.0 uku.im
-0.0.0.0 ukumlmrst0igs.online
 0.0.0.0 ukvvbso.cn
 0.0.0.0 ulta.am
 0.0.0.0 ultimatearca.de
@@ -12497,7 +12497,6 @@
 0.0.0.0 unblockit.uno
 0.0.0.0 unblockitnow.com
 0.0.0.0 unblockmate.com
-0.0.0.0 unblockme.us
 0.0.0.0 unblockmyweb.com
 0.0.0.0 unblockmywebsite.com
 0.0.0.0 unblockpro.app
@@ -12863,6 +12862,7 @@
 0.0.0.0 vpn-shield.help
 0.0.0.0 vpn-simple.com
 0.0.0.0 vpn-sky.info
+0.0.0.0 vpn-th.net
 0.0.0.0 vpn-tn.com
 0.0.0.0 vpn-toggle.com
 0.0.0.0 vpn-tube.com
@@ -13842,7 +13842,6 @@
 0.0.0.0 zwskk3lczgjwug3hzpd.online
 0.0.0.0 zwyr157wwiu6eior.com
 0.0.0.0 zwytzjjz.com
-0.0.0.0 zxhybrol.online
 0.0.0.0 zxtwpkso.com
 0.0.0.0 zy4jwdenh.online
 0.0.0.0 zylor.xyz

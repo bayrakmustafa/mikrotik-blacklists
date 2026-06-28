@@ -1,5 +1,5 @@
 # Easylist, parsed and mirrored by https://firebog.net
-# Updated 19JUN26 from https://easylist.to/easylist/easylist.txt
+# Updated 26JUN26 from https://easylist.to/easylist/easylist.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7,63 +7,53 @@
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://github.com/easylist/easylist#list-issues
 
-0.0.0.0 3000fromenterprises.net
 0.0.0.0 ad.moe.video
 0.0.0.0 alitems.com
-0.0.0.0 anjvkuqelyc.com
 0.0.0.0 a.omappapi.com
 0.0.0.0 asg.prettytube.net
 0.0.0.0 auditude.com
-0.0.0.0 ballistashlers.qpon
-0.0.0.0 bhukrmnrxzcyd.space
+0.0.0.0 awokensilicyl.cyou
+0.0.0.0 booteryembrase.shop
 0.0.0.0 buyeasy.by
-0.0.0.0 capersumiac.qpon
-0.0.0.0 cbvyghlu.com
 0.0.0.0 cdn.nuqwe.com
 0.0.0.0 cdn.viowrel.com
-0.0.0.0 coelinpinbush.shop
+0.0.0.0 conermoocher.com
+0.0.0.0 cooperydiptych.cyou
 0.0.0.0 cpm.appocean.media
-0.0.0.0 cxbugvdccwybp.site
-0.0.0.0 debtokesfilippo.qpon
-0.0.0.0 dikdiksbracker.shop
-0.0.0.0 eiaojxolvjtfe.website
+0.0.0.0 drammercheng.com
+0.0.0.0 elevationoutshout.net
 0.0.0.0 engine.eroge.com
 0.0.0.0 f5w.prettytube.net
-0.0.0.0 frkyhxyvwrnrl.website
-0.0.0.0 gatcbhlhcyvei.website
-0.0.0.0 gelosievinterplaga.cyou
-0.0.0.0 gkquksabkgmau.online
+0.0.0.0 faciadambrod.cyou
 0.0.0.0 go.bloxplay.com
-0.0.0.0 goqzktxcmzsmr.website
-0.0.0.0 hlqhszlaieohl.online
-0.0.0.0 hqenqnjegflxk.website
-0.0.0.0 igvnfhtdjqkqx.website
+0.0.0.0 halalasbisks.qpon
+0.0.0.0 hargzcacgltoe.site
+0.0.0.0 hltmncqxayyhu.website
+0.0.0.0 hmsobsvsqbvle.site
 0.0.0.0 imasdk.googleapis.com
-0.0.0.0 influxneurism.cyou
-0.0.0.0 iokpsmgomfjoke.com
-0.0.0.0 kapukahaganah.cyou
-0.0.0.0 khehpukitab.in
+0.0.0.0 kavblcvs.com
 0.0.0.0 link.link.ru
 0.0.0.0 loadercdn.com
-0.0.0.0 loxantrums.cyou
-0.0.0.0 marayshahin.shop
-0.0.0.0 meatsmatt.cfd
 0.0.0.0 monetag.com
 0.0.0.0 mweb-hb.presage.io
-0.0.0.0 oxphonymutedly.qpon
+0.0.0.0 pastimelardoon.shop
 0.0.0.0 pips.taboola.com
 0.0.0.0 pirogad.tophosting101.com
-0.0.0.0 portraycynism.cfd
+0.0.0.0 pisksalvo.qpon
 0.0.0.0 prebid.cwi.re
+0.0.0.0 prevoteglimmer.cyou
 0.0.0.0 proto2ad.durasite.net
-0.0.0.0 prpem8fgjqr4rql9wkcx1qxe427bbzjo5opcw.rest
+0.0.0.0 resaidbodily.cyou
 0.0.0.0 retailmedia-static.criteo.com
-0.0.0.0 rodgerorology.qpon
+0.0.0.0 shoalsirate.shop
+0.0.0.0 smutchyalarbus.qpon
 0.0.0.0 srv.tunefindforfans.com
 0.0.0.0 sync.gsyndication.com
 0.0.0.0 targeting.vdo.ai
+0.0.0.0 tollmensakiyeh.cfd
 0.0.0.0 unpin.hothomefuck.com
 0.0.0.0 vi1.prettytube.net
 0.0.0.0 videoplaza.tv
+0.0.0.0 werstegrootricker.cyou
 0.0.0.0 wpnrtnmrewunrtok.xyz
-0.0.0.0 xj8z6umrlxw23k6k5ygtnp9.cfd
+0.0.0.0 xljhqekqygwuohq.com
