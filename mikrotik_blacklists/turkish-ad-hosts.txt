@@ -12,9 +12,11 @@
 0.0.0.0 aan.amazon.com.tr.home
 0.0.0.0 abundantservantexact.com
 0.0.0.0 adoni-nea.com
+0.0.0.0 ads5.admatic.com.tr
 0.0.0.0 adsreklamizm.ga
 0.0.0.0 adsreklamizm.tk
 0.0.0.0 affiliate.migros.com.tr
+0.0.0.0 affiliates.ezoic.com
 0.0.0.0 aksamreklami.net
 0.0.0.0 aksamvaktireklam.com
 0.0.0.0 aksamvaktimreklamsx.net
@@ -53,6 +55,7 @@
 0.0.0.0 d899faa8b1.79b1c4498b.com
 0.0.0.0 da37c08c29.36b7ca5028.com
 0.0.0.0 dai.google.com
+0.0.0.0 dcetr3.segmentify.com
 0.0.0.0 demo.criteo.com
 0.0.0.0 denizfirsatlarimbasvuru.xyz
 0.0.0.0 digital-vakifbank-reklam-web.tk
@@ -145,6 +148,7 @@
 0.0.0.0 reklamonline.site
 0.0.0.0 reklamonlines.site
 0.0.0.0 reklamseverinsanlar.net
+0.0.0.0 rest.segmentify.com
 0.0.0.0 ri.eightvowrinkle.com
 0.0.0.0 router.miwifi.com
 0.0.0.0 rtbrennab.com
@@ -161,6 +165,8 @@
 0.0.0.0 snssdk1340.onelink.me
 0.0.0.0 srvccc.fish91826twenty.ga
 0.0.0.0 ssp.programattik.com
+0.0.0.0 st-n.ads4-adnow.com
+0.0.0.0 static.exoclick.com
 0.0.0.0 statics.olx.com.tr
 0.0.0.0 strmrdrfrokd.site
 0.0.0.0 stun.fpapi.io

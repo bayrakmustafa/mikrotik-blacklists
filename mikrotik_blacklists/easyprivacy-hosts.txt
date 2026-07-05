@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 26JUN26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 03JUL26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -12903,6 +12903,7 @@
 0.0.0.0 symbio.actonservice.com
 0.0.0.0 synapse-da.actonservice.com
 0.0.0.0 synbiobeta.actonservice.com
+0.0.0.0 syncingbridge.com
 0.0.0.0 sync.rambler.ru
 0.0.0.0 systancia-scp.actonservice.com
 0.0.0.0 sytuzk.nissanvimontlaval.com
@@ -13324,6 +13325,7 @@
 0.0.0.0 tracker.nocodelytics.com
 0.0.0.0 tracker.psjhealth.org
 0.0.0.0 tracker-remp.premiumtimesng.com
+0.0.0.0 tracker-shr.ortb.net
 0.0.0.0 tracker.stileo.it
 0.0.0.0 track.f1store.formula1.com
 0.0.0.0 track.ferrari.com
@@ -14078,6 +14080,7 @@
 0.0.0.0 try.popchart.family
 0.0.0.0 try.postmuseapp.com
 0.0.0.0 try.tableausoftware.com
+0.0.0.0 tsa-f.webex.com
 0.0.0.0 tsa.taxslayer.com
 0.0.0.0 tsa.webex.com
 0.0.0.0 t-s.cellcept.com
