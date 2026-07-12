@@ -17,6 +17,7 @@
 0.0.0.0 adsreklamizm.tk
 0.0.0.0 affiliate.migros.com.tr
 0.0.0.0 affiliates.ezoic.com
+0.0.0.0 aibsgc.com
 0.0.0.0 aksamreklami.net
 0.0.0.0 aksamvaktireklam.com
 0.0.0.0 aksamvaktimreklamsx.net
@@ -75,6 +76,7 @@
 0.0.0.0 googlereklamsayfalari.com
 0.0.0.0 greekroo.xyz
 0.0.0.0 guldurenreklam.com
+0.0.0.0 hlmiq.com
 0.0.0.0 hls.ekremimamoglu.click
 0.0.0.0 hpacdn.bestadload.com
 0.0.0.0 hpast.bestadload.com

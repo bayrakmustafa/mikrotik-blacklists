@@ -1,5 +1,5 @@
 # Easylist, parsed and mirrored by https://firebog.net
-# Updated 03JUL26 from https://easylist.to/easylist/easylist.txt
+# Updated 10JUL26 from https://easylist.to/easylist/easylist.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -10,28 +10,51 @@
 0.0.0.0 ad.moe.video
 0.0.0.0 alitems.com
 0.0.0.0 a.omappapi.com
+0.0.0.0 armingsouther.qpon
 0.0.0.0 asg.prettytube.net
+0.0.0.0 axilxcqvilg.com
+0.0.0.0 beigyagilely.cyou
+0.0.0.0 btxxsuuazhhps.website
 0.0.0.0 buyeasy.by
 0.0.0.0 cdn.nuqwe.com
 0.0.0.0 cdn.viowrel.com
 0.0.0.0 cpm.appocean.media
+0.0.0.0 cydoniacavorts.qpon
+0.0.0.0 dishometonier.cyou
 0.0.0.0 engine.eroge.com
+0.0.0.0 exedentslyly.cfd
 0.0.0.0 f5w.prettytube.net
 0.0.0.0 go.bloxplay.com
+0.0.0.0 guruwittal.shop
+0.0.0.0 haikunmisaim.cyou
+0.0.0.0 harosetbelar.cfd
+0.0.0.0 hellmantonite.qpon
+0.0.0.0 hudroaches.cfd
 0.0.0.0 imasdk.googleapis.com
+0.0.0.0 kyriesbulbelegalite.cyou
 0.0.0.0 link.link.ru
 0.0.0.0 loadercdn.com
+0.0.0.0 luststeelie.qpon
 0.0.0.0 monetag.com
 0.0.0.0 mweb-hb.presage.io
+0.0.0.0 oakabparjlepd.website
+0.0.0.0 perlidmayfair.qpon
 0.0.0.0 pips.taboola.com
 0.0.0.0 pirogad.tophosting101.com
 0.0.0.0 prebid.cwi.re
 0.0.0.0 proto2ad.durasite.net
+0.0.0.0 ravenousamuse.com
 0.0.0.0 retailmedia-static.criteo.com
 0.0.0.0 srv.tunefindforfans.com
+0.0.0.0 stagnumpractic.qpon
 0.0.0.0 sync.gsyndication.com
 0.0.0.0 targeting.vdo.ai
+0.0.0.0 terrasbrazas.cyou
+0.0.0.0 toreuxdvnuauu.online
+0.0.0.0 tsyldwzllmuyp.website
+0.0.0.0 uatvuypdseana.website
 0.0.0.0 unpin.hothomefuck.com
 0.0.0.0 vi1.prettytube.net
 0.0.0.0 videoplaza.tv
+0.0.0.0 wokecrocodilebane.com
 0.0.0.0 wpnrtnmrewunrtok.xyz
