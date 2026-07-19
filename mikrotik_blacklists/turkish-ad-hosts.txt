@@ -17,7 +17,6 @@
 0.0.0.0 adsreklamizm.tk
 0.0.0.0 affiliate.migros.com.tr
 0.0.0.0 affiliates.ezoic.com
-0.0.0.0 aibsgc.com
 0.0.0.0 aksamreklami.net
 0.0.0.0 aksamvaktireklam.com
 0.0.0.0 aksamvaktimreklamsx.net
@@ -153,7 +152,6 @@
 0.0.0.0 rest.segmentify.com
 0.0.0.0 ri.eightvowrinkle.com
 0.0.0.0 router.miwifi.com
-0.0.0.0 rtbrennab.com
 0.0.0.0 sabahreklamireha.net
 0.0.0.0 sabahreklamvaktms.net
 0.0.0.0 sadjklq.com

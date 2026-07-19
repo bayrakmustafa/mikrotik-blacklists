@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 11 Jul 2026 23:00 UTC
-# Version: 2026.0711.2300.33
+# Last modified: 19 Jul 2026 08:06 UTC
+# Version: 2026.0719.0806.09
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3839
+# Number of entries: 3857
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -370,6 +370,7 @@
 0.0.0.0 dns.audet.cloud
 0.0.0.0 dns.auffray.org
 0.0.0.0 vps.avc.cx
+0.0.0.0 axaxa.fun
 0.0.0.0 dnstx.axhy.cc
 0.0.0.0 axistechsupport.com
 0.0.0.0 dns.axto.me
@@ -382,6 +383,7 @@
 0.0.0.0 doh.azoris.ovh
 0.0.0.0 sradg.eastus.cloudapp.azure.com
 0.0.0.0 doh2.b-cdn.net
+0.0.0.0 b-ii.com
 0.0.0.0 dns.b33.network
 0.0.0.0 dns.b33.space
 0.0.0.0 node3.b4el.ru
@@ -502,6 +504,7 @@
 0.0.0.0 dns.brembeck.cloud
 0.0.0.0 dns.briac-mlb.fr
 0.0.0.0 dns.system.brianhong.kr
+0.0.0.0 ag.brianlee.fun
 0.0.0.0 dns.brionesserver.net
 0.0.0.0 agh.broaddy.com
 0.0.0.0 home.bruckmoser.it
@@ -988,6 +991,7 @@
 0.0.0.0 dns.dns-53.us
 0.0.0.0 mikrobill.dns-cloud.net
 0.0.0.0 proariel.dns-dynamic.net
+0.0.0.0 dns-free.link
 0.0.0.0 dns.dns-heimdall.com
 0.0.0.0 i.dns-over-https.tk
 0.0.0.0 doh.dns4all.eu
@@ -1094,7 +1098,6 @@
 0.0.0.0 lim02.dnscry.pt
 0.0.0.0 lis01.dnscry.pt
 0.0.0.0 lis02.dnscry.pt
-0.0.0.0 lju01.dnscry.pt
 0.0.0.0 llk01.dnscry.pt
 0.0.0.0 lon01.dnscry.pt
 0.0.0.0 los01.dnscry.pt
@@ -1128,7 +1131,6 @@
 0.0.0.0 per01.dnscry.pt
 0.0.0.0 phl01.dnscry.pt
 0.0.0.0 phx01.dnscry.pt
-0.0.0.0 pmo01.dnscry.pt
 0.0.0.0 prg01.dnscry.pt
 0.0.0.0 qro01.dnscry.pt
 0.0.0.0 rdd01.dnscry.pt
@@ -1501,6 +1503,7 @@
 0.0.0.0 adh.fastpacefixit.info
 0.0.0.0 adguardhome.favrep.ovh
 0.0.0.0 dns2.fawz.de
+0.0.0.0 dns.faze.dev
 0.0.0.0 ns0.fdn.fr
 0.0.0.0 ns1.fdn.fr
 0.0.0.0 agh.feblab.click
@@ -1540,7 +1543,6 @@
 0.0.0.0 yin.flyzhouyc.win
 0.0.0.0 gateway.fomichev.cloud
 0.0.0.0 dns.foximao.cn
-0.0.0.0 de-f1.foxyfy.net
 0.0.0.0 dns.foxyfy.net
 0.0.0.0 es-ma.foxyfy.net
 0.0.0.0 jp-to.foxyfy.net
@@ -1775,6 +1777,7 @@
 0.0.0.0 horus-team.com
 0.0.0.0 dns.horus-team.com
 0.0.0.0 dns.internal.hosmatic.com
+0.0.0.0 doh.hosterra.tech
 0.0.0.0 resolver1.hosting-cloud.net
 0.0.0.0 resolver2.hosting-cloud.net
 0.0.0.0 adg.hostingab.ru
@@ -1961,6 +1964,7 @@
 0.0.0.0 hk.jason666.top
 0.0.0.0 adguard.jaydub.cloud
 0.0.0.0 argus1.jcconnell.com
+0.0.0.0 jcdns.fun
 0.0.0.0 doh.jeroenhd.nl
 0.0.0.0 host.jerry-lee.uk
 0.0.0.0 dns.jerryw.cn
@@ -2014,6 +2018,7 @@
 0.0.0.0 addns.jujuland.net
 0.0.0.0 dns.jundev.org
 0.0.0.0 dns.jungle-im.ir
+0.0.0.0 dns.jupitrdns.com
 0.0.0.0 sgs02.just-a-web.com
 0.0.0.0 dns.justinnetworkingsolutions.com
 0.0.0.0 adguard.k-likhachev.ru
@@ -2025,6 +2030,7 @@
 0.0.0.0 kallemarc.de
 0.0.0.0 adguard.kalyanmudumby.com
 0.0.0.0 dns.kamilszczepanski.com
+0.0.0.0 adguard.kantinyoyok.xyz
 0.0.0.0 dns.kapite.in
 0.0.0.0 dns.kapoww.tk
 0.0.0.0 dns.karadag.me
@@ -2135,6 +2141,7 @@
 0.0.0.0 tr.league1.xyz
 0.0.0.0 leecurrylawfirm.com
 0.0.0.0 adblock.leenit.kr
+0.0.0.0 externalmobiel.lekdijk.online
 0.0.0.0 sndkcuf.lekun.me
 0.0.0.0 lelux.fi
 0.0.0.0 dns.lepilleur.com
@@ -2684,6 +2691,7 @@
 0.0.0.0 rumsk.paskam.xyz
 0.0.0.0 dns.pastorov.ru
 0.0.0.0 wg.pastorov.ru
+0.0.0.0 doh.gcp.pathofgrace.com
 0.0.0.0 nas.patrick-antoine.fr
 0.0.0.0 dns.paxavemedia.com
 0.0.0.0 vps-ovh.pb2004.pl
@@ -2720,9 +2728,12 @@
 0.0.0.0 doh.eastau.pi-dns.com
 0.0.0.0 dot.eastau.pi-dns.com
 0.0.0.0 doh.eastus.pi-dns.com
+0.0.0.0 dot.eastus.pi-dns.com
 0.0.0.0 doh.northeu.pi-dns.com
 0.0.0.0 dot.northeu.pi-dns.com
 0.0.0.0 doh.westeu.pi-dns.com
+0.0.0.0 doh.westus.pi-dns.com
+0.0.0.0 dot.westus.pi-dns.com
 0.0.0.0 adguard.piekacz.pl
 0.0.0.0 dns.pierzchlewicz.pl
 0.0.0.0 dns.pieterdherde.com
@@ -2734,6 +2745,7 @@
 0.0.0.0 helios.plan9-dns.com
 0.0.0.0 kronos.plan9-dns.com
 0.0.0.0 pluton.plan9-dns.com
+0.0.0.0 draco.plan9-ns2.com
 0.0.0.0 door.plasmadancer.ru
 0.0.0.0 secure-dns.pleumkungz.com
 0.0.0.0 thanos.pleumkungz.com
@@ -2748,6 +2760,7 @@
 0.0.0.0 dns.pointless.chat
 0.0.0.0 dns.polarwinds.ru
 0.0.0.0 polisitogel.beauty
+0.0.0.0 polisitogel.contractors
 0.0.0.0 polisitogel.show
 0.0.0.0 polisitogel.webcam
 0.0.0.0 vps.poly-tank.jp
@@ -3196,6 +3209,7 @@
 0.0.0.0 dns.techcpu.net
 0.0.0.0 dns1.techeasy.org
 0.0.0.0 adguard.techlike.in
+0.0.0.0 vpn.technicule.info
 0.0.0.0 dns1.techniverse.net
 0.0.0.0 doh.technochat.in
 0.0.0.0 dns.technologycage.com
@@ -3366,6 +3380,7 @@
 0.0.0.0 dns.veikus.com
 0.0.0.0 dns.vemo.cc
 0.0.0.0 dns.venclous.org
+0.0.0.0 securedns.vendorvista.xyz
 0.0.0.0 veraris.online
 0.0.0.0 vernikpro.ru
 0.0.0.0 dns.vietdns.vn
@@ -3402,6 +3417,7 @@
 0.0.0.0 killads.vpms.xyz
 0.0.0.0 vpnhellings.nl
 0.0.0.0 dns.vps.pw
+0.0.0.0 vtcuong.site
 0.0.0.0 vuivn.site
 0.0.0.0 ns1.vuivn.site
 0.0.0.0 ns2.vuivn.site
@@ -3449,6 +3465,7 @@
 0.0.0.0 doh.wewitro.net
 0.0.0.0 doh-rs.whalebone.io
 0.0.0.0 whatcaniplay.com
+0.0.0.0 dns.wibenson.cloud
 0.0.0.0 dns1-secure.wifire.it
 0.0.0.0 adguard.wifri.space
 0.0.0.0 wikimedia-dns.org
@@ -3511,6 +3528,7 @@
 0.0.0.0 dns.xuming.studio
 0.0.0.0 dns.xusqui.com
 0.0.0.0 dns.xv.fi
+0.0.0.0 dns.xwdmw.xyz
 0.0.0.0 dns.xwu.us
 0.0.0.0 r7ws-poco-f3.dns.xwu.us
 0.0.0.0 dns.y2f.xyz
@@ -3560,6 +3578,7 @@
 0.0.0.0 doh.ywhost.com
 0.0.0.0 dns.yyaan.com
 0.0.0.0 dns.yyaan.top
+0.0.0.0 adg.yybyy.wiki
 0.0.0.0 dns.daemon.za.net
 0.0.0.0 zabolotskikh.dev
 0.0.0.0 adguard.zachitect.com

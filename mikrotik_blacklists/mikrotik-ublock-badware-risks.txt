@@ -4,21 +4,30 @@
 0.0.0.0 cdnservice.ink
 0.0.0.0 mysoft.rest
 0.0.0.0 fullsetup.click
+0.0.0.0 upcommunity.click
 0.0.0.0 sonvupload.xyz
-0.0.0.0 newgitgerto.xyz
+0.0.0.0 tostatess.icu
 0.0.0.0 modii.xyz
 0.0.0.0 appvip-download.cc
 0.0.0.0 ublcz.cn
 0.0.0.0 fanbox.help
+0.0.0.0 fanbox.autos
 0.0.0.0 lovemelo.jp
 0.0.0.0 reverita-t.jp
+0.0.0.0 foundate-core.net
+0.0.0.0 dinosaur-crown.com
+0.0.0.0 paradise-angel.com
 0.0.0.0 peachzone.site
+0.0.0.0 koundayori.com
 0.0.0.0 grabgiftcard.net
 0.0.0.0 n43vr.com
 0.0.0.0 gamojinsegesegeas.com
 0.0.0.0 wawahrsdfrhfsdfh.com
+0.0.0.0 mihayume.com
+0.0.0.0 passionsex.vip
 0.0.0.0 i.meetu.best
 0.0.0.0 sma-lita.site
+0.0.0.0 technosoft35.ru
 0.0.0.0 childernplay.online
 0.0.0.0 viruswarning*.web.core.windows.net
 0.0.0.0 idverification-cdn.info
@@ -62,6 +71,7 @@
 0.0.0.0 bdvenlinea*.pages.dev
 0.0.0.0 santanderpod.*.co.uk
 0.0.0.0 dhl.*.potabox.com
+0.0.0.0 igleak.info
 0.0.0.0 instagram0639.blogspot.
 0.0.0.0 business-facebook-*.pages.dev
 0.0.0.0 govern-assessment-validation-*.vercel.app
@@ -116,6 +126,7 @@
 0.0.0.0 marketplace-item-*.000.pe
 0.0.0.0 cartepak.online
 0.0.0.0 livestreaming24.xyz
+0.0.0.0 downloadstep.com
 0.0.0.0 ajmaboxanherulv*.b-cdn.net
 0.0.0.0 anti-automation-v*.b-cdn.net
 0.0.0.0 bot-check-v*.b-cdn.net
@@ -130,6 +141,7 @@
 0.0.0.0 airupfrance.fr
 0.0.0.0 getalia.org
 0.0.0.0 likeyoumakehappy.xyz
+0.0.0.0 fiheos.co.in
 0.0.0.0 deepseek.top
 0.0.0.0 irs.gov.*.com
 0.0.0.0 e-navy*.weebly.com
@@ -158,6 +170,7 @@
 0.0.0.0 ledgerr.us
 0.0.0.0 phila.revenue*.cc
 0.0.0.0 client.*-blockfi.com
+0.0.0.0 serenoirs.com
 0.0.0.0 simpleswap.ac
 0.0.0.0 simpleswap.online
 0.0.0.0 fenamu.com
@@ -231,6 +244,7 @@
 0.0.0.0 zh-googlle-chrome.hl.cn
 0.0.0.0 todesk.ac.cn
 0.0.0.0 todesk.im
+0.0.0.0 youku.earth
 0.0.0.0 wps.ac.cn
 0.0.0.0 cn-wps-zh.com.cn
 0.0.0.0 office-wps-hl.hl.cn
@@ -256,3 +270,4 @@
 0.0.0.0 shrtweb.site
 0.0.0.0 invites-tracker-app.com
 0.0.0.0 legder.*.us.com
+0.0.0.0 lumennix.xyz

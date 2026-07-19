@@ -6,7 +6,6 @@
 0.0.0.0 ad.emlakeki.com
 0.0.0.0 ad.logro.com.tr
 0.0.0.0 ad.mygamesol.com
-0.0.0.0 ad.reklam.xyz
 0.0.0.0 ad.sigortagundem.biz
 0.0.0.0 ad.webservis.gen.tr
 0.0.0.0 ad.wslinx.com
@@ -180,7 +179,6 @@
 0.0.0.0 mkazanc.com
 0.0.0.0 mobilure.com
 0.0.0.0 mobytrks.com
-0.0.0.0 myswitchads.com
 0.0.0.0 n69adserv.com
 0.0.0.0 netbookmedia.com
 0.0.0.0 nhls.nscdn9.com
@@ -214,7 +212,6 @@
 0.0.0.0 ref.gitadres.com
 0.0.0.0 regadsgx.com
 0.0.0.0 rek.hepaffiliates.com
-0.0.0.0 rek.mobi
 0.0.0.0 reklam.vogel.com.tr
 0.0.0.0 reklambanner.net
 0.0.0.0 reklamcdn.com
@@ -250,7 +247,6 @@
 0.0.0.0 sunucu7.com
 0.0.0.0 sw1block.com
 0.0.0.0 t1.clipkit.com
-0.0.0.0 tarpitbar.com
 0.0.0.0 tempobanners.com
 0.0.0.0 threedrive.su
 0.0.0.0 thresholdeliminate.com
