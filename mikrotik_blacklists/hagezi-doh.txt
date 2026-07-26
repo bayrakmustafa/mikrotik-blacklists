@@ -6,10 +6,10 @@
 # Issues: https://github.com/hagezi/dns-blocklists/issues
 # Disclaimer: https://github.com/hagezi/dns-blocklists/blob/main/README.md#disclaimer
 # Expires: 1 day
-# Last modified: 19 Jul 2026 08:06 UTC
-# Version: 2026.0719.0806.09
+# Last modified: 26 Jul 2026 08:04 UTC
+# Version: 2026.0726.0804.22
 # Syntax: Hosts (including possible subdomains)
-# Number of entries: 3857
+# Number of entries: 3858
 #
 0.0.0.0 ss.0001.xyz
 0.0.0.0 003153.xyz
@@ -249,6 +249,9 @@
 0.0.0.0 rdjdns.ajraspi.xyz
 0.0.0.0 dns.akbxr.com
 0.0.0.0 dnsnl.alekberg.net
+0.0.0.0 odoh-target.alekberg.net
+0.0.0.0 odoh-target-noads-se.alekberg.net
+0.0.0.0 odoh-target-se.alekberg.net
 0.0.0.0 agh.alematho.de
 0.0.0.0 diskstation.alexpollard.net
 0.0.0.0 management.alexpollard.net
@@ -795,7 +798,6 @@
 0.0.0.0 dohdot.coxlab.net
 0.0.0.0 nrusimha.crabdance.com
 0.0.0.0 adguard.crestfallen.de
-0.0.0.0 dns.criena.net
 0.0.0.0 cristianocosta.me
 0.0.0.0 dns.itsec.crolla.net
 0.0.0.0 crypto.sx
@@ -1061,7 +1063,6 @@
 0.0.0.0 evn01.dnscry.pt
 0.0.0.0 eyg01.dnscry.pt
 0.0.0.0 fet02.dnscry.pt
-0.0.0.0 fjr01.dnscry.pt
 0.0.0.0 fnt01.dnscry.pt
 0.0.0.0 fra01.dnscry.pt
 0.0.0.0 fra02.dnscry.pt

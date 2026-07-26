@@ -1,5 +1,5 @@
 # Easylist, parsed and mirrored by https://firebog.net
-# Updated 17JUL26 from https://easylist.to/easylist/easylist.txt
+# Updated 24JUL26 from https://easylist.to/easylist/easylist.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -9,54 +9,53 @@
 
 0.0.0.0 ad.moe.video
 0.0.0.0 alitems.com
-0.0.0.0 anguishmoss.cfd
+0.0.0.0 andhrapanful.cfd
 0.0.0.0 a.omappapi.com
 0.0.0.0 asg.prettytube.net
-0.0.0.0 bakepurdy.cfd
-0.0.0.0 bavingoiters.cfd
-0.0.0.0 bepearlrupaliquors.cfd
-0.0.0.0 bootfulfuel.qpon
+0.0.0.0 baboolpeenge.qpon
+0.0.0.0 beneluxfreshed.shop
 0.0.0.0 buyeasy.by
+0.0.0.0 capwalahee.com
 0.0.0.0 cdn.nuqwe.com
 0.0.0.0 cdn.viowrel.com
-0.0.0.0 chasteswapped.shop
-0.0.0.0 collopmessmen.qpon
-0.0.0.0 corcasshanked.shop
 0.0.0.0 cpm.appocean.media
-0.0.0.0 ekjjvwrdbm.com
+0.0.0.0 dobldiaene.qpon
+0.0.0.0 dsnucs.com
 0.0.0.0 engine.eroge.com
+0.0.0.0 enrichbovate.cyou
+0.0.0.0 exodiumriveter.com
 0.0.0.0 f5w.prettytube.net
-0.0.0.0 ffkkkjcmijopt.online
-0.0.0.0 fzymwqgoauaoi.space
-0.0.0.0 glcspxxpogkrq.online
-0.0.0.0 gmnrndtdliili.website
+0.0.0.0 fratryvitialracemed.cfd
 0.0.0.0 go.bloxplay.com
-0.0.0.0 gsvivtmqymphr.website
-0.0.0.0 hgyaneeqozbcd.website
-0.0.0.0 hjtkbmvkjiwlm.online
 0.0.0.0 imasdk.googleapis.com
-0.0.0.0 kniazistopen.cyou
-0.0.0.0 koboldmoreish.com
-0.0.0.0 kohencupania.cfd
-0.0.0.0 lampoonfishet.cfd
+0.0.0.0 ioobtchinryox.online
+0.0.0.0 irknpnfdnonck.website
+0.0.0.0 iyjnlvwxkmipw.online
+0.0.0.0 izchmydrokftv.site
+0.0.0.0 jamxwvtbcgivl.website
+0.0.0.0 jbdwcucmcuowz.website
+0.0.0.0 juyhtjlyehgcl.website
 0.0.0.0 link.link.ru
 0.0.0.0 loadercdn.com
 0.0.0.0 monetag.com
 0.0.0.0 mweb-hb.presage.io
+0.0.0.0 pelhamcobwork.cyou
 0.0.0.0 pips.taboola.com
 0.0.0.0 pirogad.tophosting101.com
 0.0.0.0 prebid.cwi.re
 0.0.0.0 proto2ad.durasite.net
-0.0.0.0 pummelarecas.qpon
+0.0.0.0 pttbesagne.qpon
+0.0.0.0 purloinalines.qpon
 0.0.0.0 retailmedia-static.criteo.com
-0.0.0.0 rhyminglrecl.shop
+0.0.0.0 roilierastheny.cyou
 0.0.0.0 s.dsabva.com
-0.0.0.0 skydoveunwhole.shop
+0.0.0.0 shebuzzier.qpon
+0.0.0.0 simpulacootie.shop
 0.0.0.0 srv.tunefindforfans.com
 0.0.0.0 sync.gsyndication.com
 0.0.0.0 targeting.vdo.ai
 0.0.0.0 unpin.hothomefuck.com
+0.0.0.0 unweptamyris.cfd
 0.0.0.0 vi1.prettytube.net
 0.0.0.0 videoplaza.tv
-0.0.0.0 whyfordir.com
 0.0.0.0 wpnrtnmrewunrtok.xyz
