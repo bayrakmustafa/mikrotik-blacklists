@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 24JUL26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 31JUL26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -2878,6 +2878,7 @@
 0.0.0.0 allergy.thermofisher.com
 0.0.0.0 alliantdata.actonservice.com
 0.0.0.0 alliedfundingcorp.actonservice.com
+0.0.0.0 alloy-rap.reclameaqui.com.br
 0.0.0.0 allreach.actonservice.com
 0.0.0.0 allrisks.actonservice.com
 0.0.0.0 allstarfg.actonservice.com
@@ -3041,6 +3042,7 @@
 0.0.0.0 analytics-ssl.allconnect.com
 0.0.0.0 analytics-ssl.seton.co.uk
 0.0.0.0 analytics.superstation.com
+0.0.0.0 analytics.tempy.email
 0.0.0.0 analytics.ticinolibero.ch
 0.0.0.0 analytics.tntsports.com
 0.0.0.0 analytics.tomato.gg
@@ -4961,7 +4963,6 @@
 0.0.0.0 da.hornbach.sk
 0.0.0.0 daifez.thebay.com
 0.0.0.0 danielsmoving.actonservice.com
-0.0.0.0 dap.hindustantimes.com
 0.0.0.0 d-app.progressive.com
 0.0.0.0 dart.onjoyri.de
 0.0.0.0 dashboardbntest.branchcustom.xyz
@@ -6443,6 +6444,7 @@
 0.0.0.0 go.app.sharekey.com
 0.0.0.0 go.asian.mingle.com
 0.0.0.0 go.askbee.my
+0.0.0.0 goatcounter.ssp.sh
 0.0.0.0 go.audacy.com
 0.0.0.0 go.augin.app
 0.0.0.0 go.aussie.mingle.com
@@ -9872,6 +9874,7 @@
 0.0.0.0 mm.morrellinc.com
 0.0.0.0 m.moomoo.com
 0.0.0.0 mm.openapp.link
+0.0.0.0 mm-uxrv.com
 0.0.0.0 m.mylifetime.com
 0.0.0.0 m.natural.ai
 0.0.0.0 m.navi.com
@@ -10192,6 +10195,7 @@
 0.0.0.0 o.j2global.com
 0.0.0.0 oj.brothercloud.com
 0.0.0.0 okto1.spsglobal.com
+0.0.0.0 ol-collector.quillbot.com
 0.0.0.0 olhqou.realsimple.com
 0.0.0.0 olpmni.acer.com
 0.0.0.0 olspyo.laredoute.co.uk
@@ -10618,6 +10622,7 @@
 0.0.0.0 p.midbound.click
 0.0.0.0 p.midbound.net
 0.0.0.0 p.minds.com
+0.0.0.0 pocustrack.com
 0.0.0.0 poczta.carte-gr.total.fr
 0.0.0.0 poczta.happ.social
 0.0.0.0 podbooth.martela.com
@@ -12201,6 +12206,7 @@
 0.0.0.0 smetric.volkswagen-veicolicommerciali.it
 0.0.0.0 smf.southernmetalfab.com
 0.0.0.0 sm.groc.press
+0.0.0.0 smrtwheel.com
 0.0.0.0 sms.3.se
 0.0.0.0 sms.ajopharmabeta.riteaid.com
 0.0.0.0 sms.cf.labanquepostale.fr
@@ -12694,6 +12700,7 @@
 0.0.0.0 stats.oyster.com
 0.0.0.0 stats.p42.ai
 0.0.0.0 stats.pacificdentalservices.com
+0.0.0.0 stats.panet.com
 0.0.0.0 stats.patout.dev
 0.0.0.0 stats.philjava.com
 0.0.0.0 stats.phoenix-widget.com

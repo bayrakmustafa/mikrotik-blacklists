@@ -1,5 +1,5 @@
 # Easylist, parsed and mirrored by https://firebog.net
-# Updated 24JUL26 from https://easylist.to/easylist/easylist.txt
+# Updated 31JUL26 from https://easylist.to/easylist/easylist.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -9,53 +9,52 @@
 
 0.0.0.0 ad.moe.video
 0.0.0.0 alitems.com
-0.0.0.0 andhrapanful.cfd
 0.0.0.0 a.omappapi.com
 0.0.0.0 asg.prettytube.net
-0.0.0.0 baboolpeenge.qpon
-0.0.0.0 beneluxfreshed.shop
+0.0.0.0 aviecayman.qpon
 0.0.0.0 buyeasy.by
-0.0.0.0 capwalahee.com
 0.0.0.0 cdn.nuqwe.com
 0.0.0.0 cdn.viowrel.com
+0.0.0.0 chavelscarola.cyou
+0.0.0.0 chromosbuckpot.cfd
 0.0.0.0 cpm.appocean.media
-0.0.0.0 dobldiaene.qpon
-0.0.0.0 dsnucs.com
 0.0.0.0 engine.eroge.com
-0.0.0.0 enrichbovate.cyou
-0.0.0.0 exodiumriveter.com
 0.0.0.0 f5w.prettytube.net
-0.0.0.0 fratryvitialracemed.cfd
+0.0.0.0 ferrissuzan.qpon
+0.0.0.0 gewjleqnsivvn.site
+0.0.0.0 ggnrpjdwuwoeq.website
 0.0.0.0 go.bloxplay.com
+0.0.0.0 iktfggmhqf.com
+0.0.0.0 ilukzknzwcxrf.website
 0.0.0.0 imasdk.googleapis.com
-0.0.0.0 ioobtchinryox.online
-0.0.0.0 irknpnfdnonck.website
-0.0.0.0 iyjnlvwxkmipw.online
-0.0.0.0 izchmydrokftv.site
-0.0.0.0 jamxwvtbcgivl.website
-0.0.0.0 jbdwcucmcuowz.website
-0.0.0.0 juyhtjlyehgcl.website
+0.0.0.0 ingenuablepsy.qpon
+0.0.0.0 inhumeagamete.cfd
+0.0.0.0 isyyczzyjjomv.website
+0.0.0.0 jlbmbquodyvxr.site
 0.0.0.0 link.link.ru
 0.0.0.0 loadercdn.com
+0.0.0.0 loamierallice.cyou
+0.0.0.0 marvywaled.qpon
 0.0.0.0 monetag.com
 0.0.0.0 mweb-hb.presage.io
-0.0.0.0 pelhamcobwork.cyou
+0.0.0.0 orgicauldest.cfd
+0.0.0.0 piaskhaja.cfd
 0.0.0.0 pips.taboola.com
 0.0.0.0 pirogad.tophosting101.com
 0.0.0.0 prebid.cwi.re
 0.0.0.0 proto2ad.durasite.net
-0.0.0.0 pttbesagne.qpon
-0.0.0.0 purloinalines.qpon
 0.0.0.0 retailmedia-static.criteo.com
-0.0.0.0 roilierastheny.cyou
 0.0.0.0 s.dsabva.com
-0.0.0.0 shebuzzier.qpon
-0.0.0.0 simpulacootie.shop
+0.0.0.0 s.dsnucs.com
+0.0.0.0 shotmanwoodies.cyou
 0.0.0.0 srv.tunefindforfans.com
+0.0.0.0 sxoykqrysexu.com
 0.0.0.0 sync.gsyndication.com
 0.0.0.0 targeting.vdo.ai
+0.0.0.0 twilitwolfdomfalcer.qpon
 0.0.0.0 unpin.hothomefuck.com
-0.0.0.0 unweptamyris.cfd
 0.0.0.0 vi1.prettytube.net
 0.0.0.0 videoplaza.tv
+0.0.0.0 vilelaacridyl.shop
 0.0.0.0 wpnrtnmrewunrtok.xyz
+0.0.0.0 zappeddoltish.cfd
