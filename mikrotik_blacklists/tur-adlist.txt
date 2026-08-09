@@ -146,6 +146,7 @@
 0.0.0.0 efilli.com
 0.0.0.0 erkaseriilan.com.tr
 0.0.0.0 event.demirorenteknoloji.com
+0.0.0.0 events.getirapi.com
 0.0.0.0 fingersoft-log.scientificrevenue.com
 0.0.0.0 frknseo.info
 0.0.0.0 getshar.es
@@ -175,6 +176,7 @@
 0.0.0.0 installads2.com
 0.0.0.0 iosexy.com
 0.0.0.0 is.sabah.com.tr
+0.0.0.0 istat.izlesene.com
 0.0.0.0 istatistik.gazetevatan.com
 0.0.0.0 istatistik.milliyet.com.tr
 0.0.0.0 jeoldkhy.com

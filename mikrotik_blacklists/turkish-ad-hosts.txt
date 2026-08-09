@@ -316,6 +316,7 @@
 0.0.0.0 px-conf.perimeterx.net
 0.0.0.0 r.admob.com
 0.0.0.0 redis-end.tfla.xyz
+0.0.0.0 rek.izlesene.com
 0.0.0.0 reklam-bimcell.tk
 0.0.0.0 reklam1.hizliindirimlial.online
 0.0.0.0 reklam2.hizliindirimlial.online

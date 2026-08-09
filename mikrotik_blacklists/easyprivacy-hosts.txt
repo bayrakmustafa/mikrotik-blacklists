@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 31JUL26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 07AUG26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -6137,7 +6137,6 @@
 0.0.0.0 fpssl-monitor-dal.omniture.com
 0.0.0.0 fptls2.com
 0.0.0.0 fptls4.com
-0.0.0.0 fpt.microsoft.com
 0.0.0.0 fp-upload.dun.163.com
 0.0.0.0 fq9vy0muyqi3.www.madrigalmaps.com
 0.0.0.0 france.alphabet.com
@@ -6842,7 +6841,6 @@
 0.0.0.0 gsasolutionssecure.gsa.gov
 0.0.0.0 gsbygc.clarks.eu
 0.0.0.0 g.siliconweek.es
-0.0.0.0 gsitrix.com
 0.0.0.0 gsmqez.xcite.com
 0.0.0.0 gsol.edm.globalsources.com
 0.0.0.0 g.staging.pathsha.re
@@ -14189,6 +14187,8 @@
 0.0.0.0 ulutlv.esprit.fr
 0.0.0.0 umami.dev
 0.0.0.0 umami.flixer.su
+0.0.0.0 umami.spencerdevs.xyz
+0.0.0.0 umami.vidfast.pro
 0.0.0.0 umami.wakarimasen.moe
 0.0.0.0 um.contentstudio.io
 0.0.0.0 umiaob.kireibiz.jp
