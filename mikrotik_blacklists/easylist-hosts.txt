@@ -1,5 +1,5 @@
 # Easylist, parsed and mirrored by https://firebog.net
-# Updated 07AUG26 from https://easylist.to/easylist/easylist.txt
+# Updated 14AUG26 from https://easylist.to/easylist/easylist.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -7,64 +7,59 @@
 
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://github.com/easylist/easylist#list-issues
 
-0.0.0.0 6tnyeprnpy45rmr.rest
-0.0.0.0 abouliabembex.qpon
 0.0.0.0 ad.moe.video
-0.0.0.0 agonizebegorra.cfd
 0.0.0.0 alitems.com
-0.0.0.0 angloidalmanac.com
+0.0.0.0 amtyaqona.cfd
 0.0.0.0 a.omappapi.com
 0.0.0.0 asg.prettytube.net
+0.0.0.0 babumainvect.qpon
+0.0.0.0 batbwkbxpd.com
+0.0.0.0 boolyskeeter.cyou
 0.0.0.0 buyeasy.by
 0.0.0.0 cdn.nuqwe.com
 0.0.0.0 cdn.viowrel.com
+0.0.0.0 comartobeah.qpon
+0.0.0.0 corajigustful.qpon
+0.0.0.0 corveesleges.cfd
 0.0.0.0 cpm.appocean.media
-0.0.0.0 crinkhartall.cyou
-0.0.0.0 dekkopinolin.com
-0.0.0.0 diffgremio.com
-0.0.0.0 emptypattern.pro
+0.0.0.0 darlingyechs.qpon
 0.0.0.0 engine.eroge.com
-0.0.0.0 eygfyette.com
 0.0.0.0 f5w.prettytube.net
-0.0.0.0 fawnoverfat.shop
-0.0.0.0 fhvyuazvzyzsp.space
-0.0.0.0 gamefulagefats.cyou
-0.0.0.0 ggavygretudni.website
 0.0.0.0 go.bloxplay.com
-0.0.0.0 hsyzcqjwxkjiy.site
-0.0.0.0 huffyteraohm.qpon
-0.0.0.0 hvactanxaqdbr.website
 0.0.0.0 imasdk.googleapis.com
-0.0.0.0 jvblsrsnmrhzi.site
-0.0.0.0 kltzthsxrdsug.website
-0.0.0.0 larveetacism.cyou
+0.0.0.0 kumrahneese.cyou
 0.0.0.0 link.link.ru
+0.0.0.0 livelybreast.cfd
 0.0.0.0 loadercdn.com
+0.0.0.0 m3crgmeycmu51hk5hq87b4r.rest
 0.0.0.0 monetag.com
 0.0.0.0 mweb-hb.presage.io
+0.0.0.0 nygidnqwvcmeu.space
+0.0.0.0 oyluepai.com
+0.0.0.0 peuhlwarine.cyou
+0.0.0.0 phirozepilau.cyou
 0.0.0.0 pips.taboola.com
 0.0.0.0 pirogad.tophosting101.com
 0.0.0.0 prebid.cwi.re
 0.0.0.0 proto2ad.durasite.net
-0.0.0.0 pudencygannet.qpon
-0.0.0.0 qiqpiptj.com
-0.0.0.0 quartannavessolutio.cyou
-0.0.0.0 rdfnifmfmdq.com
-0.0.0.0 renewpeeves.shop
 0.0.0.0 retailmedia-static.criteo.com
-0.0.0.0 sailageliangle.shop
+0.0.0.0 rznkohtdshknm.site
+0.0.0.0 sarodsleechy.cfd
+0.0.0.0 satiricursolichuk.cyou
+0.0.0.0 scwnhwhphhapp.space
 0.0.0.0 s.dsabva.com
 0.0.0.0 s.dsnucs.com
+0.0.0.0 sgwscuhzsqgey.online
+0.0.0.0 sortallav.com
 0.0.0.0 srv.tunefindforfans.com
+0.0.0.0 stoppedvapour.cfd
+0.0.0.0 sumugwdriwrsf.site
 0.0.0.0 sync.gsyndication.com
-0.0.0.0 takablehang.cfd
 0.0.0.0 targeting.vdo.ai
-0.0.0.0 tildesaztecs.qpon
-0.0.0.0 unobeseownness.cfd
+0.0.0.0 tmlhmihwqzcfmoonp9gw.cfd
+0.0.0.0 ulexsporule.qpon
 0.0.0.0 unpin.hothomefuck.com
 0.0.0.0 vi1.prettytube.net
 0.0.0.0 videoplaza.tv
-0.0.0.0 viersflunked.cfd
-0.0.0.0 worritrecocks.qpon
 0.0.0.0 wpnrtnmrewunrtok.xyz
-0.0.0.0 xrvrcqqfopcxiq.com
+0.0.0.0 wshohxivblqwv.website

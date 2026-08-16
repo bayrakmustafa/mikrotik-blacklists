@@ -45,7 +45,6 @@
 0.0.0.0 ads-rouge.haber7.com
 0.0.0.0 ads-wordego.azureedge.net
 0.0.0.0 ads.ak.facebook.com.edgesuite.net
-0.0.0.0 ads.code.com.tr
 0.0.0.0 ads.converge-digital.com
 0.0.0.0 ads.dt.mydas.mobi
 0.0.0.0 ads.finzoom.com.tr
@@ -74,7 +73,7 @@
 0.0.0.0 advs2sonline.goforandroid.com
 0.0.0.0 adx.ligadx.com
 0.0.0.0 ae.dmxleo.com
-0.0.0.0 affiliatenetworkhq.com
+0.0.0.0 affiliates.babylon.com
 0.0.0.0 affiliates.scorbet12.com
 0.0.0.0 aj2373.online
 0.0.0.0 ajansblue.net
@@ -134,6 +133,7 @@
 0.0.0.0 cmt.setrowid.com
 0.0.0.0 cntadvertising.com
 0.0.0.0 code.createjs.com
+0.0.0.0 code.jivosite.com
 0.0.0.0 collect-test.arabam.com
 0.0.0.0 collector.puhutv.com
 0.0.0.0 cookiebar.eticaret.com
@@ -163,6 +163,7 @@
 0.0.0.0 hit.demirorenteknoloji.com
 0.0.0.0 hit.dogannet.tv
 0.0.0.0 hit.duhnet.tv
+0.0.0.0 hit.gemius.pl
 0.0.0.0 hits.acunn.com
 0.0.0.0 hizlipop.com
 0.0.0.0 hizlireklam.com
@@ -175,8 +176,10 @@
 0.0.0.0 installadpro.com
 0.0.0.0 installads2.com
 0.0.0.0 iosexy.com
+0.0.0.0 ipcheck.tmgrup.com.tr
 0.0.0.0 is.sabah.com.tr
 0.0.0.0 istat.izlesene.com
+0.0.0.0 istat.nktcdn.com
 0.0.0.0 istatistik.gazetevatan.com
 0.0.0.0 istatistik.milliyet.com.tr
 0.0.0.0 jeoldkhy.com
@@ -267,6 +270,7 @@
 0.0.0.0 sadecereklam.net
 0.0.0.0 sam.setimedia.com
 0.0.0.0 savoybettingcustomer.com
+0.0.0.0 sdk.privacy-center.org
 0.0.0.0 searchanalytics.turkcell.com.tr
 0.0.0.0 serve-sys.com
 0.0.0.0 slhgfdsir.com
@@ -334,5 +338,6 @@
 0.0.0.0 yes999.ml
 0.0.0.0 yes999.tk
 0.0.0.0 yfzbn.com
+0.0.0.0 youtube.2cnt.net
 0.0.0.0 youtubex.top
 0.0.0.0 zafrc.5780.site

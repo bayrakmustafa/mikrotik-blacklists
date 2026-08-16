@@ -1,3 +1,4 @@
+0.0.0.0 maroohost.online
 0.0.0.0 clicks.affstrack.com
 0.0.0.0 cdnservice.ink
 0.0.0.0 getprocrack.net
@@ -8,13 +9,22 @@
 0.0.0.0 fanbox.autos
 0.0.0.0 claude-ai.cyou
 0.0.0.0 irie3.net
+0.0.0.0 meguri-eye.net
+0.0.0.0 okai.work
 0.0.0.0 foundate-core.net
 0.0.0.0 lovemelo.net
 0.0.0.0 daddyclub.net
 0.0.0.0 n43vr.com
+0.0.0.0 atelier-goo.net
+0.0.0.0 atelier-post.net
+0.0.0.0 atelier-s2.net
+0.0.0.0 atelier-tokyo.net
+0.0.0.0 atelier-www.net
+0.0.0.0 lustsexloveclub.vip
 0.0.0.0 passionsex.vip
 0.0.0.0 sma-lita.site
 0.0.0.0 viruswarning*.web.core.windows.net
+0.0.0.0 auth-code-verif.beer
 0.0.0.0 vnote-*.myqcloud.com
 0.0.0.0 testra*-covid.weebly.com
 0.0.0.0 fgt.ive.mybluehost.me
@@ -135,6 +145,7 @@
 0.0.0.0 verification-module-v*.b-cdn.net
 0.0.0.0 verifyyourself-*system.b-cdn.net
 0.0.0.0 weoidnet*.b-cdn.net
+0.0.0.0 airupgreece.net
 0.0.0.0 getalia.org
 0.0.0.0 irs.gov.*.com
 0.0.0.0 e-navy*.weebly.com
@@ -171,6 +182,7 @@
 0.0.0.0 easybits.cc
 0.0.0.0 cnangelly.online
 0.0.0.0 ff-exchange.space
+0.0.0.0 pancake-exchange.org
 0.0.0.0 simplesvvvap.cyou
 0.0.0.0 nowchange.cyou
 0.0.0.0 fixedfloat.ac

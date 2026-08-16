@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 07AUG26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 14AUG26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -3042,7 +3042,6 @@
 0.0.0.0 analytics-ssl.allconnect.com
 0.0.0.0 analytics-ssl.seton.co.uk
 0.0.0.0 analytics.superstation.com
-0.0.0.0 analytics.tempy.email
 0.0.0.0 analytics.ticinolibero.ch
 0.0.0.0 analytics.tntsports.com
 0.0.0.0 analytics.tomato.gg
@@ -3084,6 +3083,7 @@
 0.0.0.0 ans.worldbaseballclassic.com
 0.0.0.0 ans.yesnetwork.com
 0.0.0.0 an.theblaze.com
+0.0.0.0 antibot.wildberries.ru
 0.0.0.0 antico.openapp.link
 0.0.0.0 antonsystems.actonservice.com
 0.0.0.0 an.yesnetwork.com
@@ -4549,7 +4549,6 @@
 0.0.0.0 click.uol.com.br
 0.0.0.0 click.vocus.com
 0.0.0.0 clientlog.music.163.com
-0.0.0.0 client-logs-a.wbx2.com
 0.0.0.0 clients.belairdirect.com
 0.0.0.0 clients.intact.ca
 0.0.0.0 clients.nbc-insurance.ca
@@ -4741,7 +4740,6 @@
 0.0.0.0 connect.zebra.com
 0.0.0.0 consent.clientemais.paodeacucar.com
 0.0.0.0 consent.online.paodeacucar.com
-0.0.0.0 console-telemetry.oci.oraclecloud.com
 0.0.0.0 consumer.equifax.com
 0.0.0.0 contact.abc-companies.com
 0.0.0.0 contact.assaydepot.com
@@ -5035,6 +5033,7 @@
 0.0.0.0 data.ouigo.com
 0.0.0.0 data.pharmacyservices.riteaid.com
 0.0.0.0 data.pisos.com
+0.0.0.0 data.promo.timhortons.ca
 0.0.0.0 data.purchase.riteaid.com
 0.0.0.0 data.reactandshare.com
 0.0.0.0 data.rewards.riteaid.com
@@ -5503,6 +5502,7 @@
 0.0.0.0 edge.history.ca
 0.0.0.0 edge.staging.fullstory.com
 0.0.0.0 edge.sterlingcapital.com
+0.0.0.0 edge.venatusmedia.com
 0.0.0.0 edm.healthroundtable.org
 0.0.0.0 edpsmart.edpcomunicacao.com.br
 0.0.0.0 edriving.actonservice.com
@@ -6837,6 +6837,7 @@
 0.0.0.0 grow.national.biz
 0.0.0.0 growth-channel.net
 0.0.0.0 growthmodemarketing.actonservice.com
+0.0.0.0 grow.urbandictionary.network
 0.0.0.0 grzhwl.adiamor.com
 0.0.0.0 gsasolutionssecure.gsa.gov
 0.0.0.0 gsbygc.clarks.eu
@@ -7061,6 +7062,7 @@
 0.0.0.0 idm.api.autohome.com.cn
 0.0.0.0 idrivelogistics.actonservice.com
 0.0.0.0 ids.actonservice.com
+0.0.0.0 idsequoia.ai
 0.0.0.0 idstatus.sky.com
 0.0.0.0 id-ward.com
 0.0.0.0 idx.lat
@@ -10620,7 +10622,6 @@
 0.0.0.0 p.midbound.click
 0.0.0.0 p.midbound.net
 0.0.0.0 p.minds.com
-0.0.0.0 pocustrack.com
 0.0.0.0 poczta.carte-gr.total.fr
 0.0.0.0 poczta.happ.social
 0.0.0.0 podbooth.martela.com
@@ -10945,7 +10946,6 @@
 0.0.0.0 request.idangels.org
 0.0.0.0 rertrc.abc-mart.net
 0.0.0.0 research.dshb.biology.uiowa.edu
-0.0.0.0 researchlog.dbresearch.com
 0.0.0.0 resetpassword.surepetcare.io
 0.0.0.0 resolution.taxdefensenetwork.com
 0.0.0.0 resources2.secureforms.mcafee.com
@@ -13543,6 +13543,7 @@
 0.0.0.0 tracking.schneider.com
 0.0.0.0 tracking.schokoladies.de
 0.0.0.0 tracking.sfitrucks.com
+0.0.0.0 tracking.shopstyle.com
 0.0.0.0 tracking.shop.verymobile.it
 0.0.0.0 tracking.sierrawireless.com
 0.0.0.0 tracking.singlestore.com
@@ -14087,9 +14088,7 @@
 0.0.0.0 try.popchart.family
 0.0.0.0 try.postmuseapp.com
 0.0.0.0 try.tableausoftware.com
-0.0.0.0 tsa-f.webex.com
 0.0.0.0 tsa.taxslayer.com
-0.0.0.0 tsa.webex.com
 0.0.0.0 t-s.cellcept.com
 0.0.0.0 t.service.thetimes.co.uk
 0.0.0.0 t-s.fuzeon.com
