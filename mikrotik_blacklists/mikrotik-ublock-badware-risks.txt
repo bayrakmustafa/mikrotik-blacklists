@@ -1,7 +1,6 @@
 0.0.0.0 maroohost.online
 0.0.0.0 clicks.affstrack.com
 0.0.0.0 cdnservice.ink
-0.0.0.0 getprocrack.net
 0.0.0.0 sonvupload.xyz
 0.0.0.0 modii.xyz
 0.0.0.0 appvip-download.cc
@@ -14,12 +13,12 @@
 0.0.0.0 foundate-core.net
 0.0.0.0 lovemelo.net
 0.0.0.0 daddyclub.net
-0.0.0.0 n43vr.com
 0.0.0.0 atelier-goo.net
 0.0.0.0 atelier-post.net
 0.0.0.0 atelier-s2.net
 0.0.0.0 atelier-tokyo.net
 0.0.0.0 atelier-www.net
+0.0.0.0 xaysjypt.com
 0.0.0.0 lustsexloveclub.vip
 0.0.0.0 passionsex.vip
 0.0.0.0 sma-lita.site
@@ -94,7 +93,6 @@
 0.0.0.0 facture-pdf-secure-*.vercel.app
 0.0.0.0 msoftupdate.*.linodeobjects.com
 0.0.0.0 outloksupport*.glitch.me
-0.0.0.0 scanlonchiro.com
 0.0.0.0 yah.ppl.mybluehost.me
 0.0.0.0 informed.delivery*.top
 0.0.0.0 spoti-safe-support*.codeanyapp.com
@@ -132,8 +130,6 @@
 0.0.0.0 nhantienquocte*.vercel.app
 0.0.0.0 westernunion*.wixsite.com
 0.0.0.0 marketplace-item-*.000.pe
-0.0.0.0 polyfill-js.cn
-0.0.0.0 livestreaming24.xyz
 0.0.0.0 ajmaboxanherulv*.b-cdn.net
 0.0.0.0 anti-automation-v*.b-cdn.net
 0.0.0.0 bot-check-v*.b-cdn.net
@@ -171,7 +167,6 @@
 0.0.0.0 xsuki*.pages.dev
 0.0.0.0 xblockchecker*.pages.dev
 0.0.0.0 spotify*.ct.ws
-0.0.0.0 smartdefend.net
 0.0.0.0 simpleswap.cyou
 0.0.0.0 simplesvvap.lol
 0.0.0.0 changelly.casa
@@ -180,7 +175,6 @@
 0.0.0.0 simpleswap.casa
 0.0.0.0 easybit.site
 0.0.0.0 easybits.cc
-0.0.0.0 cnangelly.online
 0.0.0.0 ff-exchange.space
 0.0.0.0 pancake-exchange.org
 0.0.0.0 simplesvvvap.cyou
@@ -191,7 +185,6 @@
 0.0.0.0 changenow-io.us
 0.0.0.0 electrum-data.cc
 0.0.0.0 ff-exchahge.cyou
-0.0.0.0 perfume-yupoo.ru
 0.0.0.0 yupoo.site
 0.0.0.0 yupoosunglasses.ru
 0.0.0.0 ff-excharge.cyou

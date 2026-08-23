@@ -143,7 +143,6 @@
 0.0.0.0 downads.com
 0.0.0.0 dygassets.dygdigital.com
 0.0.0.0 edgead.woomedya.com
-0.0.0.0 efilli.com
 0.0.0.0 erkaseriilan.com.tr
 0.0.0.0 event.demirorenteknoloji.com
 0.0.0.0 events.getirapi.com
@@ -172,7 +171,6 @@
 0.0.0.0 img.adnet.com.tr
 0.0.0.0 indirads.work
 0.0.0.0 indirdirek.org
-0.0.0.0 ingest.sentry.io
 0.0.0.0 installadpro.com
 0.0.0.0 installads2.com
 0.0.0.0 iosexy.com
@@ -210,7 +208,6 @@
 0.0.0.0 mediapeartree.com
 0.0.0.0 mkazanc.com
 0.0.0.0 mobile-crash.newrelic.com
-0.0.0.0 mobilure.com
 0.0.0.0 mobytrks.com
 0.0.0.0 n69adserv.com
 0.0.0.0 netbookmedia.com
