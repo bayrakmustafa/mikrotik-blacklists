@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 21AUG26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 28AUG26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -3813,6 +3813,7 @@
 0.0.0.0 bc34.wijnvoordeel.nl
 0.0.0.0 bcc-ltd.actonservice.com
 0.0.0.0 bcdllh.esprit.co.uk
+0.0.0.0 bcdn-16c9d93d.bankofscotland.co.uk
 0.0.0.0 bcfhva.tradingpost.com.au
 0.0.0.0 b.check-ins.com.my
 0.0.0.0 b.chme.io
@@ -4347,6 +4348,7 @@
 0.0.0.0 channelsignal.actonservice.com
 0.0.0.0 charms.pugster.com
 0.0.0.0 chartec.actonservice.com
+0.0.0.0 check2.bankofscotland.co.uk
 0.0.0.0 check2.lloydsbank.co.uk
 0.0.0.0 checkpointcharlie.heizung.de
 0.0.0.0 chef.getmenoo.com
@@ -12567,6 +12569,7 @@
 0.0.0.0 track.tom.com
 0.0.0.0 track-visit.monday.com
 0.0.0.0 trackv-test.esearchvision.com
+0.0.0.0 track.wesell.co.il
 0.0.0.0 track.workframe.com
 0.0.0.0 track.workfusion.com
 0.0.0.0 trac.roomster.com
@@ -13054,6 +13057,7 @@
 0.0.0.0 u1sdata.webullfintech.com
 0.0.0.0 u299.libelle-lekker.be
 0.0.0.0 u46.pnc.com
+0.0.0.0 u47.pnc.com
 0.0.0.0 uat-client.belairdirect.com
 0.0.0.0 uat-client.intact.ca
 0.0.0.0 uat-client.nbc-insurance.ca
@@ -13228,7 +13232,6 @@
 0.0.0.0 visitor.hotelex.cn
 0.0.0.0 visitorlando.actonsoftware.com
 0.0.0.0 visit.sendheirloom.com
-0.0.0.0 visit-server.inmobi-choice.io
 0.0.0.0 visit.tenplay.com.au
 0.0.0.0 visma.e-conomic.dk
 0.0.0.0 vismaturva.visma.fi

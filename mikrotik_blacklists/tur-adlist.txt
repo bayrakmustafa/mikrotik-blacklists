@@ -171,6 +171,7 @@
 0.0.0.0 img.adnet.com.tr
 0.0.0.0 indirads.work
 0.0.0.0 indirdirek.org
+0.0.0.0 ingest.sentry.io
 0.0.0.0 installadpro.com
 0.0.0.0 installads2.com
 0.0.0.0 iosexy.com
