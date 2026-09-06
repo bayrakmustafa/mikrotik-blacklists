@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 28AUG26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 04SEP26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4910,6 +4910,7 @@
 0.0.0.0 data.info.ultramotorhn.com
 0.0.0.0 data-ingest.xtralife.com
 0.0.0.0 data.jerkmate.com
+0.0.0.0 data.kameleoon.io
 0.0.0.0 datalayer.orange.fr
 0.0.0.0 data-logdelivery.wconcept.co.kr
 0.0.0.0 data.mailtest.lexmei.online
@@ -5287,6 +5288,7 @@
 0.0.0.0 d-snapshotapp.progressive.com
 0.0.0.0 d.sourcepoint.capitalfm.com
 0.0.0.0 dspx.tv
+0.0.0.0 dsspn.com
 0.0.0.0 d-staging.groc.press
 0.0.0.0 d.stay-app.com
 0.0.0.0 dtag.breadfinancial.com
@@ -5886,6 +5888,7 @@
 0.0.0.0 filmoljupci.com
 0.0.0.0 findyourinfluence.actonservice.com
 0.0.0.0 fipsta.worldfitness.de
+0.0.0.0 fireanalytics.firestream.to
 0.0.0.0 firstpac.actonservice.com
 0.0.0.0 fishing.daigostudio.com
 0.0.0.0 fiwinet.firmenwissen.com
@@ -6007,6 +6010,7 @@
 0.0.0.0 g4p.redtram.com
 0.0.0.0 g594253006.co
 0.0.0.0 g792337340.co
+0.0.0.0 g792337341.co
 0.0.0.0 g792337342.co
 0.0.0.0 g792337343.co
 0.0.0.0 g8715710740.co
@@ -8420,7 +8424,6 @@
 0.0.0.0 lmeniu.timberland.com.au
 0.0.0.0 lm.groc.press
 0.0.0.0 l.modesettravaux.fr
-0.0.0.0 lms.roblox.com
 0.0.0.0 l.m.tradiecore.com.au
 0.0.0.0 l.mydoki.app
 0.0.0.0 l.myvoleo.com
@@ -10056,7 +10059,6 @@
 0.0.0.0 qm.redbull.com
 0.0.0.0 q.nasdaq.com
 0.0.0.0 qntm.pro
-0.0.0.0 qovani.com
 0.0.0.0 qqwxxf.levi.co.kr
 0.0.0.0 qrcode.visit-thassos.com
 0.0.0.0 qreport.qunar.com
@@ -10174,7 +10176,6 @@
 0.0.0.0 remaxmetro369.myre.io
 0.0.0.0 remine.actonservice.com
 0.0.0.0 remote.carte-gr.total.fr
-0.0.0.0 remp-beam.golem.de
 0.0.0.0 remp.nv.ua
 0.0.0.0 renaultbankdirekt.efscle.com
 0.0.0.0 renting.aldautomotive.es
@@ -11169,6 +11170,7 @@
 0.0.0.0 smetrics.zexy-enmusubi.net
 0.0.0.0 smetrics.zexy-en-soudan.net
 0.0.0.0 sm.groc.press
+0.0.0.0 smoketester.com
 0.0.0.0 smrtwheel.com
 0.0.0.0 sms.3.se
 0.0.0.0 sms.ajopharmabeta.riteaid.com
@@ -11544,6 +11546,7 @@
 0.0.0.0 statsegg.cdngeek.com
 0.0.0.0 stats.equium.io
 0.0.0.0 stats.erlef.org
+0.0.0.0 stats.estrema.it
 0.0.0.0 stats.felipesere.com
 0.0.0.0 stats.femtobill.com
 0.0.0.0 stats.ferienwohnung-dombrowski.com
@@ -11922,7 +11925,6 @@
 0.0.0.0 t.beop.io
 0.0.0.0 t.birchlane.com
 0.0.0.0 t.blablacar.com
-0.0.0.0 tblcontent.com
 0.0.0.0 t.budweisergardens.com
 0.0.0.0 t.bukalapak.com
 0.0.0.0 t.bztest.origin.com.au
@@ -12160,7 +12162,6 @@
 0.0.0.0 tmx.td.com
 0.0.0.0 tmy8.madeindesign.ch
 0.0.0.0 t.nativendo.de
-0.0.0.0 t.nc0.co
 0.0.0.0 t.newsletter.thetimes.co.uk
 0.0.0.0 tnincvf1d1jl.de.themoneytizer.com
 0.0.0.0 tnt.yemeksepeti.com

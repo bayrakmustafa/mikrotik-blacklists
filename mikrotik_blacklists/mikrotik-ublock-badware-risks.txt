@@ -1,3 +1,4 @@
+0.0.0.0 s3blog.org
 0.0.0.0 maroohost.online
 0.0.0.0 clicks.affstrack.com
 0.0.0.0 cdnservice.ink
@@ -7,12 +8,19 @@
 0.0.0.0 fanbox.help
 0.0.0.0 fanbox.autos
 0.0.0.0 claude-ai.cyou
+0.0.0.0 cdn.streameet.top
 0.0.0.0 irie3.net
 0.0.0.0 meguri-eye.net
 0.0.0.0 okai.work
 0.0.0.0 foundate-core.net
+0.0.0.0 fure-ai.com
 0.0.0.0 lovemelo.net
+0.0.0.0 ccappu-ccinno.com
 0.0.0.0 daddyclub.net
+0.0.0.0 light678o.fun
+0.0.0.0 book234h.fun
+0.0.0.0 star789h.fun
+0.0.0.0 awesome-meeting.jp
 0.0.0.0 atelier-goo.net
 0.0.0.0 atelier-post.net
 0.0.0.0 atelier-s2.net
@@ -22,8 +30,12 @@
 0.0.0.0 lustsexloveclub.vip
 0.0.0.0 passionsex.vip
 0.0.0.0 sma-lita.site
+0.0.0.0 a-new86.com
 0.0.0.0 viruswarning*.web.core.windows.net
 0.0.0.0 auth-code-verif.beer
+0.0.0.0 chief-ignite.pro
+0.0.0.0 biscottirbh.lol
+0.0.0.0 faceit-account.com
 0.0.0.0 vnote-*.myqcloud.com
 0.0.0.0 testra*-covid.weebly.com
 0.0.0.0 fgt.ive.mybluehost.me
@@ -110,6 +122,7 @@
 0.0.0.0 llq.rsq.mybluehost.me
 0.0.0.0 mail.*-coinbase.com
 0.0.0.0 gawavalen.fun
+0.0.0.0 paticableharent.com
 0.0.0.0 lameo.buzz
 0.0.0.0 bitenve.cc
 0.0.0.0 pancakeswap-*.vercel.app
@@ -142,6 +155,7 @@
 0.0.0.0 verifyyourself-*system.b-cdn.net
 0.0.0.0 weoidnet*.b-cdn.net
 0.0.0.0 airupgreece.net
+0.0.0.0 tobias-neller.link
 0.0.0.0 getalia.org
 0.0.0.0 irs.gov.*.com
 0.0.0.0 e-navy*.weebly.com
@@ -154,10 +168,11 @@
 0.0.0.0 canpost.id-
 0.0.0.0 anpost.id-
 0.0.0.0 kveesh6.il-
+0.0.0.0 apply-todayjobs.com
 0.0.0.0 charliechaplin7eont.space
 0.0.0.0 ncewb8eo.cloud
-0.0.0.0 z-lib.ai
 0.0.0.0 z-library.cc
+0.0.0.0 my-exodus.co.uk
 0.0.0.0 phila.revenue*.cc
 0.0.0.0 client.*-blockfi.com
 0.0.0.0 simpleswap.ac
@@ -175,7 +190,11 @@
 0.0.0.0 simpleswap.casa
 0.0.0.0 easybit.site
 0.0.0.0 easybits.cc
+0.0.0.0 ff-exchange.vip
+0.0.0.0 ff-exchange.cloud
+0.0.0.0 ff-exchange.help
 0.0.0.0 ff-exchange.space
+0.0.0.0 ff-exchange.me
 0.0.0.0 pancake-exchange.org
 0.0.0.0 simplesvvvap.cyou
 0.0.0.0 nowchange.cyou
@@ -209,6 +228,7 @@
 0.0.0.0 infinityweet.me
 0.0.0.0 degenlabs.org
 0.0.0.0 anyplacehere.online
+0.0.0.0 anyplacehere.art
 0.0.0.0 subscriptionprocess.im
 0.0.0.0 vexwin.gl
 0.0.0.0 cyrexmods.cc
@@ -249,6 +269,7 @@
 0.0.0.0 music-qishuiyinle.hl.cn
 0.0.0.0 sagou.com.cn
 0.0.0.0 studio-obs.net
+0.0.0.0 ultraviolence.buzz
 0.0.0.0 shrtweb.site
 0.0.0.0 legder.*.us.com
 0.0.0.0 shuru-baidu.com.cn

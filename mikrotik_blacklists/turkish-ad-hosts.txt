@@ -221,6 +221,7 @@
 0.0.0.0 id.hadron.ad.gt
 0.0.0.0 idx.liadm.com
 0.0.0.0 img.zemanta.com
+0.0.0.0 ing.api.datadroid.com
 0.0.0.0 instana.fibabanka.com.tr
 0.0.0.0 ipac.ctnsnet.com
 0.0.0.0 iscep-stories.commencis.com
@@ -399,6 +400,7 @@
 0.0.0.0 sgbm.info
 0.0.0.0 shb.richaudience.com
 0.0.0.0 showbet205.com
+0.0.0.0 shulugoo.net
 0.0.0.0 slidecaffeinecrown.com
 0.0.0.0 sm.rtb.mts.ru
 0.0.0.0 snigelweb-com.videoplayerhub.com
