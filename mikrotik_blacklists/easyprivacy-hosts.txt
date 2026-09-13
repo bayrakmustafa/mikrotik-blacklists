@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 04SEP26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 11SEP26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4767,7 +4767,6 @@
 0.0.0.0 c.stext.id
 0.0.0.0 cstm.baidu.com
 0.0.0.0 csvtu.bmolending.com
-0.0.0.0 csyqts.tmon.co.kr
 0.0.0.0 ctd.drivescore.com
 0.0.0.0 ct-dev.taskhuman.com
 0.0.0.0 ctg.actonservice.com
@@ -6843,7 +6842,6 @@
 0.0.0.0 idm.api.autohome.com.cn
 0.0.0.0 idrivelogistics.actonservice.com
 0.0.0.0 ids.actonservice.com
-0.0.0.0 idsequoia.ai
 0.0.0.0 idstatus.sky.com
 0.0.0.0 id-ward.com
 0.0.0.0 idx.lat
@@ -10242,7 +10240,6 @@
 0.0.0.0 rmmskb.fnacspectacles.com
 0.0.0.0 r.morons.us
 0.0.0.0 rmxhti.zpacks.com
-0.0.0.0 rnffgv.wemakeprice.com
 0.0.0.0 robotflowermobile.com
 0.0.0.0 rochelle.wantsext.me
 0.0.0.0 roiscs.actonservice.com
@@ -11170,7 +11167,6 @@
 0.0.0.0 smetrics.zexy-enmusubi.net
 0.0.0.0 smetrics.zexy-en-soudan.net
 0.0.0.0 sm.groc.press
-0.0.0.0 smoketester.com
 0.0.0.0 smrtwheel.com
 0.0.0.0 sms.3.se
 0.0.0.0 sms.ajopharmabeta.riteaid.com
@@ -13565,7 +13561,6 @@
 0.0.0.0 zjrbwb.markenschuhe.de
 0.0.0.0 zkebwy.copenhagenstudios.com
 0.0.0.0 zlgkpr.lottehotel.com
-0.0.0.0 zodalt.com
 0.0.0.0 zodxgk.lecoqsportif.com
 0.0.0.0 zombieslayer-alternate.kano.link
 0.0.0.0 zombieslayer.kano.link
