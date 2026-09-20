@@ -207,6 +207,7 @@
 0.0.0.0 madserv.net
 0.0.0.0 makroads.net
 0.0.0.0 marketing.turkiyefinans.com.tr
+0.0.0.0 med4ad.com
 0.0.0.0 media.betexperaff.com
 0.0.0.0 media.marsaffiliates.com
 0.0.0.0 media.opencandy.com

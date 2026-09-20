@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 11SEP26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 18SEP26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -4241,6 +4241,7 @@
 0.0.0.0 c6lc.pandasuite.io
 0.0.0.0 c917.pandasuite.io
 0.0.0.0 caapp.levi.com
+0.0.0.0 cactus.jd.com
 0.0.0.0 cactus.joybuy.com
 0.0.0.0 caderonline.bu.edu
 0.0.0.0 cadsuta.net
@@ -6704,6 +6705,7 @@
 0.0.0.0 hello.wellocution.com
 0.0.0.0 herbgreencolumn.com
 0.0.0.0 herbstarsbuilding.com
+0.0.0.0 hermes.jd.com
 0.0.0.0 hesconet.actonservice.com
 0.0.0.0 hf.forevernetworks.com
 0.0.0.0 hfmogh.piatradesign.ro
@@ -8467,6 +8469,7 @@
 0.0.0.0 logger.omio.com
 0.0.0.0 logger.rm.uol.com.br
 0.0.0.0 logger.uol.com.br
+0.0.0.0 log-h5.imdada.cn
 0.0.0.0 logicanalytics.io
 0.0.0.0 login.e-ticket.co.jp
 0.0.0.0 loginvsi.actonservice.com
@@ -8962,6 +8965,7 @@
 0.0.0.0 m.equinoxplus.com
 0.0.0.0 merchant-app.th3rdwave.coffee
 0.0.0.0 merchant.libertycarz.com
+0.0.0.0 mercury.jd.com
 0.0.0.0 mesalabs.actonservice.com
 0.0.0.0 mesure-pro.engie.fr
 0.0.0.0 met1.hp.com
@@ -12246,6 +12250,7 @@
 0.0.0.0 track.docusign.mx
 0.0.0.0 track.docusign.nl
 0.0.0.0 track.dunedinincomegrowth.co.uk
+0.0.0.0 track.dws.com
 0.0.0.0 track.dws.de
 0.0.0.0 track.eadv.it
 0.0.0.0 tracker.adbinead.com
@@ -13115,6 +13120,7 @@
 0.0.0.0 upload.euleriancdn.net
 0.0.0.0 upqmpu.leasingtime.de
 0.0.0.0 uptvmovies.uptv.com
+0.0.0.0 uranus.jd.com
 0.0.0.0 urbanairship.com
 0.0.0.0 ur.b.inhaabit.com
 0.0.0.0 url1020.keycollectorcomics.com
@@ -13392,6 +13398,7 @@
 0.0.0.0 wl.bl.frequentvalues.com.au
 0.0.0.0 wlct-one.de
 0.0.0.0 wlct-two.de
+0.0.0.0 wl.jd.com
 0.0.0.0 wlt-alice.de
 0.0.0.0 wlt-jupiter.de
 0.0.0.0 wlxhzn.godfreys.com.au
