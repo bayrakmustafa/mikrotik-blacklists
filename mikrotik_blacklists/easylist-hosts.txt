@@ -1,5 +1,5 @@
 # Easylist, parsed and mirrored by https://firebog.net
-# Updated 18SEP26 from https://easylist.to/easylist/easylist.txt
+# Updated 25SEP26 from https://easylist.to/easylist/easylist.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -8,57 +8,56 @@
 # If your issue IS STILL PRESENT when using uBlock/ABP/etc, you should request a correction at https://github.com/easylist/easylist#list-issues
 
 0.0.0.0 ad.moe.video
-0.0.0.0 alangebute.qpon
+0.0.0.0 agatanoxally.cyou
 0.0.0.0 alitems.com
-0.0.0.0 alonte.xyz
 0.0.0.0 a.omappapi.com
+0.0.0.0 aqpblccmofen.com
 0.0.0.0 asg.prettytube.net
-0.0.0.0 ayivisutjpb.com
-0.0.0.0 borismbergamo.cyou
 0.0.0.0 buyeasy.by
+0.0.0.0 caitesnoke.cfd
 0.0.0.0 cdn.nuqwe.com
 0.0.0.0 cdn.viowrel.com
-0.0.0.0 chowingtwains.qpon
+0.0.0.0 cipyhdjcfnfqm.website
 0.0.0.0 cpm.appocean.media
-0.0.0.0 csvdjyzennjjl.website
+0.0.0.0 cundreests.cfd
 0.0.0.0 engine.eroge.com
 0.0.0.0 f5w.prettytube.net
 0.0.0.0 gamingadlt.comdocument
-0.0.0.0 glopwalth.cyou
 0.0.0.0 go.bloxplay.com
-0.0.0.0 grrfeedqkfmbq.site
-0.0.0.0 handarmvallums.shop
-0.0.0.0 heartlycohorts.qpon
-0.0.0.0 hzscwkvnpmjbp.website
-0.0.0.0 iliaumokes.com
+0.0.0.0 guglioreq.cfd
 0.0.0.0 imasdk.googleapis.com
-0.0.0.0 jpavgtzkbjpwi.site
-0.0.0.0 justusclimesrighty.cfd
+0.0.0.0 jakocxxpvbvsw.site
+0.0.0.0 jbzmwqwljyaql.top
+0.0.0.0 ktqihtrrmslbx.site
 0.0.0.0 link.link.ru
 0.0.0.0 loadercdn.com
+0.0.0.0 mislainwerefox.cyou
 0.0.0.0 monetag.com
+0.0.0.0 mujrtojiwpwjx.online
 0.0.0.0 mweb-hb.presage.io
-0.0.0.0 oqpelffjccmjf.space
-0.0.0.0 ovallycasheen.qpon
+0.0.0.0 mymqacinupvcq.space
+0.0.0.0 ockerquotity.qpon
 0.0.0.0 pips.taboola.com
 0.0.0.0 pirogad.tophosting101.com
-0.0.0.0 pqqrncwfjorsv.site
+0.0.0.0 plumingsaeume.com
 0.0.0.0 prebid.cwi.re
 0.0.0.0 proto2ad.durasite.net
-0.0.0.0 quakeryarumin.cyou
+0.0.0.0 ptfbupormruwn.site
 0.0.0.0 record.betzillopartners.com
 0.0.0.0 record.thepokiespartners.com
 0.0.0.0 retailmedia-static.criteo.com
-0.0.0.0 revereazimide.shop
-0.0.0.0 rhexiastarful.qpon
-0.0.0.0 sabjkwfbzjeip.space
+0.0.0.0 rlykaibab.cyou
+0.0.0.0 saloopsphonerenigua.cfd
 0.0.0.0 s.dsabva.com
 0.0.0.0 s.dsnucs.com
 0.0.0.0 srv.tunefindforfans.com
+0.0.0.0 subareamerels.cyou
 0.0.0.0 sync.gsyndication.com
 0.0.0.0 targeting.vdo.ai
+0.0.0.0 uhlanmendole.qpon
 0.0.0.0 unpin.hothomefuck.com
+0.0.0.0 vesselwaxcomb.qpon
 0.0.0.0 vi1.prettytube.net
 0.0.0.0 videoplaza.tv
 0.0.0.0 wpnrtnmrewunrtok.xyz
-0.0.0.0 yarurachamar.qpon
+0.0.0.0 xcpepxtwlfwfq.space

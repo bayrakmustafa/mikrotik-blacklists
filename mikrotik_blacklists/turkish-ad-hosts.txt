@@ -400,7 +400,6 @@
 0.0.0.0 sgbm.info
 0.0.0.0 shb.richaudience.com
 0.0.0.0 showbet205.com
-0.0.0.0 shulugoo.net
 0.0.0.0 slidecaffeinecrown.com
 0.0.0.0 sm.rtb.mts.ru
 0.0.0.0 snigelweb-com.videoplayerhub.com
@@ -460,6 +459,7 @@
 0.0.0.0 tubestatic.usco1621-b.com
 0.0.0.0 twinrdsyte.com
 0.0.0.0 twitterhalkreklam.com
+0.0.0.0 u1102.com
 0.0.0.0 u10506.19.spylog.com
 0.0.0.0 u3401.26.spylog.com
 0.0.0.0 ua.realtimely.io
@@ -469,7 +469,6 @@
 0.0.0.0 unileverna.tt.omtrdc.net
 0.0.0.0 uno.rub88677win.xyz
 0.0.0.0 unsubscribe.prod.leanplum.com
-0.0.0.0 untropiuson.com
 0.0.0.0 up.clickiocdn.com
 0.0.0.0 urbandictionary-com.videoplayerhub.com
 0.0.0.0 us-west1.cdngcloud.com
@@ -506,5 +505,4 @@
 0.0.0.0 yandex-dmp-sync.rutarget.ru
 0.0.0.0 yandex-sync.rutarget.ru
 0.0.0.0 youtube.cleverads.vn
-0.0.0.0 zeekaihu.net
 0.0.0.0 zpbpenn.com

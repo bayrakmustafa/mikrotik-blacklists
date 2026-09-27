@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 18SEP26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 25SEP26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -3055,6 +3055,7 @@
 0.0.0.0 apiwmda.58.com.cn
 0.0.0.0 apllogistics.actonservice.com
 0.0.0.0 apm.qwant.com
+0.0.0.0 apm-rum.inf.miui.com
 0.0.0.0 app.1112.com
 0.0.0.0 app1.maatwerkonline.nl
 0.0.0.0 app2.220cordncode.com
@@ -4728,6 +4729,7 @@
 0.0.0.0 counter.people.cn
 0.0.0.0 counters.libertaddigital.com
 0.0.0.0 count.gothaer-digital.de
+0.0.0.0 countly.mail.163.com
 0.0.0.0 count.upc.rakuten.co.jp
 0.0.0.0 covenant.psjhealth.org
 0.0.0.0 cpa.hh.ru
@@ -5216,6 +5218,7 @@
 0.0.0.0 dm-event.net
 0.0.0.0 dmkt.solutions.cas.org
 0.0.0.0 dmndfrcstng.com
+0.0.0.0 dmplog.qq.com
 0.0.0.0 dmqykw.thirtymall.com
 0.0.0.0 dm-target.fishersci.com
 0.0.0.0 d.nativendo.de
@@ -7535,6 +7538,8 @@
 0.0.0.0 l.e.domain.com.au
 0.0.0.0 leecompany.actonservice.com
 0.0.0.0 legalhold.ediscovery.com
+0.0.0.0 lego-tech.zhuanzhuan.com
+0.0.0.0 lego.zhuanzhuan.com
 0.0.0.0 lemonpi.io
 0.0.0.0 l.engage.canva.com
 0.0.0.0 l.entrenous.fr
@@ -8481,6 +8486,8 @@
 0.0.0.0 log.ren.tv
 0.0.0.0 log.rhythmtowers.com
 0.0.0.0 logs.adplay.ru
+0.0.0.0 logs.game.qq.com
+0.0.0.0 logs-ingester.prod.zuddl.com
 0.0.0.0 logs.kaya.delfi.ee
 0.0.0.0 logs.naukri.com
 0.0.0.0 logstash-3.radio-canada.ca
@@ -9513,6 +9520,9 @@
 0.0.0.0 omadi.actonservice.com
 0.0.0.0 ometrics.ameds.com
 0.0.0.0 omgcreative.actonservice.com
+0.0.0.0 omgup1.xiaojukeji.com
+0.0.0.0 omgup.didiglobal.com
+0.0.0.0 omgup.xiaojukeji.com
 0.0.0.0 omni.dxc.com
 0.0.0.0 omni.dxc.technology
 0.0.0.0 omni.elearners.com
@@ -10379,6 +10389,7 @@
 0.0.0.0 script.ac
 0.0.0.0 scuvcc.sportmax.com
 0.0.0.0 sc.wa.gto.db.com
+0.0.0.0 sdata.chatglm.cn
 0.0.0.0 sdc.firststatesuper.com.au
 0.0.0.0 sdc.risikolebensversicherungen.com
 0.0.0.0 s.dc-tag.jp
@@ -11766,6 +11777,7 @@
 0.0.0.0 store.esquirrel.at
 0.0.0.0 stormwind.actonservice.com
 0.0.0.0 s.toyotafinancial.com
+0.0.0.0 stpc.vivo.com.cn
 0.0.0.0 st.picshuffle.com
 0.0.0.0 str1kee.com
 0.0.0.0 strack.store.manutd.com
@@ -11775,6 +11787,7 @@
 0.0.0.0 str.foodnetwork.ca
 0.0.0.0 st.sawlive.tv
 0.0.0.0 st.s-bahn-muenchen-magazin.de
+0.0.0.0 st-sentinel.vivo.com.cn
 0.0.0.0 sts.papyrs.com
 0.0.0.0 sts.tour-europe.org
 0.0.0.0 stt.deakin.edu.au
@@ -12067,6 +12080,7 @@
 0.0.0.0 te.your-look-for-less.se
 0.0.0.0 t.factorform.com
 0.0.0.0 t.fairparkdallas.com
+0.0.0.0 t.flickr.com
 0.0.0.0 t.freelancer.com
 0.0.0.0 tfuodg.memolife.de
 0.0.0.0 t.gazetteer.co
@@ -12123,6 +12137,7 @@
 0.0.0.0 tk.balenciaga.com
 0.0.0.0 tk.bricoprive.com
 0.0.0.0 tk.cadeaux.com
+0.0.0.0 tk.d.mi.com
 0.0.0.0 tk.france-abonnements.fr
 0.0.0.0 tk.interflora.fr
 0.0.0.0 tk.jeux.loro.ch
@@ -12174,7 +12189,9 @@
 0.0.0.0 to.figr.me
 0.0.0.0 to.golfn.app
 0.0.0.0 tommys.openapp.link
+0.0.0.0 tongji.duote.com
 0.0.0.0 tongji.mafengwo.cn
+0.0.0.0 tongji.meizu.com
 0.0.0.0 tongji-res.meizu.com
 0.0.0.0 tongji.techweb.com.cn
 0.0.0.0 tongji.xinmin.cn
@@ -12547,6 +12564,7 @@
 0.0.0.0 track.invtrusts.co.uk
 0.0.0.0 track.ivia.com
 0.0.0.0 track.kinetiksoft.com
+0.0.0.0 track.lenovo.com.cn
 0.0.0.0 track.magazineluiza.com.br
 0.0.0.0 track-mail.homage.co
 0.0.0.0 track.murray-income.co.uk
@@ -13203,6 +13221,7 @@
 0.0.0.0 verify.test.spin.app
 0.0.0.0 verizon-branch.locationlabs.com
 0.0.0.0 vertexcs.actonservice.com
+0.0.0.0 veselchaga.link
 0.0.0.0 vetsource.actonservice.com
 0.0.0.0 ve.velocityclinical.com
 0.0.0.0 vfd2dyn.vodafone.de

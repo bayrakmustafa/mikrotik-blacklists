@@ -53,20 +53,17 @@
 0.0.0.0 ads.kiosked.com
 0.0.0.0 ads.macskorlari.net
 0.0.0.0 ads.modabetaff.com
-0.0.0.0 ads.sabah.com.tr
 0.0.0.0 ads.skorfikstur.com
 0.0.0.0 ads.usa-media.net
 0.0.0.0 ads.videonap.com
 0.0.0.0 ads.wordego.com
 0.0.0.0 ads.yenimedya.net
-0.0.0.0 ads5.sabah.com.tr
 0.0.0.0 adsbetkoy.com
 0.0.0.0 adserver.adklik.com.tr
 0.0.0.0 adserver.advrstcdn.com
 0.0.0.0 adserver.tagon.co
 0.0.0.0 adserver.tutkusunucu.com
 0.0.0.0 adshare3.freedocast.com
-0.0.0.0 adsim.sabah.com.tr
 0.0.0.0 adsonflags.com
 0.0.0.0 adsupp.network
 0.0.0.0 advonline.goforandroid.com
@@ -180,7 +177,6 @@
 0.0.0.0 installads2.com
 0.0.0.0 iosexy.com
 0.0.0.0 ipcheck.tmgrup.com.tr
-0.0.0.0 is.sabah.com.tr
 0.0.0.0 istat.izlesene.com
 0.0.0.0 istat.nktcdn.com
 0.0.0.0 istatistik.gazetevatan.com
@@ -241,7 +237,6 @@
 0.0.0.0 personaclick.com
 0.0.0.0 phorm.com.tr
 0.0.0.0 prebid.a-mo.net
-0.0.0.0 predatasrv.com
 0.0.0.0 ptreklam.com
 0.0.0.0 ptreklam.com.tr
 0.0.0.0 ptreklamcrv.com.tr
