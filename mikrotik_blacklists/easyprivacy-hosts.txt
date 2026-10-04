@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 25SEP26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 02OCT26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -3929,6 +3929,7 @@
 0.0.0.0 bmly.impots.gouv.fr
 0.0.0.0 bmnr.pw
 0.0.0.0 bmst.pw
+0.0.0.0 bmtrcs.com
 0.0.0.0 b.nativendo.de
 0.0.0.0 bnc.autopass.xyz
 0.0.0.0 bnc.chewchunks.com
@@ -4757,6 +4758,7 @@
 0.0.0.0 cr-relay.com
 0.0.0.0 crrm.onjoyri.de
 0.0.0.0 crs.actonservice.com
+0.0.0.0 crta.dailymail.com
 0.0.0.0 crumbs.robinhood.com
 0.0.0.0 crypto.egghead.link
 0.0.0.0 cs42.pikabu.ru
@@ -6731,7 +6733,6 @@
 0.0.0.0 hitachi-hightech-as.actonservice.com
 0.0.0.0 hit.cnbce.com
 0.0.0.0 hits.antena3.com
-0.0.0.0 hits.letras.mus.br
 0.0.0.0 hits.porn.fr
 0.0.0.0 hits.zdnet.co.kr
 0.0.0.0 hiuplq.diretta.it
@@ -8481,13 +8482,13 @@
 0.0.0.0 logistics.coyote.com
 0.0.0.0 loglady.kiwi.com
 0.0.0.0 log.mediacategory.com
+0.0.0.0 log.news.baidu.com
 0.0.0.0 log.popin.cc
 0.0.0.0 log.rabobank.nl
 0.0.0.0 log.ren.tv
 0.0.0.0 log.rhythmtowers.com
 0.0.0.0 logs.adplay.ru
 0.0.0.0 logs.game.qq.com
-0.0.0.0 logs-ingester.prod.zuddl.com
 0.0.0.0 logs.kaya.delfi.ee
 0.0.0.0 logs.naukri.com
 0.0.0.0 logstash-3.radio-canada.ca
@@ -9438,6 +9439,7 @@
 0.0.0.0 nnobek.waschbaer.de
 0.0.0.0 no9pldds1lmn3.soundcloud.com
 0.0.0.0 nocaadobefpc.optus.com.au
+0.0.0.0 nodals.io
 0.0.0.0 nonprofit.aon.com
 0.0.0.0 noodle.backmarket.io
 0.0.0.0 nordics.atradius.com
@@ -10014,6 +10016,7 @@
 0.0.0.0 publicschoolworks.actonservice.com
 0.0.0.0 publish.tagstorm.com
 0.0.0.0 pulsar.ebay.com
+0.0.0.0 pulsepoint.ideal.house
 0.0.0.0 purcartz.com
 0.0.0.0 purple-hit.com
 0.0.0.0 purple.mongodb.com
@@ -10140,6 +10143,7 @@
 0.0.0.0 realsolutions.americanexpress.fr
 0.0.0.0 realsolutions.americanexpress.it
 0.0.0.0 realsolutions.americanexpress.se
+0.0.0.0 realtimeanalytics.yext.com
 0.0.0.0 realtime.bbcl.cl
 0.0.0.0 recoverypoint.actonservice.com
 0.0.0.0 recruiting.dukekunshan.edu.cn
@@ -13221,7 +13225,6 @@
 0.0.0.0 verify.test.spin.app
 0.0.0.0 verizon-branch.locationlabs.com
 0.0.0.0 vertexcs.actonservice.com
-0.0.0.0 veselchaga.link
 0.0.0.0 vetsource.actonservice.com
 0.0.0.0 ve.velocityclinical.com
 0.0.0.0 vfd2dyn.vodafone.de
