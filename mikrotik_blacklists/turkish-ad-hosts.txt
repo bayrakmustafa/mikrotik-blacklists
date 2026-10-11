@@ -82,6 +82,7 @@
 0.0.0.0 b-cdn.hurriyet.com.tr
 0.0.0.0 b-cdn.milliyet.com.tr
 0.0.0.0 b-cdn.posta.com.tr
+0.0.0.0 b-cdn.teve2.com.tr
 0.0.0.0 b-cdn-ign.do.brainsland.com
 0.0.0.0 backstory.ebay.co.uk
 0.0.0.0 backstory.ebay.com
@@ -292,6 +293,7 @@
 0.0.0.0 noti-eu.adsmoloco.com
 0.0.0.0 nquw.adj.st
 0.0.0.0 ntm.netmera-web.com
+0.0.0.0 nwwais.com
 0.0.0.0 o.gez.io
 0.0.0.0 oglenreklamiiaa.net
 0.0.0.0 oglenreklamiixs.net

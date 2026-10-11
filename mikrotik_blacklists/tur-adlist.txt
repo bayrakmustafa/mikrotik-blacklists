@@ -34,6 +34,7 @@
 0.0.0.0 adbuzz.com.tr
 0.0.0.0 adgain-publisher.com
 0.0.0.0 adimage.media
+0.0.0.0 admax.com.tr
 0.0.0.0 admdspc.com
 0.0.0.0 admitlead.ru
 0.0.0.0 adnet.com.tr
@@ -103,7 +104,6 @@
 0.0.0.0 betendads.com
 0.0.0.0 betzeplinreklam.com
 0.0.0.0 binaryad.com
-0.0.0.0 block.s2block.com
 0.0.0.0 bornobid.com
 0.0.0.0 buzzreklam.com
 0.0.0.0 cdn-highwinds.unityads.unity3d.com
@@ -302,7 +302,6 @@
 0.0.0.0 tr.bannersdf.com
 0.0.0.0 track.vitringez.com
 0.0.0.0 tracker-pm2.erosaffiliates.com
-0.0.0.0 tracking.content-recommendation.net
 0.0.0.0 tracking.opencandy.com
 0.0.0.0 tracking.redirect.pub
 0.0.0.0 tracking.rodimobi.com

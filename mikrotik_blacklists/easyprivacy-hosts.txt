@@ -1,5 +1,5 @@
 # Easyprivacy, parsed and mirrored by https://firebog.net
-# Updated 02OCT26 from https://easylist.to/easylist/easyprivacy.txt
+# Updated 09OCT26 from https://easylist.to/easylist/easyprivacy.txt
 
 # This is sourced from an "adblock" style list which is flat-out NOT designed to work with DNS sinkholes
 # There WILL be mistakes with how this is parsed, due to how domain names are extracted and exceptions handled
@@ -2926,6 +2926,7 @@
 0.0.0.0 amo.myoyster.mx
 0.0.0.0 ampltd.medal.tv
 0.0.0.0 ams.lelong.com.my
+0.0.0.0 amspbs.com
 0.0.0.0 amsunsolar.actonservice.com
 0.0.0.0 ana.e-ticket.co.jp
 0.0.0.0 anal.baseserv.com
@@ -4323,6 +4324,7 @@
 0.0.0.0 cdn.ravm.tv
 0.0.0.0 cdns.brsrvr.com
 0.0.0.0 cdn.sy-d.io
+0.0.0.0 cdn-vitals.com
 0.0.0.0 cdp.howtotrade.com
 0.0.0.0 cdtm.cdiscount.com
 0.0.0.0 celigo.actonservice.com
@@ -5173,6 +5175,7 @@
 0.0.0.0 dlh1.hilton.com
 0.0.0.0 dl.hadaaya.com
 0.0.0.0 dl.health-programs.express-scripts.com
+0.0.0.0 d.lilstts.com
 0.0.0.0 dlink.blueapron.com
 0.0.0.0 dlink.hsdyn.com
 0.0.0.0 dlink-staging.blueapron.com
@@ -5666,7 +5669,6 @@
 0.0.0.0 emm.ca.puma.com
 0.0.0.0 emm.us.puma.com
 0.0.0.0 emplicity.actonservice.com
-0.0.0.0 emrld.cc
 0.0.0.0 emsexam.quantresear.ch
 0.0.0.0 em.touchtunes.com
 0.0.0.0 enablis.actonservice.com
@@ -5972,6 +5974,7 @@
 0.0.0.0 fsegfy.lepoint.fr
 0.0.0.0 fsm.lapresse.ca
 0.0.0.0 fsresidential.actonservice.com
+0.0.0.0 fsrv.io
 0.0.0.0 fsz1.franziskasager.de
 0.0.0.0 ftfnews.actonservice.com
 0.0.0.0 ft.groc.press
@@ -8586,6 +8589,7 @@
 0.0.0.0 m.aetv.com
 0.0.0.0 mafiahairdresser.actonservice.com
 0.0.0.0 maformationofficinale.actonservice.com
+0.0.0.0 ma.gamersnexus.net
 0.0.0.0 maggieeatstheangel.com
 0.0.0.0 magic.freetrade.io
 0.0.0.0 mail1.happ.social
@@ -10002,6 +10006,7 @@
 0.0.0.0 prowareness.actonservice.com
 0.0.0.0 pruebascol.arin-innovation.com
 0.0.0.0 prunas.openapp.link
+0.0.0.0 p.sa7eer.com
 0.0.0.0 psilikaki.openapp.link
 0.0.0.0 psmastersendgrid.branch.rocks
 0.0.0.0 p.spotidownloader.com
@@ -11604,6 +11609,7 @@
 0.0.0.0 stats.leasy.dk
 0.0.0.0 stats.limitlessnetworks.eu
 0.0.0.0 stats.lord.io
+0.0.0.0 stats.lrb.co.uk
 0.0.0.0 stats.lstfnd.de
 0.0.0.0 stats.luieremmer.net
 0.0.0.0 stats.macosicons.com
@@ -12221,6 +12227,7 @@
 0.0.0.0 townsquareinteractive.actonservice.com
 0.0.0.0 t.pagesix.com
 0.0.0.0 tp.convertiser.com
+0.0.0.0 tp-em.cc
 0.0.0.0 t.perigold.com
 0.0.0.0 tpmexb.vans.co.nz
 0.0.0.0 t.poyry.com
