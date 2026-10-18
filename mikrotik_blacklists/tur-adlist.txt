@@ -11,23 +11,13 @@
 0.0.0.0 ad.emlakeki.com
 0.0.0.0 ad.logro.com.tr
 0.0.0.0 ad.mygamesol.com
-0.0.0.0 ad.reklam.xyz
 0.0.0.0 ad.reklamnative.com
 0.0.0.0 ad.sigortagundem.biz
 0.0.0.0 ad.webservis.gen.tr
 0.0.0.0 ad.wslinx.com
 0.0.0.0 ad.zaman.com.tr
 0.0.0.0 ad1.ligadx.com
-0.0.0.0 ad1.tmgrup.com.tr
-0.0.0.0 ad2.tmgrup.com.tr
-0.0.0.0 ad3.tmgrup.com.tr
-0.0.0.0 ad4.tmgrup.com.tr
 0.0.0.0 ad4game.sharingcentre.net
-0.0.0.0 ad5.tmgrup.com.tr
-0.0.0.0 ad6.tmgrup.com.tr
-0.0.0.0 ad7.tmgrup.com.tr
-0.0.0.0 ad8.tmgrup.com.tr
-0.0.0.0 ad9.tmgrup.com.tr
 0.0.0.0 adasist.com
 0.0.0.0 adbreak.cdn.ubeei.com
 0.0.0.0 adbreak.ubeei.com
@@ -68,7 +58,6 @@
 0.0.0.0 adsonflags.com
 0.0.0.0 adsupp.network
 0.0.0.0 advonline.goforandroid.com
-0.0.0.0 advrstcdn.com
 0.0.0.0 advs2sonline.goforandroid.com
 0.0.0.0 adx.ligadx.com
 0.0.0.0 ae.dmxleo.com
@@ -233,7 +222,6 @@
 0.0.0.0 partnersapi.bilio.com
 0.0.0.0 paykasasitesi.com
 0.0.0.0 pebed.dm.gg
-0.0.0.0 perabetads.com
 0.0.0.0 personaclick.com
 0.0.0.0 phorm.com.tr
 0.0.0.0 prebid.a-mo.net
@@ -282,7 +270,6 @@
 0.0.0.0 smrtcdn.club
 0.0.0.0 sohbetpaneli.xyz
 0.0.0.0 spaceshipads.com
-0.0.0.0 st.tmgrup.com.tr
 0.0.0.0 stairtuy.com
 0.0.0.0 stage-api-rotorfon.go.dogt.xyz
 0.0.0.0 static-ads.akamaized.net
@@ -291,7 +278,6 @@
 0.0.0.0 stats.yenicaggazetesi.com.tr
 0.0.0.0 stopblyat.tk
 0.0.0.0 sunucu7.com
-0.0.0.0 sw1block.com
 0.0.0.0 t1.clipkit.com
 0.0.0.0 tagsadvancenative-glb8iionio2cozc.netdna-ssl.com
 0.0.0.0 tempobanners.com

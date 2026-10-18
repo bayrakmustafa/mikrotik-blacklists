@@ -419,7 +419,6 @@
 0.0.0.0 static.exoclick.com
 0.0.0.0 static.growthrx.in
 0.0.0.0 static.kueezrtb.com
-0.0.0.0 static.lcwaikiki.com
 0.0.0.0 static.trafficjunky.com
 0.0.0.0 statics.olx.com.tr
 0.0.0.0 stats.hprofits.com
@@ -459,7 +458,6 @@
 0.0.0.0 trreklamlarcom.xyz
 0.0.0.0 ts.cvastico.com
 0.0.0.0 tubestatic.usco1621-b.com
-0.0.0.0 twinrdsyte.com
 0.0.0.0 twitterhalkreklam.com
 0.0.0.0 u1102.com
 0.0.0.0 u10506.19.spylog.com
