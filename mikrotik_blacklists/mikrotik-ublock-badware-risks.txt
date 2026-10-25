@@ -19,6 +19,7 @@
 0.0.0.0 download.guomeizuo.com
 0.0.0.0 app-download.kuashouban.com
 0.0.0.0 dailyque.site
+0.0.0.0 keisigr.top
 0.0.0.0 coup-ling.net
 0.0.0.0 meguri-y.net
 0.0.0.0 otonatime.net
@@ -274,12 +275,12 @@
 0.0.0.0 subscriptionprocess.im
 0.0.0.0 vexwin.gl
 0.0.0.0 cyrexmods.cc
-0.0.0.0 vtg.lol
 0.0.0.0 qishui-zn.hl.cn
 0.0.0.0 bandizip.net
 0.0.0.0 qishuide.com.cn
 0.0.0.0 shurufa-sogou.org.cn
 0.0.0.0 googgle-chrrome.hl.cn
+0.0.0.0 app-wg.com
 0.0.0.0 google-ch-chrome.com.cn
 0.0.0.0 qishui-yinle.hl.cn
 0.0.0.0 ggooglle-chrrome.com.cn
@@ -320,3 +321,5 @@
 0.0.0.0 fluentcleaner.org
 0.0.0.0 featherswallet.org
 0.0.0.0 aw-huorong.com.cn
+0.0.0.0 onpointfcu.com
+0.0.0.0 onpointcu.portalaccess.app

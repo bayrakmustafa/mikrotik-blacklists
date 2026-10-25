@@ -111,6 +111,7 @@
 0.0.0.0 cdn.marjmedya.com
 0.0.0.0 cdn.netmera-web.com
 0.0.0.0 cdn.opencandy.com
+0.0.0.0 cdn.ppdownload.com
 0.0.0.0 cdn.riceateastcach.us
 0.0.0.0 cdn.shyapotato.us
 0.0.0.0 cdn.solimba.com
