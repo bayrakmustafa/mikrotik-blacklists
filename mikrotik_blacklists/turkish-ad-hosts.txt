@@ -54,7 +54,6 @@
 0.0.0.0 amazonclix.com
 0.0.0.0 amer.hhkld.com
 0.0.0.0 analytics.flipperdevices.com
-0.0.0.0 analytics.halkbank.com.tr
 0.0.0.0 analytics-dev.bettermeter.com
 0.0.0.0 anguishworst.com
 0.0.0.0 api.aws.parking.godaddy.com
@@ -407,6 +406,7 @@
 0.0.0.0 snssdk1340.onelink.me
 0.0.0.0 sommelier.futurehybrid.tech
 0.0.0.0 sonar.semantiqo.com
+0.0.0.0 src.ebay-us.com
 0.0.0.0 srvccc.fish91826twenty.ga
 0.0.0.0 ss-pbs.quantumdex.io
 0.0.0.0 ssdk-sg.pangle.io
@@ -432,7 +432,6 @@
 0.0.0.0 sync.dmp.otm-r.com
 0.0.0.0 sync.richaudience.com
 0.0.0.0 syndication.magsrv.com
-0.0.0.0 system-notify.app
 0.0.0.0 t8.prnx.net
 0.0.0.0 tacticschangebabysitting.com
 0.0.0.0 tag.clearbitscripts.com
@@ -458,6 +457,7 @@
 0.0.0.0 ts.cvastico.com
 0.0.0.0 tubestatic.usco1621-b.com
 0.0.0.0 twitterhalkreklam.com
+0.0.0.0 tx.n11.com
 0.0.0.0 u1102.com
 0.0.0.0 u10506.19.spylog.com
 0.0.0.0 u3401.26.spylog.com
@@ -490,6 +490,7 @@
 0.0.0.0 watchnewpics.space
 0.0.0.0 web-sdk.smartlook.com
 0.0.0.0 widgets.engageya.com
+0.0.0.0 widgets.jobbio.com
 0.0.0.0 widgets.pinterest.com
 0.0.0.0 wikihow-com.videoplayerhub.com
 0.0.0.0 write.trackonomics.net
