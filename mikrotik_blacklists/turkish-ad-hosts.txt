@@ -81,7 +81,6 @@
 0.0.0.0 b-cdn.hurriyet.com.tr
 0.0.0.0 b-cdn.milliyet.com.tr
 0.0.0.0 b-cdn.posta.com.tr
-0.0.0.0 b-cdn.teve2.com.tr
 0.0.0.0 b-cdn-ign.do.brainsland.com
 0.0.0.0 backstory.ebay.co.uk
 0.0.0.0 backstory.ebay.com
@@ -181,9 +180,11 @@
 0.0.0.0 dm.hybrid.ai
 0.0.0.0 dmg.digitaltarget.ru
 0.0.0.0 dp2.33across.com
+0.0.0.0 ductquest.com
 0.0.0.0 eb42afa9716f.cdn4.forter.com
 0.0.0.0 ebncbasvuru.com
 0.0.0.0 edge-sentry-box.otelz.com
+0.0.0.0 eezegrip.net
 0.0.0.0 egitimhanekurumum.net
 0.0.0.0 elo-io.videoplayerhub.com
 0.0.0.0 elsa.memoinsights.com
@@ -197,6 +198,7 @@
 0.0.0.0 exchange.buzzoola.com
 0.0.0.0 exchange.postrelease.com
 0.0.0.0 exploredefinitely.com
+0.0.0.0 eyauknalyticafra.info
 0.0.0.0 fe.cabioredtop.com
 0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 fiverr.ck-cdn.com
@@ -337,7 +339,6 @@
 0.0.0.0 px-conf.perimeterx.net
 0.0.0.0 r.admob.com
 0.0.0.0 redis-end.tfla.xyz
-0.0.0.0 rek.izlesene.com
 0.0.0.0 reklam-bimcell.tk
 0.0.0.0 reklam1.hizliindirimlial.online
 0.0.0.0 reklam2.hizliindirimlial.online
@@ -489,6 +490,7 @@
 0.0.0.0 vue.comm100.com
 0.0.0.0 watchnewpics.space
 0.0.0.0 web-sdk.smartlook.com
+0.0.0.0 whulsaux.com
 0.0.0.0 widgets.engageya.com
 0.0.0.0 widgets.jobbio.com
 0.0.0.0 widgets.pinterest.com

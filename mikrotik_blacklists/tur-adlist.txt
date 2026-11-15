@@ -2,7 +2,6 @@
 0.0.0.0 0638.info
 0.0.0.0 1686607364.rsc.cdn77.org
 0.0.0.0 aadserving.com
-0.0.0.0 ac3.msn.com
 0.0.0.0 acxdyn.com
 0.0.0.0 ad-cdn.bilgin.pro
 0.0.0.0 ad.afftrck.com
@@ -18,7 +17,6 @@
 0.0.0.0 ad.wslinx.com
 0.0.0.0 ad.zaman.com.tr
 0.0.0.0 ad1.ligadx.com
-0.0.0.0 ad4game.sharingcentre.net
 0.0.0.0 adasist.com
 0.0.0.0 adbreak.cdn.ubeei.com
 0.0.0.0 adbreak.ubeei.com
@@ -116,11 +114,9 @@
 0.0.0.0 cdn.riceateastcach.us
 0.0.0.0 cdn.shyapotato.us
 0.0.0.0 cdn.solimba.com
-0.0.0.0 cdn.tuto4pc.com
 0.0.0.0 cdn.visualbee.net
 0.0.0.0 ceviz.pw
 0.0.0.0 chaicdn.tk
-0.0.0.0 cinerreklam.com.tr
 0.0.0.0 citireklam.com
 0.0.0.0 cmsbetconstruct.com
 0.0.0.0 cmt.setrowid.com
@@ -128,7 +124,6 @@
 0.0.0.0 code.createjs.com
 0.0.0.0 code.jivosite.com
 0.0.0.0 collect-test.arabam.com
-0.0.0.0 collector.puhutv.com
 0.0.0.0 cookiebar.eticaret.com
 0.0.0.0 cookiepro.com
 0.0.0.0 cpatrendreklam.com
@@ -153,24 +148,22 @@
 0.0.0.0 happilyswitching.net
 0.0.0.0 hellosmpl.com
 0.0.0.0 hepsiburada01.webtrekk.net
-0.0.0.0 hit.demirorenteknoloji.com
 0.0.0.0 hit.dogannet.tv
 0.0.0.0 hit.duhnet.tv
 0.0.0.0 hit.gemius.pl
 0.0.0.0 hits.acunn.com
 0.0.0.0 hizlipop.com
-0.0.0.0 hizlireklam.com
 0.0.0.0 howmanyview.com
 0.0.0.0 hyprshr.com
 0.0.0.0 img.adnet.com.tr
 0.0.0.0 indirads.work
 0.0.0.0 indirdirek.org
 0.0.0.0 ingest.sentry.io
+0.0.0.0 inrool.com
 0.0.0.0 installadpro.com
 0.0.0.0 installads2.com
 0.0.0.0 iosexy.com
 0.0.0.0 ipcheck.tmgrup.com.tr
-0.0.0.0 istat.izlesene.com
 0.0.0.0 istat.nktcdn.com
 0.0.0.0 istatistik.gazetevatan.com
 0.0.0.0 istatistik.milliyet.com.tr
@@ -210,6 +203,7 @@
 0.0.0.0 nhls.nscdn9.com
 0.0.0.0 noblemagnition.com
 0.0.0.0 onatbilisim.com
+0.0.0.0 onclasrv.com
 0.0.0.0 ontek-serv.com
 0.0.0.0 orjinalmarket.net
 0.0.0.0 orjinalshop.net
@@ -272,7 +266,6 @@
 0.0.0.0 smrtbnr.top
 0.0.0.0 smrtbnr.xyz
 0.0.0.0 smrtcdn.club
-0.0.0.0 sohbetpaneli.xyz
 0.0.0.0 spaceshipads.com
 0.0.0.0 stairtuy.com
 0.0.0.0 stage-api-rotorfon.go.dogt.xyz
