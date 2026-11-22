@@ -1,10 +1,11 @@
-0.0.0.0 garagebandforpc.org
 0.0.0.0 s3blog.org
+0.0.0.0 tncrun.net
 0.0.0.0 clicks.affstrack.com
 0.0.0.0 download-app.net
 0.0.0.0 club-gagnant.online
 0.0.0.0 cdnservice.ink
 0.0.0.0 linkefdin.com
+0.0.0.0 stearndb.info
 0.0.0.0 jsdajp.click
 0.0.0.0 hcstore.vip
 0.0.0.0 divibase.xyz
@@ -34,6 +35,7 @@
 0.0.0.0 himatalk77.net
 0.0.0.0 onegaga.jp
 0.0.0.0 otonanona.jp
+0.0.0.0 nakayama.chikarakosopower.com
 0.0.0.0 vqydliiyda.net
 0.0.0.0 meltiest.jp
 0.0.0.0 recipe000.tokyo
@@ -42,6 +44,12 @@
 0.0.0.0 opportunityforeigntoward.com
 0.0.0.0 dressedunlessround.com
 0.0.0.0 roundopportunityunless.com
+0.0.0.0 dasikmonnb9.sbs
+0.0.0.0 jjiu3sqw.sbs
+0.0.0.0 kvgp201er.sbs
+0.0.0.0 osjdd4d.sbs
+0.0.0.0 w0sqoketsl.sbs
+0.0.0.0 xcvk.connectiamay-naat.com
 0.0.0.0 sma-lita.site
 0.0.0.0 viruswarning*.web.core.windows.net
 0.0.0.0 auth-code-verif.beer
@@ -88,6 +96,7 @@
 0.0.0.0 messagerie*.yolasite.com
 0.0.0.0 payer-ma-acture-*.mystrikingly.com
 0.0.0.0 orange-connexion*.godaddysites.com
+0.0.0.0 amazon8898.com
 0.0.0.0 attonlineservice*.wixstudio.com
 0.0.0.0 currentlyatt*.weebly.com
 0.0.0.0 currentlymail*.weebly.com
@@ -112,6 +121,7 @@
 0.0.0.0 bdvenlinea*.pages.dev
 0.0.0.0 santanderpod.*.co.uk
 0.0.0.0 dhl.*.potabox.com
+0.0.0.0 dhl-express-ppd.infanion.com
 0.0.0.0 mtm.rnz.mybluehost.me
 0.0.0.0 instagram0639.blogspot.
 0.0.0.0 business-facebook-*.pages.dev
@@ -168,6 +178,7 @@
 0.0.0.0 westernunion*.wixsite.com
 0.0.0.0 marketplace-item-*.000.pe
 0.0.0.0 forimg.net
+0.0.0.0 game02-com.ru
 0.0.0.0 ajmaboxanherulv*.b-cdn.net
 0.0.0.0 anti-automation-v*.b-cdn.net
 0.0.0.0 bot-check-v*.b-cdn.net
@@ -208,8 +219,11 @@
 0.0.0.0 xblocklist*.pages.dev
 0.0.0.0 xsuki*.pages.dev
 0.0.0.0 xblockchecker*.pages.dev
+0.0.0.0 gomabalerainc.top
 0.0.0.0 spotify*.ct.ws
 0.0.0.0 ligabenelux.com
+0.0.0.0 git44share.quest
+0.0.0.0 myshielstore.xyz
 0.0.0.0 popcornpump.xyz
 0.0.0.0 simplesvvap.lol
 0.0.0.0 easybit.site
@@ -263,6 +277,7 @@
 0.0.0.0 wps.ac.cn
 0.0.0.0 cn-wps-zh.com.cn
 0.0.0.0 office-wps-hl.hl.cn
+0.0.0.0 wps-cnzh.com
 0.0.0.0 zhcn-googele.hl.cn
 0.0.0.0 qishuui.com.cn
 0.0.0.0 apps-google-hl.hl.cn
@@ -274,11 +289,11 @@
 0.0.0.0 qishui-*.com.cn
 0.0.0.0 ww-qishui.com.cn
 0.0.0.0 dy-qishuimusic.hl.cn
-0.0.0.0 qishui-gf.com.cn
 0.0.0.0 wpp-wps.cn
 0.0.0.0 gf-qishuiapp.com.cn
 0.0.0.0 sagou.com.cn
 0.0.0.0 studio-obs.net
+0.0.0.0 erahitopupikloss.com
 0.0.0.0 shrtweb.site
 0.0.0.0 legder.*.us.com
 0.0.0.0 shuru-baidu.com.cn
